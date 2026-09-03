@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T12:35:51.762Z",
+  "generatedAt": "2026-09-03T16:28:55.931Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -7,7 +7,7 @@
   "sourceKey": "manitoba-child-care-search",
   "source": "Manitoba Child Care Search",
   "city": "Winnipeg",
-  "facilityCount": 715,
+  "facilityCount": 716,
   "summary": {
     "infant": 33,
     "nursery": 25,
@@ -4807,7 +4807,7 @@
       "phone": "(204) 253-2559",
       "email": "generalvaniernursery@gmail.com",
       "website": "https://generalvaniernurse.wixsite.com/mysite",
-      "sourceLastModified": "2026-05-25T12:53:06.2925311",
+      "sourceLastModified": "2026-09-03T15:13:43.7224179",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -15936,6 +15936,31 @@
       "vacancies": {
         "infant": 0,
         "nursery": 3,
+        "preschool": 0,
+        "schoolAge": 0
+      }
+    },
+    {
+      "sourceId": "103266",
+      "displayName": "Sunrise Sunset- Tudor",
+      "facilityType": "CENTRE",
+      "businessType": "Non-Profit",
+      "fundingType": "Non Funded",
+      "address": "7 Tudor Cres",
+      "city": "Winnipeg",
+      "postalCode": "R2K 2A5",
+      "neighbourhood": "MUNROE EAST",
+      "region": "WINNIPEG",
+      "latitude": 49.91028,
+      "longitude": -97.082202,
+      "hideLocation": false,
+      "phone": "(204) 415-2866",
+      "email": "sunrisesunsetchildcare@shaw.ca",
+      "website": null,
+      "sourceLastModified": "2026-09-03T16:19:59.5798959",
+      "vacancies": {
+        "infant": 0,
+        "nursery": 0,
         "preschool": 0,
         "schoolAge": 0
       }
