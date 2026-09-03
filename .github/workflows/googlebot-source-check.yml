@@ -1,0 +1,41 @@
+name: Googlebot source check
+
+on:
+  push:
+    paths:
+      - '.github/workflows/googlebot-source-check.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch raw production HTML as Googlebot
+        shell: bash
+        run: |
+          set -euo pipefail
+          base='https://www.daycaresignal.com'
+          ua='Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'
+          work="$RUNNER_TEMP/source-check"
+          mkdir -p "$work"
+
+          curl --fail --silent --show-error --location -A "$ua" -D "$work/root.headers" "$base/" -o "$work/root.html"
+          echo '--- STATUS/HEADERS ---'
+          grep -Ei '^(HTTP/|content-type:|cache-control:|age:|x-vercel-cache:)' "$work/root.headers" || true
+          echo '--- HEAD MARKERS ---'
+          grep -o -m1 '<meta name="theme-color"[^>]*>' "$work/root.html" || true
+          grep -o -m1 '<meta property="og:image"[^>]*>' "$work/root.html" || true
+          grep -o -m1 '<meta name="description"[^>]*>' "$work/root.html" || true
+          grep -o -m1 '<link rel="canonical"[^>]*>' "$work/root.html" || true
+          echo '--- BODY MARKERS ---'
+          grep -o -m1 'Find childcare openings before they’re gone.' "$work/root.html"
+          grep -o -m1 'Recent vacancy signals' "$work/root.html"
+          grep -o -m1 'Infant openings in Winnipeg' "$work/root.html"
+          echo 'ROOT_BYTES='$(wc -c < "$work/root.html")
+
+          curl --fail --silent --show-error --location -A "$ua" "$base/mb/winnipeg/infant" -o "$work/winnipeg.html"
+          grep -o -m1 'Infant daycare openings in Winnipeg' "$work/winnipeg.html"
+          grep -o -m1 'application/ld+json' "$work/winnipeg.html"
+          echo 'WINNIPEG_BYTES='$(wc -c < "$work/winnipeg.html")
