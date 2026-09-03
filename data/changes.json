@@ -1,0 +1,104 @@
+{
+  "generatedAt": "2026-09-02T22:40:49.407Z",
+  "changes": [
+    {
+      "detectedAt": "2026-09-02T19:45:21.525Z",
+      "facilityId": "102468",
+      "facilityName": "Licensed home child care",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-02T16:20:05.084Z",
+      "facilityId": "103038",
+      "facilityName": "Tanveer Dhillon",
+      "ageGroup": "preschool",
+      "oldValue": 4,
+      "newValue": 3,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-09-01T22:21:23.992Z",
+      "facilityId": "103003",
+      "facilityName": "Maryam Abaei",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-01T22:21:23.992Z",
+      "facilityId": "103003",
+      "facilityName": "Maryam Abaei",
+      "ageGroup": "schoolAge",
+      "oldValue": 2,
+      "newValue": 1,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-09-01T18:27:48.769Z",
+      "facilityId": "102843",
+      "facilityName": "Bairdmore Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-01T18:27:48.769Z",
+      "facilityId": "3022",
+      "facilityName": "Riverview-Ashland Child Care Centre Inc.",
+      "ageGroup": "nursery",
+      "oldValue": 3,
+      "newValue": 2,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-09-01T16:42:07.480Z",
+      "facilityId": "1189",
+      "facilityName": "Learning and Growing Day Care Inc.",
+      "ageGroup": "preschool",
+      "oldValue": 3,
+      "newValue": 1,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-09-01T14:28:02.417Z",
+      "facilityId": "102936",
+      "facilityName": "Mauricia Delmo Aco",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-01T14:28:02.417Z",
+      "facilityId": "102989",
+      "facilityName": "Tulip Home Daycare",
+      "ageGroup": "schoolAge",
+      "oldValue": 2,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-01T14:28:02.417Z",
+      "facilityId": "102376",
+      "facilityName": "Vipon Walia",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-01T02:37:38.062Z",
+      "facilityId": "103070",
+      "facilityName": "Halili Family Home Daycare",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    }
+  ]
+}
