@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-02T22:40:49.407Z",
+  "generatedAt": "2026-09-03T12:35:51.762Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-03T12:35:51.762Z",
+      "facilityId": "102865",
+      "facilityName": "Katungi Vikokolaki",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-09-02T19:45:21.525Z",
       "facilityId": "102468",
