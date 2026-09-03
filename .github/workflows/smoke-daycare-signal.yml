@@ -1,0 +1,51 @@
+name: Smoke Daycare Signal production
+
+on:
+  push:
+    paths:
+      - '.github/workflows/smoke-daycare-signal.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check production SEO and assets
+        shell: bash
+        run: |
+          set -euo pipefail
+          base='https://www.daycaresignal.com'
+          work="$RUNNER_TEMP/daycare-signal-smoke"
+          mkdir -p "$work"
+
+          curl --fail --silent --show-error --location "$base/" -o "$work/root.html"
+          grep -Fq 'Find childcare openings before they’re gone.' "$work/root.html"
+          grep -Fq 'Recent vacancy signals' "$work/root.html"
+          grep -Fq 'daycare-signal-og.png' "$work/root.html"
+
+          curl --fail --silent --show-error --location "$base/mb/winnipeg/infant" -o "$work/winnipeg.html"
+          grep -Fq 'Infant daycare openings in Winnipeg' "$work/winnipeg.html"
+          grep -Fq 'application/ld+json' "$work/winnipeg.html"
+          grep -Fq 'https://www.daycaresignal.com/mb/winnipeg/infant' "$work/winnipeg.html"
+          grep -Fq 'reported' "$work/winnipeg.html"
+
+          curl --fail --silent --show-error --location "$base/sitemap.xml" -o "$work/sitemap.xml"
+          grep -Fq '<loc>https://www.daycaresignal.com/mb/winnipeg/infant</loc>' "$work/sitemap.xml"
+          grep -Fq '/bc/vancouver/infant' "$work/sitemap.xml"
+          grep -Fq '/on/toronto/infant' "$work/sitemap.xml"
+
+          curl --fail --silent --show-error --location "$base/robots.txt" -o "$work/robots.txt"
+          grep -Fq 'Sitemap: https://www.daycaresignal.com/sitemap.xml' "$work/robots.txt"
+
+          curl --fail --silent --show-error --location --dump-header "$work/og.headers" "$base/brand/daycare-signal-og.png" -o "$work/og.png"
+          grep -Eiq '^content-type: image/png' "$work/og.headers"
+          test "$(xxd -p -l 8 "$work/og.png")" = '89504e470d0a1a0a'
+
+          echo 'ROOT_HTML_OK'
+          echo 'WINNIPEG_PRERENDER_OK'
+          echo 'SITEMAP_OK'
+          echo 'ROBOTS_OK'
+          echo 'OG_PNG_OK'
