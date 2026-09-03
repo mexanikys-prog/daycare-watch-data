@@ -1,4 +1,77 @@
 {
-  "generatedAt": "2026-09-03T01:33:11.640Z",
-  "changes": []
+  "generatedAt": "2026-09-03T17:01:48.695Z",
+  "changes": [
+    {
+      "detectedAt": "2026-09-03T17:01:48.695Z",
+      "facilityId": "toronto:307066",
+      "facilityName": "Bendale Licensed Before And After School Program",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-03T17:01:48.695Z",
+      "facilityId": "toronto:3484510",
+      "facilityName": "Guildwood Child Care",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-03T17:01:48.695Z",
+      "facilityId": "toronto:337054",
+      "facilityName": "N.Y.A.D. Cedar Drive",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-03T17:01:48.695Z",
+      "facilityId": "toronto:4166113",
+      "facilityName": "N.Y.A.D. Guildwood",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-03T17:01:48.695Z",
+      "facilityId": "toronto:4166113",
+      "facilityName": "N.Y.A.D. Guildwood",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-03T17:01:48.695Z",
+      "facilityId": "toronto:4691150",
+      "facilityName": "Scarborough Village Day Nursery 1",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-03T17:01:48.695Z",
+      "facilityId": "toronto:354417",
+      "facilityName": "St. Rose Of Lima Ymca Child Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-03T17:01:48.695Z",
+      "facilityId": "toronto:343513",
+      "facilityName": "Sunshine Child Care Centre (Mackie Sunshine C C. Inc) - 60 Heathfield",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    }
+  ]
 }
