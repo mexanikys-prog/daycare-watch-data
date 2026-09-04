@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T17:46:31.410Z",
+  "generatedAt": "2026-09-04T21:00:43.387Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -8951,13 +8951,13 @@
       "postalCode": "R4A 0G1",
       "neighbourhood": "WEST ST. PAUL",
       "region": "WINNIPEG",
-      "latitude": 49.87112,
-      "longitude": -97.28498,
+      "latitude": 49.984841,
+      "longitude": -97.09538,
       "hideLocation": false,
       "phone": null,
       "email": "littleangelsmb@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-07-24T15:18:45.0155695",
+      "sourceLastModified": "2026-09-04T17:56:45.3643799",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
