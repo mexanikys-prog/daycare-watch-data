@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-03T17:01:48.695Z",
+  "generatedAt": "2026-09-04T16:50:12.531Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-04T16:50:12.531Z",
+      "facilityId": "toronto:8066596",
+      "facilityName": "Danforth Early Learning & Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-04T16:50:12.531Z",
+      "facilityId": "toronto:8066596",
+      "facilityName": "Danforth Early Learning & Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-04T16:50:12.531Z",
+      "facilityId": "toronto:8885841",
+      "facilityName": "Flemingdon Early Learning & Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-04T16:50:12.531Z",
+      "facilityId": "toronto:2917704",
+      "facilityName": "Gilder Early Learning & Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-04T16:50:12.531Z",
+      "facilityId": "toronto:7979603",
+      "facilityName": "Jesse Ketchum Early Learning & Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-04T16:50:12.531Z",
+      "facilityId": "toronto:10985652",
+      "facilityName": "Rowntree Early Learning & Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-09-03T17:01:48.695Z",
       "facilityId": "toronto:307066",
