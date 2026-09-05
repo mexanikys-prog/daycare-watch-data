@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-04T16:50:12.531Z",
+  "generatedAt": "2026-09-05T16:00:22.449Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-05T16:00:22.449Z",
+      "facilityId": "toronto:6709986",
+      "facilityName": "Macaulay - St. Paul VI",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-09-04T16:50:12.531Z",
       "facilityId": "toronto:8066596",
