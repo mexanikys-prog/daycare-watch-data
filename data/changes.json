@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T13:59:49.323Z",
+  "generatedAt": "2026-09-06T19:54:38.675Z",
   "changes": [
     {
       "detectedAt": "2026-09-04T00:27:35.576Z",
@@ -18,15 +18,6 @@
       "oldValue": 0,
       "newValue": 1,
       "changeType": "VACANCY_OPENED"
-    },
-    {
-      "detectedAt": "2026-09-02T19:45:21.525Z",
-      "facilityId": "102468",
-      "facilityName": "Licensed home child care",
-      "ageGroup": "schoolAge",
-      "oldValue": 1,
-      "newValue": 0,
-      "changeType": "VACANCY_CLOSED"
     },
     {
       "detectedAt": "2026-09-02T16:20:05.084Z",
@@ -104,15 +95,6 @@
       "detectedAt": "2026-09-01T14:28:02.417Z",
       "facilityId": "102376",
       "facilityName": "Vipon Walia",
-      "ageGroup": "infant",
-      "oldValue": 1,
-      "newValue": 0,
-      "changeType": "VACANCY_CLOSED"
-    },
-    {
-      "detectedAt": "2026-09-01T02:37:38.062Z",
-      "facilityId": "103070",
-      "facilityName": "Halili Family Home Daycare",
       "ageGroup": "infant",
       "oldValue": 1,
       "newValue": 0,
