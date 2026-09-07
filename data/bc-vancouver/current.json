@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T19:55:12.447Z",
+  "generatedAt": "2026-09-07T21:39:35.008Z",
   "countryCode": "ca",
   "provinceCode": "bc",
   "cityCode": "vancouver",
@@ -5084,7 +5084,7 @@
       "hideLocation": false,
       "phone": "604-365-6550",
       "email": null,
-      "website": "helpinghandschildcare.ca",
+      "website": "https://helpinghandschildcare.ca",
       "sourceLastModified": "2026/03/23",
       "vacancies": {
         "infant": null,
@@ -5797,7 +5797,7 @@
       "hideLocation": false,
       "phone": "778-319-6355",
       "email": null,
-      "website": "jollysprouts.fun",
+      "website": "https://jollysprouts.fun",
       "sourceLastModified": "2026/03/17",
       "vacancies": {
         "infant": null,
@@ -7378,7 +7378,7 @@
       "hideLocation": false,
       "phone": "778-848-6670",
       "email": null,
-      "website": "www.najatsinclairbenrbia.com",
+      "website": "https://www.najatsinclairbenrbia.com",
       "sourceLastModified": "2026/03/16",
       "vacancies": {
         "infant": null,
@@ -10478,7 +10478,7 @@
       "hideLocation": false,
       "phone": "778-997-2554",
       "email": null,
-      "website": "www.montessoribambini.com",
+      "website": "https://www.montessoribambini.com",
       "sourceLastModified": "Unknown",
       "vacancies": {
         "infant": null,
@@ -10974,7 +10974,7 @@
       "hideLocation": false,
       "phone": "604-365-9239",
       "email": null,
-      "website": "www.nanadaycare.ca",
+      "website": "https://www.nanadaycare.ca",
       "sourceLastModified": "2026/03/14",
       "vacancies": {
         "infant": null,

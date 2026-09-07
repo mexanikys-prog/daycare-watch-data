@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T19:55:12.447Z",
+  "generatedAt": "2026-09-07T21:39:35.008Z",
   "countryCode": "ca",
   "provinceCode": "bc",
   "cityCode": "victoria",
@@ -155,7 +155,7 @@
       "hideLocation": false,
       "phone": "250-857-1217",
       "email": null,
-      "website": "www.adventureislandchildcare.com",
+      "website": "https://www.adventureislandchildcare.com",
       "sourceLastModified": "Unknown",
       "vacancies": {
         "infant": null,
@@ -5146,7 +5146,7 @@
       "hideLocation": false,
       "phone": "250-857-5895",
       "email": null,
-      "website": "www.langfordmontessori.com",
+      "website": "https://www.langfordmontessori.com",
       "sourceLastModified": "2026/03/17",
       "vacancies": {
         "infant": null,
@@ -7812,7 +7812,7 @@
       "hideLocation": false,
       "phone": "250-727-5597",
       "email": null,
-      "website": "www.seedlingsdaycare.com",
+      "website": "https://www.seedlingsdaycare.com",
       "sourceLastModified": "2026/03/22",
       "vacancies": {
         "infant": null,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T19:55:12.447Z",
+  "generatedAt": "2026-09-07T21:39:35.008Z",
   "countryCode": "ca",
   "provinceCode": "bc",
   "cityCode": "surrey",
@@ -1147,7 +1147,7 @@
       "hideLocation": false,
       "phone": "604-518-6026",
       "email": null,
-      "website": "allsmile TL childcare centre",
+      "website": null,
       "sourceLastModified": "2026/03/15",
       "vacancies": {
         "infant": null,
@@ -2604,7 +2604,7 @@
       "hideLocation": false,
       "phone": "604-503-9030",
       "email": null,
-      "website": "Www.brighthorizonssurrey.com",
+      "website": "https://Www.brighthorizonssurrey.com",
       "sourceLastModified": "2026/02/15",
       "vacancies": {
         "infant": null,
@@ -2945,7 +2945,7 @@
       "hideLocation": false,
       "phone": "604-309-3481",
       "email": null,
-      "website": "www.bungalowbuddies.com",
+      "website": "https://www.bungalowbuddies.com",
       "sourceLastModified": "2026/03/19",
       "vacancies": {
         "infant": null,
@@ -4433,7 +4433,7 @@
       "hideLocation": false,
       "phone": "604-783-9974",
       "email": null,
-      "website": "www.cloversproutslearning.com",
+      "website": "https://www.cloversproutslearning.com",
       "sourceLastModified": "2026/03/18",
       "vacancies": {
         "infant": 0,
@@ -6138,7 +6138,7 @@
       "hideLocation": false,
       "phone": "647-336-5153",
       "email": null,
-      "website": "www.excelchildcarecenter.ca",
+      "website": "https://www.excelchildcarecenter.ca",
       "sourceLastModified": "2026/03/20",
       "vacancies": {
         "infant": null,
@@ -9052,7 +9052,7 @@
       "hideLocation": false,
       "phone": "778-889-5857",
       "email": null,
-      "website": "www.jollystepelc.com",
+      "website": "https://www.jollystepelc.com",
       "sourceLastModified": "2026/03/15",
       "vacancies": {
         "infant": null,
@@ -10199,7 +10199,7 @@
       "hideLocation": false,
       "phone": "778-866-4132",
       "email": null,
-      "website": "www.kidzeeland.com",
+      "website": "https://www.kidzeeland.com",
       "sourceLastModified": "2026/03/14",
       "vacancies": {
         "infant": null,
@@ -10416,7 +10416,7 @@
       "hideLocation": false,
       "phone": "778-558-7270",
       "email": null,
-      "website": "www.kindersproutsacademy.ca",
+      "website": "https://www.kindersproutsacademy.ca",
       "sourceLastModified": "2026/03/20",
       "vacancies": {
         "infant": null,
@@ -11129,7 +11129,7 @@
       "hideLocation": false,
       "phone": "778-903-3434",
       "email": null,
-      "website": "www.lilypadschildcaresurrey",
+      "website": "https://www.lilypadschildcaresurrey",
       "sourceLastModified": "2026/03/23",
       "vacancies": {
         "infant": null,
@@ -13361,7 +13361,7 @@
       "hideLocation": false,
       "phone": "778-926-1708",
       "email": null,
-      "website": "www.wecarekids.ca",
+      "website": "https://www.wecarekids.ca",
       "sourceLastModified": "2026/03/01",
       "vacancies": {
         "infant": null,
@@ -14756,7 +14756,7 @@
       "hideLocation": false,
       "phone": "778-985-6773",
       "email": null,
-      "website": "purplecradlechildcare.com",
+      "website": "https://purplecradlechildcare.com",
       "sourceLastModified": "2026/03/23",
       "vacancies": {
         "infant": null,
@@ -15965,7 +15965,7 @@
       "hideLocation": false,
       "phone": "204-250-7753",
       "email": null,
-      "website": "@sjosephlc2025",
+      "website": "https://@sjosephlc2025",
       "sourceLastModified": "Unknown",
       "vacancies": {
         "infant": null,
@@ -18011,7 +18011,7 @@
       "hideLocation": false,
       "phone": "778-870-4849",
       "email": null,
-      "website": "www.thelittlebridge.info",
+      "website": "https://www.thelittlebridge.info",
       "sourceLastModified": "Unknown",
       "vacancies": {
         "infant": null,
