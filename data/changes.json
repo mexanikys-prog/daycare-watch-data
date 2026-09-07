@@ -1,6 +1,132 @@
 {
-  "generatedAt": "2026-09-06T22:54:07.665Z",
+  "generatedAt": "2026-09-07T21:39:01.591Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-07T21:39:01.591Z",
+      "facilityId": "101941",
+      "facilityName": "Alice Ando Goli",
+      "ageGroup": "preschool",
+      "oldValue": 2,
+      "newValue": 1,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-09-07T21:39:01.591Z",
+      "facilityId": "103024",
+      "facilityName": "B&H Giant Family Child Care Home",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-07T21:39:01.591Z",
+      "facilityId": "103142",
+      "facilityName": "CB Family Home Day Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 2,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-09-07T21:39:01.591Z",
+      "facilityId": "100845",
+      "facilityName": "Enoe Benjamin",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-07T21:39:01.591Z",
+      "facilityId": "100845",
+      "facilityName": "Enoe Benjamin",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-07T21:39:01.591Z",
+      "facilityId": "103192",
+      "facilityName": "Lani De Lara",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-07T21:39:01.591Z",
+      "facilityId": "102775",
+      "facilityName": "Les Bourgeons",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-07T21:39:01.591Z",
+      "facilityId": "9193",
+      "facilityName": "Lola's Family Home Daycare",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-07T21:39:01.591Z",
+      "facilityId": "9193",
+      "facilityName": "Lola's Family Home Daycare",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 2,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-07T21:39:01.591Z",
+      "facilityId": "102113",
+      "facilityName": "M@M Family Child Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 3,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-07T21:39:01.591Z",
+      "facilityId": "102041",
+      "facilityName": "Marichu Roces",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-07T21:39:01.591Z",
+      "facilityId": "102858",
+      "facilityName": "Oluwakemi Adeyele",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-07T21:39:01.591Z",
+      "facilityId": "102858",
+      "facilityName": "Oluwakemi Adeyele",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-07T21:39:01.591Z",
+      "facilityId": "103038",
+      "facilityName": "Tanveer Dhillon",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-09-04T00:27:35.576Z",
       "facilityId": "102556",
