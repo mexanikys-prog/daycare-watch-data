@@ -1,6 +1,114 @@
 {
-  "generatedAt": "2026-09-08T00:25:32.024Z",
+  "generatedAt": "2026-09-08T13:58:09.915Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-08T13:58:09.915Z",
+      "facilityId": "102186",
+      "facilityName": "Amazing Kids Family Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 2,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-08T13:58:09.915Z",
+      "facilityId": "102681",
+      "facilityName": "Arlene Quilapio",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-08T13:58:09.915Z",
+      "facilityId": "3084",
+      "facilityName": "Central Park Child Care Inc.",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 2,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-08T13:58:09.915Z",
+      "facilityId": "102784",
+      "facilityName": "Faila Yuma",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 3,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-08T13:58:09.915Z",
+      "facilityId": "102784",
+      "facilityName": "Faila Yuma",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-08T13:58:09.915Z",
+      "facilityId": "102784",
+      "facilityName": "Faila Yuma",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 2,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-08T13:58:09.915Z",
+      "facilityId": "103192",
+      "facilityName": "Lani De Lara",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-08T13:58:09.915Z",
+      "facilityId": "103192",
+      "facilityName": "Lani De Lara",
+      "ageGroup": "schoolAge",
+      "oldValue": 2,
+      "newValue": 3,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-09-08T13:58:09.915Z",
+      "facilityId": "103040",
+      "facilityName": "Melinda  Pascual",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-08T13:58:09.915Z",
+      "facilityId": "103040",
+      "facilityName": "Melinda  Pascual",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-08T13:58:09.915Z",
+      "facilityId": "3022",
+      "facilityName": "Riverview-Ashland Child Care Centre Inc.",
+      "ageGroup": "nursery",
+      "oldValue": 2,
+      "newValue": 1,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-09-08T13:58:09.915Z",
+      "facilityId": "2335",
+      "facilityName": "Winnipeg Military Family Resource Centre – Nursery School",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 28,
+      "changeType": "VACANCY_INCREASED"
+    },
     {
       "detectedAt": "2026-09-07T21:39:01.591Z",
       "facilityId": "101941",
