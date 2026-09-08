@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-08T13:58:09.915Z",
+  "generatedAt": "2026-09-08T16:38:43.827Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-08T16:38:43.827Z",
+      "facilityId": "103128",
+      "facilityName": "Olufisayo Afolabi",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-08T16:38:43.827Z",
+      "facilityId": "2188",
+      "facilityName": "West Kildonan Tiny Tots Inc.",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 12,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-09-08T13:58:09.915Z",
       "facilityId": "102186",

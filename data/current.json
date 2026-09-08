@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T13:58:09.915Z",
+  "generatedAt": "2026-09-08T16:38:43.827Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -7,12 +7,12 @@
   "sourceKey": "manitoba-child-care-search",
   "source": "Manitoba Child Care Search",
   "city": "Winnipeg",
-  "facilityCount": 646,
+  "facilityCount": 650,
   "summary": {
     "infant": 24,
-    "nursery": 26,
-    "preschool": 71,
-    "schoolAge": 107
+    "nursery": 27,
+    "preschool": 73,
+    "schoolAge": 110
   },
   "facilities": [
     {
@@ -1307,7 +1307,7 @@
       "phone": null,
       "email": "lilliank@bhf.ca",
       "website": null,
-      "sourceLastModified": "2026-08-31T15:37:06.038954",
+      "sourceLastModified": "2026-09-08T15:58:03.1735378",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -1857,7 +1857,7 @@
       "phone": null,
       "email": "ccci19138@gmail.com",
       "website": "https://www.campuschildrenscentre.com",
-      "sourceLastModified": "2026-09-08T12:47:18.978873",
+      "sourceLastModified": "2026-09-08T15:50:18.407848",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -2432,7 +2432,7 @@
       "phone": null,
       "email": "childrenshousewinnipeg@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-01T15:11:27.926531",
+      "sourceLastModified": "2026-09-08T15:30:07.1325688",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -2857,7 +2857,7 @@
       "phone": null,
       "email": "dalhoudc@outlook.com",
       "website": null,
-      "sourceLastModified": "2026-08-31T15:48:46.98227",
+      "sourceLastModified": "2026-09-08T15:15:01.3903715",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -2882,7 +2882,7 @@
       "phone": null,
       "email": "dantekid@mts.net",
       "website": null,
-      "sourceLastModified": "2026-07-20T14:58:01.4985295",
+      "sourceLastModified": "2026-09-08T14:45:03.9071071",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -3341,6 +3341,31 @@
       }
     },
     {
+      "sourceId": "7887",
+      "displayName": "Ecole Centrale School Age Center Inc.",
+      "facilityType": "CENTRE",
+      "businessType": "Non-Profit",
+      "fundingType": "Funded",
+      "address": "604 Day Street",
+      "city": "Winnipeg",
+      "postalCode": "R2C 1B6",
+      "neighbourhood": "KERN PARK",
+      "region": "WINNIPEG",
+      "latitude": 49.897961,
+      "longitude": -97.001471,
+      "hideLocation": false,
+      "phone": null,
+      "email": "ECSCHOOLAGE@GMAIL.COM",
+      "website": "http://ecsac.ca",
+      "sourceLastModified": "2026-09-08T15:10:53.06857",
+      "vacancies": {
+        "infant": 0,
+        "nursery": 0,
+        "preschool": 0,
+        "schoolAge": 2
+      }
+    },
+    {
       "sourceId": "9529",
       "displayName": "Ecole Crane Before and After School Program",
       "facilityType": "CENTRE",
@@ -3388,6 +3413,31 @@
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 0
+      }
+    },
+    {
+      "sourceId": "100015",
+      "displayName": "Ecole Regent Park School Age Center",
+      "facilityType": "CENTRE",
+      "businessType": "Non-Profit",
+      "fundingType": "Funded",
+      "address": "411  Moroz Street",
+      "city": "Winnipeg",
+      "postalCode": "R3C 2X4",
+      "neighbourhood": "KERN PARK",
+      "region": "WINNIPEG",
+      "latitude": 49.896671,
+      "longitude": -97.022829,
+      "hideLocation": false,
+      "phone": null,
+      "email": "ecschoolage@gmail.com",
+      "website": "http://ecsac.ca",
+      "sourceLastModified": "2026-09-08T15:12:27.001123",
+      "vacancies": {
+        "infant": 0,
+        "nursery": 0,
+        "preschool": 0,
+        "schoolAge": 5
       }
     },
     {
@@ -4032,7 +4082,7 @@
       "phone": null,
       "email": "childcare@fgcccc.ca",
       "website": "https://fortgarrychildcare.ca",
-      "sourceLastModified": "2026-08-31T13:04:51.9014141",
+      "sourceLastModified": "2026-09-08T14:07:01.7836237",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4057,7 +4107,7 @@
       "phone": null,
       "email": "childcare@fgcccc.ca",
       "website": "https://fortgarrychildcare.ca",
-      "sourceLastModified": "2026-08-31T13:05:09.9784639",
+      "sourceLastModified": "2026-09-08T14:07:10.305903",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4107,7 +4157,7 @@
       "phone": null,
       "email": "childcare@fgcccc.ca",
       "website": "https://fortgarrychildcare.ca",
-      "sourceLastModified": "2026-08-31T13:04:42.8131587",
+      "sourceLastModified": "2026-09-08T14:06:51.736464",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4882,7 +4932,7 @@
       "phone": null,
       "email": "pocholo0408@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-02T17:58:42.3583528",
+      "sourceLastModified": "2026-09-08T15:58:34.4312513",
       "vacancies": {
         "infant": 2,
         "nursery": 0,
@@ -5132,7 +5182,7 @@
       "phone": null,
       "email": "harcc@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-08-31T16:26:31.0014789",
+      "sourceLastModified": "2026-09-08T14:15:30.8663498",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -5157,7 +5207,7 @@
       "phone": null,
       "email": "harcc@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-08-31T16:27:19.9318479",
+      "sourceLastModified": "2026-09-08T14:15:56.9391015",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -5182,7 +5232,7 @@
       "phone": null,
       "email": "harcc@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-08-31T16:26:15.1449533",
+      "sourceLastModified": "2026-09-08T14:16:09.383205",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -5207,7 +5257,7 @@
       "phone": null,
       "email": "harcc@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-08-31T16:27:41.8326232",
+      "sourceLastModified": "2026-09-08T14:16:21.7560831",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -5282,7 +5332,7 @@
       "phone": null,
       "email": "helccc40@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-08-31T14:14:43.6547369",
+      "sourceLastModified": "2026-09-08T14:31:37.7221238",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6582,7 +6632,7 @@
       "phone": null,
       "email": "kinderworld.daycare.1989@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-08-31T13:06:26.0715132",
+      "sourceLastModified": "2026-09-08T14:03:59.4771208",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -7407,7 +7457,7 @@
       "phone": null,
       "email": "lindenmeadowscc@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-08-11T13:42:01.9212103",
+      "sourceLastModified": "2026-09-08T15:00:23.6186326",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -7432,7 +7482,7 @@
       "phone": "(204) 489-7056",
       "email": "sharon@lwccc.ca",
       "website": null,
-      "sourceLastModified": "2026-08-31T16:30:26.8129578",
+      "sourceLastModified": "2026-09-08T16:16:17.6726026",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -7782,7 +7832,7 @@
       "phone": null,
       "email": "littleflamingoselc@gmail.com",
       "website": "https://littleflamingoselc.ca/",
-      "sourceLastModified": "2026-08-24T16:58:26.7000966",
+      "sourceLastModified": "2026-09-08T15:08:49.4460385",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8007,7 +8057,7 @@
       "phone": null,
       "email": "alanaplppi@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-08-31T13:15:21.9339587",
+      "sourceLastModified": "2026-09-08T14:39:45.9381959",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8332,7 +8382,7 @@
       "phone": null,
       "email": "livingprairiechildcare@gmail.com",
       "website": "https://www.livingprairiechildcare.ca/",
-      "sourceLastModified": "2026-08-31T14:52:07.2747511",
+      "sourceLastModified": "2026-09-08T16:37:13.3748932",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8382,7 +8432,7 @@
       "phone": null,
       "email": "livingprairiechildcare@gmail.com",
       "website": "http://livingprairiechildcare.com",
-      "sourceLastModified": "2026-08-31T14:51:38.2312265",
+      "sourceLastModified": "2026-09-08T16:37:01.3463456",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8416,6 +8466,31 @@
       }
     },
     {
+      "sourceId": "2146",
+      "displayName": "Lord Wolseley Nursery School Incorporated",
+      "facilityType": "NURSERY",
+      "businessType": "Non-Profit",
+      "fundingType": "Funded",
+      "address": "11-939   Henderson Highway",
+      "city": "Winnipeg",
+      "postalCode": "R2K 2M2",
+      "neighbourhood": "ROSSMERE - A",
+      "region": "WINNIPEG",
+      "latitude": 49.895136,
+      "longitude": -97.138374,
+      "hideLocation": false,
+      "phone": null,
+      "email": "lwns-liz@outlook.com",
+      "website": null,
+      "sourceLastModified": "2026-09-08T15:10:03.9967424",
+      "vacancies": {
+        "infant": 0,
+        "nursery": 0,
+        "preschool": 33,
+        "schoolAge": 0
+      }
+    },
+    {
       "sourceId": "102919",
       "displayName": "Louis Riel Child Care Centre",
       "facilityType": "CENTRE",
@@ -8432,7 +8507,7 @@
       "phone": null,
       "email": "louisrielchildcarecentre@mmf.mb.ca",
       "website": null,
-      "sourceLastModified": "2026-08-31T19:57:43.0165704",
+      "sourceLastModified": "2026-09-08T14:47:20.7140071",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8932,7 +9007,7 @@
       "phone": "(204) 633-2508",
       "email": "susan@maplesdaycare.com",
       "website": null,
-      "sourceLastModified": "2026-09-01T15:27:01.5147173",
+      "sourceLastModified": "2026-09-08T16:10:38.3325512",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9207,7 +9282,7 @@
       "phone": null,
       "email": "mkccc1991@gmail.com",
       "website": "https://marykardashchildcarecentre.org",
-      "sourceLastModified": "2026-08-31T15:13:26.1832665",
+      "sourceLastModified": "2026-09-08T15:54:30.5512731",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9507,7 +9582,7 @@
       "phone": null,
       "email": "kim.dunning@winnipegmfrc.ca",
       "website": "http://cfmws.ca",
-      "sourceLastModified": "2026-08-31T15:21:56.8078103",
+      "sourceLastModified": "2026-09-08T14:53:53.9202783",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -10882,11 +10957,11 @@
       "phone": null,
       "email": "sunandshieldhd@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-08-15T16:33:07.2229364",
+      "sourceLastModified": "2026-09-08T14:54:36.1957332",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 0,
+        "preschool": 1,
         "schoolAge": 1
       }
     },
@@ -11432,7 +11507,7 @@
       "phone": "(431) 777-6506",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-08-31T15:55:31.8269762",
+      "sourceLastModified": "2026-09-08T15:56:00.1255134",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11582,7 +11657,7 @@
       "phone": null,
       "email": "rhscare@rhscc.ca",
       "website": "http://www.rhscare.fastoche.ca/waitlist",
-      "sourceLastModified": "2026-08-10T15:21:51.0765288",
+      "sourceLastModified": "2026-09-08T16:26:16.4196123",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -12632,7 +12707,7 @@
       "phone": null,
       "email": "socdcc@sogh.mb.ca",
       "website": "http://www.sevenoakschilddaycare.com",
-      "sourceLastModified": "2026-08-31T13:23:15.692239",
+      "sourceLastModified": "2026-09-08T13:59:52.3124123",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -12657,7 +12732,7 @@
       "phone": null,
       "email": "socdcc@sogh.mb.ca",
       "website": null,
-      "sourceLastModified": "2026-08-31T13:23:26.0511558",
+      "sourceLastModified": "2026-09-08T13:59:36.3512895",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -13557,7 +13632,7 @@
       "phone": null,
       "email": "info@stmargaretsmontessori.ca",
       "website": null,
-      "sourceLastModified": "2026-08-31T18:36:25.5416046",
+      "sourceLastModified": "2026-09-08T14:35:35.4536601",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -13832,7 +13907,7 @@
       "phone": null,
       "email": "scnsdirector@gmail.com",
       "website": "http://www.starlightchristiannursery.ca",
-      "sourceLastModified": "2026-09-01T17:42:28.0603684",
+      "sourceLastModified": "2026-09-08T14:32:02.7228591",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -14482,7 +14557,7 @@
       "phone": "(204) 489-0303",
       "email": "director@littleyearsschool.com",
       "website": "http://www.littleyearsschool.com",
-      "sourceLastModified": "2026-08-31T14:11:40.8826368",
+      "sourceLastModified": "2026-09-08T15:33:19.7057692",
       "vacancies": {
         "infant": 0,
         "nursery": 4,
@@ -15307,10 +15382,10 @@
       "phone": null,
       "email": "westktinytots@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-05-26T17:58:08.5093169",
+      "sourceLastModified": "2026-09-08T14:38:11.9089588",
       "vacancies": {
         "infant": 0,
-        "nursery": 0,
+        "nursery": 12,
         "preschool": 0,
         "schoolAge": 0
       }
@@ -15707,7 +15782,7 @@
       "phone": null,
       "email": "admin@winnipegmontessori.com",
       "website": null,
-      "sourceLastModified": "2026-06-03T19:13:24.7226796",
+      "sourceLastModified": "2026-09-08T16:26:32.2883328",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -16163,6 +16238,31 @@
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 1
+      }
+    },
+    {
+      "sourceId": "103183",
+      "displayName": "Zanelle's Little Champs",
+      "facilityType": "HOME",
+      "businessType": "For-Profit",
+      "fundingType": "Non Funded",
+      "address": "88 Kenville Crescent",
+      "city": "Winnipeg",
+      "postalCode": "R2P 0X7",
+      "neighbourhood": "MANDALAY WEST",
+      "region": "WINNIPEG",
+      "latitude": 49.957227,
+      "longitude": -97.179039,
+      "hideLocation": false,
+      "phone": "(204) 960-2414",
+      "email": null,
+      "website": null,
+      "sourceLastModified": "2026-09-08T14:15:19.5275702",
+      "vacancies": {
+        "infant": 0,
+        "nursery": 0,
+        "preschool": 0,
+        "schoolAge": 3
       }
     }
   ]
