@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-09-08T19:54:49.540Z",
+  "generatedAt": "2026-09-08T22:40:54.335Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-08T22:40:54.335Z",
+      "facilityId": "102041",
+      "facilityName": "Marichu Roces",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-08T22:40:54.335Z",
+      "facilityId": "102041",
+      "facilityName": "Marichu Roces",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-08T22:40:54.335Z",
+      "facilityId": "3027",
+      "facilityName": "Strathmillan Children's Centre Inc.",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 3,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-09-08T19:54:49.540Z",
       "facilityId": "103167",

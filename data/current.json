@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T19:54:49.540Z",
+  "generatedAt": "2026-09-08T22:40:54.335Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -12,7 +12,7 @@
     "infant": 24,
     "nursery": 28,
     "preschool": 72,
-    "schoolAge": 110
+    "schoolAge": 113
   },
   "facilities": [
     {
@@ -182,7 +182,7 @@
       "phone": null,
       "email": "actioncentredaynursery1974@gmail.com",
       "website": "http://www.actioncentredaynursery.ca",
-      "sourceLastModified": "2026-08-31T13:07:55.378878",
+      "sourceLastModified": "2026-09-08T21:21:36.7580405",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -2532,7 +2532,7 @@
       "phone": null,
       "email": "concordiachildcarecentre@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-08-25T19:07:34.4484568",
+      "sourceLastModified": "2026-09-08T20:30:45.5714176",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -3063,6 +3063,31 @@
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 2
+      }
+    },
+    {
+      "sourceId": "103161",
+      "displayName": "Dimpal Surati",
+      "facilityType": "HOME",
+      "businessType": "For-Profit",
+      "fundingType": "Non Funded",
+      "address": "52 Montvale Crescent",
+      "city": "Winnipeg",
+      "postalCode": "R3X 2H4",
+      "neighbourhood": "ROYALWOOD",
+      "region": "WINNIPEG",
+      "latitude": 49.822647,
+      "longitude": -97.068713,
+      "hideLocation": false,
+      "phone": "(431) 998-3686",
+      "email": "dimpalasurati@gmail.com",
+      "website": null,
+      "sourceLastModified": "2026-09-08T22:02:48.5770674",
+      "vacancies": {
+        "infant": 3,
+        "nursery": 0,
+        "preschool": 2,
+        "schoolAge": 1
       }
     },
     {
@@ -9157,12 +9182,12 @@
       "phone": "(204) 479-8026",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-07T12:08:53.3410262",
+      "sourceLastModified": "2026-09-08T20:19:45.5906036",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 1,
-        "schoolAge": 0
+        "preschool": 0,
+        "schoolAge": 1
       }
     },
     {
@@ -10132,7 +10157,7 @@
       "phone": "(204) 488-2008",
       "email": "myrnadobson@hotmail.com",
       "website": null,
-      "sourceLastModified": "2026-08-31T14:36:08.0725775",
+      "sourceLastModified": "2026-09-08T21:59:26.5708345",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -12932,7 +12957,7 @@
       "phone": null,
       "email": "scdn@scdndaycare.ca",
       "website": "https://www.scdndaycare.ca",
-      "sourceLastModified": "2026-09-08T12:42:08.3747669",
+      "sourceLastModified": "2026-09-08T20:57:20.4831488",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -13707,7 +13732,7 @@
       "phone": null,
       "email": "leslie@stmkidskorner.com",
       "website": null,
-      "sourceLastModified": "2026-08-31T17:14:03.1669227",
+      "sourceLastModified": "2026-09-08T19:55:57.790876",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -14107,12 +14132,12 @@
       "phone": "(204) 837-4097",
       "email": "strathmillanof@gmail.com",
       "website": null,
-      "sourceLastModified": "2025-10-27T15:25:01.9031887",
+      "sourceLastModified": "2026-09-08T20:47:37.7443635",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
         "preschool": 0,
-        "schoolAge": 0
+        "schoolAge": 3
       }
     },
     {
@@ -14632,36 +14657,11 @@
       "phone": null,
       "email": "info@theprepmontessori.ca",
       "website": "http://theprepmontessori.ca",
-      "sourceLastModified": "2025-01-13T21:48:01.3574642",
+      "sourceLastModified": "2026-09-08T21:13:57.7689079",
       "vacancies": {
         "infant": 1,
         "nursery": 0,
         "preschool": 1,
-        "schoolAge": 0
-      }
-    },
-    {
-      "sourceId": "102731",
-      "displayName": "The Prep Montessori Infant Daycare",
-      "facilityType": "CENTRE",
-      "businessType": "For-Profit",
-      "fundingType": "Non Funded",
-      "address": "3521 Roblin Boulevard",
-      "city": "Winnipeg",
-      "postalCode": "R3R 0C6",
-      "neighbourhood": "ROBLIN PARK",
-      "region": "WINNIPEG",
-      "latitude": 49.86891,
-      "longitude": -97.259073,
-      "hideLocation": false,
-      "phone": null,
-      "email": "info@theprepmontessori.ca",
-      "website": "http://theprepmontessori.ca",
-      "sourceLastModified": "2025-01-13T21:47:01.1651461",
-      "vacancies": {
-        "infant": 1,
-        "nursery": 0,
-        "preschool": 0,
         "schoolAge": 0
       }
     },
@@ -15357,7 +15357,7 @@
       "phone": null,
       "email": "parawav32@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-08-31T11:26:18.1802096",
+      "sourceLastModified": "2026-09-08T21:35:42.0269422",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
