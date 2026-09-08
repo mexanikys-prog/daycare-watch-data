@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T16:38:43.827Z",
+  "generatedAt": "2026-09-08T19:54:49.540Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -7,11 +7,11 @@
   "sourceKey": "manitoba-child-care-search",
   "source": "Manitoba Child Care Search",
   "city": "Winnipeg",
-  "facilityCount": 650,
+  "facilityCount": 652,
   "summary": {
     "infant": 24,
-    "nursery": 27,
-    "preschool": 73,
+    "nursery": 28,
+    "preschool": 72,
     "schoolAge": 110
   },
   "facilities": [
@@ -1507,7 +1507,7 @@
       "phone": "(204) 667-2930",
       "email": "cccbrightfuture@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-08-31T14:19:45.9723375",
+      "sourceLastModified": "2026-09-08T18:53:10.475147",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -3082,7 +3082,7 @@
       "phone": null,
       "email": "dcc@discoverycc.com",
       "website": "http://www.discoverycc.com",
-      "sourceLastModified": "2026-08-31T18:05:36.5061586",
+      "sourceLastModified": "2026-09-08T17:11:21.0205648",
       "vacancies": {
         "infant": 0,
         "nursery": 12,
@@ -4682,7 +4682,7 @@
       "phone": "(204) 219-7118",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-02T02:24:02.8486555",
+      "sourceLastModified": "2026-09-08T17:55:42.3599077",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6982,7 +6982,7 @@
       "phone": null,
       "email": "bureau@leptitbonheurinc.com",
       "website": null,
-      "sourceLastModified": "2026-08-24T12:26:35.9534559",
+      "sourceLastModified": "2026-09-08T18:12:18.6591093",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -7138,6 +7138,31 @@
         "nursery": 0,
         "preschool": 1,
         "schoolAge": 3
+      }
+    },
+    {
+      "sourceId": "103233",
+      "displayName": "Leila Bagheri",
+      "facilityType": "HOME",
+      "businessType": "Non-Profit",
+      "fundingType": "Funded",
+      "address": "44 Kinlock Lane",
+      "city": "Winnipeg",
+      "postalCode": "R3T 6A6",
+      "neighbourhood": "FORT RICHMOND",
+      "region": "WINNIPEG",
+      "latitude": 49.791833,
+      "longitude": -97.167582,
+      "hideLocation": false,
+      "phone": null,
+      "email": "lzma2537@gmail.com",
+      "website": null,
+      "sourceLastModified": "2026-09-08T18:31:26.5979982",
+      "vacancies": {
+        "infant": 0,
+        "nursery": 0,
+        "preschool": 0,
+        "schoolAge": 0
       }
     },
     {
@@ -7332,7 +7357,7 @@
       "phone": null,
       "email": "lestoupiesdg@outlook.com",
       "website": null,
-      "sourceLastModified": "2026-08-24T14:20:57.444133",
+      "sourceLastModified": "2026-09-08T19:11:44.513204",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -7757,12 +7782,12 @@
       "phone": null,
       "email": "marifecipriano18@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-01T19:29:21.4477103",
+      "sourceLastModified": "2026-09-08T17:04:43.0460026",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
         "preschool": 0,
-        "schoolAge": 1
+        "schoolAge": 2
       }
     },
     {
@@ -9032,11 +9057,11 @@
       "phone": null,
       "email": "snowpatrol.station@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-08-24T19:16:50.314351",
+      "sourceLastModified": "2026-09-08T18:54:22.8554935",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 2,
+        "preschool": 0,
         "schoolAge": 2
       }
     },
@@ -9357,7 +9382,7 @@
       "phone": "(204) 287-8242",
       "email": "maybrookcc@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-08-31T15:47:36.8997781",
+      "sourceLastModified": "2026-09-08T18:23:10.4516832",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -10357,7 +10382,7 @@
       "phone": null,
       "email": "info@heartelp.ca",
       "website": "https://www.heartelp.ca",
-      "sourceLastModified": "2026-07-06T21:15:29.6307367",
+      "sourceLastModified": "2026-09-08T17:15:37.200595",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -12391,6 +12416,31 @@
       }
     },
     {
+      "sourceId": "9226",
+      "displayName": "River West Park Kids Inc.",
+      "facilityType": "CENTRE",
+      "businessType": "Non-Profit",
+      "fundingType": "Funded",
+      "address": "30  Stack Street",
+      "city": "Winnipeg",
+      "postalCode": "R3R 2C6",
+      "neighbourhood": "RIVER WEST PARK",
+      "region": "WINNIPEG",
+      "latitude": 49.895136,
+      "longitude": -97.138374,
+      "hideLocation": false,
+      "phone": null,
+      "email": "rwpkids@gmail.com",
+      "website": null,
+      "sourceLastModified": "2026-09-08T17:31:51.73571",
+      "vacancies": {
+        "infant": 0,
+        "nursery": 4,
+        "preschool": 0,
+        "schoolAge": 0
+      }
+    },
+    {
       "sourceId": "2014",
       "displayName": "Riverview Montessori",
       "facilityType": "CENTRE",
@@ -13807,7 +13857,7 @@
       "phone": null,
       "email": "shahla1229@gmail.com",
       "website": "https://www.stnorbertdaycare.com",
-      "sourceLastModified": "2026-08-31T12:46:49.5310151",
+      "sourceLastModified": "2026-09-08T18:54:14.1912517",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -14182,7 +14232,7 @@
       "phone": null,
       "email": "saraswatsuniti@yahoo.co.in",
       "website": null,
-      "sourceLastModified": "2026-08-31T18:50:16.3404918",
+      "sourceLastModified": "2026-09-08T17:33:55.8282695",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -14707,7 +14757,7 @@
       "phone": null,
       "email": "time2play-elc@outlook.com",
       "website": null,
-      "sourceLastModified": "2026-08-31T14:40:28.7001057",
+      "sourceLastModified": "2026-09-08T17:40:50.2843302",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -16232,7 +16282,7 @@
       "phone": "(204) 783-8914",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-01T17:38:51.9412151",
+      "sourceLastModified": "2026-09-08T17:08:50.4233721",
       "vacancies": {
         "infant": 0,
         "nursery": 0,

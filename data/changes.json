@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-08T16:38:43.827Z",
+  "generatedAt": "2026-09-08T19:54:49.540Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-08T19:54:49.540Z",
+      "facilityId": "103167",
+      "facilityName": "Little Explorer Home Daycare",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 2,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-09-08T19:54:49.540Z",
+      "facilityId": "103157",
+      "facilityName": "Maria Alyssa Legaspi",
+      "ageGroup": "preschool",
+      "oldValue": 2,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-09-08T16:38:43.827Z",
       "facilityId": "103128",
