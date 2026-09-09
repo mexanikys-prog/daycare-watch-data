@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T19:45:48.240Z",
+  "generatedAt": "2026-09-09T22:33:39.385Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -7,12 +7,12 @@
   "sourceKey": "manitoba-child-care-search",
   "source": "Manitoba Child Care Search",
   "city": "Winnipeg",
-  "facilityCount": 653,
+  "facilityCount": 654,
   "summary": {
-    "infant": 25,
+    "infant": 24,
     "nursery": 29,
-    "preschool": 71,
-    "schoolAge": 113
+    "preschool": 69,
+    "schoolAge": 114
   },
   "facilities": [
     {
@@ -282,7 +282,7 @@
       "phone": "(431) 999-8974",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-07-21T12:45:01.2780536",
+      "sourceLastModified": "2026-09-09T22:05:18.0862987",
       "vacancies": {
         "infant": 1,
         "nursery": 0,
@@ -7107,11 +7107,11 @@
       "phone": null,
       "email": "lgdinfo@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-09-01T16:05:01.8048505",
+      "sourceLastModified": "2026-09-09T22:06:53.9660682",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 1,
+        "preschool": 0,
         "schoolAge": 0
       }
     },
@@ -12641,6 +12641,31 @@
       }
     },
     {
+      "sourceId": "3089",
+      "displayName": "Royal Kids Inc.",
+      "facilityType": "CENTRE",
+      "businessType": "Non-Profit",
+      "fundingType": "Funded",
+      "address": "450  Laxdal Road",
+      "city": "Winnipeg",
+      "postalCode": "R3R 0W4",
+      "neighbourhood": "VARSITY VIEW",
+      "region": "WINNIPEG",
+      "latitude": 49.8595,
+      "longitude": -97.2605,
+      "hideLocation": false,
+      "phone": "(204) 837-6955",
+      "email": "royalkids@mymts.net",
+      "website": null,
+      "sourceLastModified": "2026-09-09T20:27:52.5446835",
+      "vacancies": {
+        "infant": 0,
+        "nursery": 0,
+        "preschool": 0,
+        "schoolAge": 0
+      }
+    },
+    {
       "sourceId": "102502",
       "displayName": "Ruby's Family Child Care",
       "facilityType": "HOME",
@@ -14457,12 +14482,12 @@
       "phone": null,
       "email": "j.saini77@yahoo.ca",
       "website": null,
-      "sourceLastModified": "2026-08-10T14:10:55.3647791",
+      "sourceLastModified": "2026-09-09T21:58:55.9295802",
       "vacancies": {
-        "infant": 2,
+        "infant": 0,
         "nursery": 0,
-        "preschool": 4,
-        "schoolAge": 0
+        "preschool": 0,
+        "schoolAge": 2
       }
     },
     {
