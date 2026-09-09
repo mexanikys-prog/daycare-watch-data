@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-08T22:40:54.335Z",
+  "generatedAt": "2026-09-09T01:15:09.211Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-09T01:15:09.211Z",
+      "facilityId": "3020",
+      "facilityName": "K.E.E.P. Child Care Inc.",
+      "ageGroup": "preschool",
+      "oldValue": 2,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-09T01:15:09.211Z",
+      "facilityId": "102895",
+      "facilityName": "Star Smiles Daycare",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-09-08T22:40:54.335Z",
       "facilityId": "102041",

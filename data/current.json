@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T22:40:54.335Z",
+  "generatedAt": "2026-09-09T01:15:09.211Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,9 +9,9 @@
   "city": "Winnipeg",
   "facilityCount": 652,
   "summary": {
-    "infant": 24,
+    "infant": 25,
     "nursery": 28,
-    "preschool": 72,
+    "preschool": 71,
     "schoolAge": 113
   },
   "facilities": [
@@ -6132,11 +6132,11 @@
       "phone": null,
       "email": "795keep@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-08-31T13:08:48.4959777",
+      "sourceLastModified": "2026-09-08T23:19:21.3798162",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 2,
+        "preschool": 0,
         "schoolAge": 0
       }
     },
@@ -8582,7 +8582,7 @@
       "phone": null,
       "email": "maria_talania@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-09-01T19:38:48.6496159",
+      "sourceLastModified": "2026-09-08T23:21:56.5815856",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9107,7 +9107,7 @@
       "phone": "(204) 694-3492",
       "email": "mjocamara@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-09-01T00:04:07.2501214",
+      "sourceLastModified": "2026-09-09T00:32:23.69389",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -13957,9 +13957,9 @@
       "phone": null,
       "email": "gdeepkaur342@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-08-27T17:40:57.4726467",
+      "sourceLastModified": "2026-09-08T23:19:02.0495675",
       "vacancies": {
-        "infant": 0,
+        "infant": 1,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 1
