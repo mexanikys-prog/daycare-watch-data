@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-09T01:15:09.211Z",
+  "generatedAt": "2026-09-09T14:51:48.979Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-09T14:51:48.979Z",
+      "facilityId": "103161",
+      "facilityName": "Dimpal Surati",
+      "ageGroup": "preschool",
+      "oldValue": 2,
+      "newValue": 1,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-09-09T14:51:48.979Z",
+      "facilityId": "103161",
+      "facilityName": "Dimpal Surati",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 2,
+      "changeType": "VACANCY_INCREASED"
+    },
     {
       "detectedAt": "2026-09-09T01:15:09.211Z",
       "facilityId": "3020",
