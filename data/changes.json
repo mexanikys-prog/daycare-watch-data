@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-09-10T00:40:18.534Z",
+  "generatedAt": "2026-09-10T14:40:22.500Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-10T14:40:22.500Z",
+      "facilityId": "5830",
+      "facilityName": "Adelle Kennedy",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-10T14:40:22.500Z",
+      "facilityId": "5830",
+      "facilityName": "Adelle Kennedy",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-10T14:40:22.500Z",
+      "facilityId": "102163",
+      "facilityName": "Little Dragon Montessori",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 2,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-09-09T22:33:39.385Z",
       "facilityId": "1189",

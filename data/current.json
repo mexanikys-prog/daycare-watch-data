@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T00:40:18.534Z",
+  "generatedAt": "2026-09-10T14:40:22.500Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -7,12 +7,12 @@
   "sourceKey": "manitoba-child-care-search",
   "source": "Manitoba Child Care Search",
   "city": "Winnipeg",
-  "facilityCount": 654,
+  "facilityCount": 655,
   "summary": {
-    "infant": 24,
+    "infant": 25,
     "nursery": 29,
-    "preschool": 69,
-    "schoolAge": 114
+    "preschool": 71,
+    "schoolAge": 115
   },
   "facilities": [
     {
@@ -207,11 +207,11 @@
       "phone": "(204) 269-0183",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-06-15T14:29:32.9811726",
+      "sourceLastModified": "2026-09-10T00:46:44.9361682",
       "vacancies": {
-        "infant": 0,
+        "infant": 1,
         "nursery": 0,
-        "preschool": 0,
+        "preschool": 1,
         "schoolAge": 0
       }
     },
@@ -4557,7 +4557,7 @@
       "phone": null,
       "email": "elbatima@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-08-31T12:00:06.14256",
+      "sourceLastModified": "2026-09-10T12:54:13.4119414",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -7166,6 +7166,31 @@
       }
     },
     {
+      "sourceId": "103233",
+      "displayName": "Leila Bagheri",
+      "facilityType": "HOME",
+      "businessType": "Non-Profit",
+      "fundingType": "Funded",
+      "address": "44 Kinlock Lane",
+      "city": "Winnipeg",
+      "postalCode": "R3T 6A6",
+      "neighbourhood": "FORT RICHMOND",
+      "region": "WINNIPEG",
+      "latitude": 49.791833,
+      "longitude": -97.167582,
+      "hideLocation": false,
+      "phone": "(647) 865-6497",
+      "email": null,
+      "website": null,
+      "sourceLastModified": "2026-09-10T03:40:14.6143276",
+      "vacancies": {
+        "infant": 0,
+        "nursery": 0,
+        "preschool": 0,
+        "schoolAge": 3
+      }
+    },
+    {
       "sourceId": "1201",
       "displayName": "Leila Day Care Centre Inc.",
       "facilityType": "CENTRE",
@@ -7757,11 +7782,11 @@
       "phone": null,
       "email": "learningtree91@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-07T12:42:12.8179948",
+      "sourceLastModified": "2026-09-10T12:45:11.2545021",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 0,
+        "preschool": 2,
         "schoolAge": 0
       }
     },
@@ -9682,7 +9707,7 @@
       "phone": "(204) 414-7449",
       "email": "Lovechristiandaycare2012@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-08-31T20:48:25.7876484",
+      "sourceLastModified": "2026-09-10T03:07:09.2575728",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
