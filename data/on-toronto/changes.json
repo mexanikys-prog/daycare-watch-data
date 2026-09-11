@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-10T16:21:34.182Z",
+  "generatedAt": "2026-09-11T16:25:27.796Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-11T16:25:27.796Z",
+      "facilityId": "toronto:482523",
+      "facilityName": "Ancaster Early Learning & Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-11T16:25:27.796Z",
+      "facilityId": "toronto:13967924",
+      "facilityName": "Blake Street Early Learning & Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-11T16:25:27.796Z",
+      "facilityId": "toronto:14173019",
+      "facilityName": "City Kids Early Learning & Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-11T16:25:27.796Z",
+      "facilityId": "toronto:20168852",
+      "facilityName": "Cole Street Early Learning & Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-11T16:25:27.796Z",
+      "facilityId": "toronto:8885841",
+      "facilityName": "Flemingdon Early Learning & Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-11T16:25:27.796Z",
+      "facilityId": "toronto:2917704",
+      "facilityName": "Gilder Early Learning & Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-09-10T16:21:34.182Z",
       "facilityId": "toronto:13967930",
