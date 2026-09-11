@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-11T01:05:54.110Z",
+  "generatedAt": "2026-09-11T16:28:59.709Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-11T16:28:59.709Z",
+      "facilityId": "102672",
+      "facilityName": "Fatoumata Doumbia",
+      "ageGroup": "schoolAge",
+      "oldValue": 2,
+      "newValue": 1,
+      "changeType": "VACANCY_DECREASED"
+    },
     {
       "detectedAt": "2026-09-10T14:40:22.500Z",
       "facilityId": "5830",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T01:05:54.110Z",
+  "generatedAt": "2026-09-11T16:28:59.709Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -7,7 +7,7 @@
   "sourceKey": "manitoba-child-care-search",
   "source": "Manitoba Child Care Search",
   "city": "Winnipeg",
-  "facilityCount": 655,
+  "facilityCount": 656,
   "summary": {
     "infant": 25,
     "nursery": 29,
@@ -3932,12 +3932,12 @@
       "phone": null,
       "email": "Fatoumata.doumbia11@yahoo.ca",
       "website": null,
-      "sourceLastModified": "2026-06-10T19:33:51.4153194",
+      "sourceLastModified": "2026-09-11T09:31:36.2334386",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
         "preschool": 0,
-        "schoolAge": 2
+        "schoolAge": 1
       }
     },
     {
@@ -9013,6 +9013,31 @@
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 1
+      }
+    },
+    {
+      "sourceId": "100706",
+      "displayName": "Maple Leaf Kids Korner Before & After School Program Inc.",
+      "facilityType": "CENTRE",
+      "businessType": "Non-Profit",
+      "fundingType": "Funded",
+      "address": "251 McIvor Avenue",
+      "city": "Winnipeg",
+      "postalCode": "R2G 0Z7",
+      "neighbourhood": "RIVER EAST",
+      "region": "WINNIPEG",
+      "latitude": 49.952292,
+      "longitude": -97.070135,
+      "hideLocation": false,
+      "phone": null,
+      "email": "mlkorner@mymts.net",
+      "website": null,
+      "sourceLastModified": "2026-09-11T13:59:03.5320571",
+      "vacancies": {
+        "infant": 0,
+        "nursery": 0,
+        "preschool": 0,
+        "schoolAge": 0
       }
     },
     {
