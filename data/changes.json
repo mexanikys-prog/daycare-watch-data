@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-11T16:28:59.709Z",
+  "generatedAt": "2026-09-11T19:20:02.859Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-11T19:20:02.859Z",
+      "facilityId": "102865",
+      "facilityName": "Katungi Vikokolaki",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-11T19:20:02.859Z",
+      "facilityId": "102865",
+      "facilityName": "Katungi Vikokolaki",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-09-11T16:28:59.709Z",
       "facilityId": "102672",

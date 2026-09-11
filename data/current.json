@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T16:28:59.709Z",
+  "generatedAt": "2026-09-11T19:20:02.859Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -7,12 +7,12 @@
   "sourceKey": "manitoba-child-care-search",
   "source": "Manitoba Child Care Search",
   "city": "Winnipeg",
-  "facilityCount": 656,
+  "facilityCount": 657,
   "summary": {
     "infant": 25,
     "nursery": 29,
-    "preschool": 71,
-    "schoolAge": 115
+    "preschool": 73,
+    "schoolAge": 116
   },
   "facilities": [
     {
@@ -538,6 +538,31 @@
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 0
+      }
+    },
+    {
+      "sourceId": "103259",
+      "displayName": "Analyse Parchment",
+      "facilityType": "HOME",
+      "businessType": "For-Profit",
+      "fundingType": "Non Funded",
+      "address": "174 Kingsbury Ave",
+      "city": "Winnipeg",
+      "postalCode": "R2V 1G8",
+      "neighbourhood": "SEVEN OAKS",
+      "region": "WINNIPEG",
+      "latitude": 49.939141,
+      "longitude": -97.116527,
+      "hideLocation": false,
+      "phone": null,
+      "email": "anaparchy@gmail.com",
+      "website": null,
+      "sourceLastModified": "2026-09-11T19:03:10.8209552",
+      "vacancies": {
+        "infant": 2,
+        "nursery": 0,
+        "preschool": 2,
+        "schoolAge": 2
       }
     },
     {
@@ -3826,13 +3851,13 @@
       "postalCode": "R3W 0L8",
       "neighbourhood": "RADISSON",
       "region": "WINNIPEG",
-      "latitude": 49.895077,
-      "longitude": -97.138451,
+      "latitude": 49.905743,
+      "longitude": -97.059764,
       "hideLocation": false,
       "phone": "(204) 914-2975",
       "email": "failayuma@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-09-08T05:41:41.335083",
+      "sourceLastModified": "2026-09-11T18:48:09.2069754",
       "vacancies": {
         "infant": 3,
         "nursery": 0,
@@ -6357,11 +6382,11 @@
       "phone": "(431) 777-4716",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-07T23:42:23.5338448",
+      "sourceLastModified": "2026-09-11T18:25:24.7463779",
       "vacancies": {
-        "infant": 1,
+        "infant": 0,
         "nursery": 0,
-        "preschool": 0,
+        "preschool": 1,
         "schoolAge": 1
       }
     },
