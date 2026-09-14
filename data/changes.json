@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-14T19:37:49.282Z",
+  "generatedAt": "2026-09-14T21:49:53.814Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-14T21:49:53.814Z",
+      "facilityId": "5808",
+      "facilityName": "Linda Ainley",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 2,
+      "changeType": "VACANCY_INCREASED"
+    },
     {
       "detectedAt": "2026-09-14T19:37:49.282Z",
       "facilityId": "100249",
