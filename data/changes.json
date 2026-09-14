@@ -1,6 +1,213 @@
 {
-  "generatedAt": "2026-09-12T00:43:00.726Z",
+  "generatedAt": "2026-09-14T14:26:23.182Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-14T14:26:23.182Z",
+      "facilityId": "102092",
+      "facilityName": "Afshan Noreen",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-14T14:26:23.182Z",
+      "facilityId": "103259",
+      "facilityName": "Analyse Parchment",
+      "ageGroup": "infant",
+      "oldValue": 2,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-14T14:26:23.182Z",
+      "facilityId": "103259",
+      "facilityName": "Analyse Parchment",
+      "ageGroup": "preschool",
+      "oldValue": 2,
+      "newValue": 1,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-09-14T14:26:23.182Z",
+      "facilityId": "103259",
+      "facilityName": "Analyse Parchment",
+      "ageGroup": "schoolAge",
+      "oldValue": 2,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-14T14:26:23.182Z",
+      "facilityId": "103024",
+      "facilityName": "B&H Giant Family Child Care Home",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-14T14:26:23.182Z",
+      "facilityId": "102843",
+      "facilityName": "Bairdmore Child Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-14T14:26:23.182Z",
+      "facilityId": "102956",
+      "facilityName": "Chouchou Malenga",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-14T14:26:23.182Z",
+      "facilityId": "102768",
+      "facilityName": "Green Valley Child Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-14T14:26:23.182Z",
+      "facilityId": "102717",
+      "facilityName": "Happy Bear Montessori",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 2,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-14T14:26:23.182Z",
+      "facilityId": "102766",
+      "facilityName": "Leonila Paras Reyes",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 3,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-14T14:26:23.182Z",
+      "facilityId": "102904",
+      "facilityName": "Little One's Learning Centre Inc.",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-14T14:26:23.182Z",
+      "facilityId": "102445",
+      "facilityName": "Loving Yoya Child Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 2,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-09-14T14:26:23.182Z",
+      "facilityId": "9180",
+      "facilityName": "Ma Mawi Wi Chi Itata Centre Inc. - Child Development Centre",
+      "ageGroup": "infant",
+      "oldValue": 2,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-14T14:26:23.182Z",
+      "facilityId": "103003",
+      "facilityName": "Maryam Abaei",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-14T14:26:23.182Z",
+      "facilityId": "102936",
+      "facilityName": "Mauricia Delmo Aco",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-14T14:26:23.182Z",
+      "facilityId": "102741",
+      "facilityName": "Nonila Sanque",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 2,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-09-14T14:26:23.182Z",
+      "facilityId": "102859",
+      "facilityName": "Palwinder Kaur",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-14T14:26:23.182Z",
+      "facilityId": "102660",
+      "facilityName": "River East Montessori School Inc.",
+      "ageGroup": "preschool",
+      "oldValue": 4,
+      "newValue": 2,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-09-14T14:26:23.182Z",
+      "facilityId": "103195",
+      "facilityName": "River Park Play Place",
+      "ageGroup": "schoolAge",
+      "oldValue": 2,
+      "newValue": 1,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-09-14T14:26:23.182Z",
+      "facilityId": "103038",
+      "facilityName": "Tanveer Dhillon",
+      "ageGroup": "preschool",
+      "oldValue": 3,
+      "newValue": 2,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-09-14T14:26:23.182Z",
+      "facilityId": "3063",
+      "facilityName": "Victoria Albert Day Care Inc.",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 14,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-14T14:26:23.182Z",
+      "facilityId": "102376",
+      "facilityName": "Vipon Walia",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 2,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-09-14T14:26:23.182Z",
+      "facilityId": "2165",
+      "facilityName": "Windsor Community Centre Tiny Tots",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 2,
+      "changeType": "VACANCY_INCREASED"
+    },
     {
       "detectedAt": "2026-09-11T19:20:02.859Z",
       "facilityId": "102865",
