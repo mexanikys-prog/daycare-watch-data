@@ -1,6 +1,186 @@
 {
-  "generatedAt": "2026-09-14T14:26:23.182Z",
+  "generatedAt": "2026-09-14T18:05:07.728Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-14T18:05:07.728Z",
+      "facilityId": "2176",
+      "facilityName": "Angus McKay Nursery School Incorporated",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 10,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-14T18:05:07.728Z",
+      "facilityId": "3084",
+      "facilityName": "Central Park Child Care Inc.",
+      "ageGroup": "preschool",
+      "oldValue": 2,
+      "newValue": 1,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-09-14T18:05:07.728Z",
+      "facilityId": "102040",
+      "facilityName": "Corazon Family Home Child Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-14T18:05:07.728Z",
+      "facilityId": "101879",
+      "facilityName": "Cynthia Ofori",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-14T18:05:07.728Z",
+      "facilityId": "102793",
+      "facilityName": "Feliciana Cruz",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 2,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-14T18:05:07.728Z",
+      "facilityId": "102201",
+      "facilityName": "Grace's Place Child Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 3,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-14T18:05:07.728Z",
+      "facilityId": "102257",
+      "facilityName": "Happy Tots Home Day Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 2,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-14T18:05:07.728Z",
+      "facilityId": "5535",
+      "facilityName": "Jacqueline Childs",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-14T18:05:07.728Z",
+      "facilityId": "5535",
+      "facilityName": "Jacqueline Childs",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-14T18:05:07.728Z",
+      "facilityId": "102767",
+      "facilityName": "Le P'tit Paradis - Ages Scolaires",
+      "ageGroup": "schoolAge",
+      "oldValue": 2,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-14T18:05:07.728Z",
+      "facilityId": "102795",
+      "facilityName": "Lee Home Daycare",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-14T18:05:07.728Z",
+      "facilityId": "102795",
+      "facilityName": "Lee Home Daycare",
+      "ageGroup": "schoolAge",
+      "oldValue": 3,
+      "newValue": 1,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-09-14T18:05:07.728Z",
+      "facilityId": "101896",
+      "facilityName": "Mantsangassa Blanche Loubila",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-14T18:05:07.728Z",
+      "facilityId": "2151",
+      "facilityName": "McLeod Nursery Incorporated",
+      "ageGroup": "preschool",
+      "oldValue": 5,
+      "newValue": 10,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-09-14T18:05:07.728Z",
+      "facilityId": "102798",
+      "facilityName": "Melanie Power",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-14T18:05:07.728Z",
+      "facilityId": "103135",
+      "facilityName": "Nathya Home Day Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 2,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-09-14T18:05:07.728Z",
+      "facilityId": "3094",
+      "facilityName": "Poplar Avenue Kids Care Inc.",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 4,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-14T18:05:07.728Z",
+      "facilityId": "103310",
+      "facilityName": "Richmond Montessori School - Samborski",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 16,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-14T18:05:07.728Z",
+      "facilityId": "103310",
+      "facilityName": "Richmond Montessori School - Samborski",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 40,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-14T18:05:07.728Z",
+      "facilityId": "9238",
+      "facilityName": "Yours and Ours Day Care Inc.",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 9,
+      "changeType": "VACANCY_INCREASED"
+    },
     {
       "detectedAt": "2026-09-14T14:26:23.182Z",
       "facilityId": "102092",
