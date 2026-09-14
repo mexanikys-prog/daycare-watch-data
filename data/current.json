@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T18:05:07.728Z",
+  "generatedAt": "2026-09-14T19:37:49.282Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -7,12 +7,12 @@
   "sourceKey": "manitoba-child-care-search",
   "source": "Manitoba Child Care Search",
   "city": "Winnipeg",
-  "facilityCount": 658,
+  "facilityCount": 659,
   "summary": {
-    "infant": 18,
-    "nursery": 30,
+    "infant": 17,
+    "nursery": 29,
     "preschool": 76,
-    "schoolAge": 117
+    "schoolAge": 116
   },
   "facilities": [
     {
@@ -682,7 +682,7 @@
       "phone": "(204) 786-1375",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-08T12:24:07.8097829",
+      "sourceLastModified": "2026-09-14T18:28:14.0210011",
       "vacancies": {
         "infant": 1,
         "nursery": 0,
@@ -1107,12 +1107,12 @@
       "phone": null,
       "email": "ashleigh.maryk@ymanitoba.ca",
       "website": "http://www.ywinnipeg.ca/programs/child-care/",
-      "sourceLastModified": "2026-01-23T01:32:29.5887145",
+      "sourceLastModified": "2026-09-14T18:17:52.5243149",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
         "preschool": 0,
-        "schoolAge": 11
+        "schoolAge": 0
       }
     },
     {
@@ -2357,12 +2357,12 @@
       "phone": null,
       "email": "ashleigh.maryk@ymanitoba.ca",
       "website": "http://www.ywinnipeg.ca/programs/child-care/",
-      "sourceLastModified": "2026-04-13T16:26:43.1069709",
+      "sourceLastModified": "2026-09-14T18:15:44.9258374",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
         "preschool": 0,
-        "schoolAge": 0
+        "schoolAge": 1
       }
     },
     {
@@ -2882,7 +2882,7 @@
       "phone": null,
       "email": "dalhoudc@outlook.com",
       "website": null,
-      "sourceLastModified": "2026-09-08T15:15:01.3903715",
+      "sourceLastModified": "2026-09-14T19:06:19.7903352",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -3257,12 +3257,12 @@
       "phone": null,
       "email": "duenas.lourdes@ymail.com",
       "website": null,
-      "sourceLastModified": "2026-08-31T19:56:40.404167",
+      "sourceLastModified": "2026-09-14T18:10:36.142389",
       "vacancies": {
-        "infant": 1,
+        "infant": 0,
         "nursery": 0,
-        "preschool": 1,
-        "schoolAge": 1
+        "preschool": 0,
+        "schoolAge": 0
       }
     },
     {
@@ -3432,7 +3432,7 @@
       "phone": null,
       "email": "ashleigh.maryk@ymanitoba.ca",
       "website": "http://www.ywinnipeg.ca/programs/child-care/",
-      "sourceLastModified": "2026-04-13T16:24:10.9087051",
+      "sourceLastModified": "2026-09-14T18:14:14.4456184",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4663,6 +4663,31 @@
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 1
+      }
+    },
+    {
+      "sourceId": "3128",
+      "displayName": "General Vanier Children's Center Inc.",
+      "facilityType": "CENTRE",
+      "businessType": "Non-Profit",
+      "fundingType": "Funded",
+      "address": "18  Lomond Boulevard",
+      "city": "Winnipeg",
+      "postalCode": "R2J 1Y2",
+      "neighbourhood": "WINDSOR PARK",
+      "region": "WINNIPEG",
+      "latitude": 49.859951,
+      "longitude": -97.062562,
+      "hideLocation": false,
+      "phone": null,
+      "email": "daycaregv@gmail.com",
+      "website": "https://generalvanierchildrenscentre.ca/",
+      "sourceLastModified": "2026-09-14T18:14:08.7780142",
+      "vacancies": {
+        "infant": 0,
+        "nursery": 0,
+        "preschool": 2,
+        "schoolAge": 0
       }
     },
     {
@@ -6307,7 +6332,7 @@
       "phone": null,
       "email": "daycare@kanikanichihk.ca",
       "website": "https://kanikanichihk.ca/",
-      "sourceLastModified": "2026-08-25T17:20:19.9437914",
+      "sourceLastModified": "2026-09-14T18:58:24.9880586",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6557,7 +6582,7 @@
       "phone": "(204) 224-1181",
       "email": "kidscentrecoop@outlook.com",
       "website": null,
-      "sourceLastModified": "2026-06-22T15:27:36.3242544",
+      "sourceLastModified": "2026-09-14T18:57:50.7262039",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9682,7 +9707,7 @@
       "phone": null,
       "email": "kim.dunning@winnipegmfrc.ca",
       "website": "http://cfmws.ca",
-      "sourceLastModified": "2026-09-08T14:53:53.9202783",
+      "sourceLastModified": "2026-09-14T18:17:11.5776291",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -10832,7 +10857,7 @@
       "phone": "(204) 832-9635",
       "email": "nurturingrootscc@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-08T01:27:39.2338913",
+      "sourceLastModified": "2026-09-14T18:21:22.1647105",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11432,7 +11457,7 @@
       "phone": null,
       "email": "chencpc@outlook.com",
       "website": null,
-      "sourceLastModified": "2026-08-31T11:53:10.4276982",
+      "sourceLastModified": "2026-09-14T19:07:19.7529205",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -14457,12 +14482,12 @@
       "phone": null,
       "email": "sunrisesunsetchildcare@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-06-09T18:15:04.5900631",
+      "sourceLastModified": "2026-09-14T18:42:15.8203238",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
         "preschool": 0,
-        "schoolAge": 6
+        "schoolAge": 0
       }
     },
     {
@@ -14482,10 +14507,10 @@
       "phone": null,
       "email": "sunrisesunsetchildcare@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-08-10T13:19:54.5786374",
+      "sourceLastModified": "2026-09-14T18:46:34.2321696",
       "vacancies": {
         "infant": 0,
-        "nursery": 3,
+        "nursery": 0,
         "preschool": 0,
         "schoolAge": 0
       }
@@ -14507,7 +14532,7 @@
       "phone": "(204) 415-2866",
       "email": "sunrisesunsetchildcare@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-09-03T16:19:59.5798959",
+      "sourceLastModified": "2026-09-14T18:45:07.4283582",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -15682,7 +15707,7 @@
       "phone": null,
       "email": "ashleigh.maryk@ymanitoba.ca",
       "website": "http://www.ywinnipeg.ca/programs/child-care/",
-      "sourceLastModified": "2026-04-13T16:25:51.4835752",
+      "sourceLastModified": "2026-09-14T18:14:52.7108925",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -16232,7 +16257,7 @@
       "phone": null,
       "email": "ashleigh.maryk@ymanitoba.ca",
       "website": "http://www.ywinnipeg.ca/programs/child-care/",
-      "sourceLastModified": "2026-04-13T16:27:46.4769561",
+      "sourceLastModified": "2026-09-14T18:16:45.2204273",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -16257,12 +16282,12 @@
       "phone": null,
       "email": "ashleigh.maryk@ymanitoba.ca",
       "website": "http://www.ywinnipeg.ca/programs/child-care/",
-      "sourceLastModified": "2026-04-13T16:27:14.7505264",
+      "sourceLastModified": "2026-09-14T18:16:12.8880078",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
         "preschool": 0,
-        "schoolAge": 0
+        "schoolAge": 1
       }
     },
     {
@@ -16382,7 +16407,7 @@
       "phone": null,
       "email": "ashleigh.maryk@ymanitoba.ca",
       "website": "http://www.ywinnipeg.ca/programs/child-care/",
-      "sourceLastModified": "2026-04-13T16:28:15.6292648",
+      "sourceLastModified": "2026-09-14T18:17:12.1613082",
       "vacancies": {
         "infant": 0,
         "nursery": 0,

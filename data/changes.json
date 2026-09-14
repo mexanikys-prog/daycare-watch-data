@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-09-14T18:05:07.728Z",
+  "generatedAt": "2026-09-14T19:37:49.282Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-14T19:37:49.282Z",
+      "facilityId": "100249",
+      "facilityName": "Bairdmore Before and After School Program",
+      "ageGroup": "schoolAge",
+      "oldValue": 11,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-14T19:37:49.282Z",
+      "facilityId": "9318",
+      "facilityName": "Chancellor Before and After School Program",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-14T19:37:49.282Z",
+      "facilityId": "102490",
+      "facilityName": "Duenas Family Daycare",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-14T19:37:49.282Z",
+      "facilityId": "102490",
+      "facilityName": "Duenas Family Daycare",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-14T19:37:49.282Z",
+      "facilityId": "102490",
+      "facilityName": "Duenas Family Daycare",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-14T19:37:49.282Z",
+      "facilityId": "102836",
+      "facilityName": "Sunrise Sunset -Munroe",
+      "ageGroup": "schoolAge",
+      "oldValue": 6,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-14T19:37:49.282Z",
+      "facilityId": "80204",
+      "facilityName": "Sunrise Sunset ChildCare Inc",
+      "ageGroup": "nursery",
+      "oldValue": 3,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-14T19:37:49.282Z",
+      "facilityId": "102541",
+      "facilityName": "YMCA-YWCA of Winnipeg Linden Meadows",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-09-14T18:05:07.728Z",
       "facilityId": "2176",
