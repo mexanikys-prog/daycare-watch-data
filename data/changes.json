@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-15T14:05:50.539Z",
+  "generatedAt": "2026-09-15T16:59:17.466Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-15T16:59:17.466Z",
+      "facilityId": "1206",
+      "facilityName": "St. Anne's Day Nursery Inc.",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 2,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-09-15T14:05:50.539Z",
       "facilityId": "102191",

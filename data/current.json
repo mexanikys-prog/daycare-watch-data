@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T14:05:50.539Z",
+  "generatedAt": "2026-09-15T16:59:17.466Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -12,7 +12,7 @@
     "infant": 17,
     "nursery": 29,
     "preschool": 77,
-    "schoolAge": 116
+    "schoolAge": 117
   },
   "facilities": [
     {
@@ -10357,7 +10357,7 @@
       "phone": "(204) 261-9255",
       "email": "narsin45@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-09-14T04:16:42.8964368",
+      "sourceLastModified": "2026-09-15T15:04:05.0823391",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -10407,7 +10407,7 @@
       "phone": null,
       "email": "marijopatolot09@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-06-07T22:34:38.4704024",
+      "sourceLastModified": "2026-09-15T14:26:32.6424",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -10432,7 +10432,7 @@
       "phone": "(204) 509-6373",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-06-11T11:01:47.2691213",
+      "sourceLastModified": "2026-09-15T16:41:43.2596448",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -13582,12 +13582,12 @@
       "phone": null,
       "email": "leefoon@hotmail.com",
       "website": "http://www.stannesdaynursery.ca",
-      "sourceLastModified": "2026-09-07T19:18:28.8003849",
+      "sourceLastModified": "2026-09-15T15:51:03.6050198",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
         "preschool": 0,
-        "schoolAge": 0
+        "schoolAge": 2
       }
     },
     {
@@ -13707,7 +13707,7 @@
       "phone": "(204) 890-3260",
       "email": "kayla.henning@ymanitoba.ca",
       "website": "https://www.ywinnipeg.ca/child-care-locations/waitlist",
-      "sourceLastModified": "2026-03-16T14:10:25.8900147",
+      "sourceLastModified": "2026-09-15T16:46:35.9547507",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -14107,7 +14107,7 @@
       "phone": null,
       "email": "gdeepkaur342@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-08T23:19:02.0495675",
+      "sourceLastModified": "2026-09-15T14:14:48.7709945",
       "vacancies": {
         "infant": 1,
         "nursery": 0,
@@ -16182,7 +16182,7 @@
       "phone": null,
       "email": "lordnelsonsacc@ymanitoba.ca",
       "website": null,
-      "sourceLastModified": "2026-05-25T21:43:41.3838148",
+      "sourceLastModified": "2026-09-15T16:34:48.9194917",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
