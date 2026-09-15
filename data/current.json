@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T18:28:44.411Z",
+  "generatedAt": "2026-09-15T20:15:13.799Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,7 +9,7 @@
   "city": "Winnipeg",
   "facilityCount": 659,
   "summary": {
-    "infant": 17,
+    "infant": 18,
     "nursery": 29,
     "preschool": 77,
     "schoolAge": 117
@@ -12466,7 +12466,7 @@
       }
     },
     {
-      "sourceId": "102528",
+      "sourceId": "103294",
       "displayName": "River Heights Child Care",
       "facilityType": "CENTRE",
       "businessType": "For-Profit",
@@ -12476,17 +12476,17 @@
       "postalCode": "R3M 3B7",
       "neighbourhood": "ROCKWOOD",
       "region": "WINNIPEG",
-      "latitude": 49.861469,
-      "longitude": -97.163604,
+      "latitude": 49.86132,
+      "longitude": -97.163599,
       "hideLocation": false,
-      "phone": null,
+      "phone": "(204) 963-2576",
       "email": "director@riverheightschildcare.com",
       "website": null,
-      "sourceLastModified": "2026-09-08T13:20:47.6414262",
+      "sourceLastModified": "2026-09-15T19:18:43.6198448",
       "vacancies": {
-        "infant": 0,
+        "infant": 1,
         "nursery": 0,
-        "preschool": 15,
+        "preschool": 1,
         "schoolAge": 0
       }
     },
@@ -13482,7 +13482,7 @@
       "phone": "(204) 505-9030",
       "email": "splash@splashcares.ca",
       "website": "https://splashcares.ca/",
-      "sourceLastModified": "2026-08-11T20:06:22.6323921",
+      "sourceLastModified": "2026-09-15T18:33:19.2218819",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
