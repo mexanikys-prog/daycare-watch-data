@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-14T22:46:34.447Z",
+  "generatedAt": "2026-09-15T00:38:40.660Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-15T00:38:40.660Z",
+      "facilityId": "103192",
+      "facilityName": "Lani De Lara",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-09-14T21:49:53.814Z",
       "facilityId": "5808",

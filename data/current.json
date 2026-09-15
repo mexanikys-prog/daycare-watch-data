@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T22:46:34.447Z",
+  "generatedAt": "2026-09-15T00:38:40.660Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,7 +9,7 @@
   "city": "Winnipeg",
   "facilityCount": 659,
   "summary": {
-    "infant": 17,
+    "infant": 18,
     "nursery": 29,
     "preschool": 76,
     "schoolAge": 116
@@ -6957,9 +6957,9 @@
       "phone": null,
       "email": "lanidelara@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-09-08T13:12:31.8287165",
+      "sourceLastModified": "2026-09-15T00:16:35.9077187",
       "vacancies": {
-        "infant": 0,
+        "infant": 1,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 3
@@ -9207,7 +9207,7 @@
       "phone": null,
       "email": "ambrosinam@hotmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-08T13:54:56.9119992",
+      "sourceLastModified": "2026-09-15T00:09:19.2132375",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11757,7 +11757,7 @@
       "phone": "(204) 583-1762",
       "email": "preciousones94@gmail.com",
       "website": "http://www.preciousonesdaycare.ca",
-      "sourceLastModified": "2026-09-07T21:39:56.293956",
+      "sourceLastModified": "2026-09-15T00:06:08.2386806",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -13332,7 +13332,7 @@
       "phone": null,
       "email": "kinderschule.ca@gmail.com",
       "website": "https://www.kinderschule.ca",
-      "sourceLastModified": "2026-08-03T13:54:18.3289339",
+      "sourceLastModified": "2026-09-15T00:34:42.6229742",
       "vacancies": {
         "infant": 0,
         "nursery": 1,
