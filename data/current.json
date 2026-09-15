@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T20:15:13.799Z",
+  "generatedAt": "2026-09-15T22:56:33.971Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,7 +9,7 @@
   "city": "Winnipeg",
   "facilityCount": 659,
   "summary": {
-    "infant": 18,
+    "infant": 19,
     "nursery": 29,
     "preschool": 77,
     "schoolAge": 117
@@ -2432,7 +2432,7 @@
       "phone": null,
       "email": "rdgiesbrecht@hsc.mb.ca",
       "website": null,
-      "sourceLastModified": "2026-09-07T13:11:27.5287588",
+      "sourceLastModified": "2026-09-15T21:34:44.7465222",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11057,9 +11057,9 @@
       "phone": null,
       "email": "bisoladunjoye@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-07-24T14:56:32.5446451",
+      "sourceLastModified": "2026-09-15T22:53:12.6896139",
       "vacancies": {
-        "infant": 0,
+        "infant": 1,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 0
