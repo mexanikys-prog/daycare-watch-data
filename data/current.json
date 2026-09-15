@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T00:38:40.660Z",
+  "generatedAt": "2026-09-15T14:05:50.539Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,9 +9,9 @@
   "city": "Winnipeg",
   "facilityCount": 659,
   "summary": {
-    "infant": 18,
+    "infant": 17,
     "nursery": 29,
-    "preschool": 76,
+    "preschool": 77,
     "schoolAge": 116
   },
   "facilities": [
@@ -3182,7 +3182,7 @@
       "phone": null,
       "email": "ctcfinc@gmail.com",
       "website": "https://downtoearthchildrenscentre.ca/",
-      "sourceLastModified": "2026-09-08T11:37:24.8669378",
+      "sourceLastModified": "2026-09-15T13:00:04.6043484",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4007,7 +4007,7 @@
       "phone": null,
       "email": "director@festivalelcc.com",
       "website": null,
-      "sourceLastModified": "2026-09-09T16:58:46.8004424",
+      "sourceLastModified": "2026-09-15T12:35:41.6753115",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4032,7 +4032,7 @@
       "phone": null,
       "email": "director@festivalelcc.com",
       "website": null,
-      "sourceLastModified": "2026-09-09T16:59:47.7583967",
+      "sourceLastModified": "2026-09-15T12:34:53.6077109",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -7707,7 +7707,7 @@
       "phone": null,
       "email": "littleangelsmb@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-04T17:56:45.3643799",
+      "sourceLastModified": "2026-09-15T01:24:52.2711033",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -15557,11 +15557,11 @@
       "phone": "(204) 997-8207",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-07-20T12:50:16.1013777",
+      "sourceLastModified": "2026-09-15T11:56:17.918436",
       "vacancies": {
-        "infant": 1,
+        "infant": 0,
         "nursery": 0,
-        "preschool": 0,
+        "preschool": 1,
         "schoolAge": 0
       }
     },

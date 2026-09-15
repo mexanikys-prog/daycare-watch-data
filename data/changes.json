@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-15T00:38:40.660Z",
+  "generatedAt": "2026-09-15T14:05:50.539Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-15T14:05:50.539Z",
+      "facilityId": "102191",
+      "facilityName": "We Care Family Child Care",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-15T14:05:50.539Z",
+      "facilityId": "102191",
+      "facilityName": "We Care Family Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-09-15T00:38:40.660Z",
       "facilityId": "103192",
