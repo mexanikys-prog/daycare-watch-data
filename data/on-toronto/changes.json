@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-14T21:47:06.067Z",
+  "generatedAt": "2026-09-15T16:55:05.336Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-15T16:55:05.336Z",
+      "facilityId": "toronto:13967930",
+      "facilityName": "Rawlinson Early Learning & Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-09-13T04:28:59.288Z",
       "facilityId": "toronto:338836",
