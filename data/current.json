@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T12:50:21.508Z",
+  "generatedAt": "2026-09-16T16:56:02.207Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -7157,7 +7157,7 @@
       "phone": null,
       "email": "lgdinfo@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-09-09T22:06:53.9660682",
+      "sourceLastModified": "2026-09-16T14:52:02.8757601",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -13782,10 +13782,10 @@
       "phone": "(204) 888-5700",
       "email": "stjamesmontessori@gmail.com",
       "website": "http://www.stjamesmontessorischool.com",
-      "sourceLastModified": "2026-06-08T14:14:03.8158074",
+      "sourceLastModified": "2026-09-16T15:42:56.6031851",
       "vacancies": {
         "infant": 0,
-        "nursery": 8,
+        "nursery": 15,
         "preschool": 0,
         "schoolAge": 0
       }
