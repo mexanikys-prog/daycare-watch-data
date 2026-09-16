@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T00:48:23.153Z",
+  "generatedAt": "2026-09-16T12:50:21.508Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,9 +9,9 @@
   "city": "Winnipeg",
   "facilityCount": 659,
   "summary": {
-    "infant": 19,
+    "infant": 18,
     "nursery": 29,
-    "preschool": 77,
+    "preschool": 75,
     "schoolAge": 117
   },
   "facilities": [
@@ -3107,12 +3107,12 @@
       "phone": "(431) 998-3686",
       "email": "dimpalasurati@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-09T14:13:10.1922741",
+      "sourceLastModified": "2026-09-16T02:46:05.7242865",
       "vacancies": {
-        "infant": 3,
+        "infant": 0,
         "nursery": 0,
-        "preschool": 1,
-        "schoolAge": 2
+        "preschool": 0,
+        "schoolAge": 1
       }
     },
     {
@@ -3957,12 +3957,12 @@
       "phone": null,
       "email": "Fatoumata.doumbia11@yahoo.ca",
       "website": null,
-      "sourceLastModified": "2026-09-14T15:23:11.2900217",
+      "sourceLastModified": "2026-09-16T01:56:14.9754221",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
         "preschool": 0,
-        "schoolAge": 1
+        "schoolAge": 0
       }
     },
     {
@@ -6407,12 +6407,12 @@
       "phone": "(431) 777-4716",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-11T18:25:24.7463779",
+      "sourceLastModified": "2026-09-16T02:03:49.1014139",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 1,
-        "schoolAge": 1
+        "preschool": 0,
+        "schoolAge": 3
       }
     },
     {
@@ -8282,12 +8282,12 @@
       "phone": "(204) 296-9136",
       "email": "littlestarschildcare1502@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-08-17T14:58:54.2181897",
+      "sourceLastModified": "2026-09-16T02:33:04.8434214",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
         "preschool": 0,
-        "schoolAge": 0
+        "schoolAge": 2
       }
     },
     {

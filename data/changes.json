@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-09-16T00:48:23.153Z",
+  "generatedAt": "2026-09-16T12:50:21.508Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-16T12:50:21.508Z",
+      "facilityId": "103161",
+      "facilityName": "Dimpal Surati",
+      "ageGroup": "infant",
+      "oldValue": 3,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-16T12:50:21.508Z",
+      "facilityId": "103161",
+      "facilityName": "Dimpal Surati",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-16T12:50:21.508Z",
+      "facilityId": "103161",
+      "facilityName": "Dimpal Surati",
+      "ageGroup": "schoolAge",
+      "oldValue": 2,
+      "newValue": 1,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-09-16T12:50:21.508Z",
+      "facilityId": "102672",
+      "facilityName": "Fatoumata Doumbia",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-16T12:50:21.508Z",
+      "facilityId": "102865",
+      "facilityName": "Katungi Vikokolaki",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-16T12:50:21.508Z",
+      "facilityId": "102865",
+      "facilityName": "Katungi Vikokolaki",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 3,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-09-16T12:50:21.508Z",
+      "facilityId": "103121",
+      "facilityName": "Little Star Child Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 2,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-09-15T22:56:33.971Z",
       "facilityId": "102857",
