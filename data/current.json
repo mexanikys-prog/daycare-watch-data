@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T20:20:21.852Z",
+  "generatedAt": "2026-09-17T23:06:04.253Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -11,7 +11,7 @@
   "summary": {
     "infant": 18,
     "nursery": 29,
-    "preschool": 75,
+    "preschool": 76,
     "schoolAge": 117
   },
   "facilities": [
@@ -107,7 +107,7 @@
       "phone": null,
       "email": "gladtidingsdaycare@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-06-29T13:54:49.6472049",
+      "sourceLastModified": "2026-09-17T21:02:47.0204707",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -2182,11 +2182,11 @@
       "phone": "(204) 297-9374",
       "email": "fetolentinoantonio@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-14T11:42:35.9372868",
+      "sourceLastModified": "2026-09-17T22:05:01.3180858",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 0,
+        "preschool": 1,
         "schoolAge": 2
       }
     },

@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-17T20:20:21.852Z",
+  "generatedAt": "2026-09-17T23:06:04.253Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-17T23:06:04.253Z",
+      "facilityId": "103142",
+      "facilityName": "CB Family Home Day Care",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-09-16T16:56:02.207Z",
       "facilityId": "2249",
