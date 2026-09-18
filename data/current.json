@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T19:34:45.827Z",
+  "generatedAt": "2026-09-18T21:18:22.502Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -7,7 +7,7 @@
   "sourceKey": "manitoba-child-care-search",
   "source": "Manitoba Child Care Search",
   "city": "Winnipeg",
-  "facilityCount": 659,
+  "facilityCount": 660,
   "summary": {
     "infant": 18,
     "nursery": 29,
@@ -11233,6 +11233,31 @@
       "email": "pjdaycre@mymts.net",
       "website": "https://www.pacificjunctiondaycare.com",
       "sourceLastModified": "2026-07-20T12:46:03.8825042",
+      "vacancies": {
+        "infant": 0,
+        "nursery": 0,
+        "preschool": 0,
+        "schoolAge": 0
+      }
+    },
+    {
+      "sourceId": "3103",
+      "displayName": "Pacific Junction School Age Centre Inc.",
+      "facilityType": "CENTRE",
+      "businessType": "Non-Profit",
+      "fundingType": "Funded",
+      "address": "15-715 Cathcart Street",
+      "city": "Winnipeg",
+      "postalCode": "R3R 3M7",
+      "neighbourhood": "ELMHURST",
+      "region": "WINNIPEG",
+      "latitude": 49.850855,
+      "longitude": -97.253841,
+      "hideLocation": false,
+      "phone": "(204) 228-6796",
+      "email": "purplej@mts.net",
+      "website": null,
+      "sourceLastModified": "2026-09-18T20:59:56.1276574",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
