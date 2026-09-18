@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-17T17:41:02.344Z",
+  "generatedAt": "2026-09-18T16:21:55.567Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-18T16:21:55.567Z",
+      "facilityId": "toronto:574232",
+      "facilityName": "Westown Early Learning And Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-09-15T16:55:05.336Z",
       "facilityId": "toronto:13967930",
