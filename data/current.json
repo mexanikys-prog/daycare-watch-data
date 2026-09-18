@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T16:23:36.823Z",
+  "generatedAt": "2026-09-18T18:24:18.056Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9832,10 +9832,10 @@
       "phone": "(204) 663-8053",
       "email": "mgpc@mymts.net",
       "website": null,
-      "sourceLastModified": "2026-09-09T14:29:26.9750926",
+      "sourceLastModified": "2026-09-18T17:54:23.8039645",
       "vacancies": {
         "infant": 0,
-        "nursery": 4,
+        "nursery": 8,
         "preschool": 0,
         "schoolAge": 0
       }
