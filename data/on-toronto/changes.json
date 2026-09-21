@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-18T16:21:55.567Z",
+  "generatedAt": "2026-09-21T16:03:30.822Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-21T16:03:30.822Z",
+      "facilityId": "toronto:6052169",
+      "facilityName": "Kipling Early Learning & Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:03:30.822Z",
+      "facilityId": "toronto:6052169",
+      "facilityName": "Kipling Early Learning & Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:03:30.822Z",
+      "facilityId": "toronto:12834077",
+      "facilityName": "Malvern Early Learning & Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:03:30.822Z",
+      "facilityId": "toronto:390308",
+      "facilityName": "Simcoe Sunshine Child Care (166 Sylvan Avenue)",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-09-18T16:21:55.567Z",
       "facilityId": "toronto:574232",
