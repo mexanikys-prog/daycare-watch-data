@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-21T18:12:30.870Z",
+  "generatedAt": "2026-09-21T20:31:21.644Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-21T20:31:21.644Z",
+      "facilityId": "2029",
+      "facilityName": "Seven Oaks Sadok Inc.",
+      "ageGroup": "nursery",
+      "oldValue": 2,
+      "newValue": 3,
+      "changeType": "VACANCY_INCREASED"
+    },
     {
       "detectedAt": "2026-09-21T18:12:30.870Z",
       "facilityId": "9318",
