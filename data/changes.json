@@ -1,6 +1,240 @@
 {
-  "generatedAt": "2026-09-19T04:53:21.210Z",
+  "generatedAt": "2026-09-21T16:02:52.974Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "101941",
+      "facilityName": "Alice Ando Goli",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "102843",
+      "facilityName": "Bairdmore Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "3084",
+      "facilityName": "Central Park Child Care Inc.",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "102784",
+      "facilityName": "Faila Yuma",
+      "ageGroup": "infant",
+      "oldValue": 3,
+      "newValue": 2,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "102784",
+      "facilityName": "Faila Yuma",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "102784",
+      "facilityName": "Faila Yuma",
+      "ageGroup": "schoolAge",
+      "oldValue": 2,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "102865",
+      "facilityName": "Katungi Vikokolaki",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "102841",
+      "facilityName": "Kindheart Childcare",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "102382",
+      "facilityName": "Little Angels Home Daycare",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "102904",
+      "facilityName": "Little One's Learning Centre Inc.",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "2146",
+      "facilityName": "Lord Wolseley Nursery School Incorporated",
+      "ageGroup": "preschool",
+      "oldValue": 33,
+      "newValue": 36,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "9180",
+      "facilityName": "Ma Mawi Wi Chi Itata Centre Inc. - Child Development Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "101896",
+      "facilityName": "Mantsangassa Blanche Loubila",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "102741",
+      "facilityName": "Nonila Sanque",
+      "ageGroup": "schoolAge",
+      "oldValue": 2,
+      "newValue": 3,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "102660",
+      "facilityName": "River East Montessori School Inc.",
+      "ageGroup": "preschool",
+      "oldValue": 2,
+      "newValue": 8,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "103294",
+      "facilityName": "River Heights Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 12,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "103195",
+      "facilityName": "River Park Play Place",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 2,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "101245",
+      "facilityName": "Rowena Memita",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 3,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "102253",
+      "facilityName": "Sehar's Family Day Care",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "102253",
+      "facilityName": "Sehar's Family Day Care",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "2249",
+      "facilityName": "St. James Assiniboia Montessori School Inc.",
+      "ageGroup": "nursery",
+      "oldValue": 15,
+      "newValue": 18,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "80204",
+      "facilityName": "Sunrise Sunset ChildCare Inc",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 4,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "103184",
+      "facilityName": "The Tiny Turtle Early Learning & Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 2,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "3063",
+      "facilityName": "Victoria Albert Day Care Inc.",
+      "ageGroup": "schoolAge",
+      "oldValue": 14,
+      "newValue": 10,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "102191",
+      "facilityName": "We Care Family Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-21T16:02:52.974Z",
+      "facilityId": "103183",
+      "facilityName": "Zanelle's Little Champs",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-09-18T18:24:18.056Z",
       "facilityId": "2134",
