@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-21T16:02:52.974Z",
+  "generatedAt": "2026-09-21T18:12:30.870Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-21T18:12:30.870Z",
+      "facilityId": "9318",
+      "facilityName": "Chancellor Before and After School Program",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-21T18:12:30.870Z",
+      "facilityId": "102043",
+      "facilityName": "Good Fortune Home Day Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 3,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-21T18:12:30.870Z",
+      "facilityId": "102865",
+      "facilityName": "Katungi Vikokolaki",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-21T18:12:30.870Z",
+      "facilityId": "2146",
+      "facilityName": "Lord Wolseley Nursery School Incorporated",
+      "ageGroup": "preschool",
+      "oldValue": 36,
+      "newValue": 35,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-09-21T18:12:30.870Z",
+      "facilityId": "2334",
+      "facilityName": "The Little Years School Inc.",
+      "ageGroup": "nursery",
+      "oldValue": 4,
+      "newValue": 5,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-09-21T18:12:30.870Z",
+      "facilityId": "9531",
+      "facilityName": "Whyte Ridge Before and After School Program",
+      "ageGroup": "schoolAge",
+      "oldValue": 10,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-09-21T16:02:52.974Z",
       "facilityId": "101941",
