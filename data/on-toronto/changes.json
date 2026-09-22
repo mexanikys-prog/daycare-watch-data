@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-21T16:03:30.822Z",
+  "generatedAt": "2026-09-22T13:36:51.131Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-22T13:36:51.131Z",
+      "facilityId": "toronto:2261459",
+      "facilityName": "Fairmount Sunshine Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-22T13:36:51.131Z",
+      "facilityId": "toronto:14208804",
+      "facilityName": "University Settlement Day Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-09-21T16:03:30.822Z",
       "facilityId": "toronto:6052169",
