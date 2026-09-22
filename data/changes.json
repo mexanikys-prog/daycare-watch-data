@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-21T23:31:42.233Z",
+  "generatedAt": "2026-09-22T04:48:42.295Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-22T04:48:42.295Z",
+      "facilityId": "100547",
+      "facilityName": "Machray Day Nursery Inc, School Age",
+      "ageGroup": "schoolAge",
+      "oldValue": 8,
+      "newValue": 18,
+      "changeType": "VACANCY_INCREASED"
+    },
     {
       "detectedAt": "2026-09-21T20:31:21.644Z",
       "facilityId": "2029",
