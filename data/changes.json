@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-22T13:36:52.503Z",
+  "generatedAt": "2026-09-22T15:30:32.508Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-22T15:30:32.508Z",
+      "facilityId": "102834",
+      "facilityName": "River East Montessori second site",
+      "ageGroup": "preschool",
+      "oldValue": 4,
+      "newValue": 10,
+      "changeType": "VACANCY_INCREASED"
+    },
     {
       "detectedAt": "2026-09-22T13:27:19.570Z",
       "facilityId": "102857",
