@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T15:30:32.508Z",
+  "generatedAt": "2026-09-22T19:17:57.841Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -382,7 +382,7 @@
       "phone": null,
       "email": "robyn@alephbet.ca",
       "website": "http://www.alephbet.ca",
-      "sourceLastModified": "2026-07-21T16:48:11.1466987",
+      "sourceLastModified": "2026-09-22T15:48:03.4775025",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
