@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T04:48:42.295Z",
+  "generatedAt": "2026-09-22T13:27:19.570Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,7 +9,7 @@
   "city": "Winnipeg",
   "facilityCount": 660,
   "summary": {
-    "infant": 22,
+    "infant": 21,
     "nursery": 30,
     "preschool": 71,
     "schoolAge": 115
@@ -7057,7 +7057,7 @@
       "phone": null,
       "email": "bureau@leptitbonheurinc.com",
       "website": null,
-      "sourceLastModified": "2026-09-14T11:52:20.0641731",
+      "sourceLastModified": "2026-09-22T12:51:21.3589264",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -7182,7 +7182,7 @@
       "phone": null,
       "email": "learningtree10@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T13:29:48.8521821",
+      "sourceLastModified": "2026-09-22T10:42:52.2991817",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9457,7 +9457,7 @@
       "phone": "(431) 556-0628",
       "email": "znergypeepswpg@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-14T11:55:10.2322718",
+      "sourceLastModified": "2026-09-22T05:03:49.8994764",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11057,9 +11057,9 @@
       "phone": null,
       "email": "bisoladunjoye@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-15T22:53:12.6896139",
+      "sourceLastModified": "2026-09-22T10:46:39.9456636",
       "vacancies": {
-        "infant": 1,
+        "infant": 0,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 0
@@ -14182,7 +14182,7 @@
       "phone": null,
       "email": "starsofpromise@yahoo.com",
       "website": "https://starsofpromise.childcare.link",
-      "sourceLastModified": "2026-09-14T12:31:05.5194172",
+      "sourceLastModified": "2026-09-22T12:38:34.370087",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
