@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T19:10:17.714Z",
+  "generatedAt": "2026-09-23T20:32:13.548Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,9 +9,9 @@
   "city": "Winnipeg",
   "facilityCount": 660,
   "summary": {
-    "infant": 21,
+    "infant": 22,
     "nursery": 30,
-    "preschool": 71,
+    "preschool": 72,
     "schoolAge": 114
   },
   "facilities": [
@@ -12357,11 +12357,11 @@
       "phone": "(204) 296-6550",
       "email": "richmondmontessoritaylor@gmail.com",
       "website": "https://www.richmondmontessorischool.ca/",
-      "sourceLastModified": "2024-06-18T00:18:48.8024541",
+      "sourceLastModified": "2026-09-23T19:45:21.1830581",
       "vacancies": {
-        "infant": 0,
+        "infant": 2,
         "nursery": 0,
-        "preschool": 0,
+        "preschool": 4,
         "schoolAge": 0
       }
     },

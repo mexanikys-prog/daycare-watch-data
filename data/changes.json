@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-23T19:10:17.714Z",
+  "generatedAt": "2026-09-23T20:32:13.548Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-23T20:32:13.548Z",
+      "facilityId": "102694",
+      "facilityName": "Richmond Montessori School Inc",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 2,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-23T20:32:13.548Z",
+      "facilityId": "102694",
+      "facilityName": "Richmond Montessori School Inc",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 4,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-09-23T19:10:17.714Z",
       "facilityId": "2219",
