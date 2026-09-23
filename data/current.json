@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T16:37:01.913Z",
+  "generatedAt": "2026-09-23T19:10:17.714Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -4882,10 +4882,10 @@
       "phone": null,
       "email": "greendelltinytots@gmail.com",
       "website": "https://www.greendell.ca/post/tiny-tots-nursery",
-      "sourceLastModified": "2026-09-08T02:00:09.5875854",
+      "sourceLastModified": "2026-09-23T17:48:58.1839713",
       "vacancies": {
         "infant": 0,
-        "nursery": 12,
+        "nursery": 11,
         "preschool": 0,
         "schoolAge": 0
       }

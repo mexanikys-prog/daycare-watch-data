@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-23T16:37:01.913Z",
+  "generatedAt": "2026-09-23T19:10:17.714Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-23T19:10:17.714Z",
+      "facilityId": "2219",
+      "facilityName": "Greendell Tiny Tots Nursery School",
+      "ageGroup": "nursery",
+      "oldValue": 12,
+      "newValue": 11,
+      "changeType": "VACANCY_DECREASED"
+    },
     {
       "detectedAt": "2026-09-23T16:37:01.913Z",
       "facilityId": "103080",
