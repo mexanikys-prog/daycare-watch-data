@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T14:46:40.905Z",
+  "generatedAt": "2026-09-23T16:37:01.913Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -12,7 +12,7 @@
     "infant": 21,
     "nursery": 30,
     "preschool": 71,
-    "schoolAge": 115
+    "schoolAge": 114
   },
   "facilities": [
     {
@@ -11557,12 +11557,12 @@
       "phone": null,
       "email": "playmaternelle@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-03-16T12:44:57.6095775",
+      "sourceLastModified": "2026-09-23T15:53:40.4793764",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
         "preschool": 0,
-        "schoolAge": 4
+        "schoolAge": 0
       }
     },
     {
