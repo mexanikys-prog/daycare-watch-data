@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T17:07:12.489Z",
+  "generatedAt": "2026-09-24T19:58:48.532Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -11,7 +11,7 @@
   "summary": {
     "infant": 23,
     "nursery": 30,
-    "preschool": 72,
+    "preschool": 73,
     "schoolAge": 114
   },
   "facilities": [
@@ -11982,11 +11982,11 @@
       "phone": null,
       "email": "pardeep4saggu@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-01T18:10:00.0512427",
+      "sourceLastModified": "2026-09-24T19:24:34.5934709",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 0,
+        "preschool": 1,
         "schoolAge": 0
       }
     },
