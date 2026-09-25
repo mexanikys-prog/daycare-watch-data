@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-24T13:54:29.334Z",
+  "generatedAt": "2026-09-25T12:31:24.574Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-25T12:31:24.574Z",
+      "facilityId": "toronto:324733",
+      "facilityName": "Network Child Care Services - St. Gabriel Lalemant",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-09-24T13:54:29.334Z",
       "facilityId": "toronto:8855191",
