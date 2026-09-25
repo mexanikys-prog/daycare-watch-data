@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T16:31:26.921Z",
+  "generatedAt": "2026-09-25T18:31:22.307Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,7 +9,7 @@
   "city": "Winnipeg",
   "facilityCount": 660,
   "summary": {
-    "infant": 23,
+    "infant": 24,
     "nursery": 30,
     "preschool": 73,
     "schoolAge": 114
@@ -3832,7 +3832,7 @@
       "phone": "(204) 697-3910",
       "email": "emoura@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-09-08T08:06:15.3136057",
+      "sourceLastModified": "2026-09-25T17:28:19.3372079",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9882,9 +9882,9 @@
       "phone": "(204) 960-3008",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-21T17:49:21.7078959",
+      "sourceLastModified": "2026-09-25T16:43:54.7253375",
       "vacancies": {
-        "infant": 0,
+        "infant": 1,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 1
