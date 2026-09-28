@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T20:31:07.758Z",
+  "generatedAt": "2026-09-28T22:31:01.797Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -7,12 +7,12 @@
   "sourceKey": "manitoba-child-care-search",
   "source": "Manitoba Child Care Search",
   "city": "Winnipeg",
-  "facilityCount": 660,
+  "facilityCount": 661,
   "summary": {
     "infant": 25,
     "nursery": 31,
-    "preschool": 71,
-    "schoolAge": 111
+    "preschool": 72,
+    "schoolAge": 112
   },
   "facilities": [
     {
@@ -1432,7 +1432,7 @@
       "phone": null,
       "email": "celynpapa@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T19:17:34.2833757",
+      "sourceLastModified": "2026-09-28T21:56:56.4813684",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -3982,7 +3982,7 @@
       "phone": null,
       "email": "goodhandschildcare89@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T19:40:46.0814458",
+      "sourceLastModified": "2026-09-28T20:42:00.9223897",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -7482,7 +7482,7 @@
       "phone": "(204) 416-8017",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-21T12:41:46.8902852",
+      "sourceLastModified": "2026-09-28T20:32:12.8963776",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -10132,7 +10132,7 @@
       "phone": "(204) 881-1045",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-21T17:49:25.9157824",
+      "sourceLastModified": "2026-09-28T21:03:24.402116",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11782,7 +11782,7 @@
       "phone": "(204) 583-1762",
       "email": "preciousones94@gmail.com",
       "website": "http://www.preciousonesdaycare.ca",
-      "sourceLastModified": "2026-09-21T19:42:35.9530932",
+      "sourceLastModified": "2026-09-28T22:30:28.3581528",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -12332,7 +12332,7 @@
       "phone": "(204) 296-6550",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-14T17:01:19.1198949",
+      "sourceLastModified": "2026-09-28T21:20:42.8001424",
       "vacancies": {
         "infant": 16,
         "nursery": 0,
@@ -15113,6 +15113,31 @@
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 0
+      }
+    },
+    {
+      "sourceId": "103130",
+      "displayName": "UGDC Family Child Care",
+      "facilityType": "HOME",
+      "businessType": "For-Profit",
+      "fundingType": "Non Funded",
+      "address": "990 Minto Street",
+      "city": "Winnipeg",
+      "postalCode": "R3G 2R8",
+      "neighbourhood": "SARGENT PARK",
+      "region": "WINNIPEG",
+      "latitude": 49.896949,
+      "longitude": -97.18002,
+      "hideLocation": false,
+      "phone": "(204) 229-2026",
+      "email": null,
+      "website": null,
+      "sourceLastModified": "2026-09-28T21:37:24.2404858",
+      "vacancies": {
+        "infant": 0,
+        "nursery": 0,
+        "preschool": 1,
+        "schoolAge": 3
       }
     },
     {
