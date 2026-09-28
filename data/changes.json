@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-28T14:31:32.110Z",
+  "generatedAt": "2026-09-28T16:31:16.446Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-28T16:31:16.446Z",
+      "facilityId": "102040",
+      "facilityName": "Corazon Family Home Child Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-28T16:31:16.446Z",
+      "facilityId": "102704",
+      "facilityName": "Guiding Minds Montessori School",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-28T16:31:16.446Z",
+      "facilityId": "102704",
+      "facilityName": "Guiding Minds Montessori School",
+      "ageGroup": "preschool",
+      "oldValue": 6,
+      "newValue": 8,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-09-28T16:31:16.446Z",
+      "facilityId": "102717",
+      "facilityName": "Happy Bear Montessori",
+      "ageGroup": "preschool",
+      "oldValue": 2,
+      "newValue": 1,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-09-28T16:31:16.446Z",
+      "facilityId": "102865",
+      "facilityName": "Katungi Vikokolaki",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-28T16:31:16.446Z",
+      "facilityId": "102382",
+      "facilityName": "Little Angels Home Daycare",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-09-28T14:31:32.110Z",
       "facilityId": "101941",
