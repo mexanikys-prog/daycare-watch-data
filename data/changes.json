@@ -1,6 +1,114 @@
 {
-  "generatedAt": "2026-09-28T12:31:25.695Z",
+  "generatedAt": "2026-09-28T14:31:32.110Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-28T14:31:32.110Z",
+      "facilityId": "101941",
+      "facilityName": "Alice Ando Goli",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-28T14:31:32.110Z",
+      "facilityId": "101124",
+      "facilityName": "Anne Perera",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-28T14:31:32.110Z",
+      "facilityId": "2026",
+      "facilityName": "Children's House",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 10,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-28T14:31:32.110Z",
+      "facilityId": "102257",
+      "facilityName": "Happy Tots Home Day Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 2,
+      "newValue": 3,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-09-28T14:31:32.110Z",
+      "facilityId": "102163",
+      "facilityName": "Little Dragon Montessori",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-28T14:31:32.110Z",
+      "facilityId": "102163",
+      "facilityName": "Little Dragon Montessori",
+      "ageGroup": "preschool",
+      "oldValue": 2,
+      "newValue": 1,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-09-28T14:31:32.110Z",
+      "facilityId": "102496",
+      "facilityName": "Mary Grace's Family Child Care",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-28T14:31:32.110Z",
+      "facilityId": "103040",
+      "facilityName": "Melinda  Pascual",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-28T14:31:32.110Z",
+      "facilityId": "103040",
+      "facilityName": "Melinda  Pascual",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-28T14:31:32.110Z",
+      "facilityId": "9139",
+      "facilityName": "Shelley Hintz",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-28T14:31:32.110Z",
+      "facilityId": "9139",
+      "facilityName": "Shelley Hintz",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-28T14:31:32.110Z",
+      "facilityId": "2335",
+      "facilityName": "Winnipeg Military Family Resource Centre – Nursery School",
+      "ageGroup": "nursery",
+      "oldValue": 28,
+      "newValue": 22,
+      "changeType": "VACANCY_DECREASED"
+    },
     {
       "detectedAt": "2026-09-28T12:31:25.695Z",
       "facilityId": "103259",

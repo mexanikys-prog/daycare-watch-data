@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T12:31:25.695Z",
+  "generatedAt": "2026-09-28T14:31:32.110Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,10 +9,10 @@
   "city": "Winnipeg",
   "facilityCount": 660,
   "summary": {
-    "infant": 23,
-    "nursery": 30,
+    "infant": 25,
+    "nursery": 31,
     "preschool": 73,
-    "schoolAge": 114
+    "schoolAge": 112
   },
   "facilities": [
     {
@@ -282,7 +282,7 @@
       "phone": "(431) 999-8974",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-21T12:58:04.6749973",
+      "sourceLastModified": "2026-09-28T13:34:23.8329757",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -407,11 +407,11 @@
       "phone": null,
       "email": "alicenestcare@outlook.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T12:10:14.686363",
+      "sourceLastModified": "2026-09-28T14:19:52.3259387",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 0,
+        "preschool": 1,
         "schoolAge": 0
       }
     },
@@ -432,7 +432,7 @@
       "phone": null,
       "email": "almarongcal@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-09-14T12:26:29.154145",
+      "sourceLastModified": "2026-09-28T13:56:41.6658302",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -482,7 +482,7 @@
       "phone": "(204) 416-4039",
       "email": "alpalazo727@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T14:33:41.7667411",
+      "sourceLastModified": "2026-09-28T14:14:16.510866",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -532,7 +532,7 @@
       "phone": null,
       "email": "chabachamina1@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T14:46:26.0533605",
+      "sourceLastModified": "2026-09-28T14:28:27.7843477",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -682,11 +682,11 @@
       "phone": "(204) 786-1375",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-21T14:19:28.8813062",
+      "sourceLastModified": "2026-09-28T13:56:57.1488407",
       "vacancies": {
         "infant": 1,
         "nursery": 0,
-        "preschool": 0,
+        "preschool": 1,
         "schoolAge": 1
       }
     },
@@ -1057,7 +1057,7 @@
       "phone": null,
       "email": "daycare@avicenna-academy.ca",
       "website": "http://www.avicenna-academy.ca",
-      "sourceLastModified": "2026-09-21T13:55:48.4653119",
+      "sourceLastModified": "2026-09-28T14:03:36.6764245",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -1132,7 +1132,7 @@
       "phone": "(204) 952-3009",
       "email": "rahimi.fariba2011@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T12:35:03.8288112",
+      "sourceLastModified": "2026-09-28T12:54:36.4631618",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -1182,7 +1182,7 @@
       "phone": "(204) 998-4163",
       "email": "ross_lynx05@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-09-14T13:06:35.6429692",
+      "sourceLastModified": "2026-09-28T14:03:28.5511809",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -1532,7 +1532,7 @@
       "phone": "(204) 667-2930",
       "email": "cccbrightfuture@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T15:14:37.403927",
+      "sourceLastModified": "2026-09-28T13:31:05.2594455",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -1607,7 +1607,7 @@
       "phone": null,
       "email": "bcd@brockcorydondaycare.ca",
       "website": "http://www.brockcorydondaycare.ca",
-      "sourceLastModified": "2026-09-21T13:23:42.1712138",
+      "sourceLastModified": "2026-09-28T12:31:58.5785572",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -1707,7 +1707,7 @@
       "phone": null,
       "email": "director@bumpercropelc.ca",
       "website": null,
-      "sourceLastModified": "2026-09-21T15:57:14.1205604",
+      "sourceLastModified": "2026-09-28T13:44:32.0186681",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -1882,7 +1882,7 @@
       "phone": null,
       "email": "office@campuschildrenscentre.com",
       "website": "https://www.campuschildrenscentre.com",
-      "sourceLastModified": "2026-09-21T15:29:27.4064765",
+      "sourceLastModified": "2026-09-28T12:33:35.213084",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -2032,7 +2032,7 @@
       "phone": null,
       "email": "cccinc@carpathiachildrenscentre.ca",
       "website": null,
-      "sourceLastModified": "2026-09-21T13:33:00.0843195",
+      "sourceLastModified": "2026-09-28T12:35:13.8038936",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -2057,7 +2057,7 @@
       "phone": null,
       "email": "cccinc@carpathiachildrenscentre.ca",
       "website": null,
-      "sourceLastModified": "2026-09-21T13:33:22.5477276",
+      "sourceLastModified": "2026-09-28T12:35:32.167101",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -2457,10 +2457,10 @@
       "phone": null,
       "email": "childrenshousewinnipeg@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T14:19:25.6500987",
+      "sourceLastModified": "2026-09-28T14:23:27.0494479",
       "vacancies": {
         "infant": 0,
-        "nursery": 0,
+        "nursery": 10,
         "preschool": 0,
         "schoolAge": 0
       }
@@ -2482,7 +2482,7 @@
       "phone": "(204) 997-0803",
       "email": "malengachouchou@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T14:20:23.030075",
+      "sourceLastModified": "2026-09-28T13:37:58.3354192",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -2782,7 +2782,7 @@
       "phone": null,
       "email": "amankwaofori@yahoo.ca",
       "website": null,
-      "sourceLastModified": "2026-09-21T18:12:23.31117",
+      "sourceLastModified": "2026-09-28T13:41:31.1509543",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -3132,7 +3132,7 @@
       "phone": null,
       "email": "dcc@discoverycc.com",
       "website": "http://www.discoverycc.com",
-      "sourceLastModified": "2026-09-21T13:09:49.7368056",
+      "sourceLastModified": "2026-09-28T13:03:33.7561203",
       "vacancies": {
         "infant": 0,
         "nursery": 12,
@@ -3732,7 +3732,7 @@
       "phone": null,
       "email": "evelyncfriesen@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T12:11:33.9615323",
+      "sourceLastModified": "2026-09-28T12:36:40.5867203",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -3932,7 +3932,7 @@
       "phone": null,
       "email": "farzanabibi104@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T11:57:44.3227675",
+      "sourceLastModified": "2026-09-28T12:50:41.0527651",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4057,7 +4057,7 @@
       "phone": "(204) 295-8648",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-21T13:48:04.8217873",
+      "sourceLastModified": "2026-09-28T12:49:30.4738455",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4082,7 +4082,7 @@
       "phone": null,
       "email": "flordelisa.alas@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T11:16:22.6587428",
+      "sourceLastModified": "2026-09-28T12:37:21.1808803",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4282,7 +4282,7 @@
       "phone": null,
       "email": "susan@frcdn.ca",
       "website": null,
-      "sourceLastModified": "2026-09-21T12:40:39.108979",
+      "sourceLastModified": "2026-09-28T14:03:55.6664399",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4307,7 +4307,7 @@
       "phone": null,
       "email": "susan@frcdn.ca",
       "website": null,
-      "sourceLastModified": "2026-09-21T12:40:52.3641147",
+      "sourceLastModified": "2026-09-28T14:04:09.1675285",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4532,7 +4532,7 @@
       "phone": null,
       "email": "garderiehope@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-22T00:43:04.7300822",
+      "sourceLastModified": "2026-09-28T14:02:01.5822645",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4707,7 +4707,7 @@
       "phone": "(204) 253-2559",
       "email": "generalvaniernursery@gmail.com",
       "website": "https://generalvaniernurse.wixsite.com/mysite",
-      "sourceLastModified": "2026-09-21T12:42:17.9643623",
+      "sourceLastModified": "2026-09-28T12:40:15.8921026",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4732,7 +4732,7 @@
       "phone": null,
       "email": "gerconnors@live.ca",
       "website": null,
-      "sourceLastModified": "2026-08-31T12:41:41.7105581",
+      "sourceLastModified": "2026-09-28T13:14:12.0351669",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4932,7 +4932,7 @@
       "phone": null,
       "email": "gkgrewal135@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T11:55:09.7364487",
+      "sourceLastModified": "2026-09-28T13:37:04.8870574",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -5157,12 +5157,12 @@
       "phone": null,
       "email": "zurcmcflerie@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-09-14T15:22:18.9210423",
+      "sourceLastModified": "2026-09-28T14:00:58.2771896",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
         "preschool": 0,
-        "schoolAge": 2
+        "schoolAge": 3
       }
     },
     {
@@ -5857,7 +5857,7 @@
       "phone": null,
       "email": "irene.ilagan@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T12:39:30.6822088",
+      "sourceLastModified": "2026-09-28T12:55:31.1922307",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6182,7 +6182,7 @@
       "phone": null,
       "email": "795keep@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T13:30:06.9707219",
+      "sourceLastModified": "2026-09-28T13:15:00.2837104",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6207,7 +6207,7 @@
       "phone": null,
       "email": "karenohlson@kidsincorporated.ca",
       "website": "https://www.kidsincorporated.ca/",
-      "sourceLastModified": "2026-09-21T13:30:16.0537656",
+      "sourceLastModified": "2026-09-28T13:21:00.180801",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6232,7 +6232,7 @@
       "phone": null,
       "email": "karenohlson@kidsincorporated.ca",
       "website": "http://www.kidsincorporated.ca",
-      "sourceLastModified": "2026-09-21T13:31:22.681631",
+      "sourceLastModified": "2026-09-28T13:23:05.9459282",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6257,7 +6257,7 @@
       "phone": null,
       "email": "karenohlson@kidsincorporated.ca",
       "website": "http://www.kidsincorporated.ca",
-      "sourceLastModified": "2026-09-21T13:30:39.3629874",
+      "sourceLastModified": "2026-09-28T13:22:09.4183633",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6282,7 +6282,7 @@
       "phone": null,
       "email": "karenohlson@kidsincorporated.ca",
       "website": "http://www.kidsincorporated.ca",
-      "sourceLastModified": "2026-09-21T13:31:03.4600952",
+      "sourceLastModified": "2026-09-28T13:22:49.0471239",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6307,7 +6307,7 @@
       "phone": null,
       "email": "karenohlson@kidsincorporated.ca",
       "website": "http://www.kidsincorporated.ca",
-      "sourceLastModified": "2026-09-21T13:29:01.4972263",
+      "sourceLastModified": "2026-09-28T13:20:12.0887102",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -7057,7 +7057,7 @@
       "phone": null,
       "email": "bureau@leptitbonheurinc.com",
       "website": null,
-      "sourceLastModified": "2026-09-22T12:51:21.3589264",
+      "sourceLastModified": "2026-09-28T12:54:38.8235937",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -7182,7 +7182,7 @@
       "phone": null,
       "email": "learningtree10@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-22T13:41:23.1364862",
+      "sourceLastModified": "2026-09-28T12:55:52.3813412",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -7832,11 +7832,11 @@
       "phone": null,
       "email": "learningtree91@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T13:18:44.3943974",
+      "sourceLastModified": "2026-09-28T13:19:33.674991",
       "vacancies": {
-        "infant": 0,
+        "infant": 1,
         "nursery": 0,
-        "preschool": 2,
+        "preschool": 1,
         "schoolAge": 0
       }
     },
@@ -8007,7 +8007,7 @@
       "phone": "(204) 809-0598",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-08-31T13:01:50.7128851",
+      "sourceLastModified": "2026-09-28T13:25:43.7001544",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8107,7 +8107,7 @@
       "phone": "(204) 583-1727",
       "email": "marissa_ortiz18@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T11:06:25.2210514",
+      "sourceLastModified": "2026-09-28T12:55:06.7718317",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8307,7 +8307,7 @@
       "phone": null,
       "email": "vericaboskovska@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T14:19:39.775844",
+      "sourceLastModified": "2026-09-28T13:46:37.3686666",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8482,7 +8482,7 @@
       "phone": null,
       "email": "livingprairiechildcare@gmail.com",
       "website": "https://www.livingprairiechildcare.ca/",
-      "sourceLastModified": "2026-09-21T14:17:33.9296092",
+      "sourceLastModified": "2026-09-28T14:30:23.4945967",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8532,7 +8532,7 @@
       "phone": null,
       "email": "livingprairiechildcare@gmail.com",
       "website": "http://livingprairiechildcare.com",
-      "sourceLastModified": "2026-09-21T14:17:17.9131502",
+      "sourceLastModified": "2026-09-28T14:30:06.285095",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8632,7 +8632,7 @@
       "phone": null,
       "email": "maria_talania@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T13:43:25.0019452",
+      "sourceLastModified": "2026-09-28T13:56:04.4112571",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8682,7 +8682,7 @@
       "phone": null,
       "email": "ginarenton50@yahoo.ca",
       "website": null,
-      "sourceLastModified": "2026-09-21T14:36:43.9364024",
+      "sourceLastModified": "2026-09-28T13:16:30.5606263",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8732,7 +8732,7 @@
       "phone": "(431) 276-6159",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-21T19:19:53.6092215",
+      "sourceLastModified": "2026-09-28T12:37:18.8285323",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8782,7 +8782,7 @@
       "phone": "(204) 813-0761",
       "email": "liliaconstantino@yahoo.ca",
       "website": null,
-      "sourceLastModified": "2026-09-21T14:57:29.2392267",
+      "sourceLastModified": "2026-09-28T13:36:47.981578",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8832,7 +8832,7 @@
       "phone": null,
       "email": "machray@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-09-22T01:52:38.1896806",
+      "sourceLastModified": "2026-09-28T12:43:01.8683156",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8982,7 +8982,7 @@
       "phone": null,
       "email": "AidaNovillamanalo@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T17:09:23.3949504",
+      "sourceLastModified": "2026-09-28T13:16:09.4416425",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9032,7 +9032,7 @@
       "phone": null,
       "email": "mnlndelavega@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T17:57:10.212458",
+      "sourceLastModified": "2026-09-28T13:17:23.6458905",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9382,9 +9382,9 @@
       "phone": "(204) 557-9056",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-21T16:23:13.7356929",
+      "sourceLastModified": "2026-09-28T13:32:58.1146788",
       "vacancies": {
-        "infant": 0,
+        "infant": 1,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 0
@@ -9432,7 +9432,7 @@
       "phone": null,
       "email": "maryamabaei.ca@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T14:00:12.7480249",
+      "sourceLastModified": "2026-09-28T14:18:11.9992873",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9482,7 +9482,7 @@
       "phone": "(204) 287-8242",
       "email": "maybrookcc@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T18:10:03.1383481",
+      "sourceLastModified": "2026-09-28T13:40:42.9548783",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9632,12 +9632,12 @@
       "phone": "(204) 887-4866",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-21T11:26:19.5399682",
+      "sourceLastModified": "2026-09-28T12:38:50.5049803",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 1,
-        "schoolAge": 1
+        "preschool": 0,
+        "schoolAge": 0
       }
     },
     {
@@ -9682,7 +9682,7 @@
       "phone": "(204) 588-8378",
       "email": "annie.sanpedro@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T15:20:11.47926",
+      "sourceLastModified": "2026-09-28T14:13:14.6536294",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9857,7 +9857,7 @@
       "phone": null,
       "email": "thesoccerdance@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T13:21:43.559058",
+      "sourceLastModified": "2026-09-28T12:44:39.9665157",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -10107,7 +10107,7 @@
       "phone": "(204) 633-6171",
       "email": "admin@mountainavechildcare.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T11:52:51.9526515",
+      "sourceLastModified": "2026-09-28T12:35:54.4231331",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -10532,7 +10532,7 @@
       "phone": null,
       "email": "ticsaynikkie@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-08T13:08:41.675207",
+      "sourceLastModified": "2026-09-28T12:48:05.4403978",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -10557,7 +10557,7 @@
       "phone": "(204) 914-5163",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-21T13:20:11.7950578",
+      "sourceLastModified": "2026-09-28T13:12:45.3464315",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -10707,7 +10707,7 @@
       "phone": null,
       "email": "info@norwoodnursery.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T14:35:58.5943678",
+      "sourceLastModified": "2026-09-28T12:58:20.5117775",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -10732,7 +10732,7 @@
       "phone": null,
       "email": "info@norwoodnursery.com",
       "website": "https://www.norwoodnursery.com/",
-      "sourceLastModified": "2026-09-21T14:36:12.8608",
+      "sourceLastModified": "2026-09-28T12:58:47.9990735",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -10857,7 +10857,7 @@
       "phone": "(204) 832-9635",
       "email": "nurturingrootscc@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T16:07:00.4489588",
+      "sourceLastModified": "2026-09-28T14:02:39.8037565",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11082,7 +11082,7 @@
       "phone": "(204) 430-2477",
       "email": "bunmi.bero@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T11:18:34.0664212",
+      "sourceLastModified": "2026-09-28T12:36:54.1871564",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11832,7 +11832,7 @@
       "phone": null,
       "email": "rhscare@rhscc.ca",
       "website": "http://www.rhscare.fastoche.ca/waitlist",
-      "sourceLastModified": "2026-09-21T12:58:05.9607631",
+      "sourceLastModified": "2026-09-28T14:02:06.8961",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11907,7 +11907,7 @@
       "phone": null,
       "email": "radissonchildcare@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T14:00:41.1330362",
+      "sourceLastModified": "2026-09-28T13:02:44.9908684",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -12207,7 +12207,7 @@
       "phone": "(204) 668-8648",
       "email": "melanie@razorbackblasts.com",
       "website": "http://www.razorbackblasts.com",
-      "sourceLastModified": "2026-09-21T11:45:13.045469",
+      "sourceLastModified": "2026-09-28T13:02:53.3725157",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -12382,7 +12382,7 @@
       "phone": null,
       "email": "radcwinnipeg@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-14T11:50:20.1788417",
+      "sourceLastModified": "2026-09-28T13:44:07.4816046",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -12457,7 +12457,7 @@
       "phone": "(204) 915-8041",
       "email": "rivereastmontessori@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-22T14:16:30.9220961",
+      "sourceLastModified": "2026-09-28T13:20:21.7423166",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -13007,7 +13007,7 @@
       "phone": "(204) 232-1684",
       "email": "sharon6473@msn.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T11:21:56.5049061",
+      "sourceLastModified": "2026-09-28T12:46:09.5358103",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -13082,12 +13082,12 @@
       "phone": "(204) 791-8836",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-21T12:32:55.8495532",
+      "sourceLastModified": "2026-09-28T12:33:46.9340975",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 1,
-        "schoolAge": 1
+        "preschool": 0,
+        "schoolAge": 0
       }
     },
     {
@@ -13507,7 +13507,7 @@
       "phone": "(204) 505-9030",
       "email": "splash@splashcares.ca",
       "website": "https://splashcares.ca/",
-      "sourceLastModified": "2026-09-15T18:33:19.2218819",
+      "sourceLastModified": "2026-09-28T14:28:28.3813568",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -13632,7 +13632,7 @@
       "phone": null,
       "email": "marifel.sahcc@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T14:38:39.4908482",
+      "sourceLastModified": "2026-09-28T14:08:50.3491344",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -13882,7 +13882,7 @@
       "phone": null,
       "email": "info@stmargaretsmontessori.ca",
       "website": null,
-      "sourceLastModified": "2026-09-21T14:19:10.5013596",
+      "sourceLastModified": "2026-09-28T14:06:41.845387",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -13932,7 +13932,7 @@
       "phone": null,
       "email": "sitesupervisor669@stmkidskorner.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T15:35:13.267838",
+      "sourceLastModified": "2026-09-28T14:29:59.8192573",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -14157,7 +14157,7 @@
       "phone": null,
       "email": "scnsdirector@gmail.com",
       "website": "http://www.starlightchristiannursery.ca",
-      "sourceLastModified": "2026-09-21T14:05:53.1365346",
+      "sourceLastModified": "2026-09-28T14:31:03.2685823",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -14407,7 +14407,7 @@
       "phone": "(204) 998-5166",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-21T14:06:14.9976693",
+      "sourceLastModified": "2026-09-28T13:09:19.4187879",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -14582,7 +14582,7 @@
       "phone": null,
       "email": "mimi.frg.59@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T12:41:14.1968397",
+      "sourceLastModified": "2026-09-28T13:27:53.8898161",
       "vacancies": {
         "infant": 1,
         "nursery": 0,
@@ -14657,7 +14657,7 @@
       "phone": "(204) 925-1692",
       "email": "Agreenhalgh@takingcharge.org",
       "website": "https://takingcharge.org/",
-      "sourceLastModified": "2026-09-21T13:05:36.6352409",
+      "sourceLastModified": "2026-09-28T13:07:59.9418496",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -14679,10 +14679,10 @@
       "latitude": 49.956097,
       "longitude": -97.14008,
       "hideLocation": false,
-      "phone": "(204) 880-2131",
-      "email": null,
+      "phone": null,
+      "email": "tdhillon101@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T12:49:47.6667234",
+      "sourceLastModified": "2026-09-28T12:49:22.3932978",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -15132,7 +15132,7 @@
       "phone": null,
       "email": "udcwaitlist@gmail.com",
       "website": "http://myudc.net",
-      "sourceLastModified": "2026-09-21T13:29:09.7362422",
+      "sourceLastModified": "2026-09-28T13:30:15.0160546",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -15157,7 +15157,7 @@
       "phone": "(204) 953-2240",
       "email": "office@univillagecentre.ca",
       "website": "https://www.univillagecentre.ca/",
-      "sourceLastModified": "2026-09-21T11:34:29.0411058",
+      "sourceLastModified": "2026-09-28T13:42:19.3230305",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -15607,7 +15607,7 @@
       "phone": "(204) 958-6489",
       "email": "weebairns@retsd.mb.ca",
       "website": "https://www.weebairns.ca",
-      "sourceLastModified": "2026-09-21T13:48:31.4890091",
+      "sourceLastModified": "2026-09-28T13:58:13.8248064",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -15657,7 +15657,7 @@
       "phone": null,
       "email": "westgrovechildrenscentre@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T11:54:56.9263571",
+      "sourceLastModified": "2026-09-28T13:17:40.2656024",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -15907,7 +15907,7 @@
       "phone": null,
       "email": "tinytots@windsorcc.ca",
       "website": "http://www.windsorcc.ca",
-      "sourceLastModified": "2026-09-21T11:49:57.6072517",
+      "sourceLastModified": "2026-09-28T13:38:11.3533642",
       "vacancies": {
         "infant": 0,
         "nursery": 2,
@@ -16007,10 +16007,10 @@
       "phone": "(204) 833-2500",
       "email": "corinne.reyes@winnipegmfrc.ca",
       "website": "https://cfmws.ca/winnipeg/mfrc-nursery-school",
-      "sourceLastModified": "2026-09-08T12:58:24.5417903",
+      "sourceLastModified": "2026-09-28T13:00:15.79711",
       "vacancies": {
         "infant": 0,
-        "nursery": 28,
+        "nursery": 22,
         "preschool": 0,
         "schoolAge": 0
       }
@@ -16457,7 +16457,7 @@
       "phone": "(204) 783-8914",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-21T15:19:16.5474937",
+      "sourceLastModified": "2026-09-28T14:07:13.7657717",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
