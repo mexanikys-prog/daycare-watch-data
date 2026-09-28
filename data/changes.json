@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-09-28T16:31:16.446Z",
+  "generatedAt": "2026-09-28T18:31:17.367Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-28T18:31:17.367Z",
+      "facilityId": "103142",
+      "facilityName": "CB Family Home Day Care",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-28T18:31:17.367Z",
+      "facilityId": "103142",
+      "facilityName": "CB Family Home Day Care",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-28T18:31:17.367Z",
+      "facilityId": "102661",
+      "facilityName": "Daffodils Home",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-28T18:31:17.367Z",
+      "facilityId": "102043",
+      "facilityName": "Good Fortune Home Day Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 3,
+      "newValue": 1,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-09-28T18:31:17.367Z",
+      "facilityId": "9180",
+      "facilityName": "Ma Mawi Wi Chi Itata Centre Inc. - Child Development Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-28T18:31:17.367Z",
+      "facilityId": "102253",
+      "facilityName": "Sehar's Family Day Care",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-28T18:31:17.367Z",
+      "facilityId": "3063",
+      "facilityName": "Victoria Albert Day Care Inc.",
+      "ageGroup": "schoolAge",
+      "oldValue": 10,
+      "newValue": 6,
+      "changeType": "VACANCY_DECREASED"
+    },
     {
       "detectedAt": "2026-09-28T16:31:16.446Z",
       "facilityId": "102040",
