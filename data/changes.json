@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-28T18:31:17.367Z",
+  "generatedAt": "2026-09-28T20:31:07.758Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-28T20:31:07.758Z",
+      "facilityId": "103233",
+      "facilityName": "Leila Bagheri",
+      "ageGroup": "schoolAge",
+      "oldValue": 3,
+      "newValue": 2,
+      "changeType": "VACANCY_DECREASED"
+    },
     {
       "detectedAt": "2026-09-28T18:31:17.367Z",
       "facilityId": "103142",
