@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-29T02:30:53.314Z",
+  "generatedAt": "2026-09-29T12:31:24.154Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-29T12:31:24.154Z",
+      "facilityId": "101989",
+      "facilityName": "Narsin Shamloo",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-29T12:31:24.154Z",
+      "facilityId": "101989",
+      "facilityName": "Narsin Shamloo",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-09-29T02:30:53.314Z",
       "facilityId": "2016",
