@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-29T12:31:24.154Z",
+  "generatedAt": "2026-09-29T14:31:06.011Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-29T14:31:06.011Z",
+      "facilityId": "2146",
+      "facilityName": "Lord Wolseley Nursery School Incorporated",
+      "ageGroup": "preschool",
+      "oldValue": 35,
+      "newValue": 34,
+      "changeType": "VACANCY_DECREASED"
+    },
     {
       "detectedAt": "2026-09-29T12:31:24.154Z",
       "facilityId": "101989",
