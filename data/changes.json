@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-29T00:31:12.770Z",
+  "generatedAt": "2026-09-29T02:30:53.314Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-29T02:30:53.314Z",
+      "facilityId": "2016",
+      "facilityName": "Richmond Kings Nursery School Inc.",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 8,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-09-28T20:31:07.758Z",
       "facilityId": "103233",

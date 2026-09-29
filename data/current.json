@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T00:31:12.770Z",
+  "generatedAt": "2026-09-29T02:30:53.314Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -10,7 +10,7 @@
   "facilityCount": 661,
   "summary": {
     "infant": 25,
-    "nursery": 31,
+    "nursery": 32,
     "preschool": 72,
     "schoolAge": 112
   },
@@ -12257,10 +12257,10 @@
       "phone": "(204) 275-6239",
       "email": null,
       "website": "https://www.rkns.ca/",
-      "sourceLastModified": "2026-06-17T01:36:58.2001086",
+      "sourceLastModified": "2026-09-29T02:23:51.317935",
       "vacancies": {
         "infant": 0,
-        "nursery": 0,
+        "nursery": 8,
         "preschool": 0,
         "schoolAge": 0
       }
