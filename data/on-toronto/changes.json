@@ -1,6 +1,294 @@
 {
-  "generatedAt": "2026-09-28T12:31:25.556Z",
+  "generatedAt": "2026-09-29T15:01:30.085Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:1003702",
+      "facilityName": "B.F. Toronto Centre For Early Childhood Education",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:1003702",
+      "facilityName": "B.F. Toronto Centre For Early Childhood Education",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:9602629",
+      "facilityName": "Blessed Trinity Before & After School",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:20362446",
+      "facilityName": "Columbus Early Learning Centres",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:20362446",
+      "facilityName": "Columbus Early Learning Centres",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:14072410",
+      "facilityName": "Donald C. Macdonald Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:14072410",
+      "facilityName": "Donald C. Macdonald Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:7571375",
+      "facilityName": "Garderie La Farandole - Pierre Elliott Trudeau",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:7571375",
+      "facilityName": "Garderie La Farandole - Pierre Elliott Trudeau",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:7571375",
+      "facilityName": "Garderie La Farandole - Pierre Elliott Trudeau",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:992445",
+      "facilityName": "Garderie La Farandole Felix-Leclerc",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:853146",
+      "facilityName": "Garderie La Farandole Gabrielle Roy",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:10759569",
+      "facilityName": "Growing Tykes Learning Centre (Dundas Street West)",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:542014",
+      "facilityName": "Hillmount Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:8594462",
+      "facilityName": "Howard Park Children's Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:8004943",
+      "facilityName": "Keelmount Daycare Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:8004943",
+      "facilityName": "Keelmount Daycare Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:33244",
+      "facilityName": "Northlea Community Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:33244",
+      "facilityName": "Northlea Community Child Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:7754014",
+      "facilityName": "Plasp Blythwood Junior Public School",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:571309",
+      "facilityName": "Plasp Divine Mercy C.S.",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:571309",
+      "facilityName": "Plasp Divine Mercy C.S.",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:571309",
+      "facilityName": "Plasp Divine Mercy C.S.",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:571309",
+      "facilityName": "Plasp Divine Mercy C.S.",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:9467757",
+      "facilityName": "Plasp Steelesview Public School",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:523760",
+      "facilityName": "Red Apple Day Care - St John XXIII",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:10759447",
+      "facilityName": "Shirley Street Jr Ymca",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:10759447",
+      "facilityName": "Shirley Street Jr Ymca",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:10759447",
+      "facilityName": "Shirley Street Jr Ymca",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:13967632",
+      "facilityName": "St Mark's Day Care Centre - Greenland Road",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:6807238",
+      "facilityName": "Sunnylea Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-29T15:01:30.085Z",
+      "facilityId": "toronto:765454",
+      "facilityName": "Unicorn Day Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-09-25T12:31:24.574Z",
       "facilityId": "toronto:324733",
