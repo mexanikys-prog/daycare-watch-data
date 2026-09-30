@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-29T22:31:11.027Z",
+  "generatedAt": "2026-09-30T00:31:04.847Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-30T00:31:04.847Z",
+      "facilityId": "102775",
+      "facilityName": "Les Bourgeons",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-09-29T14:31:06.011Z",
       "facilityId": "2146",
