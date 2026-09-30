@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-09-29T15:01:30.085Z",
+  "generatedAt": "2026-09-30T12:36:35.876Z",
   "changes": [
+    {
+      "detectedAt": "2026-09-30T12:36:35.876Z",
+      "facilityId": "toronto:9270479",
+      "facilityName": "Ascot Avenue Community Day Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-30T12:36:35.876Z",
+      "facilityId": "toronto:1013098",
+      "facilityName": "Martin Luther Child Care - Lakeshore",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-30T12:36:35.876Z",
+      "facilityId": "toronto:1035460",
+      "facilityName": "Martin Luther Child Care - Superior",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-30T12:36:35.876Z",
+      "facilityId": "toronto:7471919",
+      "facilityName": "Millvalley Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-09-30T12:36:35.876Z",
+      "facilityId": "toronto:1024923",
+      "facilityName": "St. George's School Age Child Care Programme",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-30T12:36:35.876Z",
+      "facilityId": "toronto:807559",
+      "facilityName": "Sunnyside Garden Day Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-30T12:36:35.876Z",
+      "facilityId": "toronto:56769",
+      "facilityName": "Tlc - Tender Loving Care (Cross St.)",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-09-30T12:36:35.876Z",
+      "facilityId": "toronto:56769",
+      "facilityName": "Tlc - Tender Loving Care (Cross St.)",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-09-29T15:01:30.085Z",
       "facilityId": "toronto:1003702",
