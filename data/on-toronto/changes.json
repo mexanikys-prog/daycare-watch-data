@@ -1,6 +1,213 @@
 {
-  "generatedAt": "2026-09-30T12:36:35.876Z",
+  "generatedAt": "2026-10-01T12:31:28.241Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-01T12:31:28.241Z",
+      "facilityId": "toronto:487330",
+      "facilityName": "Branson Pre-School Ltd.",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-01T12:31:28.241Z",
+      "facilityId": "toronto:8649130",
+      "facilityName": "Cliffwood Community Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-01T12:31:28.241Z",
+      "facilityId": "toronto:507023",
+      "facilityName": "Denlow Community Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-01T12:31:28.241Z",
+      "facilityId": "toronto:837099",
+      "facilityName": "Fraser School - Community Day Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-01T12:31:28.241Z",
+      "facilityId": "toronto:30029294",
+      "facilityName": "Givins/Shaw School Community Day Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-01T12:31:28.241Z",
+      "facilityId": "toronto:9950504",
+      "facilityName": "Lakeside Co-Operative Playschool Inc.",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-01T12:31:28.241Z",
+      "facilityId": "toronto:10340955",
+      "facilityName": "Lori Gardens Centre For Early Learning",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-01T12:31:28.241Z",
+      "facilityId": "toronto:13323714",
+      "facilityName": "Macaulay - The Well",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-01T12:31:28.241Z",
+      "facilityId": "toronto:566907",
+      "facilityName": "Muppets Preschool Centre (Victoria Village)",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-01T12:31:28.241Z",
+      "facilityId": "toronto:571955",
+      "facilityName": "My Little School",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-01T12:31:28.241Z",
+      "facilityId": "toronto:9947932",
+      "facilityName": "Orde Day Care Centre (Orde Street)",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-01T12:31:28.241Z",
+      "facilityId": "toronto:561900",
+      "facilityName": "Sheppard Business Park Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-01T12:31:28.241Z",
+      "facilityId": "toronto:2439716",
+      "facilityName": "St. Alban's Boys And Girls Club Preschool",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-01T12:31:28.241Z",
+      "facilityId": "toronto:2439716",
+      "facilityName": "St. Alban's Boys And Girls Club Preschool",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-01T12:31:28.241Z",
+      "facilityId": "toronto:14069163",
+      "facilityName": "St. Lawrence Co-Operative Day Care (2 Princess Street)",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-01T12:31:28.241Z",
+      "facilityId": "toronto:14069163",
+      "facilityName": "St. Lawrence Co-Operative Day Care (2 Princess Street)",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-01T12:31:28.241Z",
+      "facilityId": "toronto:770023",
+      "facilityName": "The Neighbourhood Group Bellevue Child Care",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-01T12:31:28.241Z",
+      "facilityId": "toronto:20056424",
+      "facilityName": "The Neighbourhood Group Waterfront Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-01T12:31:28.241Z",
+      "facilityId": "toronto:20056424",
+      "facilityName": "The Neighbourhood Group Waterfront Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-01T12:31:28.241Z",
+      "facilityId": "toronto:772766",
+      "facilityName": "University Of Toronto Early Learning Centre - O.I.S.E.",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-01T12:31:28.241Z",
+      "facilityId": "toronto:9410112",
+      "facilityName": "West End Parents Day Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-01T12:31:28.241Z",
+      "facilityId": "toronto:9410112",
+      "facilityName": "West End Parents Day Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-01T12:31:28.241Z",
+      "facilityId": "toronto:9486678",
+      "facilityName": "West End Parents Day Care Satellite",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-09-30T12:36:35.876Z",
       "facilityId": "toronto:9270479",
