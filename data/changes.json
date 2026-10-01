@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-10-01T18:31:23.862Z",
+  "generatedAt": "2026-10-01T20:31:37.387Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-01T20:31:37.387Z",
+      "facilityId": "9345",
+      "facilityName": "Maria Cordeiro",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-01T20:31:37.387Z",
+      "facilityId": "9345",
+      "facilityName": "Maria Cordeiro",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-01T20:31:37.387Z",
+      "facilityId": "9345",
+      "facilityName": "Maria Cordeiro",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-01T20:31:37.387Z",
+      "facilityId": "101989",
+      "facilityName": "Narsin Shamloo",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-01T20:31:37.387Z",
+      "facilityId": "101989",
+      "facilityName": "Narsin Shamloo",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-09-30T00:31:04.847Z",
       "facilityId": "102775",

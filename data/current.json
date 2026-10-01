@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T18:31:23.862Z",
+  "generatedAt": "2026-10-01T20:31:37.387Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -7,12 +7,12 @@
   "sourceKey": "manitoba-child-care-search",
   "source": "Manitoba Child Care Search",
   "city": "Winnipeg",
-  "facilityCount": 661,
+  "facilityCount": 660,
   "summary": {
     "infant": 26,
     "nursery": 32,
     "preschool": 74,
-    "schoolAge": 112
+    "schoolAge": 113
   },
   "facilities": [
     {
@@ -9207,12 +9207,12 @@
       "phone": null,
       "email": "ambrosinam@hotmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T12:43:52.2494578",
+      "sourceLastModified": "2026-10-01T18:40:32.5368908",
       "vacancies": {
-        "infant": 0,
+        "infant": 1,
         "nursery": 0,
-        "preschool": 0,
-        "schoolAge": 0
+        "preschool": 1,
+        "schoolAge": 1
       }
     },
     {
@@ -9757,7 +9757,7 @@
       "phone": null,
       "email": "mightyminds.admissions@gmail.com",
       "website": "http://www.mightymindsmontessori.com",
-      "sourceLastModified": "2026-09-22T21:35:21.3882536",
+      "sourceLastModified": "2026-10-01T20:04:16.0961018",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -10357,11 +10357,11 @@
       "phone": "(204) 261-9255",
       "email": "narsin45@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-09-29T03:25:08.1055651",
+      "sourceLastModified": "2026-10-01T19:02:59.1147184",
       "vacancies": {
-        "infant": 1,
+        "infant": 0,
         "nursery": 0,
-        "preschool": 1,
+        "preschool": 0,
         "schoolAge": 3
       }
     },
@@ -11807,7 +11807,7 @@
       "phone": null,
       "email": "cyoungmanidooed@shaw.ca",
       "website": null,
-      "sourceLastModified": "2025-06-23T15:54:46.0378341",
+      "sourceLastModified": "2026-10-01T19:30:09.8137441",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11858,31 +11858,6 @@
       "email": "shenry37@rrc.ca",
       "website": "https://www.rrcearlychildhoodcentre.com",
       "sourceLastModified": "2026-09-14T14:23:00.0090471",
-      "vacancies": {
-        "infant": 0,
-        "nursery": 0,
-        "preschool": 0,
-        "schoolAge": 0
-      }
-    },
-    {
-      "sourceId": "102138",
-      "displayName": "R.R.C. Early Childhood Centre Inc. - School-age",
-      "facilityType": "CENTRE",
-      "businessType": "For-Profit",
-      "fundingType": "Non Funded",
-      "address": "AB-13 - 2055 Notre Dame  Avenue (Ave)",
-      "city": "Winnipeg",
-      "postalCode": "R3H 0J9",
-      "neighbourhood": "BROOKLANDS",
-      "region": "WINNIPEG",
-      "latitude": 49.917982,
-      "longitude": -97.210805,
-      "hideLocation": false,
-      "phone": "(204) 632-2244",
-      "email": "shenry37@rrc.ca",
-      "website": null,
-      "sourceLastModified": "2026-07-07T15:01:50.2965932",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -13030,9 +13005,9 @@
       "longitude": -97.191141,
       "hideLocation": false,
       "phone": "(204) 582-5342",
-      "email": "shaughnessydaycare@shaw.ca",
+      "email": "shaughnessydc@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-08-17T12:27:17.6015684",
+      "sourceLastModified": "2026-10-01T20:09:32.275925",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
