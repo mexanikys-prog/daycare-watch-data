@@ -1,6 +1,393 @@
 {
-  "generatedAt": "2026-10-01T14:13:37.885Z",
+  "generatedAt": "2026-10-02T12:31:17.730Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:63900",
+      "facilityName": "Abiona Centre For Infant And Early Mental Health Early Learning",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:12116136",
+      "facilityName": "Ascot Avenue Community Daycare",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:12116136",
+      "facilityName": "Ascot Avenue Community Daycare",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:12116136",
+      "facilityName": "Ascot Avenue Community Daycare",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:13501671",
+      "facilityName": "Bonaventure Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:13501671",
+      "facilityName": "Bonaventure Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:1035925",
+      "facilityName": "Braeburn Woods Day Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:1035925",
+      "facilityName": "Braeburn Woods Day Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:8714071",
+      "facilityName": "Carleton Village Early Learning Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:800621",
+      "facilityName": "Central Eglinton Childrens' Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:6355204",
+      "facilityName": "Childspace Day Care Corporation # 3 (49 Felstead Avenue)",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:6355204",
+      "facilityName": "Childspace Day Care Corporation # 3 (49 Felstead Avenue)",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:762114",
+      "facilityName": "Church Street School Day Care Service Inc.",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:8066596",
+      "facilityName": "Danforth Early Learning & Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:13970510",
+      "facilityName": "Edgeley Early Learning & Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:11070056",
+      "facilityName": "Eyet Early Learning Centre (Tom's Place)",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:11070056",
+      "facilityName": "Eyet Early Learning Centre (Tom's Place)",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:8855191",
+      "facilityName": "Falstaff Early Learning & Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:8855191",
+      "facilityName": "Falstaff Early Learning & Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:1020028",
+      "facilityName": "First Stage Child Care Centre - Highfield",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:8885841",
+      "facilityName": "Flemingdon Early Learning & Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:1038674",
+      "facilityName": "Garderie Du Cercle De L'Amitie - Etobicoke",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:10222910",
+      "facilityName": "George Brown - Richmond Adelaide Childcare Centre",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:10222910",
+      "facilityName": "George Brown - Richmond Adelaide Childcare Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:2917704",
+      "facilityName": "Gilder Early Learning & Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:826229",
+      "facilityName": "Le Petit Chaperon Rouge - Jones",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:536699",
+      "facilityName": "Lescon Learners Child Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:986007",
+      "facilityName": "Mandi Day Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:7940024",
+      "facilityName": "Plp Early Learning At St. Mark",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:784384",
+      "facilityName": "Queen Victoria Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:10985652",
+      "facilityName": "Rowntree Early Learning & Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:7389731",
+      "facilityName": "Second Street School Age Ymca",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:10154322",
+      "facilityName": "Silverstone Learning Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:8354416",
+      "facilityName": "St. Lawrence Co-Operative Day Care School Age (230 The Esplanade)",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:30072549",
+      "facilityName": "St. Michael And All Angels Day Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:30072549",
+      "facilityName": "St. Michael And All Angels Day Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:30072549",
+      "facilityName": "St. Michael And All Angels Day Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:7632822",
+      "facilityName": "St. Monica's Satellite (Central Eglinton)",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:857290",
+      "facilityName": "The Neighbourhood Group Harbourfront Child Care",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:20056424",
+      "facilityName": "The Neighbourhood Group Waterfront Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:20056424",
+      "facilityName": "The Neighbourhood Group Waterfront Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:4014969",
+      "facilityName": "The Yonge Street Mission / Davis Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-02T12:31:17.730Z",
+      "facilityId": "toronto:821864",
+      "facilityName": "Wychwood Tigers Daycare Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-01T12:31:28.241Z",
       "facilityId": "toronto:487330",
