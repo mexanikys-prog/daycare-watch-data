@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-05T16:31:51.722Z",
+  "generatedAt": "2026-10-05T18:31:24.525Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-05T18:31:24.525Z",
+      "facilityId": "100845",
+      "facilityName": "Enoe Benjamin",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-05T16:31:51.722Z",
       "facilityId": "5535",

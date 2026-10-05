@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T16:31:51.722Z",
+  "generatedAt": "2026-10-05T18:31:24.525Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,7 +9,7 @@
   "city": "Winnipeg",
   "facilityCount": 659,
   "summary": {
-    "infant": 26,
+    "infant": 27,
     "nursery": 32,
     "preschool": 76,
     "schoolAge": 113
@@ -232,7 +232,7 @@
       "phone": null,
       "email": "adorable4family@gmail.com",
       "website": "https://adorablechildcare.ca/",
-      "sourceLastModified": "2026-09-30T14:29:51.7729934",
+      "sourceLastModified": "2026-10-05T17:47:38.835995",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -1182,7 +1182,7 @@
       "phone": "(204) 998-4163",
       "email": "ross_lynx05@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-09-28T14:03:28.5511809",
+      "sourceLastModified": "2026-10-05T18:21:19.4585021",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -1257,7 +1257,7 @@
       "phone": null,
       "email": "childcare@bsls.ca",
       "website": "https://bsls.ca/",
-      "sourceLastModified": "2026-07-13T16:55:23.2268994",
+      "sourceLastModified": "2026-10-05T17:51:01.4340722",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -1282,7 +1282,7 @@
       "phone": null,
       "email": "childcare@bsls.ca",
       "website": "http://www.bsls.ca",
-      "sourceLastModified": "2026-07-13T16:55:58.5692271",
+      "sourceLastModified": "2026-10-05T17:49:37.5581463",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -1307,7 +1307,7 @@
       "phone": null,
       "email": "childcare@bsls.ca",
       "website": "https://bsls.ca/",
-      "sourceLastModified": "2026-07-13T16:55:39.5943795",
+      "sourceLastModified": "2026-10-05T17:50:15.0826365",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -1432,7 +1432,7 @@
       "phone": null,
       "email": "celynpapa@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-09-28T21:56:56.4813684",
+      "sourceLastModified": "2026-10-05T16:38:06.4303936",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -1682,7 +1682,7 @@
       "phone": "(204) 221-0024",
       "email": "elc@bumble-b.ca",
       "website": null,
-      "sourceLastModified": "2026-10-05T15:16:15.4246595",
+      "sourceLastModified": "2026-10-05T16:55:29.557761",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -2082,7 +2082,7 @@
       "phone": null,
       "email": "carpyc@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-09-29T13:02:17.3607147",
+      "sourceLastModified": "2026-10-05T17:23:41.8704329",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -3132,7 +3132,7 @@
       "phone": null,
       "email": "dcc@discoverycc.com",
       "website": "http://www.discoverycc.com",
-      "sourceLastModified": "2026-09-28T13:03:33.7561203",
+      "sourceLastModified": "2026-10-05T18:07:24.5813679",
       "vacancies": {
         "infant": 0,
         "nursery": 12,
@@ -3657,9 +3657,9 @@
       "phone": "(204) 997-8647",
       "email": "enoecarreiro@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-28T16:34:18.8553601",
+      "sourceLastModified": "2026-10-05T18:16:56.9198915",
       "vacancies": {
-        "infant": 0,
+        "infant": 1,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 2
@@ -6057,7 +6057,7 @@
       "phone": "(204) 583-1619",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-05T14:46:29.3698806",
+      "sourceLastModified": "2026-10-05T16:39:45.8589733",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -7307,7 +7307,7 @@
       "phone": "(204) 583-1552",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-29T23:52:22.6993492",
+      "sourceLastModified": "2026-10-05T17:03:46.9308291",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8457,7 +8457,7 @@
       "phone": null,
       "email": "livingprairiechildcare@gmail.com",
       "website": "https://www.livingprairiechildcare.ca/",
-      "sourceLastModified": "2026-09-28T14:30:23.4945967",
+      "sourceLastModified": "2026-10-05T18:12:39.7657844",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8507,7 +8507,7 @@
       "phone": null,
       "email": "livingprairiechildcare@gmail.com",
       "website": "http://livingprairiechildcare.com",
-      "sourceLastModified": "2026-09-28T14:30:06.285095",
+      "sourceLastModified": "2026-10-05T18:12:02.9018755",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9457,7 +9457,7 @@
       "phone": "(204) 287-8242",
       "email": "maybrookcc@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-28T13:40:42.9548783",
+      "sourceLastModified": "2026-10-05T18:03:04.2498637",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11382,7 +11382,7 @@
       "phone": "(204) 798-8584",
       "email": "bose5K@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-09-28T12:19:58.0517194",
+      "sourceLastModified": "2026-10-05T17:13:31.2942686",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11857,7 +11857,7 @@
       "phone": null,
       "email": "radissonchildcare@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-28T13:02:44.9908684",
+      "sourceLastModified": "2026-10-05T16:59:07.6490513",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -12332,7 +12332,7 @@
       "phone": null,
       "email": "radcwinnipeg@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-28T13:44:07.4816046",
+      "sourceLastModified": "2026-10-05T18:04:08.1649392",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -12532,7 +12532,7 @@
       "phone": null,
       "email": "rwpkids@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-28T15:11:37.029483",
+      "sourceLastModified": "2026-10-05T18:03:34.4861981",
       "vacancies": {
         "infant": 0,
         "nursery": 4,
@@ -13857,7 +13857,7 @@
       "phone": null,
       "email": "leslie@stmkidskorner.com",
       "website": null,
-      "sourceLastModified": "2026-09-28T17:46:18.4811579",
+      "sourceLastModified": "2026-10-05T16:51:47.3596588",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -14757,7 +14757,7 @@
       "phone": "(204) 489-0303",
       "email": "director@littleyearsschool.com",
       "website": "http://www.littleyearsschool.com",
-      "sourceLastModified": "2026-09-28T16:38:37.5403839",
+      "sourceLastModified": "2026-10-05T16:44:30.131573",
       "vacancies": {
         "infant": 0,
         "nursery": 5,
@@ -15082,7 +15082,7 @@
       "phone": "(204) 229-2026",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-28T21:37:24.2404858",
+      "sourceLastModified": "2026-10-05T18:27:40.2726815",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -15582,7 +15582,7 @@
       "phone": "(204) 958-6489",
       "email": "weebairns@retsd.mb.ca",
       "website": "https://www.weebairns.ca",
-      "sourceLastModified": "2026-09-28T13:58:13.8248064",
+      "sourceLastModified": "2026-10-05T17:31:49.9915413",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
