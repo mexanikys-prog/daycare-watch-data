@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-10-03T02:30:59.177Z",
+  "generatedAt": "2026-10-05T12:31:11.282Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-05T12:31:11.282Z",
+      "facilityId": "101941",
+      "facilityName": "Alice Ando Goli",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:11.282Z",
+      "facilityId": "103142",
+      "facilityName": "CB Family Home Day Care",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:11.282Z",
+      "facilityId": "101757",
+      "facilityName": "Charlene Lemoine",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:11.282Z",
+      "facilityId": "102841",
+      "facilityName": "Kindheart Childcare",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:11.282Z",
+      "facilityId": "102496",
+      "facilityName": "Mary Grace's Family Child Care",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:11.282Z",
+      "facilityId": "103038",
+      "facilityName": "Tanveer Dhillon",
+      "ageGroup": "preschool",
+      "oldValue": 2,
+      "newValue": 1,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:11.282Z",
+      "facilityId": "103184",
+      "facilityName": "The Tiny Turtle Early Learning & Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 2,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-10-01T20:31:37.387Z",
       "facilityId": "9345",
