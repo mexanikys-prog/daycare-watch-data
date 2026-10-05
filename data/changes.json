@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-10-05T12:31:11.282Z",
+  "generatedAt": "2026-10-05T14:31:35.219Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-05T14:31:35.219Z",
+      "facilityId": "103065",
+      "facilityName": "Baljinder Cheema",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T14:31:35.219Z",
+      "facilityId": "102354",
+      "facilityName": "Garderie Chez Hope",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T14:31:35.219Z",
+      "facilityId": "1189",
+      "facilityName": "Learning and Growing Day Care Inc.",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T14:31:35.219Z",
+      "facilityId": "103132",
+      "facilityName": "Lilies Learning Home",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T14:31:35.219Z",
+      "facilityId": "103132",
+      "facilityName": "Lilies Learning Home",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T14:31:35.219Z",
+      "facilityId": "3063",
+      "facilityName": "Victoria Albert Day Care Inc.",
+      "ageGroup": "schoolAge",
+      "oldValue": 6,
+      "newValue": 10,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-10-05T14:31:35.219Z",
+      "facilityId": "102177",
+      "facilityName": "Waves Home Daycare",
+      "ageGroup": "preschool",
+      "oldValue": 2,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-10-05T12:31:11.282Z",
       "facilityId": "101941",
