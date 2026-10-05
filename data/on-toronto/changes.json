@@ -1,6 +1,222 @@
 {
-  "generatedAt": "2026-10-02T12:31:17.730Z",
+  "generatedAt": "2026-10-05T12:31:08.519Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-05T12:31:08.519Z",
+      "facilityId": "toronto:10527839",
+      "facilityName": "Alexander Muir Gladstone Jr Ymca",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:08.519Z",
+      "facilityId": "toronto:10527839",
+      "facilityName": "Alexander Muir Gladstone Jr Ymca",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:08.519Z",
+      "facilityId": "toronto:1003702",
+      "facilityName": "B.F. Toronto Centre For Early Childhood Education",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:08.519Z",
+      "facilityId": "toronto:1003702",
+      "facilityName": "B.F. Toronto Centre For Early Childhood Education",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:08.519Z",
+      "facilityId": "toronto:11467213",
+      "facilityName": "Brian Drive School Age Program (Ymca)",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:08.519Z",
+      "facilityId": "toronto:7274023",
+      "facilityName": "Centennial Infant And Child Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:08.519Z",
+      "facilityId": "toronto:797816",
+      "facilityName": "Dunloe Children's Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:08.519Z",
+      "facilityId": "toronto:797816",
+      "facilityName": "Dunloe Children's Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:08.519Z",
+      "facilityId": "toronto:10747541",
+      "facilityName": "First Stage - West Humber",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:08.519Z",
+      "facilityId": "toronto:71840",
+      "facilityName": "George Brown - Dennis Avenue Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:08.519Z",
+      "facilityId": "toronto:8152704",
+      "facilityName": "George Harvey Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:08.519Z",
+      "facilityId": "toronto:8322307",
+      "facilityName": "Holy Family Childcare Centre-Queen Victoria",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:08.519Z",
+      "facilityId": "toronto:3587551",
+      "facilityName": "Kingsview Child Care",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:08.519Z",
+      "facilityId": "toronto:1031242",
+      "facilityName": "Lakeshore Community Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:08.519Z",
+      "facilityId": "toronto:14190108",
+      "facilityName": "Main Square Day Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:08.519Z",
+      "facilityId": "toronto:14190108",
+      "facilityName": "Main Square Day Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:08.519Z",
+      "facilityId": "toronto:6039484",
+      "facilityName": "Network - Lansing Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:08.519Z",
+      "facilityId": "toronto:6039484",
+      "facilityName": "Network - Lansing Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:08.519Z",
+      "facilityId": "toronto:9584890",
+      "facilityName": "Roseland Day Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:08.519Z",
+      "facilityId": "toronto:11541969",
+      "facilityName": "St. George Mini School - Mallard",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:08.519Z",
+      "facilityId": "toronto:9909750",
+      "facilityName": "University Of Toronto Childcare On Charles",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:08.519Z",
+      "facilityId": "toronto:35916",
+      "facilityName": "William Burgess Jr Ymca",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:08.519Z",
+      "facilityId": "toronto:14650065",
+      "facilityName": "Ywca Bergamot Early Learning",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-05T12:31:08.519Z",
+      "facilityId": "toronto:14650065",
+      "facilityName": "Ywca Bergamot Early Learning",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-10-02T12:31:17.730Z",
       "facilityId": "toronto:63900",
