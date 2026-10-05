@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-10-05T14:31:35.219Z",
+  "generatedAt": "2026-10-05T16:31:51.722Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-05T16:31:51.722Z",
+      "facilityId": "5535",
+      "facilityName": "Jacqueline Childs",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T16:31:51.722Z",
+      "facilityId": "5535",
+      "facilityName": "Jacqueline Childs",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-05T16:31:51.722Z",
+      "facilityId": "102073",
+      "facilityName": "Jay, Jay & Jay's Family Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-05T14:31:35.219Z",
       "facilityId": "103065",
