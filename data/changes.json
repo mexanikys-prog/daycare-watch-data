@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-05T18:31:24.525Z",
+  "generatedAt": "2026-10-05T21:46:02.948Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-05T21:46:02.948Z",
+      "facilityId": "102661",
+      "facilityName": "Daffodils Home",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-05T21:46:02.948Z",
+      "facilityId": "2219",
+      "facilityName": "Greendell Tiny Tots Nursery School",
+      "ageGroup": "nursery",
+      "oldValue": 11,
+      "newValue": 10,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-10-05T21:46:02.948Z",
+      "facilityId": "103118",
+      "facilityName": "Rainbow Child Care Center Inc.",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-05T21:46:02.948Z",
+      "facilityId": "101245",
+      "facilityName": "Rowena Memita",
+      "ageGroup": "schoolAge",
+      "oldValue": 3,
+      "newValue": 2,
+      "changeType": "VACANCY_DECREASED"
+    },
     {
       "detectedAt": "2026-10-05T18:31:24.525Z",
       "facilityId": "100845",

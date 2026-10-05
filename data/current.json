@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T18:31:24.525Z",
+  "generatedAt": "2026-10-05T21:46:02.948Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,9 +9,9 @@
   "city": "Winnipeg",
   "facilityCount": 659,
   "summary": {
-    "infant": 27,
+    "infant": 26,
     "nursery": 32,
-    "preschool": 76,
+    "preschool": 75,
     "schoolAge": 113
   },
   "facilities": [
@@ -682,7 +682,7 @@
       "phone": "(204) 786-1375",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-28T13:56:57.1488407",
+      "sourceLastModified": "2026-10-05T18:36:56.9775035",
       "vacancies": {
         "infant": 1,
         "nursery": 0,
@@ -1057,7 +1057,7 @@
       "phone": null,
       "email": "daycare@avicenna-academy.ca",
       "website": "http://www.avicenna-academy.ca",
-      "sourceLastModified": "2026-09-28T14:03:36.6764245",
+      "sourceLastModified": "2026-10-05T18:34:44.287707",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -2832,9 +2832,9 @@
       "phone": null,
       "email": "daffodilshomeca@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-28T16:39:38.7548051",
+      "sourceLastModified": "2026-10-05T20:42:33.4040672",
       "vacancies": {
-        "infant": 1,
+        "infant": 0,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 0
@@ -3071,18 +3071,18 @@
       "facilityType": "HOME",
       "businessType": "For-Profit",
       "fundingType": "Non Funded",
-      "address": "38 Grassington Bay",
+      "address": "14 Alderwood Rd",
       "city": "Winnipeg",
-      "postalCode": "R2N 1E4",
-      "neighbourhood": "MEADOWOOD",
+      "postalCode": "R2J 2K8",
+      "neighbourhood": "WINDSOR PARK",
       "region": "WINNIPEG",
-      "latitude": 49.824649,
-      "longitude": -97.094304,
+      "latitude": 49.869495,
+      "longitude": -97.086133,
       "hideLocation": false,
       "phone": null,
       "email": "dianaazar@hotmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-05T11:58:34.0898133",
+      "sourceLastModified": "2026-10-05T19:24:53.0944276",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -3257,7 +3257,7 @@
       "phone": null,
       "email": "duenas.lourdes@ymail.com",
       "website": null,
-      "sourceLastModified": "2026-09-28T15:19:21.2181367",
+      "sourceLastModified": "2026-10-05T19:26:41.2522499",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -3832,7 +3832,7 @@
       "phone": "(204) 697-3910",
       "email": "emoura@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-09-25T17:28:19.3372079",
+      "sourceLastModified": "2026-10-05T19:31:34.3146931",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4882,10 +4882,10 @@
       "phone": null,
       "email": "greendelltinytots@gmail.com",
       "website": "https://www.greendell.ca/post/tiny-tots-nursery",
-      "sourceLastModified": "2026-09-23T17:48:58.1839713",
+      "sourceLastModified": "2026-10-05T19:10:03.6478298",
       "vacancies": {
         "infant": 0,
-        "nursery": 11,
+        "nursery": 10,
         "preschool": 0,
         "schoolAge": 0
       }
@@ -7707,7 +7707,7 @@
       "phone": "(431) 293-6832",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-28T15:14:08.0470521",
+      "sourceLastModified": "2026-10-05T18:44:00.6314229",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8132,7 +8132,7 @@
       "phone": null,
       "email": "alanaplppi@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-09-21T13:19:51.0354042",
+      "sourceLastModified": "2026-10-05T20:04:37.7420072",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9157,7 +9157,7 @@
       "phone": "(204) 694-3492",
       "email": "mjocamara@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-09-21T20:36:43.7117277",
+      "sourceLastModified": "2026-10-05T18:56:42.4285081",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9857,7 +9857,7 @@
       "phone": "(204) 960-3008",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-28T17:56:42.4888576",
+      "sourceLastModified": "2026-10-05T18:41:29.3525785",
       "vacancies": {
         "infant": 1,
         "nursery": 0,
@@ -10232,7 +10232,7 @@
       "phone": "(204) 488-2008",
       "email": "myrnadobson@hotmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T13:08:27.0840452",
+      "sourceLastModified": "2026-10-05T20:13:19.8594898",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11932,11 +11932,11 @@
       "phone": null,
       "email": "pardeep4saggu@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-24T19:24:34.5934709",
+      "sourceLastModified": "2026-10-05T19:17:08.3383856",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 1,
+        "preschool": 0,
         "schoolAge": 0
       }
     },
@@ -12707,12 +12707,12 @@
       "phone": null,
       "email": "rowenamemita02@gmail.com",
       "website": "http://www.childcareonlinemb.ca",
-      "sourceLastModified": "2026-09-28T16:52:21.3384061",
+      "sourceLastModified": "2026-10-05T21:10:22.5041409",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
         "preschool": 0,
-        "schoolAge": 3
+        "schoolAge": 2
       }
     },
     {
@@ -15607,7 +15607,7 @@
       "phone": null,
       "email": "westktinytots@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-28T18:51:34.1602363",
+      "sourceLastModified": "2026-10-05T19:07:05.1377501",
       "vacancies": {
         "infant": 0,
         "nursery": 12,
@@ -15807,7 +15807,7 @@
       "phone": "(204) 512-2002",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-28T16:56:14.3898243",
+      "sourceLastModified": "2026-10-05T20:41:51.552487",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
