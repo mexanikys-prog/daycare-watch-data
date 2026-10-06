@@ -1,6 +1,186 @@
 {
-  "generatedAt": "2026-10-05T12:31:08.519Z",
+  "generatedAt": "2026-10-06T12:31:46.100Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-06T12:31:46.100Z",
+      "facilityId": "toronto:20168852",
+      "facilityName": "Cole Street Early Learning & Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-06T12:31:46.100Z",
+      "facilityId": "toronto:6294641",
+      "facilityName": "Community Centre 55 -Ted Reeves Arena",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-06T12:31:46.100Z",
+      "facilityId": "toronto:8066596",
+      "facilityName": "Danforth Early Learning & Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-06T12:31:46.100Z",
+      "facilityId": "toronto:6765660",
+      "facilityName": "First Stage - Burnhamthorpe",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-06T12:31:46.100Z",
+      "facilityId": "toronto:6765660",
+      "facilityName": "First Stage - Burnhamthorpe",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-06T12:31:46.100Z",
+      "facilityId": "toronto:6765660",
+      "facilityName": "First Stage - Burnhamthorpe",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-06T12:31:46.100Z",
+      "facilityId": "toronto:10560819",
+      "facilityName": "George Brown - Fashion District/Ryerson Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-06T12:31:46.100Z",
+      "facilityId": "toronto:11484452",
+      "facilityName": "Grace Christian School - Day Nursery",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-06T12:31:46.100Z",
+      "facilityId": "toronto:14015125",
+      "facilityName": "Holland-Bloorview Kids Rehab. - (Play & Learn Nursery)",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-06T12:31:46.100Z",
+      "facilityId": "toronto:14015125",
+      "facilityName": "Holland-Bloorview Kids Rehab. - (Play & Learn Nursery)",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-06T12:31:46.100Z",
+      "facilityId": "toronto:75474",
+      "facilityName": "Lef - Vaughan Road Infant And Toddler Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-06T12:31:46.100Z",
+      "facilityId": "toronto:75474",
+      "facilityName": "Lef - Vaughan Road Infant And Toddler Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-06T12:31:46.100Z",
+      "facilityId": "toronto:12834077",
+      "facilityName": "Malvern Early Learning & Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-06T12:31:46.100Z",
+      "facilityId": "toronto:12834077",
+      "facilityName": "Malvern Early Learning & Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-06T12:31:46.100Z",
+      "facilityId": "toronto:10071744",
+      "facilityName": "Palisades Centre For Early Learning",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-06T12:31:46.100Z",
+      "facilityId": "toronto:10071744",
+      "facilityName": "Palisades Centre For Early Learning",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-06T12:31:46.100Z",
+      "facilityId": "toronto:8929147",
+      "facilityName": "Pride In Heritage Children's Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-06T12:31:46.100Z",
+      "facilityId": "toronto:8929147",
+      "facilityName": "Pride In Heritage Children's Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-06T12:31:46.100Z",
+      "facilityId": "toronto:1028895",
+      "facilityName": "Terry Tan Child Care (Rossburn) Facility #4450",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-06T12:31:46.100Z",
+      "facilityId": "toronto:5524348",
+      "facilityName": "Terry Tan Child Centre (Bloordale)",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-10-05T12:31:08.519Z",
       "facilityId": "toronto:10527839",
