@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T02:31:08.227Z",
+  "generatedAt": "2026-10-06T12:31:47.905Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -11,7 +11,7 @@
   "summary": {
     "infant": 26,
     "nursery": 32,
-    "preschool": 75,
+    "preschool": 76,
     "schoolAge": 113
   },
   "facilities": [
@@ -3657,7 +3657,7 @@
       "phone": "(204) 997-8647",
       "email": "enoecarreiro@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-05T18:16:56.9198915",
+      "sourceLastModified": "2026-10-06T02:56:15.4338482",
       "vacancies": {
         "infant": 1,
         "nursery": 0,
@@ -14082,11 +14082,11 @@
       "phone": null,
       "email": "gdeepkaur342@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-03T15:36:12.3794508",
+      "sourceLastModified": "2026-10-06T03:22:07.738147",
       "vacancies": {
         "infant": 1,
         "nursery": 0,
-        "preschool": 0,
+        "preschool": 1,
         "schoolAge": 1
       }
     },
