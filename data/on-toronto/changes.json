@@ -1,6 +1,474 @@
 {
-  "generatedAt": "2026-10-06T12:31:46.100Z",
+  "generatedAt": "2026-10-07T12:31:39.066Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:482523",
+      "facilityName": "Ancaster Early Learning & Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:308643",
+      "facilityName": "Birchmount Place Centre For Early Learning",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:308643",
+      "facilityName": "Birchmount Place Centre For Early Learning",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:13967924",
+      "facilityName": "Blake Street Early Learning & Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:312084",
+      "facilityName": "Bridlewood Jr Ymca",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:318714",
+      "facilityName": "Charlottetown Kindergarten Extended Care Program",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:3232917",
+      "facilityName": "Chester Jr Ymca",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:6242276",
+      "facilityName": "Chester Le Early Learning & Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:6242276",
+      "facilityName": "Chester Le Early Learning & Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:3073655",
+      "facilityName": "David Lewis Jr Ymca",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:8855191",
+      "facilityName": "Falstaff Early Learning & Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:6947396",
+      "facilityName": "Family Day Sacred Heart Toronto Before And After School Program",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:396328",
+      "facilityName": "Family Day St Barnabas Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:536532",
+      "facilityName": "Gateway Day Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:7635592",
+      "facilityName": "George Brown - Nelson Mandela Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:74152",
+      "facilityName": "Humbercrest School Age Ymca",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:55237",
+      "facilityName": "Humewood Day Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:51261",
+      "facilityName": "J.R. Wilcox Day Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:51261",
+      "facilityName": "J.R. Wilcox Day Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:71098",
+      "facilityName": "King George B & A School Program",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:6052169",
+      "facilityName": "Kipling Early Learning & Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:366470",
+      "facilityName": "Lucy Maud Montgomery Jr Ymca",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:316950",
+      "facilityName": "Lynngate Jr Ymca",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:14174271",
+      "facilityName": "Lynnwood Heights Junior Public School",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:6620127",
+      "facilityName": "McMurrich Sprouts",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:6620127",
+      "facilityName": "McMurrich Sprouts",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:19805",
+      "facilityName": "Network - Child's Nest Early Years And Child Care Centre - 123 Cosburn",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:7846375",
+      "facilityName": "Network Child Care Services - Metamorphosis Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:7846375",
+      "facilityName": "Network Child Care Services - Metamorphosis Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:5237185",
+      "facilityName": "Network Child Care Services - St. Aidan Early Learning Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:350045",
+      "facilityName": "Network Child Care Services - St. Maria Goretti",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:784390",
+      "facilityName": "Parkdale Early Learning Centre - CDI - 119 Close Ave.",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:20078581",
+      "facilityName": "Pinnacle Jr Ymca",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:20078581",
+      "facilityName": "Pinnacle Jr Ymca",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:20078581",
+      "facilityName": "Pinnacle Jr Ymca",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:2917611",
+      "facilityName": "Romero Bears Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:9602601",
+      "facilityName": "Rouge Valley Jr Ymca",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:11063332",
+      "facilityName": "Scarborough Citadel Child Care",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:307269",
+      "facilityName": "St Victor Catholic School Before & After Child Care Program",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:8206173",
+      "facilityName": "St. Andrew Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:8206173",
+      "facilityName": "St. Andrew Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:349085",
+      "facilityName": "St. Columba Catholic School",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:349085",
+      "facilityName": "St. Columba Catholic School",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:1009961",
+      "facilityName": "St. Dorothy Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:9311782",
+      "facilityName": "St. Nicholas Child Care Centre - Network",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:1003707",
+      "facilityName": "St. Stephen Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:1003707",
+      "facilityName": "St. Stephen Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:1003707",
+      "facilityName": "St. Stephen Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:356351",
+      "facilityName": "St. Ursula Licensed Before And After School Program",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:370058",
+      "facilityName": "Terraview-Willowfield Extended Day Program",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:8566354",
+      "facilityName": "Tng Central Neighbourhood House",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-07T12:31:39.066Z",
+      "facilityId": "toronto:6375087",
+      "facilityName": "Wexford Extended Day And School Age Program",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-06T12:31:46.100Z",
       "facilityId": "toronto:20168852",
