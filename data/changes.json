@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-07T12:31:42.801Z",
+  "generatedAt": "2026-10-07T14:31:51.271Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-07T14:31:51.271Z",
+      "facilityId": "103183",
+      "facilityName": "Zanelle's Little Champs",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-06T22:31:06.364Z",
       "facilityId": "102652",
