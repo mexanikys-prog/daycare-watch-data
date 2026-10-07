@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-07T18:31:24.158Z",
+  "generatedAt": "2026-10-07T20:31:24.085Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-07T20:31:24.085Z",
+      "facilityId": "101896",
+      "facilityName": "Mantsangassa Blanche Loubila",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-07T14:31:51.271Z",
       "facilityId": "103183",
