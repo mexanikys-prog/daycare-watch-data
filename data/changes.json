@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-07T22:31:20.377Z",
+  "generatedAt": "2026-10-08T00:31:08.736Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-08T00:31:08.736Z",
+      "facilityId": "102895",
+      "facilityName": "Star Smiles Daycare",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-10-07T20:31:24.085Z",
       "facilityId": "101896",
