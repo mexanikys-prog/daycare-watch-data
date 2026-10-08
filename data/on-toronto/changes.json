@@ -1,6 +1,213 @@
 {
-  "generatedAt": "2026-10-07T12:31:39.066Z",
+  "generatedAt": "2026-10-08T12:31:52.734Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-08T12:31:52.734Z",
+      "facilityId": "toronto:69387",
+      "facilityName": "Ernie Boccia Creative Child Day Care (Rasheda Alli)",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-08T12:31:52.734Z",
+      "facilityId": "toronto:69387",
+      "facilityName": "Ernie Boccia Creative Child Day Care (Rasheda Alli)",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-08T12:31:52.734Z",
+      "facilityId": "toronto:533947",
+      "facilityName": "Family Day Kingslake Before And After School Program",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-08T12:31:52.734Z",
+      "facilityId": "toronto:502996",
+      "facilityName": "Garderie Du Soleil Levant",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-08T12:31:52.734Z",
+      "facilityId": "toronto:13971288",
+      "facilityName": "Maurice Cody Child Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-08T12:31:52.734Z",
+      "facilityId": "toronto:561844",
+      "facilityName": "North York Jr Ymca",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-08T12:31:52.734Z",
+      "facilityId": "toronto:9487216",
+      "facilityName": "Petit Pearson Child Care",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-08T12:31:52.734Z",
+      "facilityId": "toronto:9487216",
+      "facilityName": "Petit Pearson Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-08T12:31:52.734Z",
+      "facilityId": "toronto:13967814",
+      "facilityName": "Playhouse Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-08T12:31:52.734Z",
+      "facilityId": "toronto:13967814",
+      "facilityName": "Playhouse Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-08T12:31:52.734Z",
+      "facilityId": "toronto:13967814",
+      "facilityName": "Playhouse Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-08T12:31:52.734Z",
+      "facilityId": "toronto:20363734",
+      "facilityName": "Prodigy Learning Centre",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-08T12:31:52.734Z",
+      "facilityId": "toronto:20363734",
+      "facilityName": "Prodigy Learning Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-08T12:31:52.734Z",
+      "facilityId": "toronto:9086378",
+      "facilityName": "Rainbow Village Childcare Centre (Mid-Scarborough Child Care)",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-08T12:31:52.734Z",
+      "facilityId": "toronto:9086378",
+      "facilityName": "Rainbow Village Childcare Centre (Mid-Scarborough Child Care)",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-08T12:31:52.734Z",
+      "facilityId": "toronto:560545",
+      "facilityName": "Seneca Hill Centre For Early Learning",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-08T12:31:52.734Z",
+      "facilityId": "toronto:560545",
+      "facilityName": "Seneca Hill Centre For Early Learning",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-08T12:31:52.734Z",
+      "facilityId": "toronto:560545",
+      "facilityName": "Seneca Hill Centre For Early Learning",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-08T12:31:52.734Z",
+      "facilityId": "toronto:6355068",
+      "facilityName": "The Neighbourhood Group King Edward Child Care",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-08T12:31:52.734Z",
+      "facilityId": "toronto:3829444",
+      "facilityName": "Thorncliffe Park School Age Day Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-08T12:31:52.734Z",
+      "facilityId": "toronto:571343",
+      "facilityName": "Van Horne Day Care",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-08T12:31:52.734Z",
+      "facilityId": "toronto:20033897",
+      "facilityName": "Windermere Early Learning Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-08T12:31:52.734Z",
+      "facilityId": "toronto:20033897",
+      "facilityName": "Windermere Early Learning Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-07T12:31:39.066Z",
       "facilityId": "toronto:482523",
