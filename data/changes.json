@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-08T12:31:48.412Z",
+  "generatedAt": "2026-10-08T14:30:59.072Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-08T14:30:59.072Z",
+      "facilityId": "103040",
+      "facilityName": "Melinda  Pascual",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-08T00:31:08.736Z",
       "facilityId": "102895",
