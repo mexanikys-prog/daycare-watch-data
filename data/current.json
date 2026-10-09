@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T20:31:13.004Z",
+  "generatedAt": "2026-10-09T22:31:27.218Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -12,7 +12,7 @@
     "infant": 27,
     "nursery": 32,
     "preschool": 78,
-    "schoolAge": 114
+    "schoolAge": 113
   },
   "facilities": [
     {
@@ -4757,12 +4757,12 @@
       "phone": "(204) 219-7118",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-05T14:19:29.2972788",
+      "sourceLastModified": "2026-10-09T21:16:53.4619467",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
         "preschool": 0,
-        "schoolAge": 1
+        "schoolAge": 0
       }
     },
     {

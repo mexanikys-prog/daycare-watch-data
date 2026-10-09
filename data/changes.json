@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-09T20:31:13.004Z",
+  "generatedAt": "2026-10-09T22:31:27.218Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-09T22:31:27.218Z",
+      "facilityId": "102043",
+      "facilityName": "Good Fortune Home Day Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-10-08T14:30:59.072Z",
       "facilityId": "103040",
