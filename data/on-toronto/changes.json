@@ -1,6 +1,483 @@
 {
-  "generatedAt": "2026-10-08T12:31:52.734Z",
+  "generatedAt": "2026-10-09T12:31:13.163Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:18344",
+      "facilityName": "Abiona Centre For Infant And Early Mental Health Early Learning",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:525550",
+      "facilityName": "Air-O-Down Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:873148",
+      "facilityName": "Allenby Day Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:11267566",
+      "facilityName": "Antica Village Children's Day Care Centre (646508 Ontario Ltd)",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:4807575",
+      "facilityName": "Bayview Gardens Day Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:495446",
+      "facilityName": "Calico Saints Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:495446",
+      "facilityName": "Calico Saints Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:8066596",
+      "facilityName": "Danforth Early Learning & Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:9313334",
+      "facilityName": "Enriched Child Care Learning Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:11272533",
+      "facilityName": "Finch Business Park Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:2917704",
+      "facilityName": "Gilder Early Learning & Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:825367",
+      "facilityName": "Jackman Community Daycare",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:7979603",
+      "facilityName": "Jesse Ketchum Early Learning & Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:13503695",
+      "facilityName": "John Wanless Child Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:7062866",
+      "facilityName": "Lawrence Heights Community Day Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:7062866",
+      "facilityName": "Lawrence Heights Community Day Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:7062866",
+      "facilityName": "Lawrence Heights Community Day Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:32143",
+      "facilityName": "Le Petit Chaperon Rouge - Queensdale",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:67882",
+      "facilityName": "Macaulay - Marlee Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:29703",
+      "facilityName": "McGregor Jr Ymca",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:29703",
+      "facilityName": "McGregor Jr Ymca",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:14646308",
+      "facilityName": "Northview Advent Child Care",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:14646308",
+      "facilityName": "Northview Advent Child Care",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:8492510",
+      "facilityName": "Northwest Childhood Learning Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:9531820",
+      "facilityName": "Our Lady Of Victory School Age Ymca",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:7973823",
+      "facilityName": "Plasp - David Hornell Junior School",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:1029710",
+      "facilityName": "Plasp All Saints Catholic School",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:7763002",
+      "facilityName": "Plasp Blessed Sacrament C.S.",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:7667021",
+      "facilityName": "Plasp Holy Angels Catholic School",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:7667021",
+      "facilityName": "Plasp Holy Angels Catholic School",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:7667021",
+      "facilityName": "Plasp Holy Angels Catholic School",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:1045581",
+      "facilityName": "Plasp Kingsview Village Junior School",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:3049684",
+      "facilityName": "Plasp Nativity Of Our Lord Catholic School",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:9638081",
+      "facilityName": "Plasp Pauline Junior Public School",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:1043818",
+      "facilityName": "Plasp St Eugene Catholic School",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:557216",
+      "facilityName": "Plasp St. Conrad Catholic School",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:6942666",
+      "facilityName": "Plasp St. Louis C.S.",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:539709",
+      "facilityName": "Plasp St. Norbert Catholic School",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:30016433",
+      "facilityName": "Plasp St. Simon C.S.",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:1015960",
+      "facilityName": "Plasp Transfiguration Of Our Lord Catholic School",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:9035632",
+      "facilityName": "St. Francis De Sales Jr Y",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:9035632",
+      "facilityName": "St. Francis De Sales Jr Y",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:9035632",
+      "facilityName": "St. Francis De Sales Jr Y",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:11541988",
+      "facilityName": "St. George Mini School Inc - Bond",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:12789760",
+      "facilityName": "Start Right Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:35502",
+      "facilityName": "Thorncliffe Park Day Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:35502",
+      "facilityName": "Thorncliffe Park Day Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:7415223",
+      "facilityName": "Topcliff Community Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:7415223",
+      "facilityName": "Topcliff Community Child Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:10258462",
+      "facilityName": "Tot World Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:10071090",
+      "facilityName": "University City Jr Ymca",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:10576726",
+      "facilityName": "West End Jr Ymca",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-09T12:31:13.163Z",
+      "facilityId": "toronto:574232",
+      "facilityName": "Westown Early Learning And Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-08T12:31:52.734Z",
       "facilityId": "toronto:69387",
