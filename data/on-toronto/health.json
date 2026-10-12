@@ -11,7 +11,7 @@
     "detail": "Toronto postal sources failed. FeatureServer: The operation was aborted due to timeout; MapServer: The operation was aborted due to timeout"
   },
   "alerts": {
-    "status": "PENDING",
-    "updatedAt": "2026-10-12T12:30:35.742Z"
+    "status": "OK",
+    "updatedAt": "2026-10-12T12:45:39Z"
   }
 }
