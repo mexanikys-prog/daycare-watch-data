@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T20:30:33.030Z",
+  "generatedAt": "2026-10-12T22:30:32.319Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,7 +9,7 @@
   "city": "Winnipeg",
   "facilityCount": 660,
   "summary": {
-    "infant": 28,
+    "infant": 29,
     "nursery": 32,
     "preschool": 80,
     "schoolAge": 113
@@ -4532,7 +4532,7 @@
       "phone": null,
       "email": "garderiehope@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-05T13:44:46.9234405",
+      "sourceLastModified": "2026-10-12T22:23:46.5477148",
       "vacancies": {
         "infant": 1,
         "nursery": 0,
@@ -4807,7 +4807,7 @@
       "phone": null,
       "email": "gracecnortiz@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-05T15:22:59.2340015",
+      "sourceLastModified": "2026-10-12T20:36:32.9946667",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -5057,7 +5057,7 @@
       "phone": null,
       "email": "cheryl.ehappy@outlook.com",
       "website": null,
-      "sourceLastModified": "2026-10-05T13:56:07.569197",
+      "sourceLastModified": "2026-10-12T21:42:20.4057024",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6632,7 +6632,7 @@
       "phone": "(204) 661-1325",
       "email": "kidsplaceboard@hotmail.com",
       "website": "https://www.kidsplacenursery.com",
-      "sourceLastModified": "2026-10-06T12:33:22.0382822",
+      "sourceLastModified": "2026-10-12T21:20:52.2531872",
       "vacancies": {
         "infant": 0,
         "nursery": 5,
@@ -7282,7 +7282,7 @@
       "phone": "(204) 599-4121",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-05T11:54:12.1017014",
+      "sourceLastModified": "2026-10-12T21:13:12.5183838",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -7357,7 +7357,7 @@
       "phone": null,
       "email": "lescheminots@lafpfm.ca",
       "website": null,
-      "sourceLastModified": "2026-09-08T04:03:53.2079633",
+      "sourceLastModified": "2026-10-12T22:07:39.6829818",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8507,7 +8507,7 @@
       "phone": null,
       "email": "lpcsite3@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-05T14:35:42.1400593",
+      "sourceLastModified": "2026-10-12T22:02:21.9375368",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9882,7 +9882,7 @@
       "phone": "(204) 960-3008",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-05T18:41:29.3525785",
+      "sourceLastModified": "2026-10-12T20:57:05.3240707",
       "vacancies": {
         "infant": 1,
         "nursery": 0,
@@ -10757,7 +10757,7 @@
       "phone": null,
       "email": "novamontessoripreschoolinc@gmail.com",
       "website": "https://novamontessoripreschool.com",
-      "sourceLastModified": "2026-07-27T11:40:40.8432882",
+      "sourceLastModified": "2026-10-12T21:11:12.6373736",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -10782,7 +10782,7 @@
       "phone": null,
       "email": "novamontessoripreschoolinc@gmail.com",
       "website": "https://novamontessoripreschool.com/",
-      "sourceLastModified": "2026-07-27T11:43:20.3290139",
+      "sourceLastModified": "2026-10-12T21:09:13.8533266",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -10807,7 +10807,7 @@
       "phone": null,
       "email": "novamontessoripreschoolinc@gmail.com",
       "website": "https://novamontessoripreschool.com/",
-      "sourceLastModified": "2026-07-27T11:41:25.5390055",
+      "sourceLastModified": "2026-10-12T21:10:35.0546563",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -10832,7 +10832,7 @@
       "phone": null,
       "email": "novamontessoripreschoolinc@gmail.com",
       "website": "https://novamontessoripreschool.com/",
-      "sourceLastModified": "2026-07-27T11:42:30.3715998",
+      "sourceLastModified": "2026-10-12T21:09:50.6906494",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11057,9 +11057,9 @@
       "phone": null,
       "email": "bisoladunjoye@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-22T10:46:39.9456636",
+      "sourceLastModified": "2026-10-12T22:25:57.2153317",
       "vacancies": {
-        "infant": 0,
+        "infant": 1,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 0
@@ -13607,7 +13607,7 @@
       "phone": null,
       "email": "marifel.sahcc@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-05T14:45:17.1800215",
+      "sourceLastModified": "2026-10-12T21:29:33.310824",
       "vacancies": {
         "infant": 0,
         "nursery": 0,

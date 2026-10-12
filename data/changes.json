@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-12T20:30:33.030Z",
+  "generatedAt": "2026-10-12T22:30:32.319Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-12T22:30:32.319Z",
+      "facilityId": "102857",
+      "facilityName": "Olabisi Oladunjoye",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-12T20:30:33.030Z",
       "facilityId": "100845",
