@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T18:30:37.075Z",
+  "generatedAt": "2026-10-12T20:30:33.030Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -11,7 +11,7 @@
   "summary": {
     "infant": 28,
     "nursery": 32,
-    "preschool": 78,
+    "preschool": 80,
     "schoolAge": 113
   },
   "facilities": [
@@ -3132,7 +3132,7 @@
       "phone": null,
       "email": "dcc@discoverycc.com",
       "website": "http://www.discoverycc.com",
-      "sourceLastModified": "2026-10-05T18:07:24.5813679",
+      "sourceLastModified": "2026-10-12T20:09:21.0197224",
       "vacancies": {
         "infant": 0,
         "nursery": 12,
@@ -3657,11 +3657,11 @@
       "phone": "(204) 997-8647",
       "email": "enoecarreiro@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-06T02:56:15.4338482",
+      "sourceLastModified": "2026-10-12T20:17:39.7633351",
       "vacancies": {
         "infant": 1,
         "nursery": 0,
-        "preschool": 0,
+        "preschool": 1,
         "schoolAge": 2
       }
     },
@@ -4607,7 +4607,7 @@
       "phone": "(204) 257-4209",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-05T11:28:25.6989302",
+      "sourceLastModified": "2026-10-12T18:30:59.9317597",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -5107,7 +5107,7 @@
       "phone": null,
       "email": "lindali6667@outlook.com",
       "website": null,
-      "sourceLastModified": "2026-10-05T14:13:02.0714767",
+      "sourceLastModified": "2026-10-12T19:35:43.9417944",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -5382,11 +5382,11 @@
       "phone": null,
       "email": "Daycare1955@outlook.com",
       "website": null,
-      "sourceLastModified": "2026-08-31T18:41:21.4713962",
+      "sourceLastModified": "2026-10-12T19:53:49.424802",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 0,
+        "preschool": 1,
         "schoolAge": 1
       }
     },
@@ -6357,7 +6357,7 @@
       "phone": null,
       "email": "kandyhomedaycarewinnipeg@gmail.com",
       "website": "https://kandyhomedaycarewi.wixsite.com/home/waitlist",
-      "sourceLastModified": "2026-10-05T14:53:17.995608",
+      "sourceLastModified": "2026-10-12T20:14:06.3876645",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -10557,7 +10557,7 @@
       "phone": "(204) 914-5163",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-05T12:38:14.9167153",
+      "sourceLastModified": "2026-10-12T19:45:39.3581877",
       "vacancies": {
         "infant": 0,
         "nursery": 0,

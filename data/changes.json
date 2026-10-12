@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-12T18:30:37.075Z",
+  "generatedAt": "2026-10-12T20:30:33.030Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-12T20:30:33.030Z",
+      "facilityId": "100845",
+      "facilityName": "Enoe Benjamin",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-12T20:30:33.030Z",
+      "facilityId": "9040",
+      "facilityName": "Heather Burke",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-12T18:30:37.075Z",
       "facilityId": "103135",
