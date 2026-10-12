@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-10T02:30:58.865Z",
+  "generatedAt": "2026-10-12T12:30:48.255Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-12T12:30:48.255Z",
+      "facilityId": "102675",
+      "facilityName": "Abi Family Childcare",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-09T22:31:27.218Z",
       "facilityId": "102043",
