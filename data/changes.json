@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-13T16:36:33.155Z",
+  "generatedAt": "2026-10-13T18:48:18.382Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-13T18:48:18.382Z",
+      "facilityId": "2334",
+      "facilityName": "The Little Years School Inc.",
+      "ageGroup": "nursery",
+      "oldValue": 5,
+      "newValue": 6,
+      "changeType": "VACANCY_INCREASED"
+    },
     {
       "detectedAt": "2026-10-13T14:33:04.994Z",
       "facilityId": "101512",
