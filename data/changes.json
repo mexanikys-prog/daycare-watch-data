@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-13T12:34:31.001Z",
+  "generatedAt": "2026-10-13T14:33:04.994Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-13T14:33:04.994Z",
+      "facilityId": "101512",
+      "facilityName": "Neetu Singh",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 2,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-13T12:34:31.001Z",
       "facilityId": "1189",
