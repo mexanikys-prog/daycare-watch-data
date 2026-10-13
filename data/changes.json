@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-13T18:48:18.382Z",
+  "generatedAt": "2026-10-13T20:36:19.892Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-13T20:36:19.892Z",
+      "facilityId": "100900",
+      "facilityName": "David Livingstone School Age Program",
+      "ageGroup": "schoolAge",
+      "oldValue": 11,
+      "newValue": 17,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-10-13T20:36:19.892Z",
+      "facilityId": "9345",
+      "facilityName": "Maria Cordeiro",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-10-13T18:48:18.382Z",
       "facilityId": "2334",

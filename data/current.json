@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T18:48:18.382Z",
+  "generatedAt": "2026-10-13T20:36:19.892Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,7 +9,7 @@
   "city": "Winnipeg",
   "facilityCount": 660,
   "summary": {
-    "infant": 29,
+    "infant": 28,
     "nursery": 32,
     "preschool": 78,
     "schoolAge": 114
@@ -2932,12 +2932,12 @@
       "phone": null,
       "email": "erinnmanidoodl@shaw.ca",
       "website": "http://manidoo.ca",
-      "sourceLastModified": "2026-06-08T18:41:51.8211069",
+      "sourceLastModified": "2026-10-13T19:28:45.7540123",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
         "preschool": 0,
-        "schoolAge": 11
+        "schoolAge": 17
       }
     },
     {
@@ -5882,7 +5882,7 @@
       "phone": null,
       "email": "jeremyandjulie@hotmail.com",
       "website": null,
-      "sourceLastModified": "2026-08-31T18:00:13.0380257",
+      "sourceLastModified": "2026-10-13T19:20:07.8459032",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -7332,7 +7332,7 @@
       "phone": "(204) 583-1552",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-05T17:03:46.9308291",
+      "sourceLastModified": "2026-10-13T19:11:06.0768769",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9207,9 +9207,9 @@
       "phone": null,
       "email": "ambrosinam@hotmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-06T14:00:19.8044234",
+      "sourceLastModified": "2026-10-13T19:13:03.5174502",
       "vacancies": {
-        "infant": 1,
+        "infant": 0,
         "nursery": 0,
         "preschool": 1,
         "schoolAge": 1
@@ -9482,7 +9482,7 @@
       "phone": "(204) 287-8242",
       "email": "maybrookcc@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-05T18:03:04.2498637",
+      "sourceLastModified": "2026-10-13T19:49:07.991549",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9707,7 +9707,7 @@
       "phone": null,
       "email": "kim.dunning@winnipegmfrc.ca",
       "website": "http://cfmws.ca",
-      "sourceLastModified": "2026-10-05T11:31:54.7685699",
+      "sourceLastModified": "2026-10-13T20:31:00.7701392",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -12182,7 +12182,7 @@
       "phone": "(204) 668-8648",
       "email": "melanie@razorbackblasts.com",
       "website": "http://www.razorbackblasts.com",
-      "sourceLastModified": "2026-10-05T14:17:36.0392867",
+      "sourceLastModified": "2026-10-13T19:51:19.4286974",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
