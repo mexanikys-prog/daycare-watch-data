@@ -1,6 +1,258 @@
 {
-  "generatedAt": "2026-10-13T12:34:30.986Z",
+  "generatedAt": "2026-10-14T12:30:41.146Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:327663",
+      "facilityName": "Cambridge Place Centre For Early Learning",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:14038150",
+      "facilityName": "Dalemount Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:14038150",
+      "facilityName": "Dalemount Child Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:2312050",
+      "facilityName": "Dian Childcare Centre Inc.",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:2312050",
+      "facilityName": "Dian Childcare Centre Inc.",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:4504013",
+      "facilityName": "Elkhorn Junior Y - (Ymca)",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:4504013",
+      "facilityName": "Elkhorn Junior Y - (Ymca)",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:4202208",
+      "facilityName": "Eyet Early Learning Centre,  Crescent Town Elementary School",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:4202208",
+      "facilityName": "Eyet Early Learning Centre,  Crescent Town Elementary School",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:4202208",
+      "facilityName": "Eyet Early Learning Centre,  Crescent Town Elementary School",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:495911",
+      "facilityName": "Glen Cameron For Kids",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:495911",
+      "facilityName": "Glen Cameron For Kids",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:7940034",
+      "facilityName": "Humber Bay Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:10557756",
+      "facilityName": "Le Petit Chaperon Rouge - Coxwell",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:843418",
+      "facilityName": "Le Petit Chaperon Rouge Milverton",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:1001929",
+      "facilityName": "Les Etoiles Brillantes - Garderie",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:1001929",
+      "facilityName": "Les Etoiles Brillantes - Garderie",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:1001929",
+      "facilityName": "Les Etoiles Brillantes - Garderie",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:532121",
+      "facilityName": "Rejoyce Caledon Community Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:10071499",
+      "facilityName": "Sandalwood Centre For Early Learning (Centres For Early Learning Inc.)",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:10071499",
+      "facilityName": "Sandalwood Centre For Early Learning (Centres For Early Learning Inc.)",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:363246",
+      "facilityName": "St. Crispins Day Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:363246",
+      "facilityName": "St. Crispins Day Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:363246",
+      "facilityName": "St. Crispins Day Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:8609161",
+      "facilityName": "The Scott Mission Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:8609161",
+      "facilityName": "The Scott Mission Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:309574",
+      "facilityName": "Today's Child Tomorrow's Future Children's Centre (290 Blantyre)",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-14T12:30:41.146Z",
+      "facilityId": "toronto:309574",
+      "facilityName": "Today's Child Tomorrow's Future Children's Centre (290 Blantyre)",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-10-12T12:30:35.742Z",
       "facilityId": "toronto:350376",
