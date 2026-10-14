@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T12:30:46.301Z",
+  "generatedAt": "2026-10-14T14:30:46.544Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,7 +9,7 @@
   "city": "Winnipeg",
   "facilityCount": 660,
   "summary": {
-    "infant": 28,
+    "infant": 29,
     "nursery": 32,
     "preschool": 78,
     "schoolAge": 114
@@ -3832,7 +3832,7 @@
       "phone": "(204) 697-3910",
       "email": "emoura@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-10-05T19:31:34.3146931",
+      "sourceLastModified": "2026-10-14T12:38:36.3413403",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6057,9 +6057,9 @@
       "phone": "(204) 583-1619",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-05T16:39:45.8589733",
+      "sourceLastModified": "2026-10-14T13:14:36.3015627",
       "vacancies": {
-        "infant": 0,
+        "infant": 1,
         "nursery": 0,
         "preschool": 1,
         "schoolAge": 0
@@ -6332,7 +6332,7 @@
       "phone": null,
       "email": "daycare@kanikanichihk.ca",
       "website": "https://kanikanichihk.ca/",
-      "sourceLastModified": "2026-09-28T11:14:31.4981631",
+      "sourceLastModified": "2026-10-14T13:23:54.2147267",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -15132,7 +15132,7 @@
       "phone": null,
       "email": "udcwaitlist@gmail.com",
       "website": "http://myudc.net",
-      "sourceLastModified": "2026-10-05T14:02:03.1501728",
+      "sourceLastModified": "2026-10-14T13:47:49.0954754",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
