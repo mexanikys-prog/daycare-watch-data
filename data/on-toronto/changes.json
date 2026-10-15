@@ -1,6 +1,123 @@
 {
-  "generatedAt": "2026-10-14T12:30:41.146Z",
+  "generatedAt": "2026-10-15T12:30:57.511Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-15T12:30:57.511Z",
+      "facilityId": "toronto:982439",
+      "facilityName": "Albion Early Learning  & Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-15T12:30:57.511Z",
+      "facilityId": "toronto:307066",
+      "facilityName": "Bendale Licensed Before And After School Program",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-15T12:30:57.511Z",
+      "facilityId": "toronto:8264102",
+      "facilityName": "East Toronto Village Children's Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-15T12:30:57.511Z",
+      "facilityId": "toronto:8855191",
+      "facilityName": "Falstaff Early Learning & Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-15T12:30:57.511Z",
+      "facilityId": "toronto:30091787",
+      "facilityName": "George Webster Jr Ymca",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-15T12:30:57.511Z",
+      "facilityId": "toronto:367974",
+      "facilityName": "Hilltop Daycare Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-15T12:30:57.511Z",
+      "facilityId": "toronto:9313350",
+      "facilityName": "Jewish Russian Community Centre Preschool & Day Care",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-15T12:30:57.511Z",
+      "facilityId": "toronto:7062866",
+      "facilityName": "Lawrence Heights Community Day Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-15T12:30:57.511Z",
+      "facilityId": "toronto:574322",
+      "facilityName": "Macaulay - St. Jude Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-15T12:30:57.511Z",
+      "facilityId": "toronto:20200382",
+      "facilityName": "Macaulay - Stanley Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-15T12:30:57.511Z",
+      "facilityId": "toronto:323066",
+      "facilityName": "N.Y.A.D. Corvette",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-15T12:30:57.511Z",
+      "facilityId": "toronto:8594966",
+      "facilityName": "York University Co-Operative Day Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-15T12:30:57.511Z",
+      "facilityId": "toronto:8594966",
+      "facilityName": "York University Co-Operative Day Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-14T12:30:41.146Z",
       "facilityId": "toronto:327663",
