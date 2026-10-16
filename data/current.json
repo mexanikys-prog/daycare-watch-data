@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T18:31:01.642Z",
+  "generatedAt": "2026-10-16T20:30:59.295Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -1570,7 +1570,7 @@
       "displayName": "Brightling Children's Academy Inc.",
       "facilityType": "CENTRE",
       "businessType": "Non-Profit",
-      "fundingType": "Non Funded",
+      "fundingType": "Funded",
       "address": "1461 Chevrier boulevard",
       "city": "Winnipeg",
       "postalCode": "R3T 1Y7",
@@ -1580,9 +1580,9 @@
       "longitude": -97.167239,
       "hideLocation": false,
       "phone": null,
-      "email": "director@brightlingacademy.ca",
-      "website": null,
-      "sourceLastModified": "2026-01-07T16:30:59.3145872",
+      "email": "info@brightlingacademy.ca",
+      "website": "https://www.brightlingacademy.ca/",
+      "sourceLastModified": "2026-10-16T19:15:50.3541624",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
