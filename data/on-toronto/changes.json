@@ -1,6 +1,132 @@
 {
-  "generatedAt": "2026-10-15T12:30:57.511Z",
+  "generatedAt": "2026-10-16T12:31:00.135Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-16T12:31:00.135Z",
+      "facilityId": "toronto:14194946",
+      "facilityName": "Alexandra Park Early Learning & Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-16T12:31:00.135Z",
+      "facilityId": "toronto:13967924",
+      "facilityName": "Blake Street Early Learning & Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-16T12:31:00.135Z",
+      "facilityId": "toronto:6242276",
+      "facilityName": "Chester Le Early Learning & Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-16T12:31:00.135Z",
+      "facilityId": "toronto:6242276",
+      "facilityName": "Chester Le Early Learning & Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-16T12:31:00.135Z",
+      "facilityId": "toronto:14310229",
+      "facilityName": "Family Day Thomas L Wells Extended Day And School Age Program",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-16T12:31:00.135Z",
+      "facilityId": "toronto:2917704",
+      "facilityName": "Gilder Early Learning & Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-16T12:31:00.135Z",
+      "facilityId": "toronto:12834077",
+      "facilityName": "Malvern Early Learning & Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-16T12:31:00.135Z",
+      "facilityId": "toronto:12834077",
+      "facilityName": "Malvern Early Learning & Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-16T12:31:00.135Z",
+      "facilityId": "toronto:9467845",
+      "facilityName": "Mary Ward Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-16T12:31:00.135Z",
+      "facilityId": "toronto:9467845",
+      "facilityName": "Mary Ward Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-16T12:31:00.135Z",
+      "facilityId": "toronto:6349862",
+      "facilityName": "Meadowvale Daycare Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-16T12:31:00.135Z",
+      "facilityId": "toronto:6261352",
+      "facilityName": "Sir Samuel B Steele Jr Ymca",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-16T12:31:00.135Z",
+      "facilityId": "toronto:996286",
+      "facilityName": "St. Marcellus Early Learning Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-16T12:31:00.135Z",
+      "facilityId": "toronto:574232",
+      "facilityName": "Westown Early Learning And Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-10-15T12:30:57.511Z",
       "facilityId": "toronto:982439",
