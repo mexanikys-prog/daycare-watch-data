@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-19T20:30:29.894Z",
+  "generatedAt": "2026-10-19T22:30:31.819Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-19T22:30:31.819Z",
+      "facilityId": "102354",
+      "facilityName": "Garderie Chez Hope",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-10-19T20:30:29.894Z",
       "facilityId": "101061",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T20:30:29.894Z",
+  "generatedAt": "2026-10-19T22:30:31.819Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,7 +9,7 @@
   "city": "Winnipeg",
   "facilityCount": 660,
   "summary": {
-    "infant": 28,
+    "infant": 27,
     "nursery": 32,
     "preschool": 78,
     "schoolAge": 114
@@ -432,7 +432,7 @@
       "phone": null,
       "email": "almarongcal@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-09-28T13:56:41.6658302",
+      "sourceLastModified": "2026-10-19T20:37:07.5184884",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4532,9 +4532,9 @@
       "phone": null,
       "email": "garderiehope@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-12T22:23:46.5477148",
+      "sourceLastModified": "2026-10-19T22:28:10.9852306",
       "vacancies": {
-        "infant": 1,
+        "infant": 0,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 0
@@ -5932,7 +5932,7 @@
       "phone": "(204) 255-9404",
       "email": "jackdel1@hotmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-12T14:29:29.4216377",
+      "sourceLastModified": "2026-10-19T21:30:47.9999499",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9782,7 +9782,7 @@
       "phone": "(204) 414-7449",
       "email": "Lovechristiandaycare2012@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-10-15T10:31:04.5450409",
+      "sourceLastModified": "2026-10-19T21:13:26.6313341",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11407,7 +11407,7 @@
       "phone": "(204) 798-8584",
       "email": "bose5K@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-10-19T15:54:00.0483437",
+      "sourceLastModified": "2026-10-19T22:18:29.1764058",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -12207,7 +12207,7 @@
       "phone": null,
       "email": "abegail.calderon@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-10-12T11:26:32.2557024",
+      "sourceLastModified": "2026-10-19T22:22:25.4974644",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
