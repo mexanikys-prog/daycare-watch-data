@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-19T18:30:33.358Z",
+  "generatedAt": "2026-10-19T20:30:29.894Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-19T20:30:29.894Z",
+      "facilityId": "101061",
+      "facilityName": "Ka Ni Kanichihk Daycare",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 2,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-19T20:30:29.894Z",
+      "facilityId": "101061",
+      "facilityName": "Ka Ni Kanichihk Daycare",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 2,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-19T20:30:29.894Z",
+      "facilityId": "102660",
+      "facilityName": "River East Montessori School Inc.",
+      "ageGroup": "preschool",
+      "oldValue": 8,
+      "newValue": 3,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-10-19T20:30:29.894Z",
+      "facilityId": "102834",
+      "facilityName": "River East Montessori second site",
+      "ageGroup": "preschool",
+      "oldValue": 10,
+      "newValue": 4,
+      "changeType": "VACANCY_DECREASED"
+    },
     {
       "detectedAt": "2026-10-19T14:30:47.487Z",
       "facilityId": "103294",
