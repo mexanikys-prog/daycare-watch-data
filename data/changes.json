@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-19T12:30:29.155Z",
+  "generatedAt": "2026-10-19T14:30:47.487Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-19T14:30:47.487Z",
+      "facilityId": "103294",
+      "facilityName": "River Heights Child Care",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-10-19T12:30:29.155Z",
       "facilityId": "5830",
