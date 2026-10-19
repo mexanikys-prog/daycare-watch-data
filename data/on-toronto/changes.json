@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-10-16T12:31:00.135Z",
+  "generatedAt": "2026-10-19T12:30:32.207Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-19T12:30:32.207Z",
+      "facilityId": "toronto:5524348",
+      "facilityName": "Terry Tan Child Centre (Bloordale)",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-19T12:30:32.207Z",
+      "facilityId": "toronto:5524348",
+      "facilityName": "Terry Tan Child Centre (Bloordale)",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-19T12:30:32.207Z",
+      "facilityId": "toronto:5524348",
+      "facilityName": "Terry Tan Child Centre (Bloordale)",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-16T12:31:00.135Z",
       "facilityId": "toronto:14194946",
