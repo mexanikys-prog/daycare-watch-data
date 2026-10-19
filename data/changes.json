@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-17T02:30:54.385Z",
+  "generatedAt": "2026-10-19T12:30:29.155Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-19T12:30:29.155Z",
+      "facilityId": "5830",
+      "facilityName": "Adelle Kennedy",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-19T12:30:29.155Z",
+      "facilityId": "1231",
+      "facilityName": "Shaughnessy Park Daycare Inc.",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-10-14T14:30:46.544Z",
       "facilityId": "102073",
