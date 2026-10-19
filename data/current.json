@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T14:30:47.487Z",
+  "generatedAt": "2026-10-19T16:30:37.317Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -157,7 +157,7 @@
       "phone": "(204) 560-3151",
       "email": "playroom@acornfamilyplace.ca",
       "website": "http://www.acornfamilyplace.ca",
-      "sourceLastModified": "2026-10-13T14:42:23.7072792",
+      "sourceLastModified": "2026-10-19T15:25:39.9871581",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -216,23 +216,23 @@
       }
     },
     {
-      "sourceId": "102416",
+      "sourceId": "103081",
       "displayName": "Adorable Child Care",
-      "facilityType": "HOME",
-      "businessType": "For-Profit",
+      "facilityType": "CENTRE",
+      "businessType": "Non-Profit",
       "fundingType": "Funded",
-      "address": "11  Manipogo Bay",
+      "address": "1201-05 Manahan Avenue",
       "city": "Winnipeg",
-      "postalCode": "R3Y 0R6",
-      "neighbourhood": "WAVERLEY WEST",
+      "postalCode": "R3T 5S8",
+      "neighbourhood": "CHEVRIER",
       "region": "WINNIPEG",
-      "latitude": 49.773981,
-      "longitude": -97.182246,
+      "latitude": 49.828007,
+      "longitude": -97.160103,
       "hideLocation": false,
-      "phone": null,
+      "phone": "(204) 881-4249",
       "email": "adorable4family@gmail.com",
       "website": "https://adorablechildcare.ca/",
-      "sourceLastModified": "2026-10-05T17:47:38.835995",
+      "sourceLastModified": "2026-10-19T15:53:04.8396517",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -1057,7 +1057,7 @@
       "phone": null,
       "email": "daycare@avicenna-academy.ca",
       "website": "http://www.avicenna-academy.ca",
-      "sourceLastModified": "2026-10-13T15:05:10.4391798",
+      "sourceLastModified": "2026-10-19T15:23:46.4231781",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -1707,7 +1707,7 @@
       "phone": null,
       "email": "director@bumpercropelc.ca",
       "website": null,
-      "sourceLastModified": "2026-10-13T14:20:48.8413665",
+      "sourceLastModified": "2026-10-19T14:55:35.9585764",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -2232,7 +2232,7 @@
       "phone": null,
       "email": "danielle@unespacepourgrandir.ca",
       "website": null,
-      "sourceLastModified": "2026-10-13T14:51:54.0963006",
+      "sourceLastModified": "2026-10-19T14:33:04.2935719",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -3132,7 +3132,7 @@
       "phone": null,
       "email": "dcc@discoverycc.com",
       "website": "http://www.discoverycc.com",
-      "sourceLastModified": "2026-10-12T20:09:21.0197224",
+      "sourceLastModified": "2026-10-19T16:04:31.1448561",
       "vacancies": {
         "infant": 0,
         "nursery": 12,
@@ -3757,7 +3757,7 @@
       "phone": "(204) 488-1284",
       "email": "admin@explorediscover.ca",
       "website": null,
-      "sourceLastModified": "2026-10-13T16:08:47.7077387",
+      "sourceLastModified": "2026-10-19T15:31:42.9639128",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -3782,7 +3782,7 @@
       "phone": "(204) 488-1284",
       "email": "admin@explorediscover.ca",
       "website": null,
-      "sourceLastModified": "2026-10-13T16:07:06.3280108",
+      "sourceLastModified": "2026-10-19T15:30:19.1324175",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4057,7 +4057,7 @@
       "phone": "(204) 295-8648",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-05T12:01:55.1859256",
+      "sourceLastModified": "2026-10-19T14:58:25.6273332",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4157,7 +4157,7 @@
       "phone": null,
       "email": "childcare@fgcccc.ca",
       "website": "https://fortgarrychildcare.ca",
-      "sourceLastModified": "2026-10-13T13:26:48.6380458",
+      "sourceLastModified": "2026-10-19T16:10:43.5992875",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4182,7 +4182,7 @@
       "phone": null,
       "email": "childcare@fgcccc.ca",
       "website": "https://fortgarrychildcare.ca",
-      "sourceLastModified": "2026-10-13T13:26:57.3125782",
+      "sourceLastModified": "2026-10-19T16:08:53.5759505",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4432,7 +4432,7 @@
       "phone": "(204) 899-1178",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-08-17T11:54:26.4174592",
+      "sourceLastModified": "2026-10-19T15:42:23.8662061",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4607,7 +4607,7 @@
       "phone": "(204) 257-4209",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-12T18:30:59.9317597",
+      "sourceLastModified": "2026-10-19T14:48:46.0764338",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4907,7 +4907,7 @@
       "phone": null,
       "email": "info@guidingmindsmontessori.com",
       "website": null,
-      "sourceLastModified": "2026-09-28T16:19:57.7684944",
+      "sourceLastModified": "2026-10-19T14:41:43.8890221",
       "vacancies": {
         "infant": 1,
         "nursery": 0,
@@ -5007,7 +5007,7 @@
       "phone": null,
       "email": "pocholo0408@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-15T23:45:38.8259022",
+      "sourceLastModified": "2026-10-19T14:32:36.1677264",
       "vacancies": {
         "infant": 2,
         "nursery": 0,
@@ -7357,7 +7357,7 @@
       "phone": null,
       "email": "lescheminots@lafpfm.ca",
       "website": null,
-      "sourceLastModified": "2026-10-12T22:07:39.6829818",
+      "sourceLastModified": "2026-10-19T15:03:13.5198026",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8007,7 +8007,7 @@
       "phone": "(204) 809-0598",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-09-28T13:25:43.7001544",
+      "sourceLastModified": "2026-10-19T15:44:09.2226965",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8507,7 +8507,7 @@
       "phone": null,
       "email": "lpcsite3@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-12T22:02:21.9375368",
+      "sourceLastModified": "2026-10-19T16:19:37.4177954",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8607,7 +8607,7 @@
       "phone": null,
       "email": "louisrielchildcarecentre@mmf.mb.ca",
       "website": null,
-      "sourceLastModified": "2026-10-14T18:05:03.5235953",
+      "sourceLastModified": "2026-10-19T14:48:49.0134346",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8632,7 +8632,7 @@
       "phone": null,
       "email": "maria_talania@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-10-12T14:15:44.0096316",
+      "sourceLastModified": "2026-10-19T15:04:43.7413287",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8807,7 +8807,7 @@
       "phone": "(204) 925-0304",
       "email": "cdccoordinator@mamawi.com",
       "website": null,
-      "sourceLastModified": "2026-10-05T14:58:06.2487947",
+      "sourceLastModified": "2026-10-19T16:21:40.0613886",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9382,7 +9382,7 @@
       "phone": "(204) 557-9056",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-12T16:22:41.4097601",
+      "sourceLastModified": "2026-10-19T14:32:12.8274539",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -10857,7 +10857,7 @@
       "phone": "(204) 832-9635",
       "email": "nurturingrootscc@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-12T17:58:32.5556408",
+      "sourceLastModified": "2026-10-19T14:54:52.9501335",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11407,7 +11407,7 @@
       "phone": "(204) 798-8584",
       "email": "bose5K@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-10-12T15:26:27.5471158",
+      "sourceLastModified": "2026-10-19T15:54:00.0483437",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11907,7 +11907,7 @@
       "phone": "(204) 615-8555",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-01-19T15:40:31.8165547",
+      "sourceLastModified": "2026-10-19T15:01:56.9462533",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11932,7 +11932,7 @@
       "phone": "(204) 477-7414",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-01-19T15:39:41.5857932",
+      "sourceLastModified": "2026-10-19T15:01:33.3182989",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -12182,7 +12182,7 @@
       "phone": "(204) 668-8648",
       "email": "melanie@razorbackblasts.com",
       "website": "http://www.razorbackblasts.com",
-      "sourceLastModified": "2026-10-13T19:51:19.4286974",
+      "sourceLastModified": "2026-10-19T14:42:54.6144539",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -13657,7 +13657,7 @@
       "phone": "(204) 231-2010",
       "email": "sbcp1@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-10-13T15:26:21.871342",
+      "sourceLastModified": "2026-10-19T15:29:49.7435588",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -13682,7 +13682,7 @@
       "phone": "(204) 233-6366",
       "email": "sbcp1@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-10-13T15:26:10.0293241",
+      "sourceLastModified": "2026-10-19T15:30:04.9467375",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -13907,7 +13907,7 @@
       "phone": null,
       "email": "sitesupervisor669@stmkidskorner.com",
       "website": null,
-      "sourceLastModified": "2026-09-28T14:29:59.8192573",
+      "sourceLastModified": "2026-10-19T15:44:44.2779563",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -14557,7 +14557,7 @@
       "phone": null,
       "email": "mimi.frg.59@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-12T16:09:04.6391069",
+      "sourceLastModified": "2026-10-19T14:49:50.0847644",
       "vacancies": {
         "infant": 1,
         "nursery": 0,
@@ -14907,7 +14907,7 @@
       "phone": null,
       "email": "time2play-elc@outlook.com",
       "website": null,
-      "sourceLastModified": "2026-10-13T14:40:42.1422216",
+      "sourceLastModified": "2026-10-19T14:37:09.0093594",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -15107,7 +15107,7 @@
       "phone": "(204) 229-2026",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-13T02:37:49.7090313",
+      "sourceLastModified": "2026-10-19T16:21:54.933412",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
