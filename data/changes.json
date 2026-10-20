@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-20T12:30:32.725Z",
+  "generatedAt": "2026-10-20T14:30:35.854Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-20T14:30:35.854Z",
+      "facilityId": "103128",
+      "facilityName": "Olufisayo Afolabi",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-10-20T12:30:32.725Z",
       "facilityId": "103040",

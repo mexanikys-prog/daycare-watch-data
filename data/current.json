@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T12:30:32.725Z",
+  "generatedAt": "2026-10-20T14:30:35.854Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -11,7 +11,7 @@
   "summary": {
     "infant": 28,
     "nursery": 33,
-    "preschool": 77,
+    "preschool": 76,
     "schoolAge": 114
   },
   "facilities": [
@@ -2782,7 +2782,7 @@
       "phone": null,
       "email": "amankwaofori@yahoo.ca",
       "website": null,
-      "sourceLastModified": "2026-10-05T14:07:20.2728678",
+      "sourceLastModified": "2026-10-20T14:24:23.6346279",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -7332,7 +7332,7 @@
       "phone": "(204) 583-1552",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-13T19:11:06.0768769",
+      "sourceLastModified": "2026-10-20T12:44:40.0272617",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8582,7 +8582,7 @@
       "phone": null,
       "email": "lwns-liz@outlook.com",
       "website": null,
-      "sourceLastModified": "2026-10-14T10:55:56.3069838",
+      "sourceLastModified": "2026-10-20T13:31:18.1310663",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11107,11 +11107,11 @@
       "phone": null,
       "email": "sunandshieldhd@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-08T14:54:36.1957332",
+      "sourceLastModified": "2026-10-20T14:27:58.2785884",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 1,
+        "preschool": 0,
         "schoolAge": 1
       }
     },
@@ -14382,7 +14382,7 @@
       "phone": "(204) 998-5166",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-12T12:49:04.5853996",
+      "sourceLastModified": "2026-10-20T13:17:44.9481007",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
