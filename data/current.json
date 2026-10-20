@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T16:30:38.125Z",
+  "generatedAt": "2026-10-20T18:30:33.198Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,9 +9,9 @@
   "city": "Winnipeg",
   "facilityCount": 660,
   "summary": {
-    "infant": 28,
+    "infant": 27,
     "nursery": 33,
-    "preschool": 76,
+    "preschool": 75,
     "schoolAge": 114
   },
   "facilities": [
@@ -6207,7 +6207,7 @@
       "phone": null,
       "email": "karenohlson@kidsincorporated.ca",
       "website": "https://www.kidsincorporated.ca/",
-      "sourceLastModified": "2026-10-13T13:07:04.0450931",
+      "sourceLastModified": "2026-10-20T16:36:49.7433899",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6232,7 +6232,7 @@
       "phone": null,
       "email": "karenohlson@kidsincorporated.ca",
       "website": "http://www.kidsincorporated.ca",
-      "sourceLastModified": "2026-10-13T13:08:01.8093085",
+      "sourceLastModified": "2026-10-20T16:35:24.3809886",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6257,7 +6257,7 @@
       "phone": null,
       "email": "karenohlson@kidsincorporated.ca",
       "website": "http://www.kidsincorporated.ca",
-      "sourceLastModified": "2026-10-13T13:07:27.1493258",
+      "sourceLastModified": "2026-10-20T16:36:24.6161223",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6282,7 +6282,7 @@
       "phone": null,
       "email": "karenohlson@kidsincorporated.ca",
       "website": "http://www.kidsincorporated.ca",
-      "sourceLastModified": "2026-10-13T13:07:41.5079081",
+      "sourceLastModified": "2026-10-20T16:35:57.2696088",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6307,7 +6307,7 @@
       "phone": null,
       "email": "karenohlson@kidsincorporated.ca",
       "website": "http://www.kidsincorporated.ca",
-      "sourceLastModified": "2026-10-13T13:06:45.165447",
+      "sourceLastModified": "2026-10-20T16:37:11.3921344",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6332,11 +6332,11 @@
       "phone": null,
       "email": "daycare@kanikanichihk.ca",
       "website": "https://kanikanichihk.ca/",
-      "sourceLastModified": "2026-10-19T19:08:39.7242676",
+      "sourceLastModified": "2026-10-20T16:48:42.9484077",
       "vacancies": {
-        "infant": 2,
+        "infant": 0,
         "nursery": 0,
-        "preschool": 2,
+        "preschool": 0,
         "schoolAge": 0
       }
     },
@@ -7582,7 +7582,7 @@
       "phone": "(204) 489-7056",
       "email": "sharon@lwccc.ca",
       "website": null,
-      "sourceLastModified": "2026-10-13T12:14:05.4851543",
+      "sourceLastModified": "2026-10-20T17:07:43.225251",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -13932,7 +13932,7 @@
       "phone": null,
       "email": "daycare@stmaurice.mb.ca",
       "website": "http://stmauricedaycare.ca",
-      "sourceLastModified": "2026-10-13T14:45:39.8710133",
+      "sourceLastModified": "2026-10-20T16:55:11.0683072",
       "vacancies": {
         "infant": 0,
         "nursery": 0,

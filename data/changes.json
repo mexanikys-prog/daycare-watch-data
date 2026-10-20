@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-20T16:30:38.125Z",
+  "generatedAt": "2026-10-20T18:30:33.198Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-20T18:30:33.198Z",
+      "facilityId": "101061",
+      "facilityName": "Ka Ni Kanichihk Daycare",
+      "ageGroup": "infant",
+      "oldValue": 2,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-20T18:30:33.198Z",
+      "facilityId": "101061",
+      "facilityName": "Ka Ni Kanichihk Daycare",
+      "ageGroup": "preschool",
+      "oldValue": 2,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-10-20T14:30:35.854Z",
       "facilityId": "103128",
