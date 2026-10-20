@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-19T12:30:32.207Z",
+  "generatedAt": "2026-10-20T12:30:30.859Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-20T12:30:30.859Z",
+      "facilityId": "toronto:6052169",
+      "facilityName": "Kipling Early Learning & Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-20T12:30:30.859Z",
+      "facilityId": "toronto:12551948",
+      "facilityName": "Macaulay - Humberwood Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-20T12:30:30.859Z",
+      "facilityId": "toronto:20200382",
+      "facilityName": "Macaulay - Stanley Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-20T12:30:30.859Z",
+      "facilityId": "toronto:12834077",
+      "facilityName": "Malvern Early Learning & Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-10-19T12:30:32.207Z",
       "facilityId": "toronto:5524348",
