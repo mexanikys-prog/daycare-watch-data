@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-20T02:30:30.883Z",
+  "generatedAt": "2026-10-20T12:30:32.725Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-20T12:30:32.725Z",
+      "facilityId": "103040",
+      "facilityName": "Melinda  Pascual",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-20T12:30:32.725Z",
+      "facilityId": "102858",
+      "facilityName": "Oluwakemi Adeyele",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-20T00:30:32.741Z",
       "facilityId": "2164",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T02:30:30.883Z",
+  "generatedAt": "2026-10-20T12:30:32.725Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,9 +9,9 @@
   "city": "Winnipeg",
   "facilityCount": 660,
   "summary": {
-    "infant": 27,
+    "infant": 28,
     "nursery": 33,
-    "preschool": 78,
+    "preschool": 77,
     "schoolAge": 114
   },
   "facilities": [
@@ -2582,7 +2582,7 @@
       "phone": "(204) 296-4518",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-12T17:25:33.6507045",
+      "sourceLastModified": "2026-10-20T11:29:27.6415574",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -3607,7 +3607,7 @@
       "phone": null,
       "email": "olujobiemmayinka@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-10-05T12:41:15.6097617",
+      "sourceLastModified": "2026-10-20T03:01:01.7186752",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6082,7 +6082,7 @@
       "phone": "(431) 337-6434",
       "email": "jimlet_abengoza@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-10-12T13:33:55.9202682",
+      "sourceLastModified": "2026-10-20T12:24:08.2143081",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9632,11 +9632,11 @@
       "phone": "(204) 887-4866",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-12T12:06:40.2082682",
+      "sourceLastModified": "2026-10-20T11:06:51.6749913",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 1,
+        "preschool": 0,
         "schoolAge": 0
       }
     },
@@ -11132,9 +11132,9 @@
       "phone": "(204) 403-8809",
       "email": "adeyelechristty@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-07T11:13:38.2301977",
+      "sourceLastModified": "2026-10-20T03:33:41.9188646",
       "vacancies": {
-        "infant": 0,
+        "infant": 1,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 1
@@ -11307,7 +11307,7 @@
       "phone": "(431) 335-3271",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-12T13:59:23.4343949",
+      "sourceLastModified": "2026-10-20T03:30:15.5552504",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
