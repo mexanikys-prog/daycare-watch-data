@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-21T14:30:29.357Z",
+  "generatedAt": "2026-10-21T16:30:25.413Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-21T16:30:25.413Z",
+      "facilityId": "100842",
+      "facilityName": "Governor Semple Children's Place",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 4,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-21T16:30:25.413Z",
+      "facilityId": "101412",
+      "facilityName": "Roots & Wings Early Learning Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 3,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-20T18:30:33.198Z",
       "facilityId": "101061",
