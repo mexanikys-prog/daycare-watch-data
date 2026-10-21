@@ -1,6 +1,177 @@
 {
-  "generatedAt": "2026-10-20T12:30:30.859Z",
+  "generatedAt": "2026-10-21T12:30:26.452Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-21T12:30:26.452Z",
+      "facilityId": "toronto:2834434",
+      "facilityName": "A & A Daycare Centre",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-21T12:30:26.452Z",
+      "facilityId": "toronto:2834434",
+      "facilityName": "A & A Daycare Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-21T12:30:26.452Z",
+      "facilityId": "toronto:4616611",
+      "facilityName": "Agincourt Temple Day Care(Governing Council Of The Salvation Army)",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-21T12:30:26.452Z",
+      "facilityId": "toronto:4616611",
+      "facilityName": "Agincourt Temple Day Care(Governing Council Of The Salvation Army)",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-21T12:30:26.452Z",
+      "facilityId": "toronto:510159",
+      "facilityName": "Blue Wave Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-21T12:30:26.452Z",
+      "facilityId": "toronto:363461",
+      "facilityName": "Cedarbrae Day Nursery (1375 Midland)",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-21T12:30:26.452Z",
+      "facilityId": "toronto:9467834",
+      "facilityName": "Cheer Day Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-21T12:30:26.452Z",
+      "facilityId": "toronto:302317",
+      "facilityName": "Glamorgan School Age Ymca",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-21T12:30:26.452Z",
+      "facilityId": "toronto:3054064",
+      "facilityName": "Kreative Kids Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-21T12:30:26.452Z",
+      "facilityId": "toronto:1001929",
+      "facilityName": "Les Etoiles Brillantes - Garderie",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-21T12:30:26.452Z",
+      "facilityId": "toronto:20037846",
+      "facilityName": "Morrish Jr Ymca",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-21T12:30:26.452Z",
+      "facilityId": "toronto:2133565",
+      "facilityName": "Mother Of Compassion Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-21T12:30:26.452Z",
+      "facilityId": "toronto:2798984",
+      "facilityName": "Progress Childcare (Scarborough Inc. #1 (3 Glamorgan)",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-21T12:30:26.452Z",
+      "facilityId": "toronto:2798984",
+      "facilityName": "Progress Childcare (Scarborough Inc. #1 (3 Glamorgan)",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-21T12:30:26.452Z",
+      "facilityId": "toronto:386342",
+      "facilityName": "Silver Springs Extended Day & School Age Program",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-21T12:30:26.452Z",
+      "facilityId": "toronto:386354",
+      "facilityName": "St. Sylvester Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-21T12:30:26.452Z",
+      "facilityId": "toronto:386354",
+      "facilityName": "St. Sylvester Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-21T12:30:26.452Z",
+      "facilityId": "toronto:386354",
+      "facilityName": "St. Sylvester Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-21T12:30:26.452Z",
+      "facilityId": "toronto:30032611",
+      "facilityName": "William G. Miller School Age Ymca",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-20T12:30:30.859Z",
       "facilityId": "toronto:6052169",
