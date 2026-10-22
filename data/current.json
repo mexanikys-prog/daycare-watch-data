@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T00:31:11.232Z",
+  "generatedAt": "2026-10-22T02:31:13.226Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9357,7 +9357,7 @@
       "phone": null,
       "email": "marvielayugan@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-10-12T14:47:17.2801903",
+      "sourceLastModified": "2026-10-22T02:00:38.2187721",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -14107,11 +14107,11 @@
       "phone": null,
       "email": "gdeepkaur342@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-07T23:41:29.2092863",
+      "sourceLastModified": "2026-10-22T01:26:27.1095167",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 1,
+        "preschool": 2,
         "schoolAge": 1
       }
     },
