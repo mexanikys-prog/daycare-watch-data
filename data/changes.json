@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-22T14:31:16.539Z",
+  "generatedAt": "2026-10-22T16:31:13.034Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-22T16:31:13.034Z",
+      "facilityId": "103088",
+      "facilityName": "Kids Bee Montessori",
+      "ageGroup": "preschool",
+      "oldValue": 5,
+      "newValue": 4,
+      "changeType": "VACANCY_DECREASED"
+    },
     {
       "detectedAt": "2026-10-22T02:31:13.226Z",
       "facilityId": "102895",
