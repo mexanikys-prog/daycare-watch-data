@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T16:31:13.034Z",
+  "generatedAt": "2026-10-22T18:31:11.856Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -7,7 +7,7 @@
   "sourceKey": "manitoba-child-care-search",
   "source": "Manitoba Child Care Search",
   "city": "Winnipeg",
-  "facilityCount": 660,
+  "facilityCount": 659,
   "summary": {
     "infant": 27,
     "nursery": 33,
@@ -657,7 +657,7 @@
       "phone": "(204) 995-8537",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-16T16:29:11.6988619",
+      "sourceLastModified": "2026-10-22T17:27:40.7300666",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -708,31 +708,6 @@
       "email": "emorris@mountcarmel.ca",
       "website": null,
       "sourceLastModified": "2023-03-08T20:49:25.0347511",
-      "vacancies": {
-        "infant": 0,
-        "nursery": 0,
-        "preschool": 0,
-        "schoolAge": 0
-      }
-    },
-    {
-      "sourceId": "9554",
-      "displayName": "Annette Henzel",
-      "facilityType": "HOME",
-      "businessType": "For-Profit",
-      "fundingType": "Funded",
-      "address": "126 Frog Plain Way",
-      "city": "Winnipeg",
-      "postalCode": "R2V 4X7",
-      "neighbourhood": "JEFFERSON",
-      "region": "WINNIPEG",
-      "latitude": 49.956261,
-      "longitude": -97.106502,
-      "hideLocation": false,
-      "phone": null,
-      "email": "ahenzel@shaw.ca",
-      "website": null,
-      "sourceLastModified": "2026-10-19T12:17:56.371489",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
