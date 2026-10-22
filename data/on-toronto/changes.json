@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-10-21T12:30:26.452Z",
+  "generatedAt": "2026-10-22T12:31:13.447Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-22T12:31:13.447Z",
+      "facilityId": "toronto:373586",
+      "facilityName": "Epiphany Of Our Lord Jr Ymca",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-22T12:31:13.447Z",
+      "facilityId": "toronto:332056",
+      "facilityName": "Family Day Kennedy Extended Day & School Age Program",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-22T12:31:13.447Z",
+      "facilityId": "toronto:30026375",
+      "facilityName": "Fraser Mustard Early Learning Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-22T12:31:13.447Z",
+      "facilityId": "toronto:9950447",
+      "facilityName": "Macaulay - St. John The Evangelist Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-22T12:31:13.447Z",
+      "facilityId": "toronto:373219",
+      "facilityName": "Precious Blood  Jr Ymca Elp",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-22T12:31:13.447Z",
+      "facilityId": "toronto:2375320",
+      "facilityName": "William G. Davis Kindergarten Extended Care Program",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-22T12:31:13.447Z",
+      "facilityId": "toronto:6522886",
+      "facilityName": "Winchester Site Day Care (Central Neighbourhood House)",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-22T12:31:13.447Z",
+      "facilityId": "toronto:7762681",
+      "facilityName": "Ymca Child Development Centre (Ymca)",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-21T12:30:26.452Z",
       "facilityId": "toronto:2834434",
