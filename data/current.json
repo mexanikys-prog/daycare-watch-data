@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T20:31:13.704Z",
+  "generatedAt": "2026-10-23T22:31:13.864Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -1832,7 +1832,7 @@
       "phone": null,
       "email": "waitlist@cairnscc.com",
       "website": "http://www.cairnscc.com",
-      "sourceLastModified": "2026-09-16T21:34:18.0623388",
+      "sourceLastModified": "2026-10-23T22:18:16.7548075",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
