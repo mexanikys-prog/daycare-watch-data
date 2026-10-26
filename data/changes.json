@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-26T20:31:15.367Z",
+  "generatedAt": "2026-10-26T22:31:14.698Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-26T22:31:14.698Z",
+      "facilityId": "103040",
+      "facilityName": "Melinda  Pascual",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-26T22:31:14.698Z",
+      "facilityId": "103040",
+      "facilityName": "Melinda  Pascual",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-26T20:31:15.367Z",
       "facilityId": "103112",
