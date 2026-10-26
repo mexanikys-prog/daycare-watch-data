@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-23T12:31:11.801Z",
+  "generatedAt": "2026-10-26T12:31:22.763Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-26T12:31:22.763Z",
+      "facilityId": "toronto:482523",
+      "facilityName": "Ancaster Early Learning & Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-26T12:31:22.763Z",
+      "facilityId": "toronto:13967926",
+      "facilityName": "Davisville Care Programme Inc.",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-26T12:31:22.763Z",
+      "facilityId": "toronto:13967926",
+      "facilityName": "Davisville Care Programme Inc.",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-26T12:31:22.763Z",
+      "facilityId": "toronto:10923450",
+      "facilityName": "Wellesley Early Learning Centre - Earlscourt Creche CDI",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-23T12:31:11.801Z",
       "facilityId": "toronto:6242276",
