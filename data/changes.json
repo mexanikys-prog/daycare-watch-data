@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-26T18:31:15.173Z",
+  "generatedAt": "2026-10-26T20:31:15.367Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-26T20:31:15.367Z",
+      "facilityId": "103112",
+      "facilityName": "Little Treasure Daycare",
+      "ageGroup": "schoolAge",
+      "oldValue": 3,
+      "newValue": 2,
+      "changeType": "VACANCY_DECREASED"
+    },
     {
       "detectedAt": "2026-10-26T16:31:16.738Z",
       "facilityId": "102195",
