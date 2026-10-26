@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-24T02:31:11.868Z",
+  "generatedAt": "2026-10-26T12:31:12.728Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-26T12:31:12.728Z",
+      "facilityId": "102791",
+      "facilityName": "Farzana Bibi Daycare",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-10-23T00:31:11.584Z",
       "facilityId": "7100",
