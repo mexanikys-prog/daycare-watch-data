@@ -1,6 +1,123 @@
 {
-  "generatedAt": "2026-10-26T12:31:12.728Z",
+  "generatedAt": "2026-10-26T14:31:16.772Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-26T14:31:16.772Z",
+      "facilityId": "100845",
+      "facilityName": "Enoe Benjamin",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-26T14:31:16.772Z",
+      "facilityId": "100845",
+      "facilityName": "Enoe Benjamin",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-26T14:31:16.772Z",
+      "facilityId": "102354",
+      "facilityName": "Garderie Chez Hope",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-26T14:31:16.772Z",
+      "facilityId": "3128",
+      "facilityName": "General Vanier Children's Center Inc.",
+      "ageGroup": "preschool",
+      "oldValue": 2,
+      "newValue": 1,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-10-26T14:31:16.772Z",
+      "facilityId": "102163",
+      "facilityName": "Little Dragon Montessori",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-26T14:31:16.772Z",
+      "facilityId": "9180",
+      "facilityName": "Ma Mawi Wi Chi Itata Centre Inc. - Child Development Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-26T14:31:16.772Z",
+      "facilityId": "103195",
+      "facilityName": "River Park Play Place",
+      "ageGroup": "schoolAge",
+      "oldValue": 2,
+      "newValue": 1,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-10-26T14:31:16.772Z",
+      "facilityId": "102836",
+      "facilityName": "Sunrise Sunset -Munroe",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 2,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-26T14:31:16.772Z",
+      "facilityId": "80204",
+      "facilityName": "Sunrise Sunset ChildCare Inc",
+      "ageGroup": "nursery",
+      "oldValue": 4,
+      "newValue": 6,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-10-26T14:31:16.772Z",
+      "facilityId": "80204",
+      "facilityName": "Sunrise Sunset ChildCare Inc",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-26T14:31:16.772Z",
+      "facilityId": "103266",
+      "facilityName": "Sunrise Sunset- Tudor",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-26T14:31:16.772Z",
+      "facilityId": "103038",
+      "facilityName": "Tanveer Dhillon",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-26T14:31:16.772Z",
+      "facilityId": "102177",
+      "facilityName": "Waves Home Daycare",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-26T12:31:12.728Z",
       "facilityId": "102791",

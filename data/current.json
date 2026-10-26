@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T12:31:12.728Z",
+  "generatedAt": "2026-10-26T14:31:16.772Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -7,12 +7,12 @@
   "sourceKey": "manitoba-child-care-search",
   "source": "Manitoba Child Care Search",
   "city": "Winnipeg",
-  "facilityCount": 658,
+  "facilityCount": 659,
   "summary": {
     "infant": 27,
     "nursery": 33,
-    "preschool": 78,
-    "schoolAge": 112
+    "preschool": 80,
+    "schoolAge": 114
   },
   "facilities": [
     {
@@ -57,7 +57,7 @@
       "phone": null,
       "email": "3littlekittens@outlook.com",
       "website": null,
-      "sourceLastModified": "2026-10-19T11:42:49.7614745",
+      "sourceLastModified": "2026-10-26T14:19:55.6338602",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -182,7 +182,7 @@
       "phone": null,
       "email": "actioncentredaynursery1974@gmail.com",
       "website": "http://www.actioncentredaynursery.ca",
-      "sourceLastModified": "2026-10-19T13:07:50.4700102",
+      "sourceLastModified": "2026-10-26T12:37:22.3448602",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -307,7 +307,7 @@
       "phone": "(204) 269-3779",
       "email": "agassizchildcare@gmail.com",
       "website": "https://www.agassizchildcare.com",
-      "sourceLastModified": "2026-10-19T12:49:50.7797838",
+      "sourceLastModified": "2026-10-26T13:03:09.8114515",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -457,7 +457,7 @@
       "phone": "(204) 915-5640",
       "email": "deleon.rachelle@rocketmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-26T12:24:30.1462941",
+      "sourceLastModified": "2026-10-26T12:57:26.6527718",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -807,7 +807,7 @@
       "phone": "(204) 981-6112",
       "email": "etba@shaw.ca",
       "website": "http://www.etbaprogram.com",
-      "sourceLastModified": "2026-10-19T11:58:50.736117",
+      "sourceLastModified": "2026-10-26T12:52:58.9258422",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -1507,7 +1507,7 @@
       "phone": "(204) 667-2930",
       "email": "cccbrightfuture@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-28T13:31:05.2594455",
+      "sourceLastModified": "2026-10-26T13:46:18.1318723",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -1582,7 +1582,7 @@
       "phone": null,
       "email": "bcd@brockcorydondaycare.ca",
       "website": "http://www.brockcorydondaycare.ca",
-      "sourceLastModified": "2026-10-19T12:14:40.8391354",
+      "sourceLastModified": "2026-10-26T12:44:49.8861415",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -1682,7 +1682,7 @@
       "phone": null,
       "email": "director@bumpercropelc.ca",
       "website": null,
-      "sourceLastModified": "2026-10-19T14:55:35.9585764",
+      "sourceLastModified": "2026-10-26T13:57:13.0167247",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -2007,7 +2007,7 @@
       "phone": null,
       "email": "cccinc@carpathiachildrenscentre.ca",
       "website": null,
-      "sourceLastModified": "2026-10-19T12:52:59.3110771",
+      "sourceLastModified": "2026-10-26T12:58:43.2963278",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -2032,7 +2032,7 @@
       "phone": null,
       "email": "cccinc@carpathiachildrenscentre.ca",
       "website": null,
-      "sourceLastModified": "2026-10-19T12:52:44.7905527",
+      "sourceLastModified": "2026-10-26T12:59:03.9525967",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -2157,7 +2157,7 @@
       "phone": "(204) 297-9374",
       "email": "fetolentinoantonio@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-12T13:55:07.2259043",
+      "sourceLastModified": "2026-10-26T12:42:04.0182234",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -2207,7 +2207,7 @@
       "phone": null,
       "email": "danielle@unespacepourgrandir.ca",
       "website": null,
-      "sourceLastModified": "2026-10-19T14:33:04.2935719",
+      "sourceLastModified": "2026-10-26T14:00:59.3361231",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -2307,7 +2307,7 @@
       "phone": "(204) 586-8883",
       "email": "champlainchildcare@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-10-19T12:23:16.971781",
+      "sourceLastModified": "2026-10-26T13:25:38.6728926",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -2407,7 +2407,7 @@
       "phone": null,
       "email": "rdgiesbrecht@hsc.mb.ca",
       "website": null,
-      "sourceLastModified": "2026-10-19T12:45:43.4600023",
+      "sourceLastModified": "2026-10-26T14:05:02.0882822",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -2457,7 +2457,7 @@
       "phone": "(204) 997-0803",
       "email": "malengachouchou@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-13T20:54:46.7329539",
+      "sourceLastModified": "2026-10-26T14:04:24.7509433",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -2732,7 +2732,7 @@
       "phone": "(204) 775-3889",
       "email": "cuddlesharmony@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-13T13:26:59.9218483",
+      "sourceLastModified": "2026-10-26T13:02:23.5086067",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -3332,7 +3332,7 @@
       "phone": "(204) 221-1639",
       "email": "etba@shaw.ca",
       "website": "http://www.etbaprogram.com",
-      "sourceLastModified": "2026-10-19T11:52:50.45709",
+      "sourceLastModified": "2026-10-26T12:53:15.0632393",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -3607,7 +3607,7 @@
       "phone": null,
       "email": "emusac@emuschoolagecentre.com",
       "website": null,
-      "sourceLastModified": "2026-10-19T11:55:07.3878244",
+      "sourceLastModified": "2026-10-26T13:24:44.2373936",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -3632,11 +3632,11 @@
       "phone": "(204) 997-8647",
       "email": "enoecarreiro@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-12T20:17:39.7633351",
+      "sourceLastModified": "2026-10-26T13:56:37.6723361",
       "vacancies": {
-        "infant": 1,
+        "infant": 0,
         "nursery": 0,
-        "preschool": 1,
+        "preschool": 0,
         "schoolAge": 2
       }
     },
@@ -3782,7 +3782,7 @@
       "phone": null,
       "email": "cexplorers@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-10-21T17:18:05.1638621",
+      "sourceLastModified": "2026-10-26T13:42:50.2628403",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4057,7 +4057,7 @@
       "phone": null,
       "email": "flordelisa.alas@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-12T13:35:39.9020701",
+      "sourceLastModified": "2026-10-26T12:51:57.238471",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4257,7 +4257,7 @@
       "phone": null,
       "email": "susan@frcdn.ca",
       "website": null,
-      "sourceLastModified": "2026-10-13T12:54:59.4628066",
+      "sourceLastModified": "2026-10-26T13:15:38.4185392",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4282,7 +4282,7 @@
       "phone": null,
       "email": "susan@frcdn.ca",
       "website": null,
-      "sourceLastModified": "2026-10-13T12:55:40.5870577",
+      "sourceLastModified": "2026-10-26T13:15:57.0519017",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4507,9 +4507,9 @@
       "phone": null,
       "email": "garderiehope@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-19T22:28:10.9852306",
+      "sourceLastModified": "2026-10-26T13:49:59.0195654",
       "vacancies": {
-        "infant": 0,
+        "infant": 1,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 0
@@ -4657,11 +4657,11 @@
       "phone": null,
       "email": "daycaregv@gmail.com",
       "website": "https://generalvanierchildrenscentre.ca/",
-      "sourceLastModified": "2026-10-12T13:03:21.4511946",
+      "sourceLastModified": "2026-10-26T14:04:43.8429855",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 2,
+        "preschool": 1,
         "schoolAge": 0
       }
     },
@@ -4907,7 +4907,7 @@
       "phone": null,
       "email": "gkgrewal135@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-28T13:37:04.8870574",
+      "sourceLastModified": "2026-10-26T13:52:26.3843841",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -5082,7 +5082,7 @@
       "phone": null,
       "email": "lindali6667@outlook.com",
       "website": null,
-      "sourceLastModified": "2026-10-19T12:38:24.0234106",
+      "sourceLastModified": "2026-10-26T14:29:10.186592",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -5157,7 +5157,7 @@
       "phone": "(204) 956-2340",
       "email": "harmonydaycareccc@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-13T13:26:42.4757829",
+      "sourceLastModified": "2026-10-26T13:02:25.5208139",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -5407,7 +5407,7 @@
       "phone": "(204) 831-5950",
       "email": "hpcpexecutivedirector@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-10-19T11:29:11.9127569",
+      "sourceLastModified": "2026-10-26T12:43:15.0676526",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -5432,7 +5432,7 @@
       "phone": null,
       "email": "hpcpexecutivedirector@shaw.ca",
       "website": "http://www.HeritageParkChildrensPrograms.com",
-      "sourceLastModified": "2026-10-19T11:29:40.4952317",
+      "sourceLastModified": "2026-10-26T12:43:50.2509462",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -5457,7 +5457,7 @@
       "phone": null,
       "email": "hpcpexecutivedirector@shaw.ca",
       "website": "http://www.HeritageParkChildrensPrograms.com",
-      "sourceLastModified": "2026-10-19T11:28:48.4056792",
+      "sourceLastModified": "2026-10-26T12:42:48.6152546",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -5482,7 +5482,7 @@
       "phone": null,
       "email": "hpcpexecutivedirector@shaw.ca",
       "website": "http://www.HeritageParkChildrensPrograms.com",
-      "sourceLastModified": "2026-10-12T15:54:21.5934704",
+      "sourceLastModified": "2026-10-26T12:44:13.0941556",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -5757,7 +5757,7 @@
       "phone": "(204) 582-1755",
       "email": "info@inkstercommunitychildcare.com",
       "website": "https://inkstercommunitychildcare.com",
-      "sourceLastModified": "2026-10-05T12:01:08.449466",
+      "sourceLastModified": "2026-10-26T12:42:53.5303978",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6057,7 +6057,7 @@
       "phone": "(431) 337-6434",
       "email": "jimlet_abengoza@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-10-20T12:24:08.2143081",
+      "sourceLastModified": "2026-10-26T14:05:46.3419641",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6082,7 +6082,7 @@
       "phone": null,
       "email": "jostankewich@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-26T11:43:29.1698797",
+      "sourceLastModified": "2026-10-26T13:47:25.6931914",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6332,7 +6332,7 @@
       "phone": null,
       "email": "kandyhomedaycarewinnipeg@gmail.com",
       "website": "https://kandyhomedaycarewi.wixsite.com/home/waitlist",
-      "sourceLastModified": "2026-10-19T13:08:52.0031786",
+      "sourceLastModified": "2026-10-26T13:18:06.2985797",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6582,7 +6582,7 @@
       "phone": "(204) 224-1181",
       "email": "kidscentrecoop@outlook.com",
       "website": null,
-      "sourceLastModified": "2026-10-19T11:55:47.749234",
+      "sourceLastModified": "2026-10-26T12:37:03.7672535",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6707,7 +6707,7 @@
       "phone": "(204) 930-3043",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-19T13:44:33.4603773",
+      "sourceLastModified": "2026-10-26T12:33:10.0220931",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -7157,7 +7157,7 @@
       "phone": null,
       "email": "learningtree10@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-13T12:38:50.0762802",
+      "sourceLastModified": "2026-10-26T13:44:44.3809836",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -7282,7 +7282,7 @@
       "phone": null,
       "email": "nora.demapanag@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-12T23:09:01.9910292",
+      "sourceLastModified": "2026-10-26T14:21:25.3563203",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -7807,9 +7807,9 @@
       "phone": null,
       "email": "learningtree91@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-12T13:20:57.3806478",
+      "sourceLastModified": "2026-10-26T12:56:20.2909264",
       "vacancies": {
-        "infant": 1,
+        "infant": 0,
         "nursery": 0,
         "preschool": 1,
         "schoolAge": 0
@@ -8107,7 +8107,7 @@
       "phone": null,
       "email": "maleehawin@hotmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-19T13:19:05.509203",
+      "sourceLastModified": "2026-10-26T13:28:46.0753081",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8132,7 +8132,7 @@
       "phone": null,
       "email": "alanaplppi@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-10-19T13:02:59.2543771",
+      "sourceLastModified": "2026-10-26T12:56:30.0923393",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8482,7 +8482,7 @@
       "phone": null,
       "email": "lpcsite3@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-19T16:19:37.4177954",
+      "sourceLastModified": "2026-10-26T14:19:43.9221411",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8557,7 +8557,7 @@
       "phone": null,
       "email": "lwns-liz@outlook.com",
       "website": null,
-      "sourceLastModified": "2026-10-20T13:31:18.1310663",
+      "sourceLastModified": "2026-10-26T13:46:32.3145621",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8582,7 +8582,7 @@
       "phone": null,
       "email": "louisrielchildcarecentre@mmf.mb.ca",
       "website": null,
-      "sourceLastModified": "2026-10-19T14:48:49.0134346",
+      "sourceLastModified": "2026-10-26T13:34:14.0822642",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8707,7 +8707,7 @@
       "phone": "(431) 276-6159",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-19T13:30:12.8187862",
+      "sourceLastModified": "2026-10-26T12:58:13.2033155",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8782,9 +8782,9 @@
       "phone": "(204) 925-0304",
       "email": "cdccoordinator@mamawi.com",
       "website": null,
-      "sourceLastModified": "2026-10-19T16:21:40.0613886",
+      "sourceLastModified": "2026-10-26T14:15:54.118357",
       "vacancies": {
-        "infant": 0,
+        "infant": 1,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 0
@@ -8932,7 +8932,7 @@
       "phone": "(204) 415-5328",
       "email": "karen@makoonsag.ca",
       "website": null,
-      "sourceLastModified": "2026-10-19T13:04:13.7662599",
+      "sourceLastModified": "2026-10-26T13:41:51.5030844",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9007,7 +9007,7 @@
       "phone": null,
       "email": "mnlndelavega@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-10-19T13:10:36.9242319",
+      "sourceLastModified": "2026-10-26T14:09:22.1911288",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9157,7 +9157,7 @@
       "phone": "(204) 694-3492",
       "email": "mjocamara@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-10-19T11:14:59.9908242",
+      "sourceLastModified": "2026-10-26T12:55:45.6432036",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9332,7 +9332,7 @@
       "phone": null,
       "email": "marvielayugan@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-10-22T02:00:38.2187721",
+      "sourceLastModified": "2026-10-26T14:21:39.8856658",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9382,7 +9382,7 @@
       "phone": null,
       "email": "mkccc1991@gmail.com",
       "website": "https://marykardashchildcarecentre.org",
-      "sourceLastModified": "2026-10-13T14:46:14.1769618",
+      "sourceLastModified": "2026-10-26T14:18:17.420685",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9457,7 +9457,7 @@
       "phone": "(204) 287-8242",
       "email": "maybrookcc@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-19T16:40:42.0185726",
+      "sourceLastModified": "2026-10-26T13:06:56.8654415",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9482,7 +9482,7 @@
       "phone": "(204) 899-0247",
       "email": "mcleodnurseryschool@hotmail.com",
       "website": "https://mcleodnurseryschool.com/",
-      "sourceLastModified": "2026-10-19T17:13:30.9260542",
+      "sourceLastModified": "2026-10-26T12:39:52.7704231",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9757,7 +9757,7 @@
       "phone": "(204) 414-7449",
       "email": "Lovechristiandaycare2012@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-10-19T21:13:26.6313341",
+      "sourceLastModified": "2026-10-26T14:08:31.9464446",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9832,7 +9832,7 @@
       "phone": null,
       "email": "thesoccerdance@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-12T13:21:45.6943093",
+      "sourceLastModified": "2026-10-26T13:09:13.4309683",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -10507,7 +10507,7 @@
       "phone": null,
       "email": "ticsaynikkie@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-12T16:01:15.0804966",
+      "sourceLastModified": "2026-10-26T13:20:35.7009348",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -10657,7 +10657,7 @@
       "phone": null,
       "email": "info@norwoodnursery.com",
       "website": null,
-      "sourceLastModified": "2026-10-13T13:13:24.5479803",
+      "sourceLastModified": "2026-10-26T13:25:00.6781397",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -10682,7 +10682,7 @@
       "phone": null,
       "email": "info@norwoodnursery.com",
       "website": "https://www.norwoodnursery.com/",
-      "sourceLastModified": "2026-10-13T13:13:40.8966134",
+      "sourceLastModified": "2026-10-26T13:24:28.9473826",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11432,7 +11432,7 @@
       "phone": null,
       "email": "chencpc@outlook.com",
       "website": null,
-      "sourceLastModified": "2026-10-12T12:53:22.9932703",
+      "sourceLastModified": "2026-10-26T14:14:49.3711484",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11632,7 +11632,7 @@
       "phone": "(431) 777-6506",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-19T12:17:54.472049",
+      "sourceLastModified": "2026-10-26T12:49:51.5023752",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11707,7 +11707,7 @@
       "phone": null,
       "email": "precyalviz21@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-10-05T11:19:19.3813171",
+      "sourceLastModified": "2026-10-26T14:03:26.1087392",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11782,7 +11782,7 @@
       "phone": null,
       "email": "rhscare@rhscc.ca",
       "website": "http://www.rhscare.fastoche.ca/waitlist",
-      "sourceLastModified": "2026-09-28T14:02:06.8961",
+      "sourceLastModified": "2026-10-26T14:00:14.0199869",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11807,7 +11807,7 @@
       "phone": null,
       "email": "shenry37@rrc.ca",
       "website": "https://www.rrcearlychildhoodcentre.com",
-      "sourceLastModified": "2026-10-05T14:45:35.042012",
+      "sourceLastModified": "2026-10-26T14:13:20.1493005",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -12157,7 +12157,7 @@
       "phone": null,
       "email": "abegail.calderon@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-10-19T22:22:25.4974644",
+      "sourceLastModified": "2026-10-26T14:30:39.7492524",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -12307,7 +12307,7 @@
       "phone": null,
       "email": "radcwinnipeg@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-19T16:41:09.1978896",
+      "sourceLastModified": "2026-10-26T13:08:25.7329041",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -12432,7 +12432,7 @@
       "phone": "(204) 306-8778",
       "email": "director@riverheightschildcare.com",
       "website": null,
-      "sourceLastModified": "2026-10-19T13:18:36.7254796",
+      "sourceLastModified": "2026-10-26T13:10:07.092768",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -12457,12 +12457,12 @@
       "phone": null,
       "email": "navdeepghattora@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-12T15:05:20.6163491",
+      "sourceLastModified": "2026-10-26T12:57:45.3978468",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
         "preschool": 0,
-        "schoolAge": 2
+        "schoolAge": 1
       }
     },
     {
@@ -12557,7 +12557,7 @@
       "phone": null,
       "email": "director@riverash.com",
       "website": "http://www.riverash.com",
-      "sourceLastModified": "2026-10-05T15:05:10.9182644",
+      "sourceLastModified": "2026-10-26T14:26:38.0467563",
       "vacancies": {
         "infant": 0,
         "nursery": 1,
@@ -13232,7 +13232,7 @@
       "phone": null,
       "email": "saraswatsmi@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-12T13:29:48.0492637",
+      "sourceLastModified": "2026-10-26T12:32:27.7698155",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -13457,7 +13457,7 @@
       "phone": "(204) 663-9237",
       "email": "springmeadows@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-10-19T17:54:00.7321679",
+      "sourceLastModified": "2026-10-26T12:46:55.7904073",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -13982,7 +13982,7 @@
       "phone": null,
       "email": "shahla1229@gmail.com",
       "website": "https://www.stnorbertdaycare.com",
-      "sourceLastModified": "2026-10-12T17:07:38.9465441",
+      "sourceLastModified": "2026-10-26T13:55:31.1284013",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -14082,7 +14082,7 @@
       "phone": null,
       "email": "scnsdirector@gmail.com",
       "website": "http://www.starlightchristiannursery.ca",
-      "sourceLastModified": "2026-10-13T18:12:22.5727177",
+      "sourceLastModified": "2026-10-26T13:31:18.8803665",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -14332,7 +14332,7 @@
       "phone": "(204) 998-5166",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-20T13:17:44.9481007",
+      "sourceLastModified": "2026-10-26T13:34:25.6933455",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -14432,12 +14432,12 @@
       "phone": null,
       "email": "sunrisesunsetchildcare@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-09-21T13:32:55.5117846",
+      "sourceLastModified": "2026-10-26T12:32:21.2366083",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
         "preschool": 0,
-        "schoolAge": 0
+        "schoolAge": 2
       }
     },
     {
@@ -14457,11 +14457,11 @@
       "phone": "(204) 415-2866",
       "email": "sunrisesunsetchildcare@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-09-21T13:35:21.8467466",
+      "sourceLastModified": "2026-10-26T12:38:18.8525484",
       "vacancies": {
         "infant": 0,
-        "nursery": 4,
-        "preschool": 0,
+        "nursery": 6,
+        "preschool": 1,
         "schoolAge": 0
       }
     },
@@ -14482,12 +14482,12 @@
       "phone": "(204) 415-2866",
       "email": "sunrisesunsetchildcare@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-09-21T13:34:02.6919031",
+      "sourceLastModified": "2026-10-26T12:36:36.1816405",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
         "preschool": 0,
-        "schoolAge": 0
+        "schoolAge": 1
       }
     },
     {
@@ -14541,6 +14541,31 @@
       }
     },
     {
+      "sourceId": "103015",
+      "displayName": "Sweet Angel Home Daycare - Annaliza Galang",
+      "facilityType": "HOME",
+      "businessType": "For-Profit",
+      "fundingType": "Funded",
+      "address": "572 St. John's Ave.",
+      "city": "Winnipeg",
+      "postalCode": "R2W 1J1",
+      "neighbourhood": "ST. JOHN'S",
+      "region": "WINNIPEG",
+      "latitude": 49.924454,
+      "longitude": -97.142232,
+      "hideLocation": false,
+      "phone": null,
+      "email": "annaliza.galangm@gmail.com",
+      "website": null,
+      "sourceLastModified": "2026-10-26T13:20:50.1805937",
+      "vacancies": {
+        "infant": 0,
+        "nursery": 0,
+        "preschool": 0,
+        "schoolAge": 0
+      }
+    },
+    {
       "sourceId": "102527",
       "displayName": "Sweet Play Daycare",
       "facilityType": "HOME",
@@ -14582,7 +14607,7 @@
       "phone": "(204) 925-1692",
       "email": "Agreenhalgh@takingcharge.org",
       "website": "https://takingcharge.org/",
-      "sourceLastModified": "2026-10-19T13:00:39.7272097",
+      "sourceLastModified": "2026-10-26T12:58:37.5620217",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -14607,11 +14632,11 @@
       "phone": null,
       "email": "tdhillon101@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-13T11:34:42.8327556",
+      "sourceLastModified": "2026-10-26T12:51:04.7533416",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 0,
+        "preschool": 1,
         "schoolAge": 0
       }
     },
@@ -14707,7 +14732,7 @@
       "phone": null,
       "email": "carpmonte@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-19T12:45:39.0216696",
+      "sourceLastModified": "2026-10-26T13:14:21.706083",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -15082,7 +15107,7 @@
       "phone": null,
       "email": "udcwaitlist@gmail.com",
       "website": "http://myudc.net",
-      "sourceLastModified": "2026-10-14T13:47:49.0954754",
+      "sourceLastModified": "2026-10-26T13:37:04.6177718",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -15107,7 +15132,7 @@
       "phone": "(204) 953-2240",
       "email": "office@univillagecentre.ca",
       "website": "https://www.univillagecentre.ca/",
-      "sourceLastModified": "2026-10-13T16:58:38.4924335",
+      "sourceLastModified": "2026-10-26T13:24:40.1572768",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -15157,7 +15182,7 @@
       "phone": null,
       "email": "play_school@shaw.ca",
       "website": "http://www.valleygardensplayschool.ca",
-      "sourceLastModified": "2026-10-19T13:47:00.1379184",
+      "sourceLastModified": "2026-10-26T13:47:13.5555529",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -15507,11 +15532,11 @@
       "phone": null,
       "email": "parawav32@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-12T12:55:27.3035824",
+      "sourceLastModified": "2026-10-26T13:06:25.5583956",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 0,
+        "preschool": 1,
         "schoolAge": 0
       }
     },
@@ -15607,7 +15632,7 @@
       "phone": null,
       "email": "westgrovechildrenscentre@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-19T11:58:28.4173717",
+      "sourceLastModified": "2026-10-26T12:49:19.7627091",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
