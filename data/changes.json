@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-26T14:31:16.772Z",
+  "generatedAt": "2026-10-26T16:31:16.738Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-26T16:31:16.738Z",
+      "facilityId": "102195",
+      "facilityName": "Fun Kids Family Child Care",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-26T16:31:16.738Z",
+      "facilityId": "102195",
+      "facilityName": "Fun Kids Family Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 2,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-26T16:31:16.738Z",
+      "facilityId": "102768",
+      "facilityName": "Green Valley Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 2,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-10-26T16:31:16.738Z",
+      "facilityId": "3063",
+      "facilityName": "Victoria Albert Day Care Inc.",
+      "ageGroup": "schoolAge",
+      "oldValue": 10,
+      "newValue": 7,
+      "changeType": "VACANCY_DECREASED"
+    },
     {
       "detectedAt": "2026-10-26T14:31:16.772Z",
       "facilityId": "100845",
