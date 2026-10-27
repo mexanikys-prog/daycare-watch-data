@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T00:31:13.548Z",
+  "generatedAt": "2026-10-27T02:31:16.499Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -7732,7 +7732,7 @@
       "phone": "(431) 293-6832",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-21T22:44:51.4059421",
+      "sourceLastModified": "2026-10-27T00:33:31.3702385",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -15482,11 +15482,11 @@
       "phone": "(431) 999-0141",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-13T02:16:45.8295073",
+      "sourceLastModified": "2026-10-27T02:09:59.6896032",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 2,
+        "preschool": 1,
         "schoolAge": 0
       }
     },
