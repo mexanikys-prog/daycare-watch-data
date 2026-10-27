@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-26T22:31:14.698Z",
+  "generatedAt": "2026-10-27T00:31:13.548Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-27T00:31:13.548Z",
+      "facilityId": "103157",
+      "facilityName": "Maria Alyssa Legaspi",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-26T22:31:14.698Z",
       "facilityId": "103040",
