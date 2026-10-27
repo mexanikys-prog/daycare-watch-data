@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T12:31:09.780Z",
+  "generatedAt": "2026-10-27T14:31:18.324Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -11,8 +11,8 @@
   "summary": {
     "infant": 28,
     "nursery": 33,
-    "preschool": 83,
-    "schoolAge": 116
+    "preschool": 84,
+    "schoolAge": 118
   },
   "facilities": [
     {
@@ -332,12 +332,12 @@
       "phone": null,
       "email": "robyn@alephbet.ca",
       "website": "http://www.alephbet.ca",
-      "sourceLastModified": "2026-07-21T15:49:11.4514324",
+      "sourceLastModified": "2026-10-27T13:50:01.6062605",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
         "preschool": 0,
-        "schoolAge": 0
+        "schoolAge": 2
       }
     },
     {
@@ -357,12 +357,12 @@
       "phone": null,
       "email": "robyn@alephbet.ca",
       "website": "http://www.alephbet.ca",
-      "sourceLastModified": "2026-08-10T13:11:51.7581023",
+      "sourceLastModified": "2026-10-27T13:56:59.920417",
       "vacancies": {
         "infant": 0,
-        "nursery": 10,
-        "preschool": 0,
-        "schoolAge": 0
+        "nursery": 9,
+        "preschool": 3,
+        "schoolAge": 1
       }
     },
     {
@@ -7557,7 +7557,7 @@
       "phone": null,
       "email": "lindenmeadowscc@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-08T15:00:23.6186326",
+      "sourceLastModified": "2026-10-27T12:55:35.8206599",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -7857,7 +7857,7 @@
       "phone": null,
       "email": "marifecipriano18@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-08T17:04:43.0460026",
+      "sourceLastModified": "2026-10-27T14:14:28.6535909",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11682,7 +11682,7 @@
       "phone": null,
       "email": "mouse@prairie-soul.com",
       "website": null,
-      "sourceLastModified": "2026-10-07T14:18:09.9605523",
+      "sourceLastModified": "2026-10-27T14:26:27.9876699",
       "vacancies": {
         "infant": 0,
         "nursery": 1,
