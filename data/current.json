@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T02:31:16.499Z",
+  "generatedAt": "2026-10-27T12:31:09.780Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -12,7 +12,7 @@
     "infant": 28,
     "nursery": 33,
     "preschool": 83,
-    "schoolAge": 115
+    "schoolAge": 116
   },
   "facilities": [
     {
@@ -882,7 +882,7 @@
       "phone": "(204) 582-0119",
       "email": "asiliisse@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-20T15:02:36.9024797",
+      "sourceLastModified": "2026-10-27T03:59:48.9582089",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -2382,7 +2382,7 @@
       "phone": "(204) 257-6979",
       "email": "lemoine4@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-10-19T11:45:49.5832191",
+      "sourceLastModified": "2026-10-27T11:41:37.515771",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -2807,7 +2807,7 @@
       "phone": null,
       "email": "daffodilshomeca@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-05T20:42:33.4040672",
+      "sourceLastModified": "2026-10-27T12:11:30.2833725",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6407,7 +6407,7 @@
       "phone": "(431) 777-4716",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-16T03:13:36.266351",
+      "sourceLastModified": "2026-10-27T04:36:21.8295585",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9232,12 +9232,12 @@
       "phone": null,
       "email": "msaria_77@yahoo.ca",
       "website": null,
-      "sourceLastModified": "2026-08-12T00:48:46.8353374",
+      "sourceLastModified": "2026-10-27T05:54:23.0868101",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
         "preschool": 0,
-        "schoolAge": 0
+        "schoolAge": 1
       }
     },
     {

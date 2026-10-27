@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-27T02:31:16.499Z",
+  "generatedAt": "2026-10-27T12:31:09.780Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-27T12:31:09.780Z",
+      "facilityId": "101461",
+      "facilityName": "Maribeth Amposta Saria",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-27T02:31:16.499Z",
       "facilityId": "102376",
