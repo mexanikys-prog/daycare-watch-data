@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T12:31:14.193Z",
+  "generatedAt": "2026-10-28T14:31:14.051Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,7 +9,7 @@
   "city": "Winnipeg",
   "facilityCount": 660,
   "summary": {
-    "infant": 28,
+    "infant": 27,
     "nursery": 33,
     "preschool": 83,
     "schoolAge": 118
@@ -11032,9 +11032,9 @@
       "phone": null,
       "email": "bisoladunjoye@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-13T14:23:49.4043459",
+      "sourceLastModified": "2026-10-28T14:02:49.0885428",
       "vacancies": {
-        "infant": 1,
+        "infant": 0,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 0
