@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-10-28T12:31:12.112Z",
+  "generatedAt": "2026-10-29T12:31:11.683Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-29T12:31:11.683Z",
+      "facilityId": "toronto:6427800",
+      "facilityName": "Children Of Tomorrow",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-29T12:31:11.683Z",
+      "facilityId": "toronto:6427801",
+      "facilityName": "Children Of Tomorrow - John McCrae",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-29T12:31:11.683Z",
+      "facilityId": "toronto:14072410",
+      "facilityName": "Donald C. Macdonald Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-29T12:31:11.683Z",
+      "facilityId": "toronto:14072410",
+      "facilityName": "Donald C. Macdonald Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-10-29T12:31:11.683Z",
+      "facilityId": "toronto:322971",
+      "facilityName": "Garderie Chez Tante Laure 2",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-10-26T12:31:22.763Z",
       "facilityId": "toronto:482523",
