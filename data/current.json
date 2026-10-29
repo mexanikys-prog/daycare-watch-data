@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T14:31:15.008Z",
+  "generatedAt": "2026-10-29T16:31:14.827Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -7,12 +7,12 @@
   "sourceKey": "manitoba-child-care-search",
   "source": "Manitoba Child Care Search",
   "city": "Winnipeg",
-  "facilityCount": 660,
+  "facilityCount": 661,
   "summary": {
-    "infant": 27,
+    "infant": 28,
     "nursery": 33,
     "preschool": 83,
-    "schoolAge": 118
+    "schoolAge": 119
   },
   "facilities": [
     {
@@ -63,6 +63,31 @@
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 0
+      }
+    },
+    {
+      "sourceId": "103137",
+      "displayName": "ABC Day Care",
+      "facilityType": "HOME",
+      "businessType": "For-Profit",
+      "fundingType": "Non Funded",
+      "address": "27 Lakebourne Drive",
+      "city": "Winnipeg",
+      "postalCode": "R2P 1K9",
+      "neighbourhood": "THE MAPLES",
+      "region": "WINNIPEG",
+      "latitude": 49.96815,
+      "longitude": -97.184564,
+      "hideLocation": false,
+      "phone": "(204) 899-9722",
+      "email": "ABCDayCare4U@hotmail.com",
+      "website": null,
+      "sourceLastModified": "2026-10-29T15:58:40.0183513",
+      "vacancies": {
+        "infant": 1,
+        "nursery": 0,
+        "preschool": 0,
+        "schoolAge": 3
       }
     },
     {
@@ -9757,7 +9782,7 @@
       "phone": null,
       "email": "mightyminds.admissions@gmail.com",
       "website": "http://www.mightymindsmontessori.com",
-      "sourceLastModified": "2026-10-01T20:04:16.0961018",
+      "sourceLastModified": "2026-10-29T15:36:18.4591639",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
