@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T12:30:34.834Z",
+  "generatedAt": "2026-10-30T14:30:31.819Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,7 +9,7 @@
   "city": "Winnipeg",
   "facilityCount": 661,
   "summary": {
-    "infant": 28,
+    "infant": 29,
     "nursery": 33,
     "preschool": 83,
     "schoolAge": 119
@@ -3582,9 +3582,9 @@
       "phone": null,
       "email": "elizabethv216@yahoo.ca",
       "website": null,
-      "sourceLastModified": "2026-06-22T12:38:24.6585795",
+      "sourceLastModified": "2026-10-30T14:10:43.2338525",
       "vacancies": {
-        "infant": 0,
+        "infant": 1,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 3
