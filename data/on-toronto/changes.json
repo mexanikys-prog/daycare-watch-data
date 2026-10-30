@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-29T12:31:11.683Z",
+  "generatedAt": "2026-10-30T12:30:32.243Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-30T12:30:32.243Z",
+      "facilityId": "toronto:367187",
+      "facilityName": "Centenary Seven Oaks  Early Learning & Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-30T12:30:32.243Z",
+      "facilityId": "toronto:8066596",
+      "facilityName": "Danforth Early Learning & Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-30T12:30:32.243Z",
+      "facilityId": "toronto:7979603",
+      "facilityName": "Jesse Ketchum Early Learning & Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-10-30T12:30:32.243Z",
+      "facilityId": "toronto:352230",
+      "facilityName": "Kingston Road East Early Learning And Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-29T12:31:11.683Z",
       "facilityId": "toronto:6427800",
