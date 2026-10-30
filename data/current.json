@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T18:30:34.866Z",
+  "generatedAt": "2026-10-30T20:30:32.352Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,7 +9,7 @@
   "city": "Winnipeg",
   "facilityCount": 661,
   "summary": {
-    "infant": 29,
+    "infant": 30,
     "nursery": 33,
     "preschool": 83,
     "schoolAge": 119
@@ -907,9 +907,9 @@
       "phone": "(204) 582-0119",
       "email": "asiliisse@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-27T03:59:48.9582089",
+      "sourceLastModified": "2026-10-30T18:38:25.3172675",
       "vacancies": {
-        "infant": 0,
+        "infant": 1,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 3
@@ -4932,7 +4932,7 @@
       "phone": null,
       "email": "greendelltinytots@gmail.com",
       "website": "https://www.greendell.ca/post/tiny-tots-nursery",
-      "sourceLastModified": "2026-10-05T19:10:03.6478298",
+      "sourceLastModified": "2026-10-30T18:40:13.3685991",
       "vacancies": {
         "infant": 0,
         "nursery": 10,

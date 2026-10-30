@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-30T18:30:34.866Z",
+  "generatedAt": "2026-10-30T20:30:32.352Z",
   "changes": [
+    {
+      "detectedAt": "2026-10-30T20:30:32.352Z",
+      "facilityId": "101375",
+      "facilityName": "Asili Isse Home Day Care",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-10-30T14:30:31.819Z",
       "facilityId": "102686",
