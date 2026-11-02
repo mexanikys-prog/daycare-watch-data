@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-31T02:30:32.958Z",
+  "generatedAt": "2026-11-02T12:30:41.954Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-02T12:30:41.954Z",
+      "facilityId": "9226",
+      "facilityName": "River West Park Kids Inc.",
+      "ageGroup": "nursery",
+      "oldValue": 4,
+      "newValue": 3,
+      "changeType": "VACANCY_DECREASED"
+    },
     {
       "detectedAt": "2026-10-30T20:30:32.352Z",
       "facilityId": "101375",
