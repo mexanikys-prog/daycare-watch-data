@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-02T14:30:41.733Z",
+  "generatedAt": "2026-11-02T16:30:45.670Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-02T16:30:45.670Z",
+      "facilityId": "1043",
+      "facilityName": "Discovery Children's Centre Inc.",
+      "ageGroup": "nursery",
+      "oldValue": 12,
+      "newValue": 10,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-11-02T16:30:45.670Z",
+      "facilityId": "102382",
+      "facilityName": "Little Angels Home Daycare",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-11-02T14:30:41.733Z",
       "facilityId": "103021",
