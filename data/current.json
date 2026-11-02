@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T18:30:42.300Z",
+  "generatedAt": "2026-11-02T20:30:40.659Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,9 +9,9 @@
   "city": "Winnipeg",
   "facilityCount": 661,
   "summary": {
-    "infant": 30,
+    "infant": 29,
     "nursery": 33,
-    "preschool": 86,
+    "preschool": 85,
     "schoolAge": 120
   },
   "facilities": [
@@ -707,7 +707,7 @@
       "phone": "(204) 786-1375",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-26T18:19:29.301553",
+      "sourceLastModified": "2026-11-02T19:39:43.7064881",
       "vacancies": {
         "infant": 1,
         "nursery": 0,
@@ -2932,7 +2932,7 @@
       "phone": null,
       "email": "dantekid@mts.net",
       "website": null,
-      "sourceLastModified": "2026-11-02T14:36:18.949092",
+      "sourceLastModified": "2026-11-02T19:43:39.076324",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4132,7 +4132,7 @@
       "phone": null,
       "email": "flordelisa.alas@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-26T12:51:57.238471",
+      "sourceLastModified": "2026-11-02T18:42:58.4241448",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -5957,11 +5957,11 @@
       "phone": null,
       "email": "jackiechilds17@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-10-26T15:06:06.1405544",
+      "sourceLastModified": "2026-11-02T18:42:17.6062527",
       "vacancies": {
-        "infant": 1,
+        "infant": 0,
         "nursery": 0,
-        "preschool": 1,
+        "preschool": 0,
         "schoolAge": 0
       }
     },
@@ -15132,7 +15132,7 @@
       "phone": "(204) 229-2026",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-26T11:47:29.5927569",
+      "sourceLastModified": "2026-11-02T19:44:55.8674056",
       "vacancies": {
         "infant": 0,
         "nursery": 0,

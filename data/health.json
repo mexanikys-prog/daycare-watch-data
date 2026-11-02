@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "publicationGeneratedAt": "2026-11-02T18:30:42.300Z",
+  "publicationGeneratedAt": "2026-11-02T20:30:40.659Z",
   "data": {
     "status": "OK",
-    "updatedAt": "2026-11-02T18:30:42.300Z"
+    "updatedAt": "2026-11-02T20:30:40.659Z"
   },
   "enrichment": {
     "status": "OK",
-    "updatedAt": "2026-11-02T18:30:42.300Z"
+    "updatedAt": "2026-11-02T20:30:40.659Z"
   },
   "alerts": {
-    "status": "OK",
-    "updatedAt": "2026-11-02T18:45:44Z"
+    "status": "PENDING",
+    "updatedAt": "2026-11-02T20:30:40.659Z"
   }
 }

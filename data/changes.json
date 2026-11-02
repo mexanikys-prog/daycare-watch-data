@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-02T18:30:42.300Z",
+  "generatedAt": "2026-11-02T20:30:40.659Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-02T20:30:40.659Z",
+      "facilityId": "5535",
+      "facilityName": "Jacqueline Childs",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-02T20:30:40.659Z",
+      "facilityId": "5535",
+      "facilityName": "Jacqueline Childs",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-11-02T18:30:42.300Z",
       "facilityId": "3063",
