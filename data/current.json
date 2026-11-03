@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T20:31:02.357Z",
+  "generatedAt": "2026-11-03T22:30:34.487Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,9 +9,9 @@
   "city": "Winnipeg",
   "facilityCount": 661,
   "summary": {
-    "infant": 28,
+    "infant": 29,
     "nursery": 33,
-    "preschool": 84,
+    "preschool": 85,
     "schoolAge": 121
   },
   "facilities": [
@@ -3682,11 +3682,11 @@
       "phone": "(204) 997-8647",
       "email": "enoecarreiro@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-26T13:56:37.6723361",
+      "sourceLastModified": "2026-11-03T21:15:10.0883673",
       "vacancies": {
-        "infant": 0,
+        "infant": 1,
         "nursery": 0,
-        "preschool": 0,
+        "preschool": 1,
         "schoolAge": 2
       }
     },
@@ -7607,7 +7607,7 @@
       "phone": "(204) 489-7056",
       "email": "sharon@lwccc.ca",
       "website": null,
-      "sourceLastModified": "2026-10-27T17:27:02.5989444",
+      "sourceLastModified": "2026-11-03T20:51:39.048302",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9782,7 +9782,7 @@
       "phone": null,
       "email": "mightyminds.admissions@gmail.com",
       "website": "http://www.mightymindsmontessori.com",
-      "sourceLastModified": "2026-10-29T15:36:18.4591639",
+      "sourceLastModified": "2026-11-03T21:13:38.9248555",
       "vacancies": {
         "infant": 0,
         "nursery": 0,

@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-03T20:31:02.357Z",
+  "generatedAt": "2026-11-03T22:30:34.487Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-03T22:30:34.487Z",
+      "facilityId": "100845",
+      "facilityName": "Enoe Benjamin",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-03T22:30:34.487Z",
+      "facilityId": "100845",
+      "facilityName": "Enoe Benjamin",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-11-03T16:30:38.605Z",
       "facilityId": "103122",
