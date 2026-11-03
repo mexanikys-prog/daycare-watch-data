@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-03T14:30:37.167Z",
+  "generatedAt": "2026-11-03T16:30:38.605Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-03T16:30:38.605Z",
+      "facilityId": "103122",
+      "facilityName": "Hadassah Kids Care",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-11-03T14:30:37.167Z",
       "facilityId": "102248",
