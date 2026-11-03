@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-11-03T02:30:43.444Z",
+  "generatedAt": "2026-11-03T12:30:36.812Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-03T12:30:36.812Z",
+      "facilityId": "102040",
+      "facilityName": "Corazon Family Home Child Care",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-03T12:30:36.812Z",
+      "facilityId": "102686",
+      "facilityName": "Elizabeth Villavicencio",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-03T12:30:36.812Z",
+      "facilityId": "102073",
+      "facilityName": "Jay, Jay & Jay's Family Child Care",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-03T12:30:36.812Z",
+      "facilityId": "102988",
+      "facilityName": "Jimlet Abengoza",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-03T12:30:36.812Z",
+      "facilityId": "103192",
+      "facilityName": "Lani De Lara",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-11-03T00:30:43.651Z",
       "facilityId": "103161",
