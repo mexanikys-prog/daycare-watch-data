@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T12:30:36.812Z",
+  "generatedAt": "2026-11-03T14:30:37.167Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,7 +9,7 @@
   "city": "Winnipeg",
   "facilityCount": 661,
   "summary": {
-    "infant": 28,
+    "infant": 27,
     "nursery": 33,
     "preschool": 84,
     "schoolAge": 121
@@ -5207,7 +5207,7 @@
       "phone": null,
       "email": "zurcmcflerie@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-10-19T13:46:30.3334969",
+      "sourceLastModified": "2026-11-03T13:25:47.2495701",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6807,7 +6807,7 @@
       "phone": null,
       "email": "kirandeepdhillon814@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-10-26T15:01:36.7725084",
+      "sourceLastModified": "2026-11-03T12:37:10.8347897",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -7307,7 +7307,7 @@
       "phone": "(204) 599-4121",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-26T15:47:41.8802139",
+      "sourceLastModified": "2026-11-03T13:14:05.3769862",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8032,7 +8032,7 @@
       "phone": "(204) 809-0598",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-19T15:44:09.2226965",
+      "sourceLastModified": "2026-11-03T12:46:53.1901021",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8707,7 +8707,7 @@
       "phone": null,
       "email": "ginarenton50@yahoo.ca",
       "website": null,
-      "sourceLastModified": "2026-10-26T16:12:02.6422556",
+      "sourceLastModified": "2026-11-03T12:50:20.8798733",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9382,7 +9382,7 @@
       "phone": null,
       "email": "marvielayugan@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-10-26T14:21:39.8856658",
+      "sourceLastModified": "2026-11-03T13:23:29.6056528",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9707,7 +9707,7 @@
       "phone": "(204) 588-8378",
       "email": "annie.sanpedro@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-10-26T19:19:31.3406083",
+      "sourceLastModified": "2026-11-03T12:49:18.0790662",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9907,9 +9907,9 @@
       "phone": "(204) 960-3008",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-28T18:21:41.6466148",
+      "sourceLastModified": "2026-11-03T12:49:37.7236669",
       "vacancies": {
-        "infant": 1,
+        "infant": 0,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 1
@@ -15157,7 +15157,7 @@
       "phone": null,
       "email": "udcwaitlist@gmail.com",
       "website": "http://myudc.net",
-      "sourceLastModified": "2026-10-26T13:37:04.6177718",
+      "sourceLastModified": "2026-11-03T13:29:59.1557642",
       "vacancies": {
         "infant": 0,
         "nursery": 0,

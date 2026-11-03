@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-03T12:30:36.812Z",
+  "generatedAt": "2026-11-03T14:30:37.167Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-03T14:30:37.167Z",
+      "facilityId": "102248",
+      "facilityName": "Moreno Family Child Care",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-11-03T12:30:36.812Z",
       "facilityId": "102040",
