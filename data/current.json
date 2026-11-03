@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T22:30:43.206Z",
+  "generatedAt": "2026-11-03T00:30:43.651Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,9 +9,9 @@
   "city": "Winnipeg",
   "facilityCount": 661,
   "summary": {
-    "infant": 29,
+    "infant": 30,
     "nursery": 33,
-    "preschool": 85,
+    "preschool": 84,
     "schoolAge": 120
   },
   "facilities": [
@@ -3132,9 +3132,9 @@
       "phone": "(431) 998-3686",
       "email": "dimpalasurati@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-21T11:39:42.4827467",
+      "sourceLastModified": "2026-11-03T00:19:27.4057877",
       "vacancies": {
-        "infant": 0,
+        "infant": 2,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 1
@@ -7357,7 +7357,7 @@
       "phone": "(204) 583-1552",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-26T22:51:33.3928769",
+      "sourceLastModified": "2026-11-02T22:31:56.1480786",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -9657,11 +9657,11 @@
       "phone": "(204) 887-4866",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-26T22:16:33.3323945",
+      "sourceLastModified": "2026-11-03T00:12:54.4352306",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 1,
+        "preschool": 0,
         "schoolAge": 1
       }
     },
@@ -10157,7 +10157,7 @@
       "phone": "(204) 881-1045",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-26T15:11:54.7047208",
+      "sourceLastModified": "2026-11-03T00:09:24.5786793",
       "vacancies": {
         "infant": 0,
         "nursery": 0,

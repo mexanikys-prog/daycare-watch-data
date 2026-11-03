@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-02T22:30:43.206Z",
+  "generatedAt": "2026-11-03T00:30:43.651Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-03T00:30:43.651Z",
+      "facilityId": "103161",
+      "facilityName": "Dimpal Surati",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 2,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-03T00:30:43.651Z",
+      "facilityId": "103040",
+      "facilityName": "Melinda  Pascual",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-11-02T20:30:40.659Z",
       "facilityId": "5535",
