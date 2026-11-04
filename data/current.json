@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T22:30:34.487Z",
+  "generatedAt": "2026-11-04T00:30:36.896Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -11,7 +11,7 @@
   "summary": {
     "infant": 29,
     "nursery": 33,
-    "preschool": 85,
+    "preschool": 84,
     "schoolAge": 121
   },
   "facilities": [
@@ -9807,11 +9807,11 @@
       "phone": "(204) 414-7449",
       "email": "Lovechristiandaycare2012@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-10-26T14:08:31.9464446",
+      "sourceLastModified": "2026-11-04T00:19:43.8675722",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 2,
+        "preschool": 0,
         "schoolAge": 3
       }
     },

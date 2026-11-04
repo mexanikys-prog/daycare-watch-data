@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-03T22:30:34.487Z",
+  "generatedAt": "2026-11-04T00:30:36.896Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-04T00:30:36.896Z",
+      "facilityId": "101345",
+      "facilityName": "Milagros E Gatpayat",
+      "ageGroup": "preschool",
+      "oldValue": 2,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-11-03T22:30:34.487Z",
       "facilityId": "100845",
