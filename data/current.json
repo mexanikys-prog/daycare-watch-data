@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T20:30:36.375Z",
+  "generatedAt": "2026-11-04T22:30:33.055Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,7 +9,7 @@
   "city": "Winnipeg",
   "facilityCount": 661,
   "summary": {
-    "infant": 29,
+    "infant": 30,
     "nursery": 33,
     "preschool": 84,
     "schoolAge": 121
@@ -6457,9 +6457,9 @@
       "phone": "(431) 777-4716",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-11-02T13:09:45.4063201",
+      "sourceLastModified": "2026-11-04T20:47:16.3749422",
       "vacancies": {
-        "infant": 0,
+        "infant": 1,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 3
@@ -11132,7 +11132,7 @@
       "phone": "(204) 403-8809",
       "email": "adeyelechristty@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-20T03:33:41.9188646",
+      "sourceLastModified": "2026-11-04T22:23:07.7229808",
       "vacancies": {
         "infant": 1,
         "nursery": 0,
