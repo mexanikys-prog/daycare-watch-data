@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-03T13:30:35.216Z",
+  "generatedAt": "2026-11-04T13:30:49.569Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-04T13:30:49.569Z",
+      "facilityId": "toronto:4691150",
+      "facilityName": "Scarborough Village Day Nursery 1",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-11-03T13:30:35.216Z",
       "facilityId": "toronto:856013",
