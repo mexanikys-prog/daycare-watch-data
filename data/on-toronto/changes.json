@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-11-04T13:30:49.569Z",
+  "generatedAt": "2026-11-05T13:30:34.193Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-05T13:30:34.193Z",
+      "facilityId": "toronto:825934",
+      "facilityName": "Metro Hall Early Learning & Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-05T13:30:34.193Z",
+      "facilityId": "toronto:4378193",
+      "facilityName": "Scarborough Village Day Nursery 2",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-05T13:30:34.193Z",
+      "facilityId": "toronto:4378193",
+      "facilityName": "Scarborough Village Day Nursery 2",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-05T13:30:34.193Z",
+      "facilityId": "toronto:395722",
+      "facilityName": "Taylor Creek Early Learning & Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-05T13:30:34.193Z",
+      "facilityId": "toronto:395722",
+      "facilityName": "Taylor Creek Early Learning & Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-05T13:30:34.193Z",
+      "facilityId": "toronto:395722",
+      "facilityName": "Taylor Creek Early Learning & Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-11-04T13:30:49.569Z",
       "facilityId": "toronto:4691150",
