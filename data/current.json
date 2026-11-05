@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T18:30:33.055Z",
+  "generatedAt": "2026-11-05T20:30:33.123Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -7,12 +7,12 @@
   "sourceKey": "manitoba-child-care-search",
   "source": "Manitoba Child Care Search",
   "city": "Winnipeg",
-  "facilityCount": 661,
+  "facilityCount": 660,
   "summary": {
     "infant": 30,
     "nursery": 33,
     "preschool": 84,
-    "schoolAge": 121
+    "schoolAge": 120
   },
   "facilities": [
     {
@@ -13141,31 +13141,6 @@
       }
     },
     {
-      "sourceId": "103018",
-      "displayName": "Simranjot Kaur",
-      "facilityType": "HOME",
-      "businessType": "For-Profit",
-      "fundingType": "Non Funded",
-      "address": "50 Barona Cove",
-      "city": "Winnipeg",
-      "postalCode": "R2V 1R7",
-      "neighbourhood": "GARDEN CITY",
-      "region": "WINNIPEG",
-      "latitude": 49.955414,
-      "longitude": -97.126722,
-      "hideLocation": false,
-      "phone": null,
-      "email": "ducklings091@gmail.com",
-      "website": null,
-      "sourceLastModified": "2026-03-16T12:47:31.5599466",
-      "vacancies": {
-        "infant": 0,
-        "nursery": 0,
-        "preschool": 0,
-        "schoolAge": 3
-      }
-    },
-    {
       "sourceId": "1257",
       "displayName": "Sister Macnamara Preschool and Infant Daycare Inc.",
       "facilityType": "CENTRE",
@@ -14707,7 +14682,7 @@
       "phone": "(204) 296-2110",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-11-03T15:22:01.8087448",
+      "sourceLastModified": "2026-11-05T20:18:10.939035",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
