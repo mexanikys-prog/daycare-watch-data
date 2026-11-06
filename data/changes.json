@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-06T00:30:31.137Z",
+  "generatedAt": "2026-11-06T02:30:34.728Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-06T02:30:34.728Z",
+      "facilityId": "103137",
+      "facilityName": "ABC Day Care",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-11-04T22:30:33.055Z",
       "facilityId": "102865",

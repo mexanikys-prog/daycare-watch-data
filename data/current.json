@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T00:30:31.137Z",
+  "generatedAt": "2026-11-06T02:30:34.728Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,7 +9,7 @@
   "city": "Winnipeg",
   "facilityCount": 660,
   "summary": {
-    "infant": 30,
+    "infant": 29,
     "nursery": 33,
     "preschool": 84,
     "schoolAge": 120
@@ -82,9 +82,9 @@
       "phone": "(204) 899-9722",
       "email": "ABCDayCare4U@hotmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-29T15:58:40.0183513",
+      "sourceLastModified": "2026-11-06T02:14:37.30234",
       "vacancies": {
-        "infant": 1,
+        "infant": 0,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 3
