@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-05T13:30:34.193Z",
+  "generatedAt": "2026-11-06T13:30:37.625Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-06T13:30:37.625Z",
+      "facilityId": "toronto:482523",
+      "facilityName": "Ancaster Early Learning & Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-11-05T13:30:34.193Z",
       "facilityId": "toronto:825934",
