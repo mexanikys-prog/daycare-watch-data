@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-09T18:30:37.985Z",
+  "generatedAt": "2026-11-09T20:30:25.227Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-09T20:30:25.227Z",
+      "facilityId": "102201",
+      "facilityName": "Grace's Place Child Care",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 2,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-09T20:30:25.227Z",
+      "facilityId": "102201",
+      "facilityName": "Grace's Place Child Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 3,
+      "newValue": 2,
+      "changeType": "VACANCY_DECREASED"
+    },
     {
       "detectedAt": "2026-11-09T18:30:37.985Z",
       "facilityId": "102610",
