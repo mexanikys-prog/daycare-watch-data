@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-07T02:30:46.297Z",
+  "generatedAt": "2026-11-09T12:30:27.358Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-09T12:30:27.358Z",
+      "facilityId": "102675",
+      "facilityName": "Abi Family Childcare",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-09T12:30:27.358Z",
+      "facilityId": "102936",
+      "facilityName": "Mauricia Delmo Aco",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 2,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-11-09T12:30:27.358Z",
+      "facilityId": "101345",
+      "facilityName": "Milagros E Gatpayat",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-09T12:30:27.358Z",
+      "facilityId": "103195",
+      "facilityName": "River Park Play Place",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-11-06T02:30:34.728Z",
       "facilityId": "103137",
