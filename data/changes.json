@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-09T16:30:24.047Z",
+  "generatedAt": "2026-11-09T18:30:37.985Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-09T18:30:37.985Z",
+      "facilityId": "102610",
+      "facilityName": "Time 2 Play Early Learning Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 3,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-11-09T14:30:22.361Z",
       "facilityId": "101894",
