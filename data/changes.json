@@ -1,6 +1,87 @@
 {
-  "generatedAt": "2026-11-09T12:30:27.358Z",
+  "generatedAt": "2026-11-09T14:30:22.361Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-09T14:30:22.361Z",
+      "facilityId": "101894",
+      "facilityName": "Antonette's Family Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-09T14:30:22.361Z",
+      "facilityId": "103024",
+      "facilityName": "B&H Giant Family Child Care Home",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-09T14:30:22.361Z",
+      "facilityId": "100845",
+      "facilityName": "Enoe Benjamin",
+      "ageGroup": "schoolAge",
+      "oldValue": 2,
+      "newValue": 1,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-11-09T14:30:22.361Z",
+      "facilityId": "102499",
+      "facilityName": "Irene Ilagan",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-09T14:30:22.361Z",
+      "facilityId": "9180",
+      "facilityName": "Ma Mawi Wi Chi Itata Centre Inc. - Child Development Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-09T14:30:22.361Z",
+      "facilityId": "9345",
+      "facilityName": "Maria Cordeiro",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-09T14:30:22.361Z",
+      "facilityId": "103101",
+      "facilityName": "Precious Hand Family Home Childcare",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-09T14:30:22.361Z",
+      "facilityId": "103101",
+      "facilityName": "Precious Hand Family Home Childcare",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-09T14:30:22.361Z",
+      "facilityId": "102862",
+      "facilityName": "St.Norbert Home Daycare",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-11-09T12:30:27.358Z",
       "facilityId": "102675",
