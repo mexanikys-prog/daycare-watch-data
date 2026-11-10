@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-11-09T13:30:24.734Z",
+  "generatedAt": "2026-11-10T13:30:27.158Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-10T13:30:27.158Z",
+      "facilityId": "toronto:373582",
+      "facilityName": "Bridlegrove Daycare Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-10T13:30:27.158Z",
+      "facilityId": "toronto:30030280",
+      "facilityName": "Northview Heights Early Learning Centre - North York",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-10T13:30:27.158Z",
+      "facilityId": "toronto:10430603",
+      "facilityName": "St. Roch Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-11-06T13:30:37.625Z",
       "facilityId": "toronto:482523",
