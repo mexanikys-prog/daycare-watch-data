@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T12:30:27.019Z",
+  "generatedAt": "2026-11-10T14:30:31.665Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,7 +9,7 @@
   "city": "Winnipeg",
   "facilityCount": 661,
   "summary": {
-    "infant": 32,
+    "infant": 33,
     "nursery": 33,
     "preschool": 84,
     "schoolAge": 117
@@ -3232,7 +3232,7 @@
       "phone": null,
       "email": "ctcfinc@gmail.com",
       "website": "https://downtoearthchildrenscentre.ca/",
-      "sourceLastModified": "2026-11-02T11:41:16.1187923",
+      "sourceLastModified": "2026-11-10T12:38:06.7671597",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6407,7 +6407,7 @@
       "phone": null,
       "email": "daycare@kanikanichihk.ca",
       "website": "https://kanikanichihk.ca/",
-      "sourceLastModified": "2026-11-02T14:20:54.153689",
+      "sourceLastModified": "2026-11-10T13:43:51.29027",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -15507,9 +15507,9 @@
       "phone": "(431) 999-0141",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-27T02:09:59.6896032",
+      "sourceLastModified": "2026-11-10T13:01:21.4290343",
       "vacancies": {
-        "infant": 0,
+        "infant": 1,
         "nursery": 0,
         "preschool": 1,
         "schoolAge": 0

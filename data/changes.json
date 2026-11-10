@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-10T12:30:27.019Z",
+  "generatedAt": "2026-11-10T14:30:31.665Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-10T14:30:31.665Z",
+      "facilityId": "102376",
+      "facilityName": "Vipon Walia",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-11-10T02:30:23.664Z",
       "facilityId": "103161",
