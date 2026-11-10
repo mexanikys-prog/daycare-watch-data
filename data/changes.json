@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-10T00:30:22.065Z",
+  "generatedAt": "2026-11-10T02:30:23.664Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-10T02:30:23.664Z",
+      "facilityId": "103161",
+      "facilityName": "Dimpal Surati",
+      "ageGroup": "infant",
+      "oldValue": 2,
+      "newValue": 1,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-11-10T02:30:23.664Z",
+      "facilityId": "103161",
+      "facilityName": "Dimpal Surati",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-10T02:30:23.664Z",
+      "facilityId": "103161",
+      "facilityName": "Dimpal Surati",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-10T02:30:23.664Z",
+      "facilityId": "103157",
+      "facilityName": "Maria Alyssa Legaspi",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-11-09T20:30:25.227Z",
       "facilityId": "102201",
