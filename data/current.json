@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T14:30:27.840Z",
+  "generatedAt": "2026-11-12T16:33:57.599Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -11,7 +11,7 @@
   "summary": {
     "infant": 33,
     "nursery": 33,
-    "preschool": 84,
+    "preschool": 86,
     "schoolAge": 117
   },
   "facilities": [
@@ -7807,11 +7807,11 @@
       "phone": null,
       "email": "littleBlessing023@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-01T18:18:26.082389",
+      "sourceLastModified": "2026-11-12T15:18:01.6766727",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 0,
+        "preschool": 2,
         "schoolAge": 3
       }
     },
@@ -14057,7 +14057,7 @@
       "phone": "(204) 694-0855",
       "email": "brozybowski@skcc.ca",
       "website": "https://skcc.ca/",
-      "sourceLastModified": "2026-09-09T13:28:59.0516479",
+      "sourceLastModified": "2026-11-12T14:39:21.2612134",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -16482,11 +16482,11 @@
       "phone": "(204) 783-8914",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-11-03T14:43:57.4825213",
+      "sourceLastModified": "2026-11-12T14:43:32.0575445",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 0,
+        "preschool": 1,
         "schoolAge": 9
       }
     },
