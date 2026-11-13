@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-12T13:30:31.204Z",
+  "generatedAt": "2026-11-13T13:31:14.599Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-13T13:31:14.599Z",
+      "facilityId": "toronto:8321585",
+      "facilityName": "Centre De La Petite Enfance - Les Amis Du Monde",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-13T13:31:14.599Z",
+      "facilityId": "toronto:8152704",
+      "facilityName": "George Harvey Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-13T13:31:14.599Z",
+      "facilityId": "toronto:853889",
+      "facilityName": "Ogden Day Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-13T13:31:14.599Z",
+      "facilityId": "toronto:574232",
+      "facilityName": "Westown Early Learning And Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-11-10T13:30:27.158Z",
       "facilityId": "toronto:373582",
