@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T18:31:08.632Z",
+  "generatedAt": "2026-11-13T20:31:23.083Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -7,12 +7,12 @@
   "sourceKey": "manitoba-child-care-search",
   "source": "Manitoba Child Care Search",
   "city": "Winnipeg",
-  "facilityCount": 661,
+  "facilityCount": 662,
   "summary": {
-    "infant": 33,
+    "infant": 34,
     "nursery": 33,
     "preschool": 85,
-    "schoolAge": 117
+    "schoolAge": 118
   },
   "facilities": [
     {
@@ -682,7 +682,7 @@
       "phone": "(204) 995-8537",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-10-27T17:17:49.870102",
+      "sourceLastModified": "2026-11-13T18:40:46.494672",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -1588,6 +1588,31 @@
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 0
+      }
+    },
+    {
+      "sourceId": "103226",
+      "displayName": "Bright Origins Daycare",
+      "facilityType": "HOME",
+      "businessType": "For-Profit",
+      "fundingType": "Non Funded",
+      "address": "76 Mount Allison Bay",
+      "city": "Winnipeg",
+      "postalCode": "R3T 3L5",
+      "neighbourhood": "FORT RICHMOND",
+      "region": "WINNIPEG",
+      "latitude": 49.787803,
+      "longitude": -97.151311,
+      "hideLocation": false,
+      "phone": null,
+      "email": "kolombagedesilva@gmail.com",
+      "website": null,
+      "sourceLastModified": "2026-11-13T19:32:54.4525763",
+      "vacancies": {
+        "infant": 1,
+        "nursery": 0,
+        "preschool": 0,
+        "schoolAge": 3
       }
     },
     {
