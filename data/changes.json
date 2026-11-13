@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-13T12:31:11.825Z",
+  "generatedAt": "2026-11-13T14:31:10.196Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-13T14:31:10.196Z",
+      "facilityId": "103065",
+      "facilityName": "Baljinder Cheema",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-11-12T16:33:57.599Z",
       "facilityId": "102886",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T12:31:11.825Z",
+  "generatedAt": "2026-11-13T14:31:10.196Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -11,7 +11,7 @@
   "summary": {
     "infant": 33,
     "nursery": 33,
-    "preschool": 86,
+    "preschool": 85,
     "schoolAge": 117
   },
   "facilities": [
@@ -1182,11 +1182,11 @@
       "phone": null,
       "email": "generous.daycare@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-05T13:37:01.5558458",
+      "sourceLastModified": "2026-11-13T13:45:36.7194509",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 1,
+        "preschool": 0,
         "schoolAge": 0
       }
     },
@@ -4657,7 +4657,7 @@
       "phone": null,
       "email": "elbatima@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-11-10T16:26:13.1601659",
+      "sourceLastModified": "2026-11-13T13:56:38.9325537",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -15157,7 +15157,7 @@
       "phone": null,
       "email": "udcwaitlist@gmail.com",
       "website": "http://myudc.net",
-      "sourceLastModified": "2026-11-03T13:29:59.1557642",
+      "sourceLastModified": "2026-11-13T13:06:53.7758037",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
