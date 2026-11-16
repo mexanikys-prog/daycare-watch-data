@@ -1,6 +1,141 @@
 {
-  "generatedAt": "2026-11-16T12:30:37.899Z",
+  "generatedAt": "2026-11-16T14:30:30.076Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-16T14:30:30.076Z",
+      "facilityId": "102040",
+      "facilityName": "Corazon Family Home Child Care",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-16T14:30:30.076Z",
+      "facilityId": "103161",
+      "facilityName": "Dimpal Surati",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-16T14:30:30.076Z",
+      "facilityId": "103161",
+      "facilityName": "Dimpal Surati",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-16T14:30:30.076Z",
+      "facilityId": "102920",
+      "facilityName": "Dolly's Daycare",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-16T14:30:30.076Z",
+      "facilityId": "102201",
+      "facilityName": "Grace's Place Child Care",
+      "ageGroup": "infant",
+      "oldValue": 2,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-16T14:30:30.076Z",
+      "facilityId": "102201",
+      "facilityName": "Grace's Place Child Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 2,
+      "newValue": 3,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-11-16T14:30:30.076Z",
+      "facilityId": "103122",
+      "facilityName": "Hadassah Kids Care",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-16T14:30:30.076Z",
+      "facilityId": "102499",
+      "facilityName": "Irene Ilagan",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-16T14:30:30.076Z",
+      "facilityId": "103132",
+      "facilityName": "Lilies Learning Home",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-16T14:30:30.076Z",
+      "facilityId": "103132",
+      "facilityName": "Lilies Learning Home",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-16T14:30:30.076Z",
+      "facilityId": "50257",
+      "facilityName": "Maria Camara",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-16T14:30:30.076Z",
+      "facilityId": "102933",
+      "facilityName": "Nova Montessori Preschool Inc. - Bannatyne",
+      "ageGroup": "preschool",
+      "oldValue": 2,
+      "newValue": 5,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-11-16T14:30:30.076Z",
+      "facilityId": "2249",
+      "facilityName": "St. James Assiniboia Montessori School Inc.",
+      "ageGroup": "nursery",
+      "oldValue": 18,
+      "newValue": 12,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-11-16T14:30:30.076Z",
+      "facilityId": "80204",
+      "facilityName": "Sunrise Sunset ChildCare Inc",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-16T14:30:30.076Z",
+      "facilityId": "80204",
+      "facilityName": "Sunrise Sunset ChildCare Inc",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-11-16T12:30:37.899Z",
       "facilityId": "103226",
