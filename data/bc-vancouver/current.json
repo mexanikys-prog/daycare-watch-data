@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T12:31:11.691Z",
+  "generatedAt": "2026-11-16T12:30:28.811Z",
   "countryCode": "ca",
   "provinceCode": "bc",
   "cityCode": "vancouver",
@@ -7,7 +7,7 @@
   "sourceKey": "bc-child-care-map-data",
   "source": "Government of British Columbia Child Care Map Data",
   "city": "Vancouver",
-  "facilityCount": 78,
+  "facilityCount": 110,
   "summary": {
     "infant": 0,
     "nursery": 0,
@@ -16,7 +16,7 @@
   },
   "facilities": [
     {
-      "sourceId": "bc:204",
+      "sourceId": "bc:4727",
       "displayName": "ALL BRIGHT EARLY LEARNING CENTER VANCOUVER",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -32,7 +32,7 @@
       "phone": "7788598010",
       "email": "lintonabelc@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214329+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -47,7 +47,7 @@
       }
     },
     {
-      "sourceId": "bc:316",
+      "sourceId": "bc:5750",
       "displayName": "Apple’s Family Child Care",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -63,7 +63,7 @@
       "phone": "604 322 3573",
       "email": "luciaarauz@hotmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214413+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -78,7 +78,7 @@
       }
     },
     {
-      "sourceId": "bc:323",
+      "sourceId": "bc:5774",
       "displayName": "Arbutus Child Care & Fine Art Learning Center",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -94,7 +94,7 @@
       "phone": "7788911600",
       "email": "MENGLINFU1130@GMAIL.COM",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214415+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -109,7 +109,7 @@
       }
     },
     {
-      "sourceId": "bc:401",
+      "sourceId": "bc:5467",
       "displayName": "Baby shark",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -125,7 +125,7 @@
       "phone": "7788299650",
       "email": "arzoomashal@hotmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214442+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -140,7 +140,7 @@
       }
     },
     {
-      "sourceId": "bc:421",
+      "sourceId": "bc:5139",
       "displayName": "Bambino family childcare centre",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -156,7 +156,7 @@
       "phone": "2365583290",
       "email": "Rutabacare@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214449+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -171,7 +171,7 @@
       }
     },
     {
-      "sourceId": "bc:427",
+      "sourceId": "bc:4586",
       "displayName": "BARISH CHILD CARE OUT-OF-SCHOOL",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -187,7 +187,7 @@
       "phone": "604 837-9232",
       "email": "karen.vaughan@ubc.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214451+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -202,7 +202,7 @@
       }
     },
     {
-      "sourceId": "bc:449",
+      "sourceId": "bc:4532",
       "displayName": "Bean Sprouts",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -218,7 +218,7 @@
       "phone": "6047226426",
       "email": "beansproutskidz@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214500+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -233,7 +233,7 @@
       }
     },
     {
-      "sourceId": "bc:526",
+      "sourceId": "bc:4716",
       "displayName": "Benjamin Childcare",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -249,7 +249,7 @@
       "phone": "6043555792",
       "email": "alinebenjamin27@outlook.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214531+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -264,7 +264,7 @@
       }
     },
     {
-      "sourceId": "bc:597",
+      "sourceId": "bc:503",
       "displayName": "Blessed Start Daycare",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -280,7 +280,7 @@
       "phone": "6047835519",
       "email": "jannyrosetb@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214554+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -295,7 +295,7 @@
       }
     },
     {
-      "sourceId": "bc:660",
+      "sourceId": "bc:5017",
       "displayName": "Blueberry Muffins Family Child Care",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -311,7 +311,7 @@
       "phone": "7789189000",
       "email": "mdssara@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214616+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -326,7 +326,7 @@
       }
     },
     {
-      "sourceId": "bc:753",
+      "sourceId": "bc:5916",
       "displayName": "Bright owlets childcare and learning centre",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -339,10 +339,10 @@
       "latitude": 49.23087060891976,
       "longitude": -123.09896142891283,
       "hideLocation": false,
-      "phone": "6042259240",
+      "phone": "6045581423",
       "email": "bright.owlets@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214650+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -357,7 +357,7 @@
       }
     },
     {
-      "sourceId": "bc:754",
+      "sourceId": "bc:5834",
       "displayName": "Bright owlets childcare and learning centre 2",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -370,10 +370,10 @@
       "latitude": 49.23110360911887,
       "longitude": -123.09890743005171,
       "hideLocation": false,
-      "phone": "6042259240",
+      "phone": "6045581424",
       "email": "bright.owlets@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214650+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -388,7 +388,7 @@
       }
     },
     {
-      "sourceId": "bc:755",
+      "sourceId": "bc:5835",
       "displayName": "Bright owlets childcare and learning centre 3",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -401,10 +401,10 @@
       "latitude": 49.23498461057555,
       "longitude": -123.0851534282551,
       "hideLocation": false,
-      "phone": "604 2169123",
+      "phone": "604 5581422",
       "email": "bright.owlets@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214650+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -419,7 +419,7 @@
       }
     },
     {
-      "sourceId": "bc:756",
+      "sourceId": "bc:5931",
       "displayName": "Bright Owlets Childcare and Learning Centre 4",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -432,10 +432,10 @@
       "latitude": 49.21757461006447,
       "longitude": -123.08527242368432,
       "hideLocation": false,
-      "phone": "6042259240",
+      "phone": "6045581425",
       "email": "bright.owlets@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214651+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -450,7 +450,7 @@
       }
     },
     {
-      "sourceId": "bc:759",
+      "sourceId": "bc:5731",
       "displayName": "Bright Roots Childcare Centre",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -466,7 +466,7 @@
       "phone": "6476421963",
       "email": "raminderk111@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214652+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -481,7 +481,7 @@
       }
     },
     {
-      "sourceId": "bc:1110",
+      "sourceId": "bc:62",
       "displayName": "Chinook - UBC Child Care Services",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -497,7 +497,7 @@
       "phone": "604 837-9232",
       "email": "karen.vaughan@ubc.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214904+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -512,7 +512,7 @@
       }
     },
     {
-      "sourceId": "bc:1111",
+      "sourceId": "bc:5533",
       "displayName": "Chinook 2",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -528,7 +528,7 @@
       "phone": "604 837-9232",
       "email": "karen.vaughan@ubc.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214905+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -543,7 +543,7 @@
       }
     },
     {
-      "sourceId": "bc:1210",
+      "sourceId": "bc:5092",
       "displayName": "Compass Educare - St. David",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -559,7 +559,7 @@
       "phone": "604-312-0365",
       "email": "admin@compasseducare.org",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214945+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -574,7 +574,7 @@
       }
     },
     {
-      "sourceId": "bc:7",
+      "sourceId": "bc:4867",
       "displayName": "Core Education and Fine Arts- UBC",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -590,7 +590,7 @@
       "phone": "604-306-1415",
       "email": "preeti1227@hotmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214212+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -605,7 +605,7 @@
       }
     },
     {
-      "sourceId": "bc:8",
+      "sourceId": "bc:5463",
       "displayName": "Core Education and Fine Arts- UBC",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -621,7 +621,7 @@
       "phone": "604-306-1415",
       "email": "preeti1227@hotmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214213+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -636,23 +636,23 @@
       }
     },
     {
-      "sourceId": "bc:1552",
+      "sourceId": "bc:5382",
       "displayName": "Eagle Landing School Age Care",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
-      "fundingType": null,
+      "fundingType": "CCFRI participating",
       "address": "1000 59th Ave E, Vancouver, V5X1Y7",
       "city": "Vancouver",
       "postalCode": "V5X1Y7",
       "neighbourhood": null,
       "region": "British Columbia",
-      "latitude": 33.45902111240959,
-      "longitude": -112.18655004099931,
+      "latitude": 49.21616561033023,
+      "longitude": -123.08403342343858,
       "hideLocation": false,
       "phone": "604-324-6212",
       "email": "jeanette.wong@southvan.org",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260824195717+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -667,7 +667,7 @@
       }
     },
     {
-      "sourceId": "bc:1874",
+      "sourceId": "bc:5514",
       "displayName": "Garderie Tartine et Chocolat",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -683,7 +683,7 @@
       "phone": "6047365056",
       "email": "garderies@fpfcb.bc.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215349+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -698,7 +698,7 @@
       }
     },
     {
-      "sourceId": "bc:2007",
+      "sourceId": "bc:320",
       "displayName": "Grassroots Early Learning and Care",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -714,7 +714,7 @@
       "phone": "672 999 5287",
       "email": "grassrootselc@hotmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215439+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -729,7 +729,7 @@
       }
     },
     {
-      "sourceId": "bc:2024",
+      "sourceId": "bc:5130",
       "displayName": "Grenfell School Age Child Care Centre",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -745,7 +745,7 @@
       "phone": "604-434-9994",
       "email": "dclemente@cnh.bc.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215445+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -760,7 +760,7 @@
       }
     },
     {
-      "sourceId": "bc:2256",
+      "sourceId": "bc:5174",
       "displayName": "HERON'S LANDING - INFANT TODDLER",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -776,7 +776,7 @@
       "phone": "604 837-9232",
       "email": "karen.vaughan@ubc.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215610+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -791,7 +791,7 @@
       }
     },
     {
-      "sourceId": "bc:2257",
+      "sourceId": "bc:5534",
       "displayName": "Heron's Landing 3-5",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -807,7 +807,7 @@
       "phone": "604 837-9232",
       "email": "karen.vaughan@ubc.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215610+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -822,7 +822,7 @@
       }
     },
     {
-      "sourceId": "bc:2363",
+      "sourceId": "bc:4743",
       "displayName": "IKOKA Childcare Learning Center 57th",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -838,7 +838,7 @@
       "phone": "7788617446",
       "email": "ikoka57th@outlook.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215649+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -853,7 +853,7 @@
       }
     },
     {
-      "sourceId": "bc:2506",
+      "sourceId": "bc:5707",
       "displayName": "Jolly Sprouts Childcare Centre - 64th Avenue",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -869,7 +869,7 @@
       "phone": "6048337191",
       "email": "jollysproutssc@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215734+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -884,7 +884,7 @@
       }
     },
     {
-      "sourceId": "bc:2534",
+      "sourceId": "bc:5867",
       "displayName": "Jungle Trail Child Care",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -900,7 +900,7 @@
       "phone": "778-881-2772",
       "email": "jungletrailchildcare@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215743+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -915,7 +915,7 @@
       }
     },
     {
-      "sourceId": "bc:2715",
+      "sourceId": "bc:4978",
       "displayName": "Kids Club",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -931,7 +931,7 @@
       "phone": "604 837-9232",
       "email": "karen.vaughan@ubc.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215845+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -946,7 +946,7 @@
       }
     },
     {
-      "sourceId": "bc:2806",
+      "sourceId": "bc:5898",
       "displayName": "Kidsrus Early Learning Center 60th Ave",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -962,7 +962,7 @@
       "phone": "6047670439",
       "email": "kidsruschildcare@live.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215919+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -977,7 +977,7 @@
       }
     },
     {
-      "sourceId": "bc:2811",
+      "sourceId": "bc:4933",
       "displayName": "Kidsrus early learning center sunset",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -993,7 +993,7 @@
       "phone": "6047670439",
       "email": "Kidsruschildcare@live.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215921+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1008,7 +1008,7 @@
       }
     },
     {
-      "sourceId": "bc:2914",
+      "sourceId": "bc:5755",
       "displayName": "Kits Star's Childcare Center",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1024,7 +1024,7 @@
       "phone": "7788899654",
       "email": "Kschildcarecenter@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220003+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1039,7 +1039,7 @@
       }
     },
     {
-      "sourceId": "bc:2916",
+      "sourceId": "bc:343",
       "displayName": "Kitsilano Neighbourhood House Hudson Preschool",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1055,7 +1055,7 @@
       "phone": "6047338674",
       "email": "lizannec@kitshouse.org",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220004+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1070,14 +1070,14 @@
       }
     },
     {
-      "sourceId": "bc:2917",
+      "sourceId": "bc:5502",
       "displayName": "Kitsilano Neighbourhood House Hudson School Age Care",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
       "fundingType": "CCFRI participating",
-      "address": "1530 Maple St, Vancouver, V6J3L3",
+      "address": "1530 Maple St, Vancouver, V6J 0H8",
       "city": "Vancouver",
-      "postalCode": "V6J3L3",
+      "postalCode": "V6J 0H8",
       "neighbourhood": null,
       "region": "British Columbia",
       "latitude": 49.27224260500517,
@@ -1086,7 +1086,7 @@
       "phone": "6047311618",
       "email": "lizannec@kitshouse.org",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220005+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1101,38 +1101,7 @@
       }
     },
     {
-      "sourceId": "bc:2955",
-      "displayName": "La Petite Ecole",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": null,
-      "address": "4037 West 32nd Avenue, Vancouver, V6S1Z5",
-      "city": "Vancouver",
-      "postalCode": "V6S1Z5",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.24362659879527,
-      "longitude": -123.19501344855311,
-      "hideLocation": false,
-      "phone": "6046197313",
-      "email": "shannon@lapetiteecole.ca",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:2990",
+      "sourceId": "bc:472",
       "displayName": "Langara learning center",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1148,7 +1117,7 @@
       "phone": "7788899654",
       "email": "Najibmashal@hotmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220045+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1163,7 +1132,7 @@
       }
     },
     {
-      "sourceId": "bc:3131",
+      "sourceId": "bc:5764",
       "displayName": "Limelight Mosaic Childcare Ltd.",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1179,7 +1148,7 @@
       "phone": "6043361866",
       "email": "limelightchildcare@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220141+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1194,7 +1163,7 @@
       }
     },
     {
-      "sourceId": "bc:3133",
+      "sourceId": "bc:5833",
       "displayName": "Linda Childcare",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -1210,7 +1179,7 @@
       "phone": "2365128772",
       "email": "linda2childcare@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220141+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1225,7 +1194,7 @@
       }
     },
     {
-      "sourceId": "bc:3394",
+      "sourceId": "bc:130",
       "displayName": "Little Monsters Academy - Mountain View",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1241,7 +1210,7 @@
       "phone": "7785229406",
       "email": "info@littlemonsters.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220419+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1256,23 +1225,23 @@
       }
     },
     {
-      "sourceId": "bc:3413",
-      "displayName": "Little Munchkin Daycare Ltd.",
+      "sourceId": "bc:4709",
+      "displayName": "LITTLE MUNCHKIN DAYCARE LTD.",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
       "fundingType": "CCFRI participating",
-      "address": "1319 W 52 Ave, Vancouver, V6P1H8",
+      "address": "2207 15th Avenue West, Vancouver, V6K2Y6",
       "city": "Vancouver",
-      "postalCode": "V6P1H8",
+      "postalCode": "V6K2Y6",
       "neighbourhood": null,
       "region": "British Columbia",
-      "latitude": 49.224259604250214,
-      "longitude": -123.13572143369542,
+      "latitude": null,
+      "longitude": null,
       "hideLocation": false,
-      "phone": "7783868252",
+      "phone": "6046551895",
       "email": "info@littlemunchkindaycare.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220436+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1287,7 +1256,7 @@
       }
     },
     {
-      "sourceId": "bc:3414",
+      "sourceId": "bc:5018",
       "displayName": "Little Munchkin Daycare Ltd.",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1303,7 +1272,7 @@
       "phone": "6046551895",
       "email": "info@littlemunchkindaycare.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220437+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1318,7 +1287,7 @@
       }
     },
     {
-      "sourceId": "bc:3416",
+      "sourceId": "bc:5452",
       "displayName": "Little Munchkin Daycare Ltd.",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1334,7 +1303,7 @@
       "phone": "604-655-1895",
       "email": "info@littlemunchkindaycare.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220438+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1349,7 +1318,38 @@
       }
     },
     {
-      "sourceId": "bc:3426",
+      "sourceId": "bc:5658",
+      "displayName": "Little Munchkin Daycare Ltd.",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "1319 W 52 Ave, Vancouver, V6P1H8",
+      "city": "Vancouver",
+      "postalCode": "V6P1H8",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.224259604250214,
+      "longitude": -123.13572143369542,
+      "hideLocation": false,
+      "phone": "7783868252",
+      "email": "info@littlemunchkindaycare.ca",
+      "website": null,
+      "sourceLastModified": "20260807220439+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5104",
       "displayName": "Little Oak Montessori",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1365,7 +1365,7 @@
       "phone": "7789518898",
       "email": "info.littleoakmontessori@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220448+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1380,7 +1380,7 @@
       }
     },
     {
-      "sourceId": "bc:3474",
+      "sourceId": "bc:499",
       "displayName": "Little Seeds Montessori & Play Childcare",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -1396,7 +1396,7 @@
       "phone": "7788599815",
       "email": "sandradgz@hotmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220523+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1411,7 +1411,7 @@
       }
     },
     {
-      "sourceId": "bc:3475",
+      "sourceId": "bc:5988",
       "displayName": "Little Seeds South Vancouver Montessori Daycare",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1427,7 +1427,7 @@
       "phone": "7789297545",
       "email": "liviadaycareinfo@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220523+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1442,38 +1442,7 @@
       }
     },
     {
-      "sourceId": "bc:3502",
-      "displayName": "Little Star Family Child Care",
-      "facilityType": "Licensed Family",
-      "businessType": "Licensed child care",
-      "fundingType": null,
-      "address": "2016 1st Ave E, Vancouver, V5N1B5",
-      "city": "Vancouver",
-      "postalCode": "V5N1B5",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.26928861520585,
-      "longitude": -123.06339443387391,
-      "hideLocation": false,
-      "phone": "6042534255",
-      "email": "aliya2016@hotmail.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:3507",
+      "sourceId": "bc:519",
       "displayName": "Little Stars Childcare Center E58th",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1489,7 +1458,7 @@
       "phone": "7788899654",
       "email": "Jamesmashal@hotmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220541+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1504,7 +1473,38 @@
       }
     },
     {
-      "sourceId": "bc:3682",
+      "sourceId": "bc:5089",
+      "displayName": "Ma Montessori Daycare & Preschool",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "3078 Renfrew St, Vancouver, V5M3K6",
+      "city": "Vancouver",
+      "postalCode": "V5M3K6",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.2567906168954,
+      "longitude": -123.04386042831067,
+      "hideLocation": false,
+      "phone": "2369869760",
+      "email": "rmc.mamontessori@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260930000527+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:4777",
       "displayName": "Maple Childcare Centre - Kitsilano Neighbourhood House",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1520,7 +1520,7 @@
       "phone": "604-628-5293",
       "email": "maple@kitshouse.org",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220748+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1535,7 +1535,7 @@
       }
     },
     {
-      "sourceId": "bc:3683",
+      "sourceId": "bc:5465",
       "displayName": "Maple Childcare Centre - Kitsilano Neighbourhood House",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1551,7 +1551,7 @@
       "phone": "604-628-5293",
       "email": "maple@kitshouse.org",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220749+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1566,7 +1566,7 @@
       }
     },
     {
-      "sourceId": "bc:3686",
+      "sourceId": "bc:4756",
       "displayName": "Maple House Academy",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1582,7 +1582,7 @@
       "phone": "6043683361",
       "email": "amy.maplehouse@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220751+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1597,7 +1597,7 @@
       }
     },
     {
-      "sourceId": "bc:3727",
+      "sourceId": "bc:4159",
       "displayName": "Marpole Neighbourhood House",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1613,7 +1613,7 @@
       "phone": "604-484-9145",
       "email": "shannon.heighes@marpolenh.org",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220812+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1628,7 +1628,7 @@
       }
     },
     {
-      "sourceId": "bc:3731",
+      "sourceId": "bc:345",
       "displayName": "Marpole Oakridge Family Place Society",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1644,7 +1644,7 @@
       "phone": "604-263-1405",
       "email": "info@mofp.org",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220813+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1659,38 +1659,7 @@
       }
     },
     {
-      "sourceId": "bc:3738",
-      "displayName": "Maternelle 4 ans Queen Elizabeth Annex",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": null,
-      "address": "4275 Crown St, Vancouver, V6S2K3",
-      "city": "Vancouver",
-      "postalCode": "V6S2K3",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.24898859883646,
-      "longitude": -123.19512944947132,
-      "hideLocation": false,
-      "phone": "6042142635",
-      "email": "PIERREHUGO_LECOMTE@CSF.BC.CA",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:3743",
+      "sourceId": "bc:4597",
       "displayName": "Max'inux Childcare",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1706,7 +1675,7 @@
       "phone": "604-786-5990",
       "email": "melissa@maxinuxchildcare.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220819+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1721,7 +1690,7 @@
       }
     },
     {
-      "sourceId": "bc:3744",
+      "sourceId": "bc:4677",
       "displayName": "Max'inux Childcare",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1737,7 +1706,7 @@
       "phone": "604-786-5990",
       "email": "melissa@maxinuxchildcare.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220820+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1752,7 +1721,7 @@
       }
     },
     {
-      "sourceId": "bc:3745",
+      "sourceId": "bc:4678",
       "displayName": "Max'inux Childcare",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1768,7 +1737,7 @@
       "phone": "604-786-5990",
       "email": "melissa@maxinuxchildcare.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220820+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1783,7 +1752,7 @@
       }
     },
     {
-      "sourceId": "bc:3863",
+      "sourceId": "bc:527",
       "displayName": "MM Learning INC Victoria 61",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1799,7 +1768,7 @@
       "phone": "7788953185",
       "email": "Moberlychildcare@outlook.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220916+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1814,7 +1783,7 @@
       }
     },
     {
-      "sourceId": "bc:3864",
+      "sourceId": "bc:5652",
       "displayName": "Mm Learning Inc. FRASERVIEW",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1830,7 +1799,7 @@
       "phone": "7788953185",
       "email": "madeehaqaisar@hotmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220917+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1845,7 +1814,7 @@
       }
     },
     {
-      "sourceId": "bc:3872",
+      "sourceId": "bc:4896",
       "displayName": "Moloo's Learning Centre 59th",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1861,7 +1830,7 @@
       "phone": "778 867 3185",
       "email": "Info@molooslearning.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220920+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1876,7 +1845,7 @@
       }
     },
     {
-      "sourceId": "bc:3877",
+      "sourceId": "bc:5907",
       "displayName": "MOMIJI Japanese School",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1892,7 +1861,7 @@
       "phone": "6042905208",
       "email": "momijischool@hotmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220923+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1907,38 +1876,7 @@
       }
     },
     {
-      "sourceId": "bc:3888",
-      "displayName": "Monarch Montessori Academy",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": null,
-      "address": "2079 W 30th Ave, Vancouver, V6J3A4",
-      "city": "Vancouver",
-      "postalCode": "V6J3A4",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.24522660374962,
-      "longitude": -123.15157944186248,
-      "hideLocation": false,
-      "phone": "604-563-9511",
-      "email": "grace@monarchmontessori.ca",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:3938",
+      "sourceId": "bc:4941",
       "displayName": "Mount Pleasant Neighbourhood House at Eric Hamber Secondary",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1954,7 +1892,7 @@
       "phone": "604.879.8208",
       "email": "childcareathamber@mpnh.org",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220953+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1969,7 +1907,7 @@
       }
     },
     {
-      "sourceId": "bc:3939",
+      "sourceId": "bc:5435",
       "displayName": "Mount Pleasant Neighbourhood House at Eric Hamber Secondary",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1985,7 +1923,7 @@
       "phone": "604.879.8208",
       "email": "childcareathamber@mpnh.org",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220954+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2000,7 +1938,7 @@
       }
     },
     {
-      "sourceId": "bc:4000",
+      "sourceId": "bc:5830",
       "displayName": "My Whole Earth Academy",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2016,7 +1954,7 @@
       "phone": "6042090034",
       "email": "admin@mywholeearth.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807221032+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2031,38 +1969,7 @@
       }
     },
     {
-      "sourceId": "bc:4049",
-      "displayName": "Neo Academy",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "3380 Maquinna Drive, Vancouver, V5S4C6",
-      "city": "Vancouver",
-      "postalCode": "V5S4C6",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.21513961629023,
-      "longitude": -123.03103641511106,
-      "hideLocation": false,
-      "phone": "604-4120186",
-      "email": "terry1970@126.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:4050",
+      "sourceId": "bc:4615",
       "displayName": "Neo Academy",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2078,7 +1985,7 @@
       "phone": "604-412-0186",
       "email": "terry1970@126.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807221050+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2093,7 +2000,38 @@
       }
     },
     {
-      "sourceId": "bc:4103",
+      "sourceId": "bc:5520",
+      "displayName": "Neo Academy",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "3380 Maquinna Drive, Vancouver, V5S4C6",
+      "city": "Vancouver",
+      "postalCode": "V5S4C6",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.21513961629023,
+      "longitude": -123.03103641511106,
+      "hideLocation": false,
+      "phone": "604-4120186",
+      "email": "terry1970@126.com",
+      "website": null,
+      "sourceLastModified": "20260807221050+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5760",
       "displayName": "Nobel Park YMCA Child Care",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2109,7 +2047,7 @@
       "phone": "250-960-9336",
       "email": "corrine.kinder@bc.ymca.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807221120+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2124,7 +2062,7 @@
       }
     },
     {
-      "sourceId": "bc:4104",
+      "sourceId": "bc:5903",
       "displayName": "Nobel Park YMCA Child Care",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2140,7 +2078,7 @@
       "phone": "250-960-9336",
       "email": "corrine.kinder@bc.ymca.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807221121+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2155,69 +2093,7 @@
       }
     },
     {
-      "sourceId": "bc:4171",
-      "displayName": "Oakridge Montessori Children's Learning Centre",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": null,
-      "address": "619 W. 45th Ave, Vancouver, V5Z4G2",
-      "city": "Vancouver",
-      "postalCode": "V5Z4G2",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.230187607316715,
-      "longitude": -123.11882743240258,
-      "hideLocation": false,
-      "phone": "604-263-1686",
-      "email": "administration@oakridgemontessori.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:4172",
-      "displayName": "Oakridge Montessori Children's Learning Centre",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": null,
-      "address": "7190 Oak Street, Vancouver, V6P3Z9",
-      "city": "Vancouver",
-      "postalCode": "V6P3Z9",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.22042860496035,
-      "longitude": -123.12780543140303,
-      "hideLocation": false,
-      "phone": "604-263-1686",
-      "email": "anna.kurnia@oakridgemontessori.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:4236",
+      "sourceId": "bc:4617",
       "displayName": "Orca Rising School Age Care",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2233,7 +2109,7 @@
       "phone": "604-324-6212",
       "email": "jeanette.wong@southvan.org",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807221241+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2248,38 +2124,7 @@
       }
     },
     {
-      "sourceId": "bc:4266",
-      "displayName": "PACIFIC SPIRIT OUT-OF-SCHOOL CHILD CARE CENTRE",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "5580 (C) Osoyoos Crescent, Vancouver, V6T2E6",
-      "city": "Vancouver",
-      "postalCode": "V6T2E6",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.260331595289074,
-      "longitude": -123.23373345875814,
-      "hideLocation": false,
-      "phone": "604 837-9232",
-      "email": "karen.vaughan@ubc.ca",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:4361",
+      "sourceId": "bc:528",
       "displayName": "Peninsula Montessori Academy Fraser",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2295,7 +2140,7 @@
       "phone": "7789941288",
       "email": "info@peninsulama.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807221347+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2310,7 +2155,7 @@
       }
     },
     {
-      "sourceId": "bc:4363",
+      "sourceId": "bc:4596",
       "displayName": "Peninsula Montessori Academy Oak",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2326,7 +2171,7 @@
       "phone": "7789941288",
       "email": "vince.ljx@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807221347+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2341,7 +2186,7 @@
       }
     },
     {
-      "sourceId": "bc:4694",
+      "sourceId": "bc:5905",
       "displayName": "Rising Beacons Out of School Care Inc.",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2357,7 +2202,7 @@
       "phone": "6044044268",
       "email": "info@risingbeacons.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807221602+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2372,7 +2217,7 @@
       }
     },
     {
-      "sourceId": "bc:4720",
+      "sourceId": "bc:5814",
       "displayName": "Robert Lee YMCA Kids Club",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2388,7 +2233,7 @@
       "phone": "250-960-9336",
       "email": "corrine.kinder@bc.ymca.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807221614+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2403,7 +2248,7 @@
       }
     },
     {
-      "sourceId": "bc:4722",
+      "sourceId": "bc:4910",
       "displayName": "Roberts Annex YMCA Kids Club",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2419,7 +2264,7 @@
       "phone": "2509609336",
       "email": "corrine.kinder@bc.ymca.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807221614+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2431,6 +2276,1153 @@
         "nursery": false,
         "preschool": false,
         "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:2096",
+      "displayName": "Rupert YMCA Kids Club",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "3150 Kitchener St, Vancouver, V5K 0G1",
+      "city": "Vancouver",
+      "postalCode": "V5K 0G1",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.27223561815381,
+      "longitude": -123.03764543117045,
+      "hideLocation": false,
+      "phone": "6042183426",
+      "email": "BEGBIEYMCA@BC.YMCA.CA",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5735",
+      "displayName": "Salmon Stone Childcare",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "3010 East Kent Ave S, Vancouver, V5S4P7",
+      "city": "Vancouver",
+      "postalCode": "V5S4P7",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.20599861474855,
+      "longitude": -123.04457441461973,
+      "hideLocation": false,
+      "phone": "604-324-6212",
+      "email": "jeanette.wong@southvan.org",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5978",
+      "displayName": "Salmon Stone Childcare",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "3010 East Kent Ave S, Vancouver, V5S4P7",
+      "city": "Vancouver",
+      "postalCode": "V5S4P7",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.20599861474855,
+      "longitude": -123.04457441461973,
+      "hideLocation": false,
+      "phone": "6043246212",
+      "email": "jeanette.wong@southvan.org",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:4908",
+      "displayName": "SAW-WHET OUT-OF-SCHOOL CHILD CARE CENTRE",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "2850 A Salmo Court, Vancouver, V6T 1N8",
+      "city": "Vancouver",
+      "postalCode": "V6T 1N8",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.25999259428097,
+      "longitude": -123.23682945978628,
+      "hideLocation": false,
+      "phone": "604 837-9232",
+      "email": "karen.vaughan@ubc.ca",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:518",
+      "displayName": "Season Explorations Childcare",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "4534 Gladstone Street, Vancouver, V5N4Z9",
+      "city": "Vancouver",
+      "postalCode": "V5N4Z9",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.244244614265924,
+      "longitude": -123.06058142675442,
+      "hideLocation": false,
+      "phone": "7783166111",
+      "email": "zzzdaycare6994@gmail.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5186",
+      "displayName": "Shining Smile Childcare Centre",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "3976 W 38th Ave, Vancouver, V6N2Y6",
+      "city": "Vancouver",
+      "postalCode": "V6N2Y6",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.23727859893104,
+      "longitude": -123.19303644572028,
+      "hideLocation": false,
+      "phone": "778-387-7768",
+      "email": "unigeeducation@gmail.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5181",
+      "displayName": "Smiley Daycare Boundary",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "1133 Boundary rd, Vancouver, V5K4T4",
+      "city": "Vancouver",
+      "postalCode": "V5K4T4",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.274427619591755,
+      "longitude": -123.02405343006349,
+      "hideLocation": false,
+      "phone": "7788554318",
+      "email": "Smileydaycareltd@gmail.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:4703",
+      "displayName": "Snowflake Family Child Care",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "458 53RD AVE E, Vancouver, V5X 1J2",
+      "city": "Vancouver",
+      "postalCode": "V5X 1J2",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.22158060941762,
+      "longitude": -123.09552042640333,
+      "hideLocation": false,
+      "phone": "7788553420",
+      "email": "sukjeetrohilla@hotmail.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5329",
+      "displayName": "Spare Time Fun Centre",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "1338 W. 67th Avenue, Vancouver, V6P2T4",
+      "city": "Vancouver",
+      "postalCode": "V6P2T4",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.21024260407979,
+      "longitude": -123.13636642968982,
+      "hideLocation": false,
+      "phone": "604-261-6612",
+      "email": "info.stfc.childcare@gmail.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:2925",
+      "displayName": "SSOCC Southlands Toddlers",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "6426 Dunbar St, Vancouver, V6N1X6",
+      "city": "Vancouver",
+      "postalCode": "V6N1X6",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.228364599158674,
+      "longitude": -123.18521544208265,
+      "hideLocation": false,
+      "phone": "604-377-7928",
+      "email": "margo@ssocc.ca",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:505",
+      "displayName": "St. Francis Xavier Day Care",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "428 Great Northern Way, Vancouver, V5T4S5",
+      "city": "Vancouver",
+      "postalCode": "V5T4S5",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.26646761126666,
+      "longitude": -123.09453743793127,
+      "hideLocation": false,
+      "phone": "6043567605",
+      "email": "sfxdaycare@gmail.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5168",
+      "displayName": "St. Giles Preschool",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "3737 West 27th Avenue, Vancouver, V6S1R2",
+      "city": "Vancouver",
+      "postalCode": "V6S1R2",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.248348600153825,
+      "longitude": -123.18747744894104,
+      "hideLocation": false,
+      "phone": "604-325-0114",
+      "email": "stgilespreschool@gmail.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5922",
+      "displayName": "Starlet Academy",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "2135 Newport Ave, Vancouver, V5P2H9",
+      "city": "Vancouver",
+      "postalCode": "V5P2H9",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.215536612307105,
+      "longitude": -123.06359241990457,
+      "hideLocation": false,
+      "phone": "2368629316",
+      "email": "starlet.daycare@gmail.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5084",
+      "displayName": "Sunny Bunny Childcare Center",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "424 east 50th ave, Vancouver, V5X1B1",
+      "city": "Vancouver",
+      "postalCode": "V5X1B1",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.22451760914504,
+      "longitude": -123.09658442721575,
+      "hideLocation": false,
+      "phone": "7788899654",
+      "email": "Kschildcarecenter@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260917175744+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:4807",
+      "displayName": "Sunny Steps Childcare Centre",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "2751 Horley St, Vancouver, V5R4R7",
+      "city": "Vancouver",
+      "postalCode": "V5R4R7",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.24060861568194,
+      "longitude": -123.0483124240808,
+      "hideLocation": false,
+      "phone": "7783217507",
+      "email": "xuemy1993@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260801232454+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5079",
+      "displayName": "Sunny Steps Childcare Centre",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "2751 Horley St, Vancouver, V5R4R7",
+      "city": "Vancouver",
+      "postalCode": "V5R4R7",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.240722615195615,
+      "longitude": -123.04838242401259,
+      "hideLocation": false,
+      "phone": "7783217507",
+      "email": "xuemy1993@gmail.com",
+      "website": null,
+      "sourceLastModified": "20261014050024+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5200",
+      "displayName": "Swamp",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "101-2730 Acadia Road, Vancouver, V6T 1S1",
+      "city": "Vancouver",
+      "postalCode": "V6T 1S1",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.262639594423995,
+      "longitude": -123.23515346042917,
+      "hideLocation": false,
+      "phone": "604 837-9232",
+      "email": "karen.vaughan@ubc.ca",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:153",
+      "displayName": "Ta7a Lam School Age Program",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "1850 East 3rd Ave, Vancouver, V5N1H2",
+      "city": "Vancouver",
+      "postalCode": "V5N1H2",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.267554614134994,
+      "longitude": -123.06681243464661,
+      "hideLocation": false,
+      "phone": "604-251-1225",
+      "email": "annac@froghollow.bc.ca",
+      "website": null,
+      "sourceLastModified": "20260820234159+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5526",
+      "displayName": "Tanpopo Child Care Inc.",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "#2 2105 Scarboro Ave, Vancouver, V5P2L2",
+      "city": "Vancouver",
+      "postalCode": "V5P2L2",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.213845612089806,
+      "longitude": -123.06371341881479,
+      "hideLocation": false,
+      "phone": "2364800043",
+      "email": "yuka.tanpopocc@gmail.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5784",
+      "displayName": "The Big Playhouse Langara",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "88 E 46th Ave, Vancouver, V5W1Z1",
+      "city": "Vancouver",
+      "postalCode": "V5W1Z1",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.228251608889465,
+      "longitude": -123.10405342962062,
+      "hideLocation": false,
+      "phone": "6046900439",
+      "email": "thebigplayhouselangara@outlook.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:173",
+      "displayName": "The Big Playhouse Langara Academy",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "594 E 49th Ave, Vancouver, V5W2G9",
+      "city": "Vancouver",
+      "postalCode": "V5W2G9",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.22523360941189,
+      "longitude": -123.09265642739075,
+      "hideLocation": false,
+      "phone": "6047240439",
+      "email": "waqasmalick@hotmail.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:134",
+      "displayName": "The Big Playhouse Nanaimo",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "2646 3rd Ave E, Vancouver, V5M1H2",
+      "city": "Vancouver",
+      "postalCode": "V5M1H2",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.26731161638183,
+      "longitude": -123.05093143209189,
+      "hideLocation": false,
+      "phone": "6047240439",
+      "email": "thebigplayhousenanaimo@outlook.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5196",
+      "displayName": "The Big Playhouse Sexsmith",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "18 W 60th Ave, Vancouver, V5X1Z4",
+      "city": "Vancouver",
+      "postalCode": "V5X1Z4",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.215792607599376,
+      "longitude": -123.10669742635798,
+      "hideLocation": false,
+      "phone": "6046900439",
+      "email": "thebigplayhousesexsmith@outlookk.co",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5273",
+      "displayName": "The Big Playhouse Sexsmith Academy",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "44 E 58th Ave, Vancouver, V5X1V6",
+      "city": "Vancouver",
+      "postalCode": "V5X1V6",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.217434608075315,
+      "longitude": -123.10512642676277,
+      "hideLocation": false,
+      "phone": "6047240439",
+      "email": "thebigplayhousesexsmithacademy@outlook.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5468",
+      "displayName": "The Growing Grove Childcare",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "3685 Napier Street, Vancouver, V5K2Y1",
+      "city": "Vancouver",
+      "postalCode": "V5K2Y1",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.275193620102115,
+      "longitude": -123.02438842896673,
+      "hideLocation": false,
+      "phone": "6729994826",
+      "email": "manager@thegrowinggrovechildcare.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5088",
+      "displayName": "The Little Mountain Neighbourhood House Society (School Age)",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "157 36TH AVE E, Vancouver, V5W0G3",
+      "city": "Vancouver",
+      "postalCode": "V5W0G3",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.23838060914148,
+      "longitude": -123.10249543158233,
+      "hideLocation": false,
+      "phone": "6048797104",
+      "email": "GERALDINE_CLEVETTE@LMNHS.BC.CA",
+      "website": null,
+      "sourceLastModified": "20260923182258+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": 0
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": true
+      }
+    },
+    {
+      "sourceId": "bc:5668",
+      "displayName": "The Little Mountain Neighbourhood House Society (Under 36 Months)",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "157 36TH AVE E, Vancouver, V5W0G3",
+      "city": "Vancouver",
+      "postalCode": "V5W0G3",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.238359609334516,
+      "longitude": -123.10243143215428,
+      "hideLocation": false,
+      "phone": "6048797104",
+      "email": "GERALDINE_CLEVETTE@LMNHS.BC.CA",
+      "website": null,
+      "sourceLastModified": "20260923180711+00:00",
+      "vacancies": {
+        "infant": 0,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": true,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5087",
+      "displayName": "The Little Mountain Neighbourhood Society (30 Months to School Age) - BEEP",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "157 36TH AVE E, Vancouver, V5W0G3",
+      "city": "Vancouver",
+      "postalCode": "V5W0G3",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.238324609175564,
+      "longitude": -123.10247943144037,
+      "hideLocation": false,
+      "phone": "6048797104",
+      "email": "GERALDINE_CLEVETTE@LMNHS.BC.CA",
+      "website": null,
+      "sourceLastModified": "20260923174237+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": 0,
+        "preschool": 0,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": true,
+        "preschool": true,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5669",
+      "displayName": "The Little Mountain Neighbourhood Society (30 Months to School Age) - RFAR",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "157 36TH AVE E, Vancouver, V5W0G3",
+      "city": "Vancouver",
+      "postalCode": "V5W0G3",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.23835260894759,
+      "longitude": -123.10239943231511,
+      "hideLocation": false,
+      "phone": "6048797104",
+      "email": "GERALDINE_CLEVETTE@LMNHS.BC.CA",
+      "website": null,
+      "sourceLastModified": "20260923181822+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:4901",
+      "displayName": "Thrive Kids Club VCS",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "3496 Mons Dr, Vancouver, V5M3E6",
+      "city": "Vancouver",
+      "postalCode": "V5M3E6",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.25471761829742,
+      "longitude": -123.02858642441659,
+      "hideLocation": false,
+      "phone": "604-838-2430",
+      "email": "admin@thrivekidsclub.ca",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5783",
+      "displayName": "Tweety blue bird",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "3624 West3rd avenue, Vancouver, V6R1L9",
+      "city": "Vancouver",
+      "postalCode": "V6R1L9",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.26924160111857,
+      "longitude": -123.18424645379935,
+      "hideLocation": false,
+      "phone": "604-809-0505",
+      "email": "tweetybluebirdchildcare@gmail.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:4897",
+      "displayName": "Tweety Blue Bird II",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "425 E56th avenue, Vancouver, V5X1R5",
+      "city": "Vancouver",
+      "postalCode": "V5X1R5",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.21946560879811,
+      "longitude": -123.09692942680654,
+      "hideLocation": false,
+      "phone": "7788559546",
+      "email": "tweetybluebirdchildcare@gmail.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5803",
+      "displayName": "Tweety Blue Bird III",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "956 54TH AVE E, Vancouver, V5X 1L7",
+      "city": "Vancouver",
+      "postalCode": "V5X 1L7",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.220351610110605,
+      "longitude": -123.08567442465315,
+      "hideLocation": false,
+      "phone": "7788559546",
+      "email": "tweetybluebirdmain@gmail.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5138",
+      "displayName": "Twinkle Star In-Home Multi Age Child Care",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "3676 McGill street, Vancouver, V5K1J4",
+      "city": "Vancouver",
+      "postalCode": "V5K1J4",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.28838962027616,
+      "longitude": -123.02405043321676,
+      "hideLocation": false,
+      "phone": "6042558495",
+      "email": "firdausara_begum@live.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5429",
+      "displayName": "Vancouver Hebrew Academy",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "1535 W 62nd Ave, Vancouver, V6P2E8",
+      "city": "Vancouver",
+      "postalCode": "V6P2E8",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.21498860387732,
+      "longitude": -123.14126943200942,
+      "hideLocation": false,
+      "phone": "604-786-5990",
+      "email": "info@nextlevelcc.ca",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5973",
+      "displayName": "Vancouver Hebrew Academy",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "1535 W 62nd Ave, Vancouver, V6P2E8",
+      "city": "Vancouver",
+      "postalCode": "V6P2E8",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.21498860387732,
+      "longitude": -123.14126943200942,
+      "hideLocation": false,
+      "phone": "604-786-5990",
+      "email": "info@nextlevelcc.ca",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:4606",
+      "displayName": "Westside Montessori Academy",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "668 East 20th Ave, Vancouver, V5V1M9",
+      "city": "Vancouver",
+      "postalCode": "V5V1M9",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.25264861156209,
+      "longitude": -123.09049943387934,
+      "hideLocation": false,
+      "phone": "604 336 6247",
+      "email": "elc@westsidemontessoriacademy.ca",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T12:31:11.691Z",
+  "generatedAt": "2026-11-16T12:30:28.811Z",
   "countryCode": "ca",
   "provinceCode": "bc",
   "cityCode": "burnaby",
@@ -7,16 +7,16 @@
   "sourceKey": "bc-child-care-map-data",
   "source": "Government of British Columbia Child Care Map Data",
   "city": "Burnaby",
-  "facilityCount": 54,
+  "facilityCount": 66,
   "summary": {
-    "infant": 1,
-    "nursery": 0,
-    "preschool": 0,
+    "infant": 4,
+    "nursery": 1,
+    "preschool": 1,
     "schoolAge": 0
   },
   "facilities": [
     {
-      "sourceId": "bc:40",
+      "sourceId": "bc:5060",
       "displayName": "A & B Daycare",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -32,7 +32,7 @@
       "phone": "7789952628",
       "email": "stellar6666@hotmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214228+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -47,7 +47,7 @@
       }
     },
     {
-      "sourceId": "bc:41",
+      "sourceId": "bc:4943",
       "displayName": "A & B Early Learning Centre",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -63,7 +63,7 @@
       "phone": "7789952628",
       "email": "abearly6327@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214229+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -78,7 +78,7 @@
       }
     },
     {
-      "sourceId": "bc:74",
+      "sourceId": "bc:5154",
       "displayName": "A1 Suncrest Daycare",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -94,7 +94,7 @@
       "phone": "778 986 9386",
       "email": "littlewonderlandchildcare2021@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214241+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -109,7 +109,7 @@
       }
     },
     {
-      "sourceId": "bc:148",
+      "sourceId": "bc:4778",
       "displayName": "Adventure House Early Learning Childcare",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -125,7 +125,7 @@
       "phone": "2364530873",
       "email": "info@adventurehouse.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214307+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -140,7 +140,7 @@
       }
     },
     {
-      "sourceId": "bc:202",
+      "sourceId": "bc:5040",
       "displayName": "All Bright Early Learning Center Metro",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -156,7 +156,7 @@
       "phone": "7783165360",
       "email": "lintonabelc@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214329+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -171,7 +171,7 @@
       }
     },
     {
-      "sourceId": "bc:227",
+      "sourceId": "bc:4547",
       "displayName": "Aloha Childcare Centre",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -187,7 +187,7 @@
       "phone": "6047200076",
       "email": "alohachildcare.2025@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214340+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -202,7 +202,7 @@
       }
     },
     {
-      "sourceId": "bc:242",
+      "sourceId": "bc:5862",
       "displayName": "Alysh daycare centre",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -218,7 +218,7 @@
       "phone": "6044182454",
       "email": "shamim_v@yahoo.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214345+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -233,7 +233,7 @@
       }
     },
     {
-      "sourceId": "bc:249",
+      "sourceId": "bc:4564",
       "displayName": "Amazing Grace-Sunrise Out of School Care",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -249,7 +249,7 @@
       "phone": "6047166352",
       "email": "juvyebrano@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214347+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -264,7 +264,7 @@
       }
     },
     {
-      "sourceId": "bc:271",
+      "sourceId": "bc:4682",
       "displayName": "Angel Smile Child Care",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -280,7 +280,7 @@
       "phone": "7788856330",
       "email": "angelsmilechildcare@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214356+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -295,7 +295,7 @@
       }
     },
     {
-      "sourceId": "bc:281",
+      "sourceId": "bc:4531",
       "displayName": "Angels Playhouse Daycare Society (Buffalo St)",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -311,7 +311,7 @@
       "phone": "6048093868",
       "email": "Angelsplayhouse@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214401+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -326,7 +326,7 @@
       }
     },
     {
-      "sourceId": "bc:284",
+      "sourceId": "bc:131",
       "displayName": "Angels Playhouse Daycare Society (Grafton St)",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -342,7 +342,7 @@
       "phone": "6048093868",
       "email": "karenwangxb@yahoo.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214402+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -357,14 +357,45 @@
       }
     },
     {
-      "sourceId": "bc:289",
+      "sourceId": "bc:6027",
+      "displayName": "Angels Playhouse Daycare Society (Warren St)",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "3742 Warren St, Burnaby, V5G2G5",
+      "city": "Burnaby",
+      "postalCode": "V5G2G5",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.2419516182452,
+      "longitude": -123.02181742056675,
+      "hideLocation": false,
+      "phone": "6048093868",
+      "email": "KARENWANGXB@YAHOO.CA",
+      "website": null,
+      "sourceLastModified": "20260930181638+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:331",
       "displayName": "Angels Playhouse Daycare Society(Kentwood St)",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
       "fundingType": "CCFRI participating",
-      "address": "7650 Kentwood St, Burnaby, V5A2E7",
+      "address": "7650 Kentwood St, Burnaby, V5Z 2E7",
       "city": "Burnaby",
-      "postalCode": "V5A2E7",
+      "postalCode": "V5Z 2E7",
       "neighbourhood": null,
       "region": "British Columbia",
       "latitude": 49.24930962811632,
@@ -373,7 +404,7 @@
       "phone": "6048093868",
       "email": "karenwangxb@yahoo.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214404+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -388,7 +419,7 @@
       }
     },
     {
-      "sourceId": "bc:309",
+      "sourceId": "bc:140",
       "displayName": "Apple Island Childcare",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -404,7 +435,7 @@
       "phone": "6047217488",
       "email": "Jenny_lin2002@hotmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214410+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -419,7 +450,7 @@
       }
     },
     {
-      "sourceId": "bc:392",
+      "sourceId": "bc:5515",
       "displayName": "Baby Angel Early Learning Inc",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -435,7 +466,7 @@
       "phone": "778-885-6330",
       "email": "babyangelearlylearning@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214439+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -450,7 +481,7 @@
       }
     },
     {
-      "sourceId": "bc:404",
+      "sourceId": "bc:5442",
       "displayName": "Baby Square Daycare",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -466,7 +497,7 @@
       "phone": "7783026919",
       "email": "babysquare.daycare@hotmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214443+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -481,7 +512,7 @@
       }
     },
     {
-      "sourceId": "bc:593",
+      "sourceId": "bc:5128",
       "displayName": "Blessed Generations Academy - Canada Way, Burnaby",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -497,7 +528,7 @@
       "phone": "604 735 2659",
       "email": "helen@blessedgenerationsacademy.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214553+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -512,7 +543,7 @@
       }
     },
     {
-      "sourceId": "bc:844",
+      "sourceId": "bc:64",
       "displayName": "Burnaby-South Childcare Centre",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -528,7 +559,7 @@
       "phone": "6048087623",
       "email": "AEC.DAYCARE@HOTMAIL.COM",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214724+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -543,7 +574,7 @@
       }
     },
     {
-      "sourceId": "bc:927",
+      "sourceId": "bc:5025",
       "displayName": "Cariboo Kids Daycare",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -559,7 +590,7 @@
       "phone": "6045277200",
       "email": "info@caribookidsdaycare.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214755+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -574,7 +605,7 @@
       }
     },
     {
-      "sourceId": "bc:1273",
+      "sourceId": "bc:5559",
       "displayName": "Cozy Corner Tots",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -590,7 +621,7 @@
       "phone": "6046293555",
       "email": "cozycornertots@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215008+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -605,7 +636,7 @@
       }
     },
     {
-      "sourceId": "bc:1892",
+      "sourceId": "bc:6080",
       "displayName": "Georgia's Street Daycare",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -621,7 +652,7 @@
       "phone": "7788662883",
       "email": "georgiasstreetdaycare@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215355+00:00",
       "vacancies": {
         "infant": 1,
         "nursery": 0,
@@ -636,7 +667,7 @@
       }
     },
     {
-      "sourceId": "bc:1918",
+      "sourceId": "bc:5713",
       "displayName": "Giraffe Childcare Center",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -652,7 +683,7 @@
       "phone": "778-512-3678",
       "email": "giraffechildcarecenter@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215407+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -667,11 +698,11 @@
       }
     },
     {
-      "sourceId": "bc:1919",
+      "sourceId": "bc:5222",
       "displayName": "Giraffe Garden Childcare Center",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
-      "fundingType": null,
+      "fundingType": "CCFRI participating",
       "address": "911 Alpha Ave, Burnaby, V5C5K6",
       "city": "Burnaby",
       "postalCode": "V5C5K6",
@@ -683,7 +714,7 @@
       "phone": "778-512-3678",
       "email": "giraffechildcarecenter@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260824211910+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -698,7 +729,7 @@
       }
     },
     {
-      "sourceId": "bc:1953",
+      "sourceId": "bc:5661",
       "displayName": "Gold Key Childcare Center",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -714,7 +745,7 @@
       "phone": "7783886169",
       "email": "gelyvanca@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215421+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -729,7 +760,38 @@
       }
     },
     {
-      "sourceId": "bc:2030",
+      "sourceId": "bc:6025",
+      "displayName": "Golden Oak Learning Center",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "4420 Fitzgerald Ave, Burnaby, V5G3R8",
+      "city": "Burnaby",
+      "postalCode": "V5G3R8",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.24510262341557,
+      "longitude": -122.97856941373767,
+      "hideLocation": false,
+      "phone": "6047814639",
+      "email": "goldenoaklearningcenter@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260928012553+00:00",
+      "vacancies": {
+        "infant": 1,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": true,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5737",
       "displayName": "Grove Nest Childcare",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -745,7 +807,7 @@
       "phone": "6047222211",
       "email": "grovenestchildcare@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215447+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -760,7 +822,38 @@
       }
     },
     {
-      "sourceId": "bc:2094",
+      "sourceId": "bc:5990",
+      "displayName": "Grove Nest Childcare (Sardis C)",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "4707 Sardis St., Burnaby, V5H1L4",
+      "city": "Burnaby",
+      "postalCode": "V5H1L4",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.23406162084895,
+      "longitude": -122.99758641377203,
+      "hideLocation": false,
+      "phone": "6045005559",
+      "email": "grovenestchildcare@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260827232149+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5045",
       "displayName": "Hand In Hand Child Care",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -776,7 +869,7 @@
       "phone": "604-525-7996",
       "email": "bearpawschildcare@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215509+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -791,7 +884,7 @@
       }
     },
     {
-      "sourceId": "bc:2126",
+      "sourceId": "bc:4720",
       "displayName": "Happy Fairies Academy",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -807,7 +900,7 @@
       "phone": "2364855803",
       "email": "happyfairiesacademy@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215521+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -822,7 +915,7 @@
       }
     },
     {
-      "sourceId": "bc:2193",
+      "sourceId": "bc:5014",
       "displayName": "Happyland Infant and Toddler Daycare (Dundas)",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -838,7 +931,7 @@
       "phone": "7788839030",
       "email": "happyland638@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215547+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -853,7 +946,7 @@
       }
     },
     {
-      "sourceId": "bc:2338",
+      "sourceId": "bc:4548",
       "displayName": "Hula Bears Child Care",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -869,7 +962,7 @@
       "phone": "7782398818",
       "email": "hulabearschildcare@hotmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215640+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -884,7 +977,7 @@
       }
     },
     {
-      "sourceId": "bc:2357",
+      "sourceId": "bc:5261",
       "displayName": "IC EARLY LEARNING CENTER (SARDIS B)",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -900,7 +993,7 @@
       "phone": "6045005559",
       "email": "sisistot@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215647+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -915,7 +1008,7 @@
       }
     },
     {
-      "sourceId": "bc:2468",
+      "sourceId": "bc:39",
       "displayName": "jeewoo daycare",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -931,7 +1024,7 @@
       "phone": "7785125585",
       "email": "negi43300@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215722+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -946,7 +1039,7 @@
       }
     },
     {
-      "sourceId": "bc:2512",
+      "sourceId": "bc:165",
       "displayName": "Joyful Adventure Child Care",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -962,7 +1055,7 @@
       "phone": "7786972742",
       "email": "joyfuladventurechildcare@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215735+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -977,11 +1070,11 @@
       }
     },
     {
-      "sourceId": "bc:2551",
+      "sourceId": "bc:5911",
       "displayName": "Just B4 Preschool - Chaffey-Burke",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
-      "fundingType": null,
+      "fundingType": "CCFRI participating",
       "address": "4404 Sardis St, Burnaby, V5H1K7",
       "city": "Burnaby",
       "postalCode": "V5H1K7",
@@ -993,7 +1086,7 @@
       "phone": "604-296-6900",
       "email": "raj.sharma@burnabyschools.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215748+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1008,14 +1101,14 @@
       }
     },
     {
-      "sourceId": "bc:2814",
+      "sourceId": "bc:4563",
       "displayName": "Kidtopia Children's House",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
       "fundingType": "CCFRI participating",
-      "address": "6745 Hastings St., Burnaby, V5E3C6",
+      "address": "6745 Hastings St., Burnaby, V5B 1S6",
       "city": "Burnaby",
-      "postalCode": "V5E3C6",
+      "postalCode": "V5B 1S6",
       "neighbourhood": null,
       "region": "British Columbia",
       "latitude": 49.280430626641625,
@@ -1024,7 +1117,7 @@
       "phone": "6045656555",
       "email": "hastings@kidtopiaedu.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215922+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1039,7 +1132,7 @@
       }
     },
     {
-      "sourceId": "bc:2988",
+      "sourceId": "bc:5769",
       "displayName": "Lakeview Infant Toddler Daycare Center",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1055,7 +1148,7 @@
       "phone": "7788638811",
       "email": "lakeviewinfanttoddler@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220045+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1070,7 +1163,7 @@
       }
     },
     {
-      "sourceId": "bc:3157",
+      "sourceId": "bc:4870",
       "displayName": "Little Angel Child Care",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1086,7 +1179,7 @@
       "phone": "7788856330",
       "email": "littleangelearlylearning@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260731000631+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1101,7 +1194,7 @@
       }
     },
     {
-      "sourceId": "bc:3184",
+      "sourceId": "bc:5732",
       "displayName": "Little Blossom Daycare - I/T Program",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1117,7 +1210,7 @@
       "phone": "604-433-5156",
       "email": "littleblossombby@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220200+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1132,7 +1225,7 @@
       }
     },
     {
-      "sourceId": "bc:3212",
+      "sourceId": "bc:5485",
       "displayName": "Little Charm Daycare",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1148,7 +1241,7 @@
       "phone": "7783026919",
       "email": "littlecharm.daycare@hotmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220210+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1163,7 +1256,7 @@
       }
     },
     {
-      "sourceId": "bc:3285",
+      "sourceId": "bc:5660",
       "displayName": "Little Forest Montessori centre",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1179,7 +1272,7 @@
       "phone": "7787517490",
       "email": "lfmontessori.canada@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220259+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1194,7 +1287,7 @@
       }
     },
     {
-      "sourceId": "bc:3308",
+      "sourceId": "bc:5880",
       "displayName": "Little Harmony Childcare",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -1210,7 +1303,7 @@
       "phone": "6043535618",
       "email": "linahao1120@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220319+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1225,7 +1318,7 @@
       }
     },
     {
-      "sourceId": "bc:3380",
+      "sourceId": "bc:5151",
       "displayName": "Little Masters Childcare Center",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1241,7 +1334,7 @@
       "phone": "7783165010",
       "email": "littlemasterschildcare@hotmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220407+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1256,7 +1349,7 @@
       }
     },
     {
-      "sourceId": "bc:3420",
+      "sourceId": "bc:4745",
       "displayName": "Little Neighbourhood Childcare",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1272,7 +1365,7 @@
       "phone": "7783851025",
       "email": "littleneighbourhoodchildcare@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220443+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1287,7 +1380,7 @@
       }
     },
     {
-      "sourceId": "bc:3529",
+      "sourceId": "bc:6046",
       "displayName": "Little Town Childcare",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1303,7 +1396,7 @@
       "phone": "604-729-6655",
       "email": "littletownchildcare4378@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220557+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1318,7 +1411,7 @@
       }
     },
     {
-      "sourceId": "bc:3530",
+      "sourceId": "bc:5743",
       "displayName": "Little Town Childcare Centre",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -1334,7 +1427,7 @@
       "phone": "6047296655",
       "email": "littletownchildcare8@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220558+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1349,7 +1442,7 @@
       }
     },
     {
-      "sourceId": "bc:3610",
+      "sourceId": "bc:5791",
       "displayName": "Ludus Montessori Children's House",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -1365,26 +1458,26 @@
       "phone": "7789173751",
       "email": "andrewln@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220651+00:00",
       "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
+        "infant": 1,
+        "nursery": 0,
+        "preschool": 0,
         "schoolAge": null
       },
       "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
+        "infant": true,
+        "nursery": true,
+        "preschool": true,
         "schoolAge": false
       }
     },
     {
-      "sourceId": "bc:3636",
+      "sourceId": "bc:4859",
       "displayName": "MacDonald Avenue Children's Centre",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
-      "fundingType": null,
+      "fundingType": "CCFRI participating",
       "address": "1330 MacDonald Ave, Burnaby, V5C4N8",
       "city": "Burnaby",
       "postalCode": "V5C4N8",
@@ -1396,7 +1489,7 @@
       "phone": "6045262522",
       "email": "FELICIA.COSTEA@PURPOSESOCIETY.ORG",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220713+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1411,7 +1504,7 @@
       }
     },
     {
-      "sourceId": "bc:3720",
+      "sourceId": "bc:1548",
       "displayName": "Marin Learning Center",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1427,7 +1520,7 @@
       "phone": "(604) 283-4088",
       "email": "admin@marmlc.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220809+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1442,7 +1535,7 @@
       }
     },
     {
-      "sourceId": "bc:3785",
+      "sourceId": "bc:317",
       "displayName": "Merry Land Child Care",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1458,7 +1551,7 @@
       "phone": "604-998-8687",
       "email": "merrylandlearning@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220838+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1473,7 +1566,7 @@
       }
     },
     {
-      "sourceId": "bc:3874",
+      "sourceId": "bc:4679",
       "displayName": "Momentos de Ninos Childcare - Brentwood",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1489,7 +1582,7 @@
       "phone": "7788659183",
       "email": "MOMENTOSDENINOS@GMAIL.COM",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220921+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1504,14 +1597,45 @@
       }
     },
     {
-      "sourceId": "bc:4238",
+      "sourceId": "bc:4166",
+      "displayName": "Nuvia Childcare Center",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "5175 Kingsway, Burnaby, V5H2E6",
+      "city": "Burnaby",
+      "postalCode": "V5H2E6",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.225454622004996,
+      "longitude": -122.98930241000525,
+      "hideLocation": false,
+      "phone": "6043136446",
+      "email": "nuviachildcare@gmail.com",
+      "website": null,
+      "sourceLastModified": "20261002222226+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:3714",
       "displayName": "ORGANIC EARLY LEARNING",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
       "fundingType": "CCFRI participating",
-      "address": "7535 6th St, Burnaby, V3N 3M2",
+      "address": "7535 6th St, Burnaby, V4N 3M2",
       "city": "Burnaby",
-      "postalCode": "V3N 3M2",
+      "postalCode": "V4N 3M2",
       "neighbourhood": null,
       "region": "British Columbia",
       "latitude": 49.223236628274066,
@@ -1520,7 +1644,7 @@
       "phone": "6047659982",
       "email": "CALVIN@ORGANICLEARNING.CA",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807221241+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1535,7 +1659,7 @@
       }
     },
     {
-      "sourceId": "bc:4239",
+      "sourceId": "bc:526",
       "displayName": "Organic Early Learning (Satellite)",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1551,7 +1675,7 @@
       "phone": "6047659982",
       "email": "hello@organiclearning.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807221242+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1566,7 +1690,7 @@
       }
     },
     {
-      "sourceId": "bc:4506",
+      "sourceId": "bc:5730",
       "displayName": "Premier Montessori Metrotown",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1582,7 +1706,7 @@
       "phone": "7788980713",
       "email": "chenqikey@outlook.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807221443+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1597,7 +1721,7 @@
       }
     },
     {
-      "sourceId": "bc:4517",
+      "sourceId": "bc:5627",
       "displayName": "Pretty Angels Daycare",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1613,7 +1737,7 @@
       "phone": "2368625435",
       "email": "Prettyangels-daycare@hotmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807221446+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1628,14 +1752,14 @@
       }
     },
     {
-      "sourceId": "bc:4540",
+      "sourceId": "bc:966",
       "displayName": "PUDDLE SPLASHERS CHILDCARE SOCIETY",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
       "fundingType": "CCFRI participating",
-      "address": "510 Duncan Ave, Burnaby, V5B 4L9",
+      "address": "510 Duncan Ave, Burnaby, V4B 4L9",
       "city": "Burnaby",
-      "postalCode": "V5B 4L9",
+      "postalCode": "V4B 4L9",
       "neighbourhood": null,
       "region": "British Columbia",
       "latitude": 49.27936662734684,
@@ -1644,7 +1768,7 @@
       "phone": "6048024059",
       "email": "PUDDLESPLASHERSCHILDCARE@HOTMAIL.COM",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807221459+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1659,7 +1783,69 @@
       }
     },
     {
-      "sourceId": "bc:4696",
+      "sourceId": "bc:5535",
+      "displayName": "Puddle Splashers Childcare Society -Stoney Creek",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "2738 Beaverbrook Cres., Burnaby, V3J7K4",
+      "city": "Burnaby",
+      "postalCode": "V3J7K4",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.25915363302472,
+      "longitude": -122.90366640669181,
+      "hideLocation": false,
+      "phone": "6048024059",
+      "email": "SHAWNAHARRISON@HOTMAIL.COM",
+      "website": null,
+      "sourceLastModified": "20261102203940+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5085",
+      "displayName": "Radiance Childcare Centre",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "8260 13Th Ave, Burnaby, V3N2G5",
+      "city": "Burnaby",
+      "postalCode": "V3N2G5",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.226500629315254,
+      "longitude": -122.92071439958292,
+      "hideLocation": false,
+      "phone": "7788950005",
+      "email": "RLIM@RADIANCECHILDCARE.ORG",
+      "website": null,
+      "sourceLastModified": "20260918173211+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5965",
       "displayName": "Rising Gems Early Learning Centre",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1675,7 +1861,7 @@
       "phone": "6045666648",
       "email": "Risinggems.edu@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807221603+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1687,6 +1873,192 @@
         "nursery": false,
         "preschool": false,
         "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5427",
+      "displayName": "Rowan Avenue Child Care Centre",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "4838 Rowan Avenue, Burnaby, V5G3T1",
+      "city": "Burnaby",
+      "postalCode": "V5G3T1",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.24142962454678,
+      "longitude": -122.97250341198875,
+      "hideLocation": false,
+      "phone": "6045262522",
+      "email": "rowan@purposesociety.org",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:4585",
+      "displayName": "ROYAL ACADEMY ON CANADA WAY",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "4692 Canada Way, Burnaby, V5G1K8",
+      "city": "Burnaby",
+      "postalCode": "V5G1K8",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.253814622897764,
+      "longitude": -122.98984041855337,
+      "hideLocation": false,
+      "phone": "7783220288",
+      "email": "ccaachildcare@gmail.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5086",
+      "displayName": "Sealight Early Learning",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "7917 18th Ave, Burnaby, V3N1J7",
+      "city": "Burnaby",
+      "postalCode": "V3N1J7",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.2257856282405,
+      "longitude": -122.93506240184647,
+      "hideLocation": false,
+      "phone": "6047796022",
+      "email": "sealight.earlylearning@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260922223752+00:00",
+      "vacancies": {
+        "infant": 1,
+        "nursery": 1,
+        "preschool": 1,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": true,
+        "nursery": true,
+        "preschool": true,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:60",
+      "displayName": "Smart Start Childcare Center",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "2991 Noel Dr, Burnaby, V3J1J4",
+      "city": "Burnaby",
+      "postalCode": "V3J1J4",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.25725363326983,
+      "longitude": -122.90130040573597,
+      "hideLocation": false,
+      "phone": "7788986338",
+      "email": "littleoakeducation@yahoo.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:4923",
+      "displayName": "Weave Childcare Centre",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "3905 Norland Ave, Burnaby, V5G 4T8",
+      "city": "Burnaby",
+      "postalCode": "V5G 4T8",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.249332624452016,
+      "longitude": -122.97547641484655,
+      "hideLocation": false,
+      "phone": "7783215467",
+      "email": "weavechildcareltd@gmail.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5240",
+      "displayName": "YWCA XWPIPQEYASEM EARLY LEARNING AND CHILDCARE CENTRE",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "4803 Canada Way, Burnaby, V5G 0C6",
+      "city": "Burnaby",
+      "postalCode": "V5G 0C6",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.25038562273558,
+      "longitude": -122.98576441638313,
+      "hideLocation": false,
+      "phone": "604-992-1493",
+      "email": "levans@ywcabc.org",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T12:31:11.691Z",
+  "generatedAt": "2026-11-16T12:30:28.811Z",
   "countryCode": "ca",
   "provinceCode": "bc",
   "cityCode": "surrey",
@@ -7,16 +7,16 @@
   "sourceKey": "bc-child-care-map-data",
   "source": "Government of British Columbia Child Care Map Data",
   "city": "Surrey",
-  "facilityCount": 111,
+  "facilityCount": 141,
   "summary": {
-    "infant": 2,
-    "nursery": 1,
-    "preschool": 1,
+    "infant": 4,
+    "nursery": 4,
+    "preschool": 4,
     "schoolAge": 0
   },
   "facilities": [
     {
-      "sourceId": "bc:76",
+      "sourceId": "bc:6055",
       "displayName": "Aaraavi Childcare Centre",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -32,1526 +32,7 @@
       "phone": "7783880827",
       "email": "AARAAVI2021@GMAIL.COM",
       "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:94",
-      "displayName": "ABC Kids World Learning Centre Surrey",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "13648 Grosvenor Rd,, Surrey, V3R5C9",
-      "city": "Surrey",
-      "postalCode": "V3R5C9",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.19965363718726,
-      "longitude": -122.84400238026561,
-      "hideLocation": false,
-      "phone": "6048976655",
-      "email": "info@abckids.ca",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:98",
-      "displayName": "ABCD Children’s Centre",
-      "facilityType": "Licensed Family",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "6836 183Street, Surrey, V3S9E4",
-      "city": "Surrey",
-      "postalCode": "V3S9E4",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.1266976485405,
-      "longitude": -122.7152093404728,
-      "hideLocation": false,
-      "phone": "6046791215",
-      "email": "ychen1215@gmail.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:178",
-      "displayName": "Alex House Children's Centre at Pacific Heights Modular",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "17150 26th Avenue, Surrey, V3S0A4",
-      "city": "Surrey",
-      "postalCode": "V3S0A4",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.04930564112366,
-      "longitude": -122.74749032531845,
-      "hideLocation": false,
-      "phone": "6045350015",
-      "email": "schandler@alexhouse.net",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:179",
-      "displayName": "Alex House Children's Centre at Semiahmoo Trail",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "3040 145A Street, Surrey, V4P1P8",
-      "city": "Surrey",
-      "postalCode": "V4P1P8",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.057693633910645,
-      "longitude": -122.81941833859157,
-      "hideLocation": false,
-      "phone": "604-535-0015",
-      "email": "schandler@alexhouse.net",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:180",
-      "displayName": "Alex House Children's Centre at South Meridian",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "16244 13th Avenue, Surrey, V4A 8E6",
-      "city": "Surrey",
-      "postalCode": "V4A 8E6",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.02602563762967,
-      "longitude": -122.77265032199257,
-      "hideLocation": false,
-      "phone": "604-535-0015",
-      "email": "schandler@alexhouse.net",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:181",
-      "displayName": "Alex House Children's Centre at Strawberry Hill",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "12152 75 AVE, Surrey, V3W2S5",
-      "city": "Surrey",
-      "postalCode": "V3W2S5",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.139260629687605,
-      "longitude": -122.88612637131119,
-      "hideLocation": false,
-      "phone": "778-239-2514",
-      "email": "childcare@alexhouse.net",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:182",
-      "displayName": "Alex House Children's Centre at Surrey Sports & Leisure",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "16555 Fraser Hwy, Surrey, V4N0E9",
-      "city": "Surrey",
-      "postalCode": "V4N0E9",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.151951644314664,
-      "longitude": -122.7641183553212,
-      "hideLocation": false,
-      "phone": "604-535-0015",
-      "email": "schandler@alexhouse.net",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:183",
-      "displayName": "Alex House Children's Centre at Ta'Talu",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "1970 165A Street, Surrey, V3Z 1K4",
-      "city": "Surrey",
-      "postalCode": "V3Z 1K4",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.037266639198236,
-      "longitude": -122.76403732453818,
-      "hideLocation": false,
-      "phone": "6048759111",
-      "email": "childcare@alexhouse.net",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:191",
-      "displayName": "Alexandra Neighbourhood House Children's Centres at Pacific Heights",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "17148 26 AVE, Surrey, V3Z0A4",
-      "city": "Surrey",
-      "postalCode": "V3Z0A4",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.04917264101086,
-      "longitude": -122.74823432482665,
-      "hideLocation": false,
-      "phone": "604-535-0015 (238)",
-      "email": "rhubbard@alexhouse.net",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:248",
-      "displayName": "Amazing Grace Childcare Center",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": null,
-      "address": "10816 155A St, Surrey, V3R0H7",
-      "city": "Surrey",
-      "postalCode": "V3R0H7",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.199452642982834,
-      "longitude": -122.79092237166725,
-      "hideLocation": false,
-      "phone": "7788859369",
-      "email": "amazinggraceagcc@gmail.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:274",
-      "displayName": "Angel's Angels Child Care",
-      "facilityType": "Licensed Family",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "16251 Southglen Pl, Surrey, V4N1T9",
-      "city": "Surrey",
-      "postalCode": "V4N1T9",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.194387645632816,
-      "longitude": -122.771219367988,
-      "hideLocation": false,
-      "phone": "7788861780",
-      "email": "angelsangelschildcare@gmail.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:385",
-      "displayName": "B Kids Daycare",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "3060 148 Street, Surrey, V4P1B8",
-      "city": "Surrey",
-      "postalCode": "V4P1B8",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.056874634008906,
-      "longitude": -122.81185433702012,
-      "hideLocation": false,
-      "phone": "778-998-5437",
-      "email": "southsurreybc@bkids.ca",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:598",
-      "displayName": "Blessing Childcare",
-      "facilityType": "Licensed Family",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "5907 148 St, Surrey, V3S3B9",
-      "city": "Surrey",
-      "postalCode": "V3S3B9",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.110098636637986,
-      "longitude": -122.81246435107886,
-      "hideLocation": false,
-      "phone": "6044011829",
-      "email": "thind.4suman@gmail.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:612",
-      "displayName": "Blooming Buds Daycare Centre",
-      "facilityType": "Licensed Family",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "7350 147A street, Surrey, V3S9L7",
-      "city": "Surrey",
-      "postalCode": "V3S9L7",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.13667163766704,
-      "longitude": -122.81371735849358,
-      "hideLocation": false,
-      "phone": "6046140450",
-      "email": "Gurjasjotkaurkang@gmail.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:617",
-      "displayName": "Blooming Minds Day Care",
-      "facilityType": "Licensed Family",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "8858 143a St, Surrey, V3V7P8",
-      "city": "Surrey",
-      "postalCode": "V3V7P8",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.16385963780901,
-      "longitude": -122.82449536719449,
-      "hideLocation": false,
-      "phone": "2368583101",
-      "email": "bloomingmind.daycare@gmail.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:631",
-      "displayName": "Blossoms & Roots Childcare - Crescent Park",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "12572 28th Ave, Surrey, V4A 2V5",
-      "city": "Surrey",
-      "postalCode": "V4A 2V5",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.052886628106734,
-      "longitude": -122.8686583457063,
-      "hideLocation": false,
-      "phone": "778-871-3043",
-      "email": "holly@blossomsandroots.ca",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:682",
-      "displayName": "Bounce & Play Childcare Ltd.",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "6862 151A St, Surrey, V3S7Y7",
-      "city": "Surrey",
-      "postalCode": "V3S7Y7",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.127891638355926,
-      "longitude": -122.80281235451324,
-      "hideLocation": false,
-      "phone": "7787237286",
-      "email": "bounce.playchildcare@gmail.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:716",
-      "displayName": "Bridges Childcare and Learning Center - Rosewood",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "5896 189 Street, Surrey, V3S7t2",
-      "city": "Surrey",
-      "postalCode": "V3S7t2",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.10989264993127,
-      "longitude": -122.69922533285961,
-      "hideLocation": false,
-      "phone": "7783849353",
-      "email": "bridgesbc@outlook.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:717",
-      "displayName": "Bridges Childcare and Learning Center-Applewood",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "19109 59 Ave, Surrey, V3S7M9",
-      "city": "Surrey",
-      "postalCode": "V3S7M9",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.10928265044447,
-      "longitude": -122.69358033191338,
-      "hideLocation": false,
-      "phone": "7783849353",
-      "email": "bridgesbc@outlook.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:731",
-      "displayName": "Bright Cross Learning Center",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "13639 108 Ave, Surrey, V3T2K4",
-      "city": "Surrey",
-      "postalCode": "V3T2K4",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.19896963704893,
-      "longitude": -122.84404838071153,
-      "hideLocation": false,
-      "phone": "7787898222",
-      "email": "brightcross.ca@gmail.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:747",
-      "displayName": "Bright Light Learning Centre",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "8383 140 Street, Surrey, V3W5K9",
-      "city": "Surrey",
-      "postalCode": "V3W5K9",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.15520163618128,
-      "longitude": -122.83494236674301,
-      "hideLocation": false,
-      "phone": "7783186486",
-      "email": "kristine@novachurch.co",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:757",
-      "displayName": "BRIGHT RAINBOW CHILD CARE",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "Unit A, C, D - 6235 136th St, Surrey, BC, V3X 1H3,  Unit B, C - 6225 136th St, Surrey, V3X1H3",
-      "city": "Surrey",
-      "postalCode": "V3X1H3",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.1160686331899,
-      "longitude": -122.84564935844784,
-      "hideLocation": false,
-      "phone": "6045906771",
-      "email": "brightrainbowchildcare@gmail.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:889",
-      "displayName": "Cambridge Learning Centre",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "1650 136th Street, Surrey, V4A4E4",
-      "city": "Surrey",
-      "postalCode": "V4A4E4",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.03220662954968,
-      "longitude": -122.84518733612465,
-      "hideLocation": false,
-      "phone": "604-729-0543",
-      "email": "kaila@telus.net",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:895",
-      "displayName": "Cambridge YMCA Kids Club",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "6115 150th St., Surrey, V3S3H7",
-      "city": "Surrey",
-      "postalCode": "V3S3H7",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.113769637502266,
-      "longitude": -122.80686135211646,
-      "hideLocation": false,
-      "phone": "2509609336",
-      "email": "corrine.kinder@bc.ymca.ca",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:989",
-      "displayName": "Cefa Campbell Heights",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "19255 28th Ave, Surrey, V3Z9V2",
-      "city": "Surrey",
-      "postalCode": "V3Z9V2",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.053484648212375,
-      "longitude": -122.69026131663739,
-      "hideLocation": false,
-      "phone": "778-241-7917",
-      "email": "campbellheights@cefa.ca",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:1014",
-      "displayName": "CEFA Morgan Crossing East",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "101-15400 Croydon Drive, Surrey, V3Z1K1",
-      "city": "Surrey",
-      "postalCode": "V3Z1K1",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.059764635944084,
-      "longitude": -122.79690933561002,
-      "hideLocation": false,
-      "phone": "778-241-7917",
-      "email": "blair.kennedy@cefa.ca",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:1015",
-      "displayName": "CEFA Panorama North",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "109-5577 153A Street, Surrey, V3S5K7",
-      "city": "Surrey",
-      "postalCode": "V3S5K7",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.103482637823916,
-      "longitude": -122.79731134686757,
-      "hideLocation": false,
-      "phone": "7782417917",
-      "email": "panoramanorth@cefa.ca",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:1020",
-      "displayName": "CEFA Sullivan Ridge",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "101-5790 King George Blvd, Surrey, V3X1G8",
-      "city": "Surrey",
-      "postalCode": "V3X1G8",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.10785263424434,
-      "longitude": -122.83499835386257,
-      "hideLocation": false,
-      "phone": "1604897214",
-      "email": "carly.kool@cefa.ca",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:1021",
-      "displayName": "CEFA Sunnyside",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "Unit 101 2233 156St, Surrey, V4A4V3",
-      "city": "Surrey",
-      "postalCode": "V4A4V3",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.042531635755026,
-      "longitude": -122.79052632978946,
-      "hideLocation": false,
-      "phone": "778-241-7917",
-      "email": "sunnyside@cefa.ca",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:1028",
-      "displayName": "Central City Garden Daycare",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "9970 SEMIAHMOO RD, Surrey, V3T3M7",
-      "city": "Surrey",
-      "postalCode": "V3T3M7",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.18400363449588,
-      "longitude": -122.86003037911556,
-      "hideLocation": false,
-      "phone": "6048799939",
-      "email": "sungcinpar@gmail.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:1063",
-      "displayName": "Chefs Corner Childcare",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "101-15230 Hwy 10, Surrey, V3S5K7",
-      "city": "Surrey",
-      "postalCode": "V3S5K7",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.10419463762043,
-      "longitude": -122.79972734784903,
-      "hideLocation": false,
-      "phone": "604-786-5990",
-      "email": "melissa@educatorsoncall.ca",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:1102",
-      "displayName": "Child's View Childrens' Centre",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "1577  128th Street, Surrey, V4A3V1",
-      "city": "Surrey",
-      "postalCode": "V4A3V1",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.03078962662004,
-      "longitude": -122.86773633847872,
-      "hideLocation": false,
-      "phone": "778-888-0739",
-      "email": "childsview@shaw.ca",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:1109",
-      "displayName": "Chimney Hill Out of School Care Program",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "14755 74th Avenue, Surrey, V3S8Y8",
-      "city": "Surrey",
-      "postalCode": "V3S8Y8",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.137572637612855,
-      "longitude": -122.81401135959946,
-      "hideLocation": false,
-      "phone": "604-816-2253",
-      "email": "ap@childrens-foundation.org",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:1113",
-      "displayName": "Chipmunks Daycare",
-      "facilityType": "Licensed Family",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "8788 154B ST, Surrey, V3S3P1",
-      "city": "Surrey",
-      "postalCode": "V3S3P1",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.16254564127955,
-      "longitude": -122.79354436207517,
-      "hideLocation": false,
-      "phone": "7782375503",
-      "email": "simrat.pandey@hotmail.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:1165",
-      "displayName": "Cloverdale Village Early Learning Centre",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "5855 176a St, Surrey, V3S4H6",
-      "city": "Surrey",
-      "postalCode": "V3S4H6",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.108858645485604,
-      "longitude": -122.73395733885029,
-      "hideLocation": false,
-      "phone": "672-999-0380",
-      "email": "cloverdale.village.elc@gmail.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:1295",
-      "displayName": "Creating Smiles - Brookside",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "8555 142A Street, Surrey, V3W0S6",
-      "city": "Surrey",
-      "postalCode": "V3W0S6",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.15818363733344,
-      "longitude": -122.82756936697474,
-      "hideLocation": false,
-      "phone": "778-239-2075",
-      "email": "creatingsmilessociety@hotmail.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:1297",
-      "displayName": "Creating Smiles - Cindrich",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "13455 90 Avenue, Surrey, V3V8A2",
-      "city": "Surrey",
-      "postalCode": "V3V8A2",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.16652763497192,
-      "longitude": -122.84996737219569,
-      "hideLocation": false,
-      "phone": "778-239-2075",
-      "email": "creatingsmilessociety@hotmail.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:1299",
-      "displayName": "Creating Smiles - Forsyth Road",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "10730 139 Street, Surrey, V3T4L9",
-      "city": "Surrey",
-      "postalCode": "V3T4L9",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.19763763802785,
-      "longitude": -122.8367163782606,
-      "hideLocation": false,
-      "phone": "778-239-2075",
-      "email": "creatingsmilessociety@hotmail.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:1301",
-      "displayName": "Creating Smiles - Kennedy Trail",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "8305 - 122A Street, Surrey, V3W9P8",
-      "city": "Surrey",
-      "postalCode": "V3W9P8",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.15397163039814,
-      "longitude": -122.88294837475745,
-      "hideLocation": false,
-      "phone": "778-239-2075",
-      "email": "creatingsmilessociety@hotmail.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:1314",
-      "displayName": "Creative Care Montessori",
-      "facilityType": "Licensed Family",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "12897 67A Ave, Surrey, V3W8Y3",
-      "city": "Surrey",
-      "postalCode": "V3W8Y3",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.12496063135066,
-      "longitude": -122.86532936372387,
-      "hideLocation": false,
-      "phone": "6048185453",
-      "email": "ayesha@creativecaremontessori.ca",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:1315",
-      "displayName": "Creative Caterpillars Childcare",
-      "facilityType": "Licensed Family",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "10629-144 street, Surrey, V3T4V8",
-      "city": "Surrey",
-      "postalCode": "V3T4V8",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.19544863977024,
-      "longitude": -122.82385937605297,
-      "hideLocation": false,
-      "phone": "7788474540",
-      "email": "creativecaterpillar144@gmail.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:1350",
-      "displayName": "Creative Path Daycare 02",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "8681 150 ST, Surrey, V3S5G1",
-      "city": "Surrey",
-      "postalCode": "V3S5G1",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.16072664005025,
-      "longitude": -122.8072153644431,
-      "hideLocation": false,
-      "phone": "7787076579",
-      "email": "parmsohi82@gmail.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:1371",
-      "displayName": "Crescent Heights Academy Child Care-Diamond",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "18620-56th ave, Surrey, V3S1G1",
-      "city": "Surrey",
-      "postalCode": "V3S1G1",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.10397564835615,
-      "longitude": -122.70655533326777,
-      "hideLocation": false,
-      "phone": "6044272282",
-      "email": "osc.senior@chacademy.ca",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:1375",
-      "displayName": "Cribs to Crayons Daycare Ltd - Surrey",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "12469 104 Ave, Surrey, V3V6A2",
-      "city": "Surrey",
-      "postalCode": "V3V6A2",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.19201663286732,
-      "longitude": -122.8771993834116,
-      "hideLocation": false,
-      "phone": "604-537-3444",
-      "email": "info@cribstocrayons.ca",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:1420",
-      "displayName": "Dasmesh Childcare Centre LTD",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "13802 Franklin Rd, Surrey, V3R5K9",
-      "city": "Surrey",
-      "postalCode": "V3R5K9",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.19998363734294,
-      "longitude": -122.83990437982519,
-      "hideLocation": false,
-      "phone": "6047006137",
-      "email": "dasmeshchildcarecentre@gmail.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:1614",
-      "displayName": "Edgewood Park Child Care Centre",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "16736 22A Ave, Surrey, V3Z0M7",
-      "city": "Surrey",
-      "postalCode": "V3Z0M7",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.042746640092375,
-      "longitude": -122.75926732452527,
-      "hideLocation": false,
-      "phone": "7783196866",
-      "email": "edgewoodparkchildcare@gmail.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:1620",
-      "displayName": "ELAD Academy Corp.",
-      "facilityType": "Licensed Family",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "1845 King George Blvd, Surrey, V4A4Z9",
-      "city": "Surrey",
-      "postalCode": "V4A4Z9",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.035222636747946,
-      "longitude": -122.78118932614576,
-      "hideLocation": false,
-      "phone": "7788813214",
-      "email": "karanvirkaur11@outlook.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:1657",
-      "displayName": "Everbloom Childcare Centre",
-      "facilityType": "Licensed Family",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "9742 149 St, Surrey, V3R8C6",
-      "city": "Surrey",
-      "postalCode": "V3R8C6",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.178689639844386,
-      "longitude": -122.80944036902675,
-      "hideLocation": false,
-      "phone": "604-779-2095",
-      "email": "everbloomchildcarecentre@gmail.com",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": 1,
-        "nursery": 0,
-        "preschool": 0,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": true,
-        "nursery": true,
-        "preschool": true,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:1706",
-      "displayName": "FD Sinclair YMCA child Care and Kids Club",
-      "facilityType": "Licensed Group",
-      "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
-      "address": "7480 128th St., Surrey, V3W4E5",
-      "city": "Surrey",
-      "postalCode": "V3W4E5",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.138786631850664,
-      "longitude": -122.86763136737365,
-      "hideLocation": false,
-      "phone": "250-960-9336",
-      "email": "corrine.kinder@bc.ymca.ca",
-      "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807214242+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1567,10 +48,1653 @@
     },
     {
       "sourceId": "bc:1",
+      "displayName": "ABC Kids World Learning Centre Surrey",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "13648 Grosvenor Rd,, Surrey, V3R5C9",
+      "city": "Surrey",
+      "postalCode": "V3R5C9",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.19965363718726,
+      "longitude": -122.84400238026561,
+      "hideLocation": false,
+      "phone": "6048976655",
+      "email": "info@abckids.ca",
+      "website": null,
+      "sourceLastModified": "20260807214248+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:112",
+      "displayName": "ABCD Children’s Centre",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "6836 183Street, Surrey, V3S9E4",
+      "city": "Surrey",
+      "postalCode": "V3S9E4",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.1266976485405,
+      "longitude": -122.7152093404728,
+      "hideLocation": false,
+      "phone": "6046791215",
+      "email": "ychen1215@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260807214250+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:4866",
+      "displayName": "Alex House Children's Centre at Ocean Cliff",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "12550 20th Avenue, Surrey, V4A1Y6",
+      "city": "Surrey",
+      "postalCode": "V4A1Y6",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": null,
+      "longitude": null,
+      "hideLocation": false,
+      "phone": "604-535-0015",
+      "email": "schandler@alexhouse.net",
+      "website": null,
+      "sourceLastModified": "20260807214319+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:4158",
+      "displayName": "Alex House Children's Centre at Pacific Heights Modular",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "17150 26th Avenue, Surrey, V3S0A4",
+      "city": "Surrey",
+      "postalCode": "V3S0A4",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.04930564112366,
+      "longitude": -122.74749032531845,
+      "hideLocation": false,
+      "phone": "6045350015",
+      "email": "schandler@alexhouse.net",
+      "website": null,
+      "sourceLastModified": "20260807214320+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:4616",
+      "displayName": "Alex House Children's Centre at Semiahmoo Trail",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "3040 145A Street, Surrey, V4P1P8",
+      "city": "Surrey",
+      "postalCode": "V4P1P8",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.057693633910645,
+      "longitude": -122.81941833859157,
+      "hideLocation": false,
+      "phone": "604-535-0015",
+      "email": "schandler@alexhouse.net",
+      "website": null,
+      "sourceLastModified": "20260807214320+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:4912",
+      "displayName": "Alex House Children's Centre at South Meridian",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "16244 13th Avenue, Surrey, V4A 8E6",
+      "city": "Surrey",
+      "postalCode": "V4A 8E6",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.02602563762967,
+      "longitude": -122.77265032199257,
+      "hideLocation": false,
+      "phone": "604-535-0015",
+      "email": "schandler@alexhouse.net",
+      "website": null,
+      "sourceLastModified": "20260807214320+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:4691",
+      "displayName": "Alex House Children's Centre at Strawberry Hill",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "12152 75 AVE, Surrey, V3W2S5",
+      "city": "Surrey",
+      "postalCode": "V3W2S5",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.139260629687605,
+      "longitude": -122.88612637131119,
+      "hideLocation": false,
+      "phone": "778-239-2514",
+      "email": "childcare@alexhouse.net",
+      "website": null,
+      "sourceLastModified": "20260807214320+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5000",
+      "displayName": "Alex House Children's Centre at Surrey Sports & Leisure",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "16555 Fraser Hwy, Surrey, V4N0E9",
+      "city": "Surrey",
+      "postalCode": "V4N0E9",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.151951644314664,
+      "longitude": -122.7641183553212,
+      "hideLocation": false,
+      "phone": "604-535-0015",
+      "email": "schandler@alexhouse.net",
+      "website": null,
+      "sourceLastModified": "20260807214321+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5527",
+      "displayName": "Alex House Children's Centre at Ta'Talu",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "1970 165A Street, Surrey, V3Z 1K4",
+      "city": "Surrey",
+      "postalCode": "V3Z 1K4",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.037266639198236,
+      "longitude": -122.76403732453818,
+      "hideLocation": false,
+      "phone": "6048759111",
+      "email": "childcare@alexhouse.net",
+      "website": null,
+      "sourceLastModified": "20260807214321+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:4753",
+      "displayName": "Alexandra Neighbourhood House Children's Centres at Pacific Heights",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "17148 26 AVE, Surrey, V3Z0A4",
+      "city": "Surrey",
+      "postalCode": "V3Z0A4",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.04917264101086,
+      "longitude": -122.74823432482665,
+      "hideLocation": false,
+      "phone": "604-535-0015 (238)",
+      "email": "rhubbard@alexhouse.net",
+      "website": null,
+      "sourceLastModified": "20260807214325+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5164",
+      "displayName": "Amazing Grace Childcare Center",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "10816 155A St, Surrey, V3R0H7",
+      "city": "Surrey",
+      "postalCode": "V3R0H7",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.199452642982834,
+      "longitude": -122.79092237166725,
+      "hideLocation": false,
+      "phone": "7788859369",
+      "email": "amazinggraceagcc@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260916195805+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5981",
+      "displayName": "Angel's Angels Child Care",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "16251 Southglen Pl, Surrey, V4N1T9",
+      "city": "Surrey",
+      "postalCode": "V4N1T9",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.194387645632816,
+      "longitude": -122.771219367988,
+      "hideLocation": false,
+      "phone": "7788861780",
+      "email": "angelsangelschildcare@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260807214357+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5029",
+      "displayName": "B Kids Daycare",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "3060 148 Street, Surrey, V4P 0G8",
+      "city": "Surrey",
+      "postalCode": "V4P 0G8",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.056874634008906,
+      "longitude": -122.81185433702012,
+      "hideLocation": false,
+      "phone": "778-998-5437",
+      "email": "southsurreybc@bkids.ca",
+      "website": null,
+      "sourceLastModified": "20260807214437+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:6095",
+      "displayName": "Blessing Childcare",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "5907 148 St, Surrey, V3S3B9",
+      "city": "Surrey",
+      "postalCode": "V3S3B9",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.110098636637986,
+      "longitude": -122.81246435107886,
+      "hideLocation": false,
+      "phone": "6044011829",
+      "email": "thind.4suman@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260808195748+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5920",
+      "displayName": "Blooming Buds Daycare Centre",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "7350 147A street, Surrey, V3S9L7",
+      "city": "Surrey",
+      "postalCode": "V3S9L7",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.13667163766704,
+      "longitude": -122.81371735849358,
+      "hideLocation": false,
+      "phone": "6046140450",
+      "email": "Gurjasjotkaurkang@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260807214559+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:493",
+      "displayName": "Blooming Minds Day Care",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "8858 143a St, Surrey, V3V7P8",
+      "city": "Surrey",
+      "postalCode": "V3V7P8",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.16385963780901,
+      "longitude": -122.82449536719449,
+      "hideLocation": false,
+      "phone": "2368583101",
+      "email": "bloomingmind.daycare@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260807214601+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:4823",
+      "displayName": "Bounce & Play Childcare Ltd.",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "6862 151A St, Surrey, V3S7Y7",
+      "city": "Surrey",
+      "postalCode": "V3S7Y7",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.127891638355926,
+      "longitude": -122.80281235451324,
+      "hideLocation": false,
+      "phone": "7787237286",
+      "email": "bounce.playchildcare@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260916165525+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:4544",
+      "displayName": "Bridges Childcare and Learning Center - Rosewood",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "5896 189 Street, Surrey, V3S7t2",
+      "city": "Surrey",
+      "postalCode": "V3S7t2",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.10989264993127,
+      "longitude": -122.69922533285961,
+      "hideLocation": false,
+      "phone": "7783849353",
+      "email": "bridgesbc@outlook.com",
+      "website": null,
+      "sourceLastModified": "20260807214634+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:146",
+      "displayName": "Bridges Childcare and Learning Center-Applewood",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "19109 59 Ave, Surrey, V3S7M9",
+      "city": "Surrey",
+      "postalCode": "V3S7M9",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.10928265044447,
+      "longitude": -122.69358033191338,
+      "hideLocation": false,
+      "phone": "7783849353",
+      "email": "bridgesbc@outlook.com",
+      "website": null,
+      "sourceLastModified": "20260807214635+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5134",
+      "displayName": "Bright Cross Learning Center",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "13639 108 Ave, Surrey, V3T2K4",
+      "city": "Surrey",
+      "postalCode": "V3T2K4",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.19896963704893,
+      "longitude": -122.84404838071153,
+      "hideLocation": false,
+      "phone": "7787898222",
+      "email": "brightcross.ca@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260807214641+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:4984",
+      "displayName": "Bright Light Learning Centre",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "8383 140 Street, Surrey, V3W5K9",
+      "city": "Surrey",
+      "postalCode": "V3W5K9",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.15520163618128,
+      "longitude": -122.83494236674301,
+      "hideLocation": false,
+      "phone": "7783186486",
+      "email": "kristine@novachurch.co",
+      "website": null,
+      "sourceLastModified": "20260807214647+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:925",
+      "displayName": "BRIGHT RAINBOW CHILD CARE",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "Unit A, C, D - 6235 136th St, Surrey, BC, V3X 1H3,  Unit B, C - 6225 136th St, Surrey, V3X1H3",
+      "city": "Surrey",
+      "postalCode": "V3X1H3",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.1160686331899,
+      "longitude": -122.84564935844784,
+      "hideLocation": false,
+      "phone": "6045906771",
+      "email": "brightrainbowchildcare@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260807214651+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5896",
+      "displayName": "Cambridge Learning Centre",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "1650 136th Street, Surrey, V4A4E4",
+      "city": "Surrey",
+      "postalCode": "V4A4E4",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.03220662954968,
+      "longitude": -122.84518733612465,
+      "hideLocation": false,
+      "phone": "604-729-0543",
+      "email": "kaila@telus.net",
+      "website": null,
+      "sourceLastModified": "20260807214743+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:133",
+      "displayName": "Cambridge YMCA Kids Club",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "6115 150th St., Surrey, V3S3H7",
+      "city": "Surrey",
+      "postalCode": "V3S3H7",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.113769637502266,
+      "longitude": -122.80686135211646,
+      "hideLocation": false,
+      "phone": "2509609336",
+      "email": "corrine.kinder@bc.ymca.ca",
+      "website": null,
+      "sourceLastModified": "20260807214745+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:4554",
+      "displayName": "Cefa Campbell Heights",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "19255 28th Ave, Surrey, V3Z9V2",
+      "city": "Surrey",
+      "postalCode": "V3Z9V2",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.053484648212375,
+      "longitude": -122.69026131663739,
+      "hideLocation": false,
+      "phone": "778-241-7917",
+      "email": "campbellheights@cefa.ca",
+      "website": null,
+      "sourceLastModified": "20260807214823+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5635",
+      "displayName": "CEFA Morgan Crossing East",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "101-15400 Croydon Drive, Surrey, V3Z1K1",
+      "city": "Surrey",
+      "postalCode": "V3Z1K1",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.059764635944084,
+      "longitude": -122.79690933561002,
+      "hideLocation": false,
+      "phone": "778-241-7917",
+      "email": "blair.kennedy@cefa.ca",
+      "website": null,
+      "sourceLastModified": "20260807214832+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:154",
+      "displayName": "CEFA Panorama North",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "109-5577 153A Street, Surrey, V3S5K7",
+      "city": "Surrey",
+      "postalCode": "V3S5K7",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.103482637823916,
+      "longitude": -122.79731134686757,
+      "hideLocation": false,
+      "phone": "7782417917",
+      "email": "panoramanorth@cefa.ca",
+      "website": null,
+      "sourceLastModified": "20260807214832+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5980",
+      "displayName": "CEFA Sullivan Ridge",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "101-5790 King George Blvd, Surrey, V3X1G8",
+      "city": "Surrey",
+      "postalCode": "V3X1G8",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.10785263424434,
+      "longitude": -122.83499835386257,
+      "hideLocation": false,
+      "phone": "1604897214",
+      "email": "carly.kool@cefa.ca",
+      "website": null,
+      "sourceLastModified": "20260807214834+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5993",
+      "displayName": "CEFA Sunnyside",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "Unit 101 2233 156St, Surrey, V4A4V3",
+      "city": "Surrey",
+      "postalCode": "V4A4V3",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.042531635755026,
+      "longitude": -122.79052632978946,
+      "hideLocation": false,
+      "phone": "778-241-7917",
+      "email": "sunnyside@cefa.ca",
+      "website": null,
+      "sourceLastModified": "20260829152219+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:4931",
+      "displayName": "Central City Garden Daycare",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "9970 SEMIAHMOO RD, Surrey, V3T3M7",
+      "city": "Surrey",
+      "postalCode": "V3T3M7",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.18400363449588,
+      "longitude": -122.86003037911556,
+      "hideLocation": false,
+      "phone": "6048799939",
+      "email": "sungcinpar@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260807214836+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5919",
+      "displayName": "Chefs Corner Childcare",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "101-15230 Hwy 10, Surrey, V3S5K7",
+      "city": "Surrey",
+      "postalCode": "V3S5K7",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.10419463762043,
+      "longitude": -122.79972734784903,
+      "hideLocation": false,
+      "phone": "604-786-5990",
+      "email": "melissa@educatorsoncall.ca",
+      "website": null,
+      "sourceLastModified": "20260807214849+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:521",
+      "displayName": "Child's View Childrens' Centre",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "1577  128th Street, Surrey, V4A3V1",
+      "city": "Surrey",
+      "postalCode": "V4A3V1",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.03078962662004,
+      "longitude": -122.86773633847872,
+      "hideLocation": false,
+      "phone": "778-888-0739",
+      "email": "childsview@shaw.ca",
+      "website": null,
+      "sourceLastModified": "20260807214902+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5284",
+      "displayName": "Chimney Hill Out of School Care Program",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "14755 74th Avenue, Surrey, V3S8Y8",
+      "city": "Surrey",
+      "postalCode": "V3S8Y8",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.137572637612855,
+      "longitude": -122.81401135959946,
+      "hideLocation": false,
+      "phone": "604-816-2253",
+      "email": "ap@childrens-foundation.org",
+      "website": null,
+      "sourceLastModified": "20260807214904+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5947",
+      "displayName": "Chipmunks Daycare",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "8788 154B ST, Surrey, V3S3P1",
+      "city": "Surrey",
+      "postalCode": "V3S3P1",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.16254564127955,
+      "longitude": -122.79354436207517,
+      "hideLocation": false,
+      "phone": "7782375503",
+      "email": "simrat.pandey@hotmail.com",
+      "website": null,
+      "sourceLastModified": "20260807214906+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:516",
+      "displayName": "Cloverdale Village Early Learning Centre",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "5855 176a St, Surrey, V3S4H6",
+      "city": "Surrey",
+      "postalCode": "V3S4H6",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.108858645485604,
+      "longitude": -122.73395733885029,
+      "hideLocation": false,
+      "phone": "672-999-0380",
+      "email": "cloverdale.village.elc@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260807214926+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5538",
+      "displayName": "Colebrook Childcare",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "5404 125A St, Surrey, V3X1W6",
+      "city": "Surrey",
+      "postalCode": "V3X1W6",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.101557629422935,
+      "longitude": -122.8738253592483,
+      "hideLocation": false,
+      "phone": "6042091878",
+      "email": "outofschoolcare@childrens-foundation.org",
+      "website": null,
+      "sourceLastModified": "20260925210338+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:4719",
+      "displayName": "Creating Smiles - Brookside",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "8555 142A Street, Surrey, V3W0S6",
+      "city": "Surrey",
+      "postalCode": "V3W0S6",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.15818363733344,
+      "longitude": -122.82756936697474,
+      "hideLocation": false,
+      "phone": "778-239-2075",
+      "email": "creatingsmilessociety@hotmail.com",
+      "website": null,
+      "sourceLastModified": "20260807215016+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5816",
+      "displayName": "Creating Smiles - Cindrich",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "13455 90 Avenue, Surrey, V3V8A2",
+      "city": "Surrey",
+      "postalCode": "V3V8A2",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.16652763497192,
+      "longitude": -122.84996737219569,
+      "hideLocation": false,
+      "phone": "778-239-2075",
+      "email": "creatingsmilessociety@hotmail.com",
+      "website": null,
+      "sourceLastModified": "20260807215017+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:4861",
+      "displayName": "Creating Smiles - Erma Stephenson",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "15935 109 Avenue, Surrey, V4N4W4",
+      "city": "Surrey",
+      "postalCode": "V4N4W4",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.20111564483893,
+      "longitude": -122.78052337092075,
+      "hideLocation": false,
+      "phone": "7782392075",
+      "email": "CREATINGSMILESSOCIETY@HOTMAIL.COM",
+      "website": null,
+      "sourceLastModified": "20260811153349+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:4684",
+      "displayName": "Creating Smiles - Forsyth Road",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "10730 139 Street, Surrey, V3T4L9",
+      "city": "Surrey",
+      "postalCode": "V3T4L9",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.19763763802785,
+      "longitude": -122.8367163782606,
+      "hideLocation": false,
+      "phone": "778-239-2075",
+      "email": "creatingsmilessociety@hotmail.com",
+      "website": null,
+      "sourceLastModified": "20260807215018+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:6059",
+      "displayName": "Creating Smiles - Kennedy Trail",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "8305 - 122A Street, Surrey, V3W9P8",
+      "city": "Surrey",
+      "postalCode": "V3W9P8",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.15397163039814,
+      "longitude": -122.88294837475745,
+      "hideLocation": false,
+      "phone": "778-239-2075",
+      "email": "creatingsmilessociety@hotmail.com",
+      "website": null,
+      "sourceLastModified": "20260807215018+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5998",
+      "displayName": "Creating Smiles - Royal Heights",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "11665 97 Ave, Surrey, V3V2B9",
+      "city": "Surrey",
+      "postalCode": "V3V2B9",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.179776629987266,
+      "longitude": -122.89941638360435,
+      "hideLocation": false,
+      "phone": "7782392075",
+      "email": "CREATINGSMILESSOCIETY@HOTMAIL.COM",
+      "website": null,
+      "sourceLastModified": "20260813220927+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5869",
+      "displayName": "Creative Care Montessori",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "12897 67A Ave, Surrey, V3W8Y3",
+      "city": "Surrey",
+      "postalCode": "V3W8Y3",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.12496063135066,
+      "longitude": -122.86532936372387,
+      "hideLocation": false,
+      "phone": "6048185453",
+      "email": "ayesha@creativecaremontessori.ca",
+      "website": null,
+      "sourceLastModified": "20260807215024+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5719",
+      "displayName": "Creative Caterpillars Childcare",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "10629-144 street, Surrey, V3T4V8",
+      "city": "Surrey",
+      "postalCode": "V3T4V8",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.19544863977024,
+      "longitude": -122.82385937605297,
+      "hideLocation": false,
+      "phone": "7788474540",
+      "email": "creativecaterpillar144@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260807215024+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:4509",
+      "displayName": "Creative Path Daycare 02",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "8681 150 ST, Surrey, V3S5G1",
+      "city": "Surrey",
+      "postalCode": "V3S5G1",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.16072664005025,
+      "longitude": -122.8072153644431,
+      "hideLocation": false,
+      "phone": "7787076579",
+      "email": "parmsohi82@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260807215037+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5286",
+      "displayName": "Crescent Heights Academy Child Care-Senior",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "18620-56th ave, Surrey, V3S1G1",
+      "city": "Surrey",
+      "postalCode": "V3S1G1",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.10397564835615,
+      "longitude": -122.70655533326777,
+      "hideLocation": false,
+      "phone": "6044272282",
+      "email": "osc.senior@chacademy.ca",
+      "website": null,
+      "sourceLastModified": "20260807215044+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:59",
+      "displayName": "Cribs to Crayons Daycare Ltd - Surrey",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "12469 104 Ave, Surrey, V3V6A2",
+      "city": "Surrey",
+      "postalCode": "V3V6A2",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.19201663286732,
+      "longitude": -122.8771993834116,
+      "hideLocation": false,
+      "phone": "604-537-3444",
+      "email": "info@cribstocrayons.ca",
+      "website": null,
+      "sourceLastModified": "20260807215046+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:4588",
+      "displayName": "Dasmesh Childcare Centre LTD",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "13802 Franklin Rd, Surrey, V3R5K9",
+      "city": "Surrey",
+      "postalCode": "V3R5K9",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.19998363734294,
+      "longitude": -122.83990437982519,
+      "hideLocation": false,
+      "phone": "6047006137",
+      "email": "dasmeshchildcarecentre@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260807215104+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:21",
+      "displayName": "Edgewood Park Child Care Centre",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "16736 22A Ave, Surrey, V3Z0M7",
+      "city": "Surrey",
+      "postalCode": "V3Z0M7",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.042746640092375,
+      "longitude": -122.75926732452527,
+      "hideLocation": false,
+      "phone": "7783196866",
+      "email": "edgewoodparkchildcare@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260807215213+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5272",
+      "displayName": "ELAD Academy Corp.",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "1845 King George Blvd, Surrey, V4A4Z9",
+      "city": "Surrey",
+      "postalCode": "V4A4Z9",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.035222636747946,
+      "longitude": -122.78118932614576,
+      "hideLocation": false,
+      "phone": "7788813214",
+      "email": "karanvirkaur11@outlook.com",
+      "website": null,
+      "sourceLastModified": "20260807215216+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:188",
+      "displayName": "Everbloom Childcare Centre",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "9742 149 St, Surrey, V3R8C6",
+      "city": "Surrey",
+      "postalCode": "V3R8C6",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.178689639844386,
+      "longitude": -122.80944036902675,
+      "hideLocation": false,
+      "phone": "604-779-2095",
+      "email": "everbloomchildcarecentre@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260731052801+00:00",
+      "vacancies": {
+        "infant": 1,
+        "nursery": 0,
+        "preschool": 0,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": true,
+        "nursery": true,
+        "preschool": true,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5767",
+      "displayName": "FD Sinclair YMCA child Care and Kids Club",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "7480 128th St., Surrey, V3W4E5",
+      "city": "Surrey",
+      "postalCode": "V3W4E5",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.138786631850664,
+      "longitude": -122.86763136737365,
+      "hideLocation": false,
+      "phone": "250-960-9336",
+      "email": "corrine.kinder@bc.ymca.ca",
+      "website": null,
+      "sourceLastModified": "20260807215245+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:6029",
+      "displayName": "FIRST CHOICE MONTESSORI ACADEMY",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "1&2-15215 Sitka Dr, Surrey, V3S0C1",
+      "city": "Surrey",
+      "postalCode": "V3S0C1",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.14565763979277,
+      "longitude": -122.80000035914938,
+      "hideLocation": false,
+      "phone": "6048284451",
+      "email": "mvkacademyltd@gmail.com",
+      "website": null,
+      "sourceLastModified": "20261007185156+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:152",
       "displayName": "Fleetwood Children's Centre",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
-      "fundingType": null,
+      "fundingType": "CCFRI participating",
       "address": "16011 83rd Ave, Surrey, V4N0N2",
       "city": "Surrey",
       "postalCode": "V4N0N2",
@@ -1582,7 +1706,7 @@
       "phone": "6045030149",
       "email": "info@fleetwoodchildrenscentre.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260814221052+00:00",
       "vacancies": {
         "infant": 1,
         "nursery": 1,
@@ -1597,7 +1721,7 @@
       }
     },
     {
-      "sourceId": "bc:1821",
+      "sourceId": "bc:4878",
       "displayName": "Fun Corner",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -1613,7 +1737,7 @@
       "phone": "7782376617",
       "email": "zeb_hyder@hotmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260809193401+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1628,7 +1752,7 @@
       }
     },
     {
-      "sourceId": "bc:1844",
+      "sourceId": "bc:4555",
       "displayName": "GA Preschool Childcare",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1644,7 +1768,7 @@
       "phone": "7788729988",
       "email": "info@gaschool.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215340+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1659,7 +1783,7 @@
       }
     },
     {
-      "sourceId": "bc:1900",
+      "sourceId": "bc:489",
       "displayName": "Giggles & Dimples Daycare Cloverdale",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1675,7 +1799,7 @@
       "phone": "6045610409",
       "email": "gigglesdimplesdaycare@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215400+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1690,7 +1814,7 @@
       }
     },
     {
-      "sourceId": "bc:1974",
+      "sourceId": "bc:5159",
       "displayName": "Goldstone Childcare Centres Inc. - Newton",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1706,7 +1830,7 @@
       "phone": "604-729-0543",
       "email": "kaila@telus.net",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215428+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1721,14 +1845,14 @@
       }
     },
     {
-      "sourceId": "bc:1976",
+      "sourceId": "bc:348",
       "displayName": "Goldstone Childcare Society - McLeod Road",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
       "fundingType": "CCFRI participating",
-      "address": "6325 142nd Street, Surrey, V3X1B4",
+      "address": "6325 142nd Street, Surrey, V3X 1B9",
       "city": "Surrey",
-      "postalCode": "V3X1B4",
+      "postalCode": "V3X 1B9",
       "neighbourhood": null,
       "region": "British Columbia",
       "latitude": 49.11800563555863,
@@ -1737,7 +1861,7 @@
       "phone": "6047290543",
       "email": "kaila@telus.net",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215428+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1752,7 +1876,7 @@
       }
     },
     {
-      "sourceId": "bc:1977",
+      "sourceId": "bc:4760",
       "displayName": "Goldstone Childcare Society - TE Scott",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1768,7 +1892,7 @@
       "phone": "6047290543",
       "email": "kaila@telus.net",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215429+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1783,7 +1907,7 @@
       }
     },
     {
-      "sourceId": "bc:1978",
+      "sourceId": "bc:3292",
       "displayName": "Goldstone Childcare Society @ Bear Creek Elementary",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1799,7 +1923,7 @@
       "phone": "6047290543",
       "email": "kaila@telus.net",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215429+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1814,11 +1938,11 @@
       }
     },
     {
-      "sourceId": "bc:1979",
+      "sourceId": "bc:5377",
       "displayName": "Goldstone Childcare Society @ Bridgeview Elementary",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
-      "fundingType": null,
+      "fundingType": "CCFRI participating",
       "address": "12834 115A Ave, Surrey, V3R 2X4",
       "city": "Surrey",
       "postalCode": "V3R 2X4",
@@ -1830,7 +1954,7 @@
       "phone": "6047290543",
       "email": "kaila@telus.net",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260806220103+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1845,7 +1969,7 @@
       }
     },
     {
-      "sourceId": "bc:1980",
+      "sourceId": "bc:466",
       "displayName": "Goldstone Park - BASC",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1861,7 +1985,7 @@
       "phone": "6045015530",
       "email": "michelle.anderson@surrey.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215430+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1876,11 +2000,11 @@
       }
     },
     {
-      "sourceId": "bc:1989",
+      "sourceId": "bc:5921",
       "displayName": "Goodwin Academy Triumph Daycare Centre Inc.",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
-      "fundingType": "CCFRI participating",
+      "fundingType": null,
       "address": "unit 4 10468 Whalley Blvd, Surrey, V3T4H5",
       "city": "Surrey",
       "postalCode": "V3T4H5",
@@ -1892,7 +2016,7 @@
       "phone": "6047240691",
       "email": "GoodwinacademyDIR@outlook.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215433+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1907,38 +2031,7 @@
       }
     },
     {
-      "sourceId": "bc:2009",
-      "displayName": "Great Minds Achievers",
-      "facilityType": "Licensed Family",
-      "businessType": "Licensed child care",
-      "fundingType": null,
-      "address": "15770 82 Ave, Surrey, V4N0R7",
-      "city": "Surrey",
-      "postalCode": "V4N0R7",
-      "neighbourhood": null,
-      "region": "British Columbia",
-      "latitude": 49.151672641982636,
-      "longitude": -122.78523635763975,
-      "hideLocation": false,
-      "phone": "604-725-5143",
-      "email": "leysonluzviminda@yahoo.ca",
-      "website": null,
-      "sourceLastModified": null,
-      "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
-        "schoolAge": null
-      },
-      "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
-        "schoolAge": false
-      }
-    },
-    {
-      "sourceId": "bc:2017",
+      "sourceId": "bc:5806",
       "displayName": "Green Trails Montessori Daycare - Surrey",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1954,7 +2047,7 @@
       "phone": "250-616-4780",
       "email": "greentrailsmontessori@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215442+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -1969,7 +2062,7 @@
       }
     },
     {
-      "sourceId": "bc:2104",
+      "sourceId": "bc:4814",
       "displayName": "Happy Bears Early Learning Center",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -1985,7 +2078,7 @@
       "phone": "7788770869",
       "email": "happybears108a@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215513+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2000,7 +2093,7 @@
       }
     },
     {
-      "sourceId": "bc:2168",
+      "sourceId": "bc:5763",
       "displayName": "Happy Nest Early Learning Centre Inc.",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -2016,7 +2109,7 @@
       "phone": "6043769952",
       "email": "HAPPYNESTELC@GMAIL.COM",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215539+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2031,7 +2124,7 @@
       }
     },
     {
-      "sourceId": "bc:2233",
+      "sourceId": "bc:5371",
       "displayName": "Heartland Kids Childcare",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -2047,7 +2140,7 @@
       "phone": "6047150050",
       "email": "laddisat@hotmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215601+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2062,7 +2155,7 @@
       }
     },
     {
-      "sourceId": "bc:2273",
+      "sourceId": "bc:5950",
       "displayName": "HiKids Learning Center",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2078,7 +2171,7 @@
       "phone": "778-552-8284",
       "email": "coniahgec@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215617+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2093,7 +2186,7 @@
       }
     },
     {
-      "sourceId": "bc:2318",
+      "sourceId": "bc:4566",
       "displayName": "Honeybee Childcare Centre",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -2109,7 +2202,7 @@
       "phone": "778-956-6424",
       "email": "sandipbamrah75@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215633+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2124,11 +2217,11 @@
       }
     },
     {
-      "sourceId": "bc:2323",
+      "sourceId": "bc:6114",
       "displayName": "Hope kids corner",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
-      "fundingType": null,
+      "fundingType": "CCFRI participating",
       "address": "6247 129 St, Surrey, V3X1S7",
       "city": "Surrey",
       "postalCode": "V3X1S7",
@@ -2140,7 +2233,7 @@
       "phone": "6047153009",
       "email": "hopekidscorner26@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260915020123+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2155,7 +2248,7 @@
       }
     },
     {
-      "sourceId": "bc:2352",
+      "sourceId": "bc:4669",
       "displayName": "I LOVE CHILDCARE",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2171,7 +2264,7 @@
       "phone": "7786810525",
       "email": "i.love.earlylearningchildcare@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215645+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2186,7 +2279,38 @@
       }
     },
     {
-      "sourceId": "bc:2422",
+      "sourceId": "bc:5082",
+      "displayName": "INSPIRING MINDS (K.B WOODWARD)",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "13130 106 Ave, Surrey, V3T2C3",
+      "city": "Surrey",
+      "postalCode": "V3T2C3",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.19479463561831,
+      "longitude": -122.85894638092275,
+      "hideLocation": false,
+      "phone": "6049683888",
+      "email": "inspiringminds.ecc@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260915171336+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5997",
       "displayName": "Inspiring Minds (Panorama Park)",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2202,7 +2326,7 @@
       "phone": "6049683888",
       "email": "inspiringminds.ecc@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260812222250+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2217,7 +2341,7 @@
       }
     },
     {
-      "sourceId": "bc:2523",
+      "sourceId": "bc:5114",
       "displayName": "JPR CHILD CARE",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -2233,7 +2357,7 @@
       "phone": "6043469976",
       "email": "jprchildcare@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215739+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2248,7 +2372,7 @@
       }
     },
     {
-      "sourceId": "bc:2542",
+      "sourceId": "bc:42",
       "displayName": "Junior Scholars - Sullivan",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2264,7 +2388,7 @@
       "phone": "6043720213",
       "email": "sullivan@junior-scholars.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215745+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2279,7 +2403,38 @@
       }
     },
     {
-      "sourceId": "bc:2627",
+      "sourceId": "bc:4163",
+      "displayName": "Juno Childcare Academy",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "200 14310 64 Ave, Surrey, V3W1Z1",
+      "city": "Surrey",
+      "postalCode": "V3W1Z1",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.11907663558338,
+      "longitude": -122.82585135602254,
+      "hideLocation": false,
+      "phone": "(778) 288-9058",
+      "email": "inquire@junochildcare.com",
+      "website": null,
+      "sourceLastModified": "20260919004503+00:00",
+      "vacancies": {
+        "infant": 1,
+        "nursery": 1,
+        "preschool": 1,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": true,
+        "nursery": true,
+        "preschool": true,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5267",
       "displayName": "Khalsa Childcare Centre - CH",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2295,7 +2450,7 @@
       "phone": "604-897-0954",
       "email": "satwantkaur@khalsaschool.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215811+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2310,7 +2465,7 @@
       }
     },
     {
-      "sourceId": "bc:2629",
+      "sourceId": "bc:338",
       "displayName": "Khalsa Childcare Centre 1",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2326,7 +2481,7 @@
       "phone": "604-594-0553",
       "email": "kccinfo@khalsaschool.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215812+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2341,7 +2496,7 @@
       }
     },
     {
-      "sourceId": "bc:2711",
+      "sourceId": "bc:4146",
       "displayName": "Kids Canvas Childcare (Surrey)",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2357,7 +2512,7 @@
       "phone": "778-926-5707",
       "email": "kidscanvaschildcare2@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215843+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2372,7 +2527,7 @@
       }
     },
     {
-      "sourceId": "bc:2736",
+      "sourceId": "bc:474",
       "displayName": "Kids In Nature Society",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2388,7 +2543,7 @@
       "phone": "7789548205",
       "email": "kidsinnaturesociety@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215851+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2403,7 +2558,7 @@
       }
     },
     {
-      "sourceId": "bc:2844",
+      "sourceId": "bc:5879",
       "displayName": "Kidzville Learning Centre - King George",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2419,7 +2574,7 @@
       "phone": "604 861 7861",
       "email": "info@kidzvillelearningcenters.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215933+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2434,7 +2589,7 @@
       }
     },
     {
-      "sourceId": "bc:2875",
+      "sourceId": "bc:488",
       "displayName": "KindeRbees Early Learning Center (Surrey)",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2450,7 +2605,7 @@
       "phone": "672-3393318",
       "email": "kinderbees.surrey@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807215948+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2465,11 +2620,11 @@
       }
     },
     {
-      "sourceId": "bc:2907",
+      "sourceId": "bc:6108",
       "displayName": "Kirpa Grow & Shine Childcare",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
-      "fundingType": null,
+      "fundingType": "CCFRI participating",
       "address": "14450 90 Ave, Surrey, V3R7J2",
       "city": "Surrey",
       "postalCode": "V3R7J2",
@@ -2481,7 +2636,7 @@
       "phone": "5878962701",
       "email": "kaurpardeep78@yahoo.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260918021511+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2496,7 +2651,7 @@
       }
     },
     {
-      "sourceId": "bc:2977",
+      "sourceId": "bc:6119",
       "displayName": "Lahso Child Care Infant & Toddler",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2512,7 +2667,7 @@
       "phone": "7789221881",
       "email": "lahsochildcare@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220040+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2527,11 +2682,11 @@
       }
     },
     {
-      "sourceId": "bc:3051",
+      "sourceId": "bc:5545",
       "displayName": "Learning Links Childcare",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
-      "fundingType": null,
+      "fundingType": "CCFRI participating",
       "address": "18485 56 Ave, Surrey, V3S8J3",
       "city": "Surrey",
       "postalCode": "V3S8J3",
@@ -2543,7 +2698,7 @@
       "phone": "7788985441",
       "email": "childcarelearninglinks@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260921201719+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2558,7 +2713,7 @@
       }
     },
     {
-      "sourceId": "bc:3195",
+      "sourceId": "bc:193",
       "displayName": "Little Bubz Explorers Inc.",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2574,7 +2729,7 @@
       "phone": "7788880585",
       "email": "Littlebubzexplorers@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220205+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2589,11 +2744,11 @@
       }
     },
     {
-      "sourceId": "bc:3261",
+      "sourceId": "bc:4872",
       "displayName": "Little Elite Academy",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
-      "fundingType": null,
+      "fundingType": "CCFRI participating",
       "address": "601-9686 137 Street, Surrey, V3T 0X6",
       "city": "Surrey",
       "postalCode": "V3T 0X6",
@@ -2605,7 +2760,7 @@
       "phone": "7789399686",
       "email": "admin@littleelite.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260902205458+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2620,7 +2775,7 @@
       }
     },
     {
-      "sourceId": "bc:3322",
+      "sourceId": "bc:4797",
       "displayName": "LITTLE HUBS ACADEMY",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -2636,7 +2791,7 @@
       "phone": "6047201587",
       "email": "littlechampsacademy01@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220330+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2651,7 +2806,7 @@
       }
     },
     {
-      "sourceId": "bc:3324",
+      "sourceId": "bc:5426",
       "displayName": "Little Impressionists Early Learning Center",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -2667,7 +2822,7 @@
       "phone": "604-363-6663",
       "email": "Littleimpressionists@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220331+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2682,7 +2837,7 @@
       }
     },
     {
-      "sourceId": "bc:3327",
+      "sourceId": "bc:15",
       "displayName": "Little Jewels Childcare Corp.",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -2698,7 +2853,7 @@
       "phone": "7782233151",
       "email": "littlejewels7371@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220333+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2713,7 +2868,7 @@
       }
     },
     {
-      "sourceId": "bc:3334",
+      "sourceId": "bc:5523",
       "displayName": "LITTLE KINGDOM CHILDCARE (SURREY)",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2729,7 +2884,7 @@
       "phone": "6048617861",
       "email": "wasfimatar@yahoo.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220338+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2744,7 +2899,7 @@
       }
     },
     {
-      "sourceId": "bc:3374",
+      "sourceId": "bc:5974",
       "displayName": "Little Magicians Childcare centre",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -2760,7 +2915,7 @@
       "phone": "7788839412",
       "email": "littlemagicians09@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220404+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2775,7 +2930,7 @@
       }
     },
     {
-      "sourceId": "bc:3463",
+      "sourceId": "bc:6030",
       "displayName": "Little Roots Daycare",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -2791,7 +2946,7 @@
       "phone": "2368691144",
       "email": "physioshivani18@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220516+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2806,7 +2961,7 @@
       }
     },
     {
-      "sourceId": "bc:3492",
+      "sourceId": "bc:4934",
       "displayName": "Little Sprouts Childcare Centre #2",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2822,7 +2977,7 @@
       "phone": "6042186040",
       "email": "alks@myyahoo.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220533+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2837,7 +2992,7 @@
       }
     },
     {
-      "sourceId": "bc:3534",
+      "sourceId": "bc:5886",
       "displayName": "Little Twinkles Childcare Center",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -2853,7 +3008,7 @@
       "phone": "7783194354",
       "email": "littletwinkleschildcarecenter@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220600+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2868,7 +3023,7 @@
       }
     },
     {
-      "sourceId": "bc:3557",
+      "sourceId": "bc:5009",
       "displayName": "Little Wish Childcare Centre",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2884,7 +3039,7 @@
       "phone": "7789887627",
       "email": "info@littlewishchildcare.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220614+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2899,7 +3054,7 @@
       }
     },
     {
-      "sourceId": "bc:3587",
+      "sourceId": "bc:5758",
       "displayName": "Los Helechos",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -2915,22 +3070,22 @@
       "phone": "604 449 2024",
       "email": "los.helechos.hdz@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220634+00:00",
       "vacancies": {
-        "infant": null,
-        "nursery": null,
-        "preschool": null,
+        "infant": 1,
+        "nursery": 1,
+        "preschool": 1,
         "schoolAge": null
       },
       "servesAgeGroups": {
-        "infant": false,
-        "nursery": false,
-        "preschool": false,
+        "infant": true,
+        "nursery": true,
+        "preschool": true,
         "schoolAge": false
       }
     },
     {
-      "sourceId": "bc:3624",
+      "sourceId": "bc:5740",
       "displayName": "Luv Dale Childcare Centre",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -2946,7 +3101,7 @@
       "phone": "2507929655",
       "email": "LUVDALECHILDCARE01@GMAIL.COM",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220702+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2961,7 +3116,7 @@
       }
     },
     {
-      "sourceId": "bc:3673",
+      "sourceId": "bc:5930",
       "displayName": "Mammas Pride Early Learning Center",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -2977,7 +3132,7 @@
       "phone": "6047505511",
       "email": "mammasprideelc@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220741+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -2992,7 +3147,7 @@
       }
     },
     {
-      "sourceId": "bc:3741",
+      "sourceId": "bc:4898",
       "displayName": "Maven House Childcare Center",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -3008,7 +3163,7 @@
       "phone": "6045120406",
       "email": "mavenhousepayment@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220818+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -3023,7 +3178,7 @@
       }
     },
     {
-      "sourceId": "bc:3751",
+      "sourceId": "bc:4710",
       "displayName": "May's Garden Childcare",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -3039,7 +3194,7 @@
       "phone": "7788396826",
       "email": "longmeizhu123@hotmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220823+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -3054,7 +3209,7 @@
       }
     },
     {
-      "sourceId": "bc:3806",
+      "sourceId": "bc:336",
       "displayName": "Mighty Cubs Childcare",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -3070,7 +3225,7 @@
       "phone": "6725156702",
       "email": "info@mightycubs.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220849+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -3085,7 +3240,7 @@
       }
     },
     {
-      "sourceId": "bc:3807",
+      "sourceId": "bc:4857",
       "displayName": "Mighty Cubs Childcare Newton",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -3101,7 +3256,7 @@
       "phone": "6725156702",
       "email": "info@mightycubs.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807220850+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -3116,7 +3271,7 @@
       }
     },
     {
-      "sourceId": "bc:3809",
+      "sourceId": "bc:6002",
       "displayName": "Mighty Kids Childcare",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -3132,7 +3287,7 @@
       "phone": "672-515-6702",
       "email": "info@mightykidsfoundation.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260825184055+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -3147,7 +3302,7 @@
       }
     },
     {
-      "sourceId": "bc:4030",
+      "sourceId": "bc:6056",
       "displayName": "Natural Path Academy (NPA) Crescent Park",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -3163,7 +3318,7 @@
       "phone": "2368666685",
       "email": "admin@naturalpathacademy.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807221042+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -3178,7 +3333,7 @@
       }
     },
     {
-      "sourceId": "bc:4178",
+      "sourceId": "bc:4873",
       "displayName": "Ocean Park Childcare and early learning centre ltd.",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -3194,7 +3349,7 @@
       "phone": "6047505000",
       "email": "info@oceanparkchildcare.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260903210853+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -3209,7 +3364,7 @@
       }
     },
     {
-      "sourceId": "bc:4337",
+      "sourceId": "bc:12",
       "displayName": "Peachy Keen Early Learning Ltd",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -3225,7 +3380,7 @@
       "phone": "778 954 9993",
       "email": "info@pkearlylearning.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807221338+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -3240,7 +3395,7 @@
       }
     },
     {
-      "sourceId": "bc:4401",
+      "sourceId": "bc:506",
       "displayName": "Pixel Wonderland Academy - Tynehead",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -3256,22 +3411,22 @@
       "phone": "7788146864",
       "email": "HAL.YAN@PWACADEMY.CA",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807221402+00:00",
       "vacancies": {
-        "infant": null,
+        "infant": 0,
         "nursery": null,
         "preschool": null,
         "schoolAge": null
       },
       "servesAgeGroups": {
-        "infant": false,
+        "infant": true,
         "nursery": false,
         "preschool": false,
         "schoolAge": false
       }
     },
     {
-      "sourceId": "bc:4453",
+      "sourceId": "bc:161",
       "displayName": "Polar Bear Childcare Centre",
       "facilityType": "Licensed Family",
       "businessType": "Licensed child care",
@@ -3287,7 +3442,7 @@
       "phone": "778-829-1079",
       "email": "polarbearchildcarecentre@gmail.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260827233632+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -3302,7 +3457,7 @@
       }
     },
     {
-      "sourceId": "bc:4475",
+      "sourceId": "bc:5645",
       "displayName": "Power Play Early Learning",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -3318,7 +3473,7 @@
       "phone": "6043723725",
       "email": "Vhunt@powerplayearlylearning.com",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807221431+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -3333,7 +3488,38 @@
       }
     },
     {
-      "sourceId": "bc:4658",
+      "sourceId": "bc:6035",
+      "displayName": "Progressive Alliance for Welfare Society",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "RM-A161 -6505 123A Street, Surrey, V3W5Y5",
+      "city": "Surrey",
+      "postalCode": "V3W5Y5",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.12141262902298,
+      "longitude": -122.88050336552429,
+      "hideLocation": false,
+      "phone": "7782012110",
+      "email": "progressivealliancesociety@gmail.com",
+      "website": null,
+      "sourceLastModified": "20261006210318+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5231",
       "displayName": "REGENT EARLY LEARNING CENTRE",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -3349,7 +3535,7 @@
       "phone": "6045766313",
       "email": "gbuchanan@regent.bc.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807221550+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -3364,7 +3550,7 @@
       }
     },
     {
-      "sourceId": "bc:4659",
+      "sourceId": "bc:5958",
       "displayName": "Regent Early Learning Centre-Sullivan",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -3380,7 +3566,7 @@
       "phone": "604 599 8171",
       "email": "aplaza@regent.bc.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807221550+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -3395,7 +3581,38 @@
       }
     },
     {
-      "sourceId": "bc:4700",
+      "sourceId": "bc:5547",
+      "displayName": "Rise & Grow Corp.",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "19149 68B Ave, Surrey, V4N5P5",
+      "city": "Surrey",
+      "postalCode": "V4N5P5",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.12816065143555,
+      "longitude": -122.69248333633968,
+      "hideLocation": false,
+      "phone": "7789917977",
+      "email": "risengrowchild@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260928173826+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5864",
       "displayName": "River & Willows Early Learning and Childcare",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -3411,7 +3628,7 @@
       "phone": "236-858-5484",
       "email": "riverandwillows@metisfamilyservices.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807221605+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
@@ -3426,7 +3643,7 @@
       }
     },
     {
-      "sourceId": "bc:4708",
+      "sourceId": "bc:5841",
       "displayName": "Riverdale Elementary School BASC",
       "facilityType": "Licensed Group",
       "businessType": "Licensed child care",
@@ -3442,7 +3659,720 @@
       "phone": "604-502-6243",
       "email": "lisa.lovell@surrey.ca",
       "website": null,
-      "sourceLastModified": null,
+      "sourceLastModified": "20260807221607+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:4977",
+      "displayName": "SJLC",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "7460 Wiltshire Dr, Surrey, V3S2Y7",
+      "city": "Surrey",
+      "postalCode": "V3S2Y7",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.1385626370016,
+      "longitude": -122.82038435979766,
+      "hideLocation": false,
+      "phone": "2042507753",
+      "email": "daniquelhos@hotmail.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:4902",
+      "displayName": "Smart Starters Child Care Centre 2",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "18990 62 Ave, Surrey, V3S8S4",
+      "city": "Surrey",
+      "postalCode": "V3S8S4",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.114747650636716,
+      "longitude": -122.6969583341873,
+      "hideLocation": false,
+      "phone": "7789903993",
+      "email": "gothahr@yahoo.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5757",
+      "displayName": "Smilestones Early Learning",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "2507 128th Street, Surrey, V4A3W4",
+      "city": "Surrey",
+      "postalCode": "V4A3W4",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.04823362763415,
+      "longitude": -122.86763034405257,
+      "hideLocation": false,
+      "phone": "6045593668",
+      "email": "info.burnaby@smilestones.ca",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:6121",
+      "displayName": "Snokomish YMCA Kids Club and Preschool",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "14778 58B Ave, Surrey, V3S8H2",
+      "city": "Surrey",
+      "postalCode": "V3S8H2",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.10944563625705,
+      "longitude": -122.81389635204721,
+      "hideLocation": false,
+      "phone": "2509609336",
+      "email": "corrine.kinder@bc.ymca.ca",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:4992",
+      "displayName": "Somewhere to Grow Montessori Childcare Centre 2",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "6195 136 Street, Surrey, V3X1H4",
+      "city": "Surrey",
+      "postalCode": "V3X1H4",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.11503963341225,
+      "longitude": -122.84561735842277,
+      "hideLocation": false,
+      "phone": "7785780329",
+      "email": "lcduffy3@gmail.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:6004",
+      "displayName": "Somewhere to Grow Montessori Childcare Centre 3",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "13580 62 Ave, Surrey, V3X2J4",
+      "city": "Surrey",
+      "postalCode": "V3X2J4",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.11526163285579,
+      "longitude": -122.84612335823748,
+      "hideLocation": false,
+      "phone": "7785780329",
+      "email": "lcduffy3@gmail.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5103",
+      "displayName": "Sprouting Minds Childcare",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "6488 144 ST, Surrey, V3W5R4",
+      "city": "Surrey",
+      "postalCode": "V3W5R4",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.12084563641609,
+      "longitude": -122.82306035576927,
+      "hideLocation": false,
+      "phone": "778-558-1176",
+      "email": "sproutingmindschildcaresurrey@gmail.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5083",
+      "displayName": "Symbiosis KIDS Center Inc.",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "#101 15358 67 Ave, Surrey, V3S7C6",
+      "city": "Surrey",
+      "postalCode": "V3S7C6",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.12433863946597,
+      "longitude": -122.79723635211163,
+      "hideLocation": false,
+      "phone": "7789914348",
+      "email": "shalini@symbiosispediatrictherapy.com",
+      "website": null,
+      "sourceLastModified": "20260917164324+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:6064",
+      "displayName": "Tanvi Child Care Centre",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "14189 64A Ave, Surrey, V3W1R5",
+      "city": "Surrey",
+      "postalCode": "V3W1R5",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.12068263539681,
+      "longitude": -122.82945535655753,
+      "hideLocation": false,
+      "phone": "7788918251",
+      "email": "mandipkaur@hotmail.ca",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5146",
+      "displayName": "Taylin Child Care Summerfield",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "17371 1st ave, Surrey, V3Z8L2",
+      "city": "Surrey",
+      "postalCode": "V3Z8L2",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.00428563985397,
+      "longitude": -122.7415783118959,
+      "hideLocation": false,
+      "phone": "604-349-4066",
+      "email": "cwilliams@taylinchildcare.com",
+      "website": null,
+      "sourceLastModified": "20261104182609+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5874",
+      "displayName": "TenderNest Child Care",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "11351 154A, Surrey, V3R2V7",
+      "city": "Surrey",
+      "postalCode": "V3R2V7",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.20882864411186,
+      "longitude": -122.79165237418484,
+      "hideLocation": false,
+      "phone": "7788669972",
+      "email": "tendernestchildcare99@gmail.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5379",
+      "displayName": "The Little Bridge Early Years Centre",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "5912 146 st, Surrey, V3S2Z7",
+      "city": "Surrey",
+      "postalCode": "V3S2Z7",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.11077163626299,
+      "longitude": -122.8174843530567,
+      "hideLocation": false,
+      "phone": "778 870 4849",
+      "email": "thelittlebridgechildcare@gmail.com",
+      "website": null,
+      "sourceLastModified": "20260902003444+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:205",
+      "displayName": "Tiny Learners Daycare",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "7832 120 St, Surrey, V3W3N2",
+      "city": "Surrey",
+      "postalCode": "V3W3N2",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.146005629231894,
+      "longitude": -122.89026337411502,
+      "hideLocation": false,
+      "phone": "604-765-2075",
+      "email": "tinylearners@hotmail.com",
+      "website": null,
+      "sourceLastModified": "20260813215603+00:00",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": false,
+        "nursery": false,
+        "preschool": false,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:5787",
+      "displayName": "Tiny Trails Childcare Inc.",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "7117 151A ST, Surrey, V3S8A5",
+      "city": "Surrey",
+      "postalCode": "V3S8A5",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.13221863901985,
+      "longitude": -122.80271835590061,
+      "hideLocation": false,
+      "phone": "604-802-4356",
+      "email": "tinytrailssurrey@gmail.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:4579",
+      "displayName": "Toma’s Montessori Childcare - Surrey",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "13526 king George blvd, Surrey, V3T2T7",
+      "city": "Surrey",
+      "postalCode": "V3T2T7",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.20009963668969,
+      "longitude": -122.84755338059615,
+      "hideLocation": false,
+      "phone": "7787738507",
+      "email": "Tomasmontessori@gmail.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5038",
+      "displayName": "Victory Learning Centre",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "14058 88A Avenue, Surrey, V3V7T4",
+      "city": "Surrey",
+      "postalCode": "V3V7T4",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.16361863683563,
+      "longitude": -122.83283436912727,
+      "hideLocation": false,
+      "phone": "7788817306",
+      "email": "victorychildrencentre@yahoo.ca",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:468",
+      "displayName": "Watch Me Grow Early learning Centre",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "9635 137 St, Surrey, V3T4G8",
+      "city": "Surrey",
+      "postalCode": "V3T4G8",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.177775636178545,
+      "longitude": -122.84362337408409,
+      "hideLocation": false,
+      "phone": "7782390449",
+      "email": "info@watchmegrowlearningcentre.ca",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5963",
+      "displayName": "Watch Me Grow Morgan Crossing Childcare",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "3447 156A st, Surrey, V3Z 0K4",
+      "city": "Surrey",
+      "postalCode": "V3Z 0K4",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.064572637152324,
+      "longitude": -122.78893033527277,
+      "hideLocation": false,
+      "phone": "7785130888",
+      "email": "selina852617@outlook.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5949",
+      "displayName": "Welcome Little Stars Daycare Ltd.",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "12677 96 Avenue, Surrey, V3V1X5",
+      "city": "Surrey",
+      "postalCode": "V3V1X5",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.177323633506276,
+      "longitude": -122.87135637833521,
+      "hideLocation": false,
+      "phone": "7782427035",
+      "email": "welcomelittlestarsdc@hotmail.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5924",
+      "displayName": "Whalley Day Care Ltd. #4",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "10591 133rd Street, Surrey, V3T3Z2",
+      "city": "Surrey",
+      "postalCode": "V3T3Z2",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.19533463574134,
+      "longitude": -122.85407838038293,
+      "hideLocation": false,
+      "phone": "604-581-0237",
+      "email": "hummingbird64@telus.net",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5893",
+      "displayName": "Whimsical Forest Childcare",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "15682 81A Ave, Surrey, V4N0X7",
+      "city": "Surrey",
+      "postalCode": "V4N0X7",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.15075364111179,
+      "longitude": -122.78758635797364,
+      "hideLocation": false,
+      "phone": "7783197263",
+      "email": "whimsicalforestchildcare@gmail.com",
+      "website": null,
+      "sourceLastModified": "Unknown",
+      "vacancies": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": null,
+        "nursery": null,
+        "preschool": null,
+        "schoolAge": null
+      }
+    },
+    {
+      "sourceId": "bc:5227",
+      "displayName": "Wind and Tide Child Development Centre-Clayton",
+      "facilityType": "Licensed Group",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "18625 Fraser Highway, Surrey, V3S8E7",
+      "city": "Surrey",
+      "postalCode": "V3S8E7",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.126393649956306,
+      "longitude": -122.70675033872767,
+      "hideLocation": false,
+      "phone": "604-617-3246",
+      "email": "admin@windandtide.com",
+      "website": null,
+      "sourceLastModified": "20261008213720+00:00",
+      "vacancies": {
+        "infant": 0,
+        "nursery": 1,
+        "preschool": 1,
+        "schoolAge": null
+      },
+      "servesAgeGroups": {
+        "infant": true,
+        "nursery": true,
+        "preschool": true,
+        "schoolAge": false
+      }
+    },
+    {
+      "sourceId": "bc:6033",
+      "displayName": "WonderHive Kids Childcare",
+      "facilityType": "Licensed Family",
+      "businessType": "Licensed child care",
+      "fundingType": "CCFRI participating",
+      "address": "19188 60B Ave, Surrey, V3S7T8",
+      "city": "Surrey",
+      "postalCode": "V3S7T8",
+      "neighbourhood": null,
+      "region": "British Columbia",
+      "latitude": 49.11293965099152,
+      "longitude": -122.69154933300261,
+      "hideLocation": false,
+      "phone": "6725000153",
+      "email": "samanthi66@gmail.com",
+      "website": null,
+      "sourceLastModified": "20261018195508+00:00",
       "vacancies": {
         "infant": null,
         "nursery": null,
