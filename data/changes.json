@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-11-14T02:30:38.426Z",
+  "generatedAt": "2026-11-16T12:30:37.899Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-16T12:30:37.899Z",
+      "facilityId": "103226",
+      "facilityName": "Bright Origins Daycare",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-16T12:30:37.899Z",
+      "facilityId": "101931",
+      "facilityName": "Garderie Les Petits Genies Corporation",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 6,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-16T12:30:37.899Z",
+      "facilityId": "102198",
+      "facilityName": "Hapi Haus Family Child Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 2,
+      "newValue": 1,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-11-16T12:30:37.899Z",
+      "facilityId": "100547",
+      "facilityName": "Machray Day Nursery Inc, School Age",
+      "ageGroup": "schoolAge",
+      "oldValue": 18,
+      "newValue": 15,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-11-16T12:30:37.899Z",
+      "facilityId": "103101",
+      "facilityName": "Precious Hand Family Home Childcare",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-16T12:30:37.899Z",
+      "facilityId": "103101",
+      "facilityName": "Precious Hand Family Home Childcare",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-11-13T14:31:10.196Z",
       "facilityId": "103065",
