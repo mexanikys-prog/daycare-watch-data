@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-11-16T14:30:30.076Z",
+  "generatedAt": "2026-11-16T16:30:34.142Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-16T16:30:34.142Z",
+      "facilityId": "102775",
+      "facilityName": "Les Bourgeons",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-16T16:30:34.142Z",
+      "facilityId": "102775",
+      "facilityName": "Les Bourgeons",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-16T16:30:34.142Z",
+      "facilityId": "3022",
+      "facilityName": "Riverview-Ashland Child Care Centre Inc.",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 2,
+      "changeType": "VACANCY_INCREASED"
+    },
     {
       "detectedAt": "2026-11-16T14:30:30.076Z",
       "facilityId": "102040",
