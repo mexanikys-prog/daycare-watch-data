@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T22:30:35.772Z",
+  "generatedAt": "2026-11-17T00:30:28.876Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,7 +9,7 @@
   "city": "Winnipeg",
   "facilityCount": 663,
   "summary": {
-    "infant": 28,
+    "infant": 27,
     "nursery": 33,
     "preschool": 86,
     "schoolAge": 119
@@ -1607,9 +1607,9 @@
       "phone": "(204) 914-3499",
       "email": "brightoriginshomedaycare@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-11-14T03:29:23.6399022",
+      "sourceLastModified": "2026-11-16T22:54:43.6152629",
       "vacancies": {
-        "infant": 1,
+        "infant": 0,
         "nursery": 0,
         "preschool": 1,
         "schoolAge": 3
@@ -6507,7 +6507,7 @@
       "phone": "(431) 777-4716",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-11-09T13:31:51.1765121",
+      "sourceLastModified": "2026-11-16T23:01:43.0912601",
       "vacancies": {
         "infant": 1,
         "nursery": 0,
@@ -6707,7 +6707,7 @@
       "phone": "(204) 661-1325",
       "email": "kidsplaceboard@hotmail.com",
       "website": "https://www.kidsplacenursery.com",
-      "sourceLastModified": "2026-11-10T16:14:28.7192498",
+      "sourceLastModified": "2026-11-17T00:08:32.5417924",
       "vacancies": {
         "infant": 0,
         "nursery": 5,
@@ -12807,7 +12807,7 @@
       "phone": null,
       "email": "rowenamemita02@gmail.com",
       "website": "http://www.childcareonlinemb.ca",
-      "sourceLastModified": "2026-11-09T12:37:31.0349688",
+      "sourceLastModified": "2026-11-16T22:53:13.8784211",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -14757,7 +14757,7 @@
       "phone": "(204) 296-2110",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-11-10T07:48:10.8405608",
+      "sourceLastModified": "2026-11-16T23:33:18.848563",
       "vacancies": {
         "infant": 0,
         "nursery": 0,

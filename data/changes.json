@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-16T22:30:35.772Z",
+  "generatedAt": "2026-11-17T00:30:28.876Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-17T00:30:28.876Z",
+      "facilityId": "103226",
+      "facilityName": "Bright Origins Daycare",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-11-16T16:30:34.142Z",
       "facilityId": "102775",
