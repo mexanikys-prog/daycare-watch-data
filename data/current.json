@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T16:30:34.252Z",
+  "generatedAt": "2026-11-17T18:30:33.891Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -7,7 +7,7 @@
   "sourceKey": "manitoba-child-care-search",
   "source": "Manitoba Child Care Search",
   "city": "Winnipeg",
-  "facilityCount": 663,
+  "facilityCount": 664,
   "summary": {
     "infant": 28,
     "nursery": 33,
@@ -13333,6 +13333,31 @@
       "email": "saraswatsmi@gmail.com",
       "website": null,
       "sourceLastModified": "2026-11-16T12:02:14.9621766",
+      "vacancies": {
+        "infant": 0,
+        "nursery": 0,
+        "preschool": 0,
+        "schoolAge": 0
+      }
+    },
+    {
+      "sourceId": "103083",
+      "displayName": "Sony’s Care and Grow Home Daycare",
+      "facilityType": "HOME",
+      "businessType": "For-Profit",
+      "fundingType": "Funded",
+      "address": "36 Sheilagh Ball Cove",
+      "city": "Winnipeg",
+      "postalCode": "R3W 0P5",
+      "neighbourhood": "RADISSON",
+      "region": "WINNIPEG",
+      "latitude": 49.906518,
+      "longitude": -97.038418,
+      "hideLocation": false,
+      "phone": null,
+      "email": "sonybrar230@gmail.com",
+      "website": null,
+      "sourceLastModified": "2026-11-17T18:24:23.4810135",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
