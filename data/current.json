@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T02:30:30.954Z",
+  "generatedAt": "2026-11-17T12:30:45.131Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,7 +9,7 @@
   "city": "Winnipeg",
   "facilityCount": 663,
   "summary": {
-    "infant": 27,
+    "infant": 28,
     "nursery": 33,
     "preschool": 85,
     "schoolAge": 119
@@ -532,7 +532,7 @@
       "phone": null,
       "email": "limozhen@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-11-09T17:49:08.6925015",
+      "sourceLastModified": "2026-11-17T03:28:55.177528",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -14157,9 +14157,9 @@
       "phone": null,
       "email": "gdeepkaur342@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-10-22T01:26:27.1095167",
+      "sourceLastModified": "2026-11-17T03:25:49.4715985",
       "vacancies": {
-        "infant": 0,
+        "infant": 1,
         "nursery": 0,
         "preschool": 2,
         "schoolAge": 1
@@ -15657,7 +15657,7 @@
       "phone": "(204) 997-8207",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-11-09T17:43:28.8511163",
+      "sourceLastModified": "2026-11-17T03:28:28.459035",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
