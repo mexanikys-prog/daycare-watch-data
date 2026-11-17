@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T00:30:28.876Z",
+  "generatedAt": "2026-11-17T02:30:30.954Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -11,7 +11,7 @@
   "summary": {
     "infant": 27,
     "nursery": 33,
-    "preschool": 86,
+    "preschool": 85,
     "schoolAge": 119
   },
   "facilities": [
@@ -6007,7 +6007,7 @@
       "phone": null,
       "email": "jackiechilds17@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-11-09T18:43:16.6714955",
+      "sourceLastModified": "2026-11-17T01:25:36.1025812",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -10357,7 +10357,7 @@
       "phone": "(204) 488-2008",
       "email": "myrnadobson@hotmail.com",
       "website": null,
-      "sourceLastModified": "2026-11-09T12:55:59.0983169",
+      "sourceLastModified": "2026-11-17T00:50:42.8505427",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -15557,11 +15557,11 @@
       "phone": "(431) 999-0141",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-11-10T13:01:21.4290343",
+      "sourceLastModified": "2026-11-17T00:45:36.9343221",
       "vacancies": {
         "infant": 1,
         "nursery": 0,
-        "preschool": 1,
+        "preschool": 0,
         "schoolAge": 0
       }
     },

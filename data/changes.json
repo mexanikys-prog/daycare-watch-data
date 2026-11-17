@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-17T00:30:28.876Z",
+  "generatedAt": "2026-11-17T02:30:30.954Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-17T02:30:30.954Z",
+      "facilityId": "102376",
+      "facilityName": "Vipon Walia",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-11-17T00:30:28.876Z",
       "facilityId": "103226",
