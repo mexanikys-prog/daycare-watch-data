@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-17T13:30:36.744Z",
+  "generatedAt": "2026-11-18T13:30:48.060Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-18T13:30:48.060Z",
+      "facilityId": "toronto:13323714",
+      "facilityName": "Macaulay - The Well",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-11-17T13:30:36.744Z",
       "facilityId": "toronto:62504",
