@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-19T14:30:31.256Z",
+  "generatedAt": "2026-11-19T16:30:30.474Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-19T16:30:30.474Z",
+      "facilityId": "101931",
+      "facilityName": "Garderie Les Petits Genies Corporation",
+      "ageGroup": "preschool",
+      "oldValue": 6,
+      "newValue": 1,
+      "changeType": "VACANCY_DECREASED"
+    },
     {
       "detectedAt": "2026-11-17T12:30:45.131Z",
       "facilityId": "102895",

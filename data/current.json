@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T14:30:31.256Z",
+  "generatedAt": "2026-11-19T16:30:30.474Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -4707,11 +4707,11 @@
       "phone": null,
       "email": "info@petitsgenies.ca",
       "website": "https://petitsgenieswin.fastoche.ca/waitlist",
-      "sourceLastModified": "2026-11-16T12:19:28.1650044",
+      "sourceLastModified": "2026-11-19T15:17:13.4811685",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 6,
+        "preschool": 1,
         "schoolAge": 0
       }
     },
