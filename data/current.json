@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T20:30:30.469Z",
+  "generatedAt": "2026-11-19T22:30:27.969Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -12,7 +12,7 @@
     "infant": 28,
     "nursery": 33,
     "preschool": 85,
-    "schoolAge": 119
+    "schoolAge": 118
   },
   "facilities": [
     {
@@ -582,7 +582,7 @@
       "phone": null,
       "email": "anaparchy@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-09-28T11:48:04.8809272",
+      "sourceLastModified": "2026-11-19T21:29:16.4070021",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -15832,12 +15832,12 @@
       "phone": null,
       "email": "tyndallparksacc@ymanitoba.ca",
       "website": "https://www.ywinnipeg.ca/child-care-programs/school-age-care",
-      "sourceLastModified": "2026-11-19T19:51:12.3431508",
+      "sourceLastModified": "2026-11-19T21:48:50.4956847",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
         "preschool": 0,
-        "schoolAge": 2
+        "schoolAge": 0
       }
     },
     {
@@ -16305,9 +16305,9 @@
       "longitude": -97.185485,
       "hideLocation": false,
       "phone": null,
-      "email": "Natascha.Jamison@ymanitoba.ca",
+      "email": "littlebluestemcc@ymanitoba.ca",
       "website": "https://www.ywinnipeg.ca/child-care-programs",
-      "sourceLastModified": "2026-11-19T19:58:05.498858",
+      "sourceLastModified": "2026-11-19T21:43:50.0614542",
       "vacancies": {
         "infant": 0,
         "nursery": 0,

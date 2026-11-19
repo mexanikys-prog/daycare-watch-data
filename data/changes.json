@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-19T20:30:30.469Z",
+  "generatedAt": "2026-11-19T22:30:27.969Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-19T22:30:27.969Z",
+      "facilityId": "101755",
+      "facilityName": "YWinnipeg Child Care Centre  Tyndall Park Community School",
+      "ageGroup": "schoolAge",
+      "oldValue": 2,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-11-19T16:30:30.474Z",
       "facilityId": "101931",
