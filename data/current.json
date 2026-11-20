@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T18:30:56.147Z",
+  "generatedAt": "2026-11-20T20:30:49.006Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,9 +9,9 @@
   "city": "Winnipeg",
   "facilityCount": 664,
   "summary": {
-    "infant": 28,
+    "infant": 29,
     "nursery": 33,
-    "preschool": 84,
+    "preschool": 85,
     "schoolAge": 118
   },
   "facilities": [
@@ -3432,11 +3432,11 @@
       "phone": null,
       "email": "kseniabe@rieassociate.com",
       "website": null,
-      "sourceLastModified": "2025-11-06T19:43:42.3030847",
+      "sourceLastModified": "2026-11-20T19:26:52.0436422",
       "vacancies": {
-        "infant": 0,
+        "infant": 1,
         "nursery": 0,
-        "preschool": 0,
+        "preschool": 1,
         "schoolAge": 0
       }
     },
