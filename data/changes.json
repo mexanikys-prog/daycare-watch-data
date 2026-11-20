@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-20T14:30:27.323Z",
+  "generatedAt": "2026-11-20T16:30:45.822Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-20T16:30:45.822Z",
+      "facilityId": "9320",
+      "facilityName": "YWinnipeg Child Care Centre Downtown",
+      "ageGroup": "schoolAge",
+      "oldValue": 17,
+      "newValue": 7,
+      "changeType": "VACANCY_DECREASED"
+    },
     {
       "detectedAt": "2026-11-19T22:30:27.969Z",
       "facilityId": "101755",
