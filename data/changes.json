@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-23T20:30:46.925Z",
+  "generatedAt": "2026-11-23T22:30:46.901Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-23T22:30:46.901Z",
+      "facilityId": "102775",
+      "facilityName": "Les Bourgeons",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-23T22:30:46.901Z",
+      "facilityId": "2023",
+      "facilityName": "Winakwa Nursery School Inc.",
+      "ageGroup": "preschool",
+      "oldValue": 10,
+      "newValue": 8,
+      "changeType": "VACANCY_DECREASED"
+    },
     {
       "detectedAt": "2026-11-23T20:30:46.925Z",
       "facilityId": "101973",

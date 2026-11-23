@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T20:30:46.925Z",
+  "generatedAt": "2026-11-23T22:30:46.901Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,7 +9,7 @@
   "city": "Winnipeg",
   "facilityCount": 664,
   "summary": {
-    "infant": 32,
+    "infant": 31,
     "nursery": 34,
     "preschool": 84,
     "schoolAge": 118
@@ -3882,7 +3882,7 @@
       "phone": null,
       "email": "goodhandschildcare89@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-11-02T18:29:07.9187905",
+      "sourceLastModified": "2026-11-23T21:53:03.5492885",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4732,7 +4732,7 @@
       "phone": null,
       "email": "gracecnortiz@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-11-16T13:24:02.4232702",
+      "sourceLastModified": "2026-11-23T20:48:37.2196513",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -7182,9 +7182,9 @@
       "phone": "(204) 583-1552",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-11-16T16:08:01.797247",
+      "sourceLastModified": "2026-11-23T22:18:27.4484589",
       "vacancies": {
-        "infant": 1,
+        "infant": 0,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 3
@@ -8882,7 +8882,7 @@
       "phone": null,
       "email": "mnlndelavega@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-11-16T13:30:12.447891",
+      "sourceLastModified": "2026-11-23T21:35:00.8451301",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -15557,11 +15557,11 @@
       "phone": "(204) 512-2002",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-11-16T13:27:44.5028101",
+      "sourceLastModified": "2026-11-23T20:59:43.7765286",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 10,
+        "preschool": 8,
         "schoolAge": 0
       }
     },
