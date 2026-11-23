@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-23T18:30:48.229Z",
+  "generatedAt": "2026-11-23T20:30:46.925Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-23T20:30:46.925Z",
+      "facilityId": "101973",
+      "facilityName": "Prairie Montessori",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-11-23T18:30:48.229Z",
       "facilityId": "103286",
