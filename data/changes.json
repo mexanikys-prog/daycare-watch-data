@@ -1,6 +1,114 @@
 {
-  "generatedAt": "2026-11-23T12:30:47.105Z",
+  "generatedAt": "2026-11-23T14:30:47.768Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-23T14:30:47.768Z",
+      "facilityId": "1001",
+      "facilityName": "Aleph-Bet Child Life Enrichment Program Inc.",
+      "ageGroup": "nursery",
+      "oldValue": 9,
+      "newValue": 10,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-11-23T14:30:47.768Z",
+      "facilityId": "1001",
+      "facilityName": "Aleph-Bet Child Life Enrichment Program Inc.",
+      "ageGroup": "preschool",
+      "oldValue": 3,
+      "newValue": 4,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-11-23T14:30:47.768Z",
+      "facilityId": "100901",
+      "facilityName": "Aleph-Bet Child Life Enrichment School Age Program Inc. - Margaret Park",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 4,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-23T14:30:47.768Z",
+      "facilityId": "102717",
+      "facilityName": "Happy Bear Montessori",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-23T14:30:47.768Z",
+      "facilityId": "102717",
+      "facilityName": "Happy Bear Montessori",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-23T14:30:47.768Z",
+      "facilityId": "101061",
+      "facilityName": "Ka Ni Kanichihk Daycare",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-23T14:30:47.768Z",
+      "facilityId": "102660",
+      "facilityName": "River East Montessori School Inc.",
+      "ageGroup": "preschool",
+      "oldValue": 3,
+      "newValue": 2,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-11-23T14:30:47.768Z",
+      "facilityId": "102834",
+      "facilityName": "River East Montessori second site",
+      "ageGroup": "preschool",
+      "oldValue": 4,
+      "newValue": 3,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-11-23T14:30:47.768Z",
+      "facilityId": "103083",
+      "facilityName": "Sony’s Care and Grow Home Daycare",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 3,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-23T14:30:47.768Z",
+      "facilityId": "103083",
+      "facilityName": "Sony’s Care and Grow Home Daycare",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 2,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-23T14:30:47.768Z",
+      "facilityId": "103083",
+      "facilityName": "Sony’s Care and Grow Home Daycare",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 3,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-23T14:30:47.768Z",
+      "facilityId": "103038",
+      "facilityName": "Tanveer Dhillon",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-11-23T12:30:47.105Z",
       "facilityId": "9040",
