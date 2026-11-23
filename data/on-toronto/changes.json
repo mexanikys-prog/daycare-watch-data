@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-20T13:30:28.305Z",
+  "generatedAt": "2026-11-23T13:30:46.575Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-23T13:30:46.575Z",
+      "facilityId": "toronto:7979603",
+      "facilityName": "Jesse Ketchum Early Learning & Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-23T13:30:46.575Z",
+      "facilityId": "toronto:7979603",
+      "facilityName": "Jesse Ketchum Early Learning & Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-23T13:30:46.575Z",
+      "facilityId": "toronto:12834077",
+      "facilityName": "Malvern Early Learning & Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-23T13:30:46.575Z",
+      "facilityId": "toronto:395722",
+      "facilityName": "Taylor Creek Early Learning & Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-11-20T13:30:28.305Z",
       "facilityId": "toronto:482523",
