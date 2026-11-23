@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-23T16:30:47.756Z",
+  "generatedAt": "2026-11-23T18:30:48.229Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-23T18:30:48.229Z",
+      "facilityId": "103286",
+      "facilityName": "Richmond Montessori School - Dakota",
+      "ageGroup": "preschool",
+      "oldValue": 40,
+      "newValue": 30,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-11-23T18:30:48.229Z",
+      "facilityId": "103130",
+      "facilityName": "UGDC Family Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-11-23T16:30:47.756Z",
       "facilityId": "101375",

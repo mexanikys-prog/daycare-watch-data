@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T16:30:47.756Z",
+  "generatedAt": "2026-11-23T18:30:48.229Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -11,7 +11,7 @@
   "summary": {
     "infant": 32,
     "nursery": 34,
-    "preschool": 86,
+    "preschool": 85,
     "schoolAge": 118
   },
   "facilities": [
@@ -182,7 +182,7 @@
       "phone": "(204) 560-3151",
       "email": "playroom@acornfamilyplace.ca",
       "website": "http://www.acornfamilyplace.ca",
-      "sourceLastModified": "2026-11-16T14:38:05.5140432",
+      "sourceLastModified": "2026-11-23T16:50:06.4132572",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -707,7 +707,7 @@
       "phone": "(204) 786-1375",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-11-16T16:55:15.0127663",
+      "sourceLastModified": "2026-11-23T17:36:11.913827",
       "vacancies": {
         "infant": 1,
         "nursery": 0,
@@ -1207,7 +1207,7 @@
       "phone": null,
       "email": "admin@bambinimontessori.ca",
       "website": "http://www.bambinimontessori.ca",
-      "sourceLastModified": "2026-11-16T16:50:51.150388",
+      "sourceLastModified": "2026-11-23T18:17:25.9903758",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -2582,7 +2582,7 @@
       "phone": "(204) 296-4518",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-11-16T14:02:44.7047765",
+      "sourceLastModified": "2026-11-23T17:55:55.9647972",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -2857,7 +2857,7 @@
       "phone": null,
       "email": "daisysimbulan@hotmail.com",
       "website": null,
-      "sourceLastModified": "2026-11-16T14:11:13.0858606",
+      "sourceLastModified": "2026-11-23T18:10:06.0149428",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -3107,7 +3107,7 @@
       "phone": "(431) 998-3686",
       "email": "dimpalasurati@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-11-16T21:15:25.8362946",
+      "sourceLastModified": "2026-11-23T16:36:56.776089",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4682,7 +4682,7 @@
       "phone": "(204) 219-7118",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-11-16T14:38:51.9919554",
+      "sourceLastModified": "2026-11-23T17:59:42.7129584",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -6007,7 +6007,7 @@
       "phone": null,
       "email": "jostankewich@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-11-16T11:39:26.2915867",
+      "sourceLastModified": "2026-11-23T18:21:05.6443632",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -10682,7 +10682,7 @@
       "phone": "(204) 832-9635",
       "email": "nurturingrootscc@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-11-16T14:44:10.2818094",
+      "sourceLastModified": "2026-11-23T16:58:25.0405064",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11232,7 +11232,7 @@
       "phone": "(204) 798-8584",
       "email": "bose5K@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-11-16T17:36:31.3994599",
+      "sourceLastModified": "2026-11-23T16:38:57.4145095",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -12107,11 +12107,11 @@
       "phone": "(204) 253-4975",
       "email": null,
       "website": "https://www.richmondmontessorischool.ca/",
-      "sourceLastModified": "2026-09-21T18:03:26.9056793",
+      "sourceLastModified": "2026-11-23T18:05:54.6627955",
       "vacancies": {
         "infant": 4,
         "nursery": 0,
-        "preschool": 40,
+        "preschool": 30,
         "schoolAge": 0
       }
     },
@@ -13357,7 +13357,7 @@
       "phone": null,
       "email": "leefoon@hotmail.com",
       "website": "http://www.stannesdaynursery.ca",
-      "sourceLastModified": "2026-11-16T21:26:15.833261",
+      "sourceLastModified": "2026-11-23T17:12:52.7207603",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -13382,7 +13382,7 @@
       "phone": null,
       "email": "marifel.sahcc@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-11-16T13:36:36.9970668",
+      "sourceLastModified": "2026-11-23T17:26:31.1132099",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -14857,11 +14857,11 @@
       "phone": "(204) 229-2026",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-11-16T16:51:43.0296869",
+      "sourceLastModified": "2026-11-23T17:39:21.082765",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 1,
+        "preschool": 0,
         "schoolAge": 3
       }
     },
@@ -15332,7 +15332,7 @@
       "phone": "(204) 997-8207",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-11-17T03:28:28.459035",
+      "sourceLastModified": "2026-11-23T18:27:20.316818",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
