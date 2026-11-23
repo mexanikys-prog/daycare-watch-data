@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-11-23T14:30:47.768Z",
+  "generatedAt": "2026-11-23T16:30:47.756Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-23T16:30:47.756Z",
+      "facilityId": "101375",
+      "facilityName": "Asili Isse Home Day Care",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-23T16:30:47.756Z",
+      "facilityId": "2005",
+      "facilityName": "General Vanier Nursery School Inc.",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 2,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-23T16:30:47.756Z",
+      "facilityId": "5535",
+      "facilityName": "Jacqueline Childs",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-23T16:30:47.756Z",
+      "facilityId": "2146",
+      "facilityName": "Lord Wolseley Nursery School Incorporated",
+      "ageGroup": "preschool",
+      "oldValue": 34,
+      "newValue": 32,
+      "changeType": "VACANCY_DECREASED"
+    },
+    {
+      "detectedAt": "2026-11-23T16:30:47.756Z",
+      "facilityId": "102376",
+      "facilityName": "Vipon Walia",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 2,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-11-23T16:30:47.756Z",
+      "facilityId": "102376",
+      "facilityName": "Vipon Walia",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-11-23T14:30:47.768Z",
       "facilityId": "1001",
