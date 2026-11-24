@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T14:30:51.431Z",
+  "generatedAt": "2026-11-24T16:30:48.145Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,7 +9,7 @@
   "city": "Winnipeg",
   "facilityCount": 664,
   "summary": {
-    "infant": 31,
+    "infant": 33,
     "nursery": 34,
     "preschool": 84,
     "schoolAge": 119
@@ -507,9 +507,9 @@
       "phone": "(431) 335-5252",
       "email": "alpalazo727@yahoo.com",
       "website": null,
-      "sourceLastModified": "2026-11-23T16:15:55.055618",
+      "sourceLastModified": "2026-11-24T15:47:19.0858316",
       "vacancies": {
-        "infant": 0,
+        "infant": 1,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 3
@@ -4357,7 +4357,7 @@
       "phone": "(204) 899-1178",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-11-16T14:34:35.9117768",
+      "sourceLastModified": "2026-11-24T15:36:29.948596",
       "vacancies": {
         "infant": 1,
         "nursery": 0,
@@ -4607,7 +4607,7 @@
       "phone": null,
       "email": "daycaregv@gmail.com",
       "website": "https://generalvanierchildrenscentre.ca/",
-      "sourceLastModified": "2026-10-26T14:04:43.8429855",
+      "sourceLastModified": "2026-11-24T15:56:31.4329637",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -4882,9 +4882,9 @@
       "phone": null,
       "email": "hadassahkidscare@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-11-16T14:22:10.572781",
+      "sourceLastModified": "2026-11-24T15:49:20.7770585",
       "vacancies": {
-        "infant": 0,
+        "infant": 1,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 3
@@ -7007,7 +7007,7 @@
       "phone": null,
       "email": "lgdinfo@shaw.ca",
       "website": null,
-      "sourceLastModified": "2026-11-02T16:15:52.4715695",
+      "sourceLastModified": "2026-11-24T14:39:54.8615459",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -8657,9 +8657,9 @@
       "phone": "(204) 925-0304",
       "email": "cdccoordinator@mamawi.com",
       "website": null,
-      "sourceLastModified": "2026-11-16T15:16:21.0620531",
+      "sourceLastModified": "2026-11-24T15:04:35.5875142",
       "vacancies": {
-        "infant": 1,
+        "infant": 3,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 0
@@ -15082,12 +15082,12 @@
       "phone": null,
       "email": "director@vadc.ca",
       "website": "https://www.vadc.ca",
-      "sourceLastModified": "2026-11-16T13:48:24.2661239",
+      "sourceLastModified": "2026-11-24T15:16:48.7741555",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
         "preschool": 0,
-        "schoolAge": 9
+        "schoolAge": 10
       }
     },
     {
@@ -15107,7 +15107,7 @@
       "phone": null,
       "email": "director@vadc.ca",
       "website": "https://www.vadc.ca",
-      "sourceLastModified": "2026-11-16T13:48:47.8891227",
+      "sourceLastModified": "2026-11-24T15:16:23.3865565",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -15307,7 +15307,7 @@
       "phone": null,
       "email": "parawav32@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-11-16T11:53:05.7679495",
+      "sourceLastModified": "2026-11-24T15:21:10.7859512",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -15782,12 +15782,12 @@
       "phone": "(204) 783-8914",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-11-16T14:44:50.6603408",
+      "sourceLastModified": "2026-11-24T14:40:36.7746762",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
         "preschool": 1,
-        "schoolAge": 9
+        "schoolAge": 6
       }
     },
     {
@@ -15857,7 +15857,7 @@
       "phone": null,
       "email": "amanda.bokovay@ymanitoba.ca",
       "website": "http://www.ywinnipeg.ca/programs/child-care/",
-      "sourceLastModified": "2026-11-19T18:56:59.7292531",
+      "sourceLastModified": "2026-11-24T16:11:01.3058958",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -16582,7 +16582,7 @@
       "phone": null,
       "email": "amanda.bokovay@ymanitoba.ca",
       "website": "http://www.ywinnipeg.ca/programs/child-care/",
-      "sourceLastModified": "2026-11-19T18:59:01.2864451",
+      "sourceLastModified": "2026-11-24T16:10:08.9167423",
       "vacancies": {
         "infant": 0,
         "nursery": 0,

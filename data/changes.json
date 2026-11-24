@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-11-24T14:30:51.431Z",
+  "generatedAt": "2026-11-24T16:30:48.145Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-24T16:30:48.145Z",
+      "facilityId": "102260",
+      "facilityName": "Alpa Lazo's Family Child Care Home",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-24T16:30:48.145Z",
+      "facilityId": "103122",
+      "facilityName": "Hadassah Kids Care",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-24T16:30:48.145Z",
+      "facilityId": "9180",
+      "facilityName": "Ma Mawi Wi Chi Itata Centre Inc. - Child Development Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 3,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-11-24T16:30:48.145Z",
+      "facilityId": "3063",
+      "facilityName": "Victoria Albert Day Care Inc.",
+      "ageGroup": "schoolAge",
+      "oldValue": 9,
+      "newValue": 10,
+      "changeType": "VACANCY_INCREASED"
+    },
+    {
+      "detectedAt": "2026-11-24T16:30:48.145Z",
+      "facilityId": "9238",
+      "facilityName": "Yours and Ours Day Care Inc.",
+      "ageGroup": "schoolAge",
+      "oldValue": 9,
+      "newValue": 6,
+      "changeType": "VACANCY_DECREASED"
+    },
     {
       "detectedAt": "2026-11-24T02:30:53.973Z",
       "facilityId": "102859",
