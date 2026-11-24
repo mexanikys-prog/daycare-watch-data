@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-24T16:30:48.145Z",
+  "generatedAt": "2026-11-24T18:30:40.660Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-24T18:30:40.660Z",
+      "facilityId": "102675",
+      "facilityName": "Abi Family Childcare",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-24T18:30:40.660Z",
+      "facilityId": "102610",
+      "facilityName": "Time 2 Play Early Learning Centre",
+      "ageGroup": "preschool",
+      "oldValue": 3,
+      "newValue": 2,
+      "changeType": "VACANCY_DECREASED"
+    },
     {
       "detectedAt": "2026-11-24T16:30:48.145Z",
       "facilityId": "102260",
