@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T00:30:45.703Z",
+  "generatedAt": "2026-11-24T02:30:53.973Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -12,7 +12,7 @@
     "infant": 31,
     "nursery": 34,
     "preschool": 84,
-    "schoolAge": 118
+    "schoolAge": 119
   },
   "facilities": [
     {
@@ -6507,7 +6507,7 @@
       "phone": "(204) 661-1325",
       "email": "kidsplaceboard@hotmail.com",
       "website": "https://www.kidsplacenursery.com",
-      "sourceLastModified": "2026-11-17T00:08:32.5417924",
+      "sourceLastModified": "2026-11-24T00:54:17.13411",
       "vacancies": {
         "infant": 0,
         "nursery": 5,
@@ -9057,7 +9057,7 @@
       "phone": null,
       "email": "ambrosinam@hotmail.com",
       "website": null,
-      "sourceLastModified": "2026-11-16T13:35:37.274509",
+      "sourceLastModified": "2026-11-24T01:13:02.7310791",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
@@ -11132,12 +11132,12 @@
       "phone": "(431) 335-3271",
       "email": null,
       "website": null,
-      "sourceLastModified": "2026-11-16T14:17:07.2774579",
+      "sourceLastModified": "2026-11-24T02:16:58.6515768",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
         "preschool": 0,
-        "schoolAge": 0
+        "schoolAge": 1
       }
     },
     {

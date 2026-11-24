@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-24T00:30:45.703Z",
+  "generatedAt": "2026-11-24T02:30:53.973Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-24T02:30:53.973Z",
+      "facilityId": "102859",
+      "facilityName": "Palwinder Kaur",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-11-23T22:30:46.901Z",
       "facilityId": "102775",
