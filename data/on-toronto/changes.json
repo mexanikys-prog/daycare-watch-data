@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-23T13:30:46.575Z",
+  "generatedAt": "2026-11-24T13:30:49.516Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-24T13:30:49.516Z",
+      "facilityId": "toronto:6052169",
+      "facilityName": "Kipling Early Learning & Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-11-23T13:30:46.575Z",
       "facilityId": "toronto:7979603",
