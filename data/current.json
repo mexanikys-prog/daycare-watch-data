@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T16:30:49.705Z",
+  "generatedAt": "2026-11-25T18:30:44.702Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -9,7 +9,7 @@
   "city": "Winnipeg",
   "facilityCount": 664,
   "summary": {
-    "infant": 34,
+    "infant": 33,
     "nursery": 34,
     "preschool": 84,
     "schoolAge": 119
@@ -107,9 +107,9 @@
       "phone": null,
       "email": "Abi4childcare@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-11-24T17:40:01.0021553",
+      "sourceLastModified": "2026-11-25T18:21:48.0013248",
       "vacancies": {
-        "infant": 1,
+        "infant": 0,
         "nursery": 0,
         "preschool": 0,
         "schoolAge": 0
