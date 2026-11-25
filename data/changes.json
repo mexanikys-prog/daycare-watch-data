@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-25T00:30:46.983Z",
+  "generatedAt": "2026-11-25T02:30:44.095Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-25T02:30:44.095Z",
+      "facilityId": "101245",
+      "facilityName": "Rowena Memita",
+      "ageGroup": "schoolAge",
+      "oldValue": 2,
+      "newValue": 1,
+      "changeType": "VACANCY_DECREASED"
+    },
     {
       "detectedAt": "2026-11-24T18:30:40.660Z",
       "facilityId": "102675",
