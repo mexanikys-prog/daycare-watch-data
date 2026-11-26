@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T16:30:45.871Z",
+  "generatedAt": "2026-11-26T18:30:40.696Z",
   "countryCode": "ca",
   "provinceCode": "mb",
   "cityCode": "winnipeg",
@@ -1132,11 +1132,11 @@
       "phone": "(204) 952-3009",
       "email": "rahimi.fariba2011@gmail.com",
       "website": null,
-      "sourceLastModified": "2026-11-23T14:20:10.0291484",
+      "sourceLastModified": "2026-11-26T18:19:22.5406789",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 0,
+        "preschool": 1,
         "schoolAge": 0
       }
     },
@@ -4607,11 +4607,11 @@
       "phone": null,
       "email": "daycaregv@gmail.com",
       "website": "https://generalvanierchildrenscentre.ca/",
-      "sourceLastModified": "2026-11-24T15:56:31.4329637",
+      "sourceLastModified": "2026-11-26T18:08:05.7480385",
       "vacancies": {
         "infant": 0,
         "nursery": 0,
-        "preschool": 1,
+        "preschool": 0,
         "schoolAge": 0
       }
     },
