@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-11-25T13:30:47.612Z",
+  "generatedAt": "2026-11-26T13:30:43.855Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-26T13:30:43.855Z",
+      "facilityId": "toronto:525550",
+      "facilityName": "Air-O-Down Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-26T13:30:43.855Z",
+      "facilityId": "toronto:14120386",
+      "facilityName": "Baycrest Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-26T13:30:43.855Z",
+      "facilityId": "toronto:495446",
+      "facilityName": "Calico Saints Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-26T13:30:43.855Z",
+      "facilityId": "toronto:856013",
+      "facilityName": "Coxwell Early Learning & Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-26T13:30:43.855Z",
+      "facilityId": "toronto:30065918",
+      "facilityName": "Downsview Child Care Centre",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-26T13:30:43.855Z",
+      "facilityId": "toronto:13971319",
+      "facilityName": "Garfield Avenue Children's Circle",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-26T13:30:43.855Z",
+      "facilityId": "toronto:7560969",
+      "facilityName": "St. Jerome Jr Ymca",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
     {
       "detectedAt": "2026-11-24T13:30:49.516Z",
       "facilityId": "toronto:6052169",
