@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "publicationGeneratedAt": "2026-11-26T13:30:43.855Z",
+  "publicationGeneratedAt": "2026-11-27T13:30:44.215Z",
   "data": {
     "status": "OK",
-    "updatedAt": "2026-11-26T13:30:43.855Z"
+    "updatedAt": "2026-11-27T13:30:44.215Z"
   },
   "enrichment": {
     "status": "DEGRADED",
-    "updatedAt": "2026-11-26T13:30:43.855Z",
+    "updatedAt": "2026-11-27T13:30:44.215Z",
     "detail": "Toronto postal sources failed. FeatureServer: The operation was aborted due to timeout; MapServer: The operation was aborted due to timeout"
   },
   "alerts": {
-    "status": "OK",
-    "updatedAt": "2026-11-26T13:45:40Z"
+    "status": "PENDING",
+    "updatedAt": "2026-11-27T13:30:44.215Z"
   }
 }

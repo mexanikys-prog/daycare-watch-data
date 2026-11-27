@@ -1,6 +1,564 @@
 {
-  "generatedAt": "2026-11-26T13:30:43.855Z",
+  "generatedAt": "2026-11-27T13:30:44.215Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:870542",
+      "facilityName": "Alternative Primary School Parent Group",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:870542",
+      "facilityName": "Alternative Primary School Parent Group",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:7667200",
+      "facilityName": "Balmy Beach Community Day Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:4807575",
+      "facilityName": "Bayview Gardens Day Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:17935",
+      "facilityName": "Bessborough Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:307817",
+      "facilityName": "Beverly Glen Ymca",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:9602629",
+      "facilityName": "Blessed Trinity Before & After School",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:9602629",
+      "facilityName": "Blessed Trinity Before & After School",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:510159",
+      "facilityName": "Blue Wave Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:6361762",
+      "facilityName": "Bowmore",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:6361762",
+      "facilityName": "Bowmore",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:487330",
+      "facilityName": "Branson Pre-School Ltd.",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:992851",
+      "facilityName": "Castlebar Ymca",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:20362446",
+      "facilityName": "Columbus Early Learning Centres",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:20362446",
+      "facilityName": "Columbus Early Learning Centres",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:3073655",
+      "facilityName": "David Lewis Jr Ymca",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:485416",
+      "facilityName": "Don Valley Christian Child Care",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:485416",
+      "facilityName": "Don Valley Christian Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:8492741",
+      "facilityName": "Educare Kindergarten - Islington",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:69387",
+      "facilityName": "Ernie Boccia Creative Child Day Care (Rasheda Alli)",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:332056",
+      "facilityName": "Family Day Kennedy Extended Day & School Age Program",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:9084973",
+      "facilityName": "Finch Flyers Child Care Program",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:6765660",
+      "facilityName": "First Stage - Burnhamthorpe",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:6765660",
+      "facilityName": "First Stage - Burnhamthorpe",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:6765660",
+      "facilityName": "First Stage - Burnhamthorpe",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:1020028",
+      "facilityName": "First Stage Child Care Centre - Highfield",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:30026375",
+      "facilityName": "Fraser Mustard Early Learning Centre",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:322971",
+      "facilityName": "Garderie Chez Tante Laure 2",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:542014",
+      "facilityName": "Hillmount Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:14015125",
+      "facilityName": "Holland-Bloorview Kids Rehab. - (Play & Learn Nursery)",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:7979603",
+      "facilityName": "Jesse Ketchum Early Learning & Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:7992305",
+      "facilityName": "Junction Day Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:12601205",
+      "facilityName": "Kindercircle Day Care",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:52404",
+      "facilityName": "Lambton Park Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:10092810",
+      "facilityName": "Macaulay Centres For Chidren - St. Jane Frances",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:12834077",
+      "facilityName": "Malvern Early Learning & Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:9467845",
+      "facilityName": "Mary Ward Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:2820814",
+      "facilityName": "Maryvale Jr Ymca",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:2820814",
+      "facilityName": "Maryvale Jr Ymca",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:6349862",
+      "facilityName": "Meadowvale Daycare Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:328292",
+      "facilityName": "N.Y.A.D. Donwood Inc",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:7794390",
+      "facilityName": "Norseman School Age Program (Ymca)",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:548301",
+      "facilityName": "Owen Community Learning Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:9487216",
+      "facilityName": "Petit Pearson Child Care",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:9487216",
+      "facilityName": "Petit Pearson Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:532121",
+      "facilityName": "Rejoyce Caledon Community Child Care",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:532121",
+      "facilityName": "Rejoyce Caledon Community Child Care",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:10985943",
+      "facilityName": "Rexdale Day Nursery",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:10985652",
+      "facilityName": "Rowntree Early Learning & Child Care Centre",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:330339",
+      "facilityName": "Scarborough Day Nursery School",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:7389731",
+      "facilityName": "Second Street School Age Ymca",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:10759447",
+      "facilityName": "Shirley Street Jr Ymca",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:13967632",
+      "facilityName": "St Mark's Day Care Centre - Greenland Road",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:11272303",
+      "facilityName": "St. Bede Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:349085",
+      "facilityName": "St. Columba Catholic School",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:11541969",
+      "facilityName": "St. George Mini School - Mallard",
+      "ageGroup": "nursery",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:8115497",
+      "facilityName": "St. Gregory's Before & After School Club",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:347231",
+      "facilityName": "The Divine Infant Child Care Centre",
+      "ageGroup": "preschool",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:347231",
+      "facilityName": "The Divine Infant Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:2375320",
+      "facilityName": "William G. Davis Kindergarten Extended Care Program",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:575941",
+      "facilityName": "Wilmington Best Child Care Centre",
+      "ageGroup": "schoolAge",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
+    {
+      "detectedAt": "2026-11-27T13:30:44.215Z",
+      "facilityId": "toronto:9344875",
+      "facilityName": "York Humber Child Care",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-11-26T13:30:43.855Z",
       "facilityId": "toronto:525550",
