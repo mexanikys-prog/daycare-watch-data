@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-27T22:30:19.028Z",
+  "generatedAt": "2026-11-28T00:30:23.483Z",
   "changes": [
+    {
+      "detectedAt": "2026-11-28T00:30:23.483Z",
+      "facilityId": "102865",
+      "facilityName": "Katungi Vikokolaki",
+      "ageGroup": "infant",
+      "oldValue": 1,
+      "newValue": 0,
+      "changeType": "VACANCY_CLOSED"
+    },
+    {
+      "detectedAt": "2026-11-28T00:30:23.483Z",
+      "facilityId": "102680",
+      "facilityName": "Patience Omokaro",
+      "ageGroup": "infant",
+      "oldValue": 0,
+      "newValue": 1,
+      "changeType": "VACANCY_OPENED"
+    },
     {
       "detectedAt": "2026-11-26T18:30:40.696Z",
       "facilityId": "102843",
